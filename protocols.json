@@ -3,7 +3,7 @@
   "protocols": [
     { "id": "post-op-bleeding", "title": "Post-Op Bleeding", "subtitle": "CV Surgery Protocol", "category": "surgery" },
     { "id": "lvad-emergencies", "title": "LVAD Emergencies", "subtitle": "Heart Failure Guidelines", "category": "devices" },
-    { "id": "lvad-pulsatility-index", "title": "LVAD Pulsatility Index", "subtitle": "Heart Failure Guidelines", "category": "devices"},
+    { "id": "lvad-pulsatility-index", "title": "LVAD Pulsatility Index", "subtitle": "Heart Failure Guidelines", "category": "devices", "contentFile": "01 - Vault/Devices/protocols-lvad-pulsatility-index.md"},
     {
       "id": "ecmo-troubleshooting",
       "title": "ECMO Troubleshooting",
