@@ -195,6 +195,8 @@
   },
   "active": "5873ae73203bd184",
   "lastOpenFiles": [
+    "01 - Vault/Devices/protocols-ecmo-troubleshooting.md",
+    "01 - Vault/Devices/ECMO Troubleshooting.md",
     "HVI-Vault",
     "01 - Vault/Orientation/Orientation Timeline.md",
     "01 - Vault/Emergencies/protocol-quick-reference-codes.md",
@@ -212,7 +214,6 @@
     "contacts.json",
     "Welcome.md",
     "99 - Meta/System",
-    "99 - Meta/Templates",
-    "05"
+    "99 - Meta/Templates"
   ]
 }
