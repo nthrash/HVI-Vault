@@ -5,6 +5,7 @@
     { "id": "lvad-emergencies", "title": "LVAD Emergencies", "subtitle": "Heart Failure Guidelines", "category": "devices" },
     { "id": "lvad-pulsatility-index", "title": "LVAD Pulsatility Index", "subtitle": "Heart Failure Guidelines", "category": "devices"},
     { "id": "ecmo-troubleshooting", "title": "ECMO Troubleshooting", "subtitle": "Heart Failure Guidelines", "category": "devices"},
-    { "id": "quick-reference-codes", "title": "Quick Reference & Codes", "subtitle": "Hospital", "category": "emergencies" }
+    { "id": "quick-reference-codes", "title": "Quick Reference & Codes", "subtitle": "Hospital", "category": "emergencies", "contentFile": "01 - Vault/Emergencies/protocols-quick-reference-codes.md" }
   ]
 }
+
