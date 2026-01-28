@@ -1,6 +1,6 @@
 **Abnormal Arterial Waveforms**
 
-**Arterial Waveform in Hypertension and Peripheral Vascular Disease**
+## **Arterial Waveform in Hypertension and Peripheral Vascular Disease**
 
 The waveform depicted here represents the arterial pressure wave of a hypertensive person with poorly compliant arteries, borrowed from Mills et al (2008), who in turn adapted it from Smith et al (2000). It is supposed to be an aortic pulse waveform produced by applanation tonometry of the radial artery.
 
@@ -20,7 +20,7 @@ The question is, does this adequately describe what happens in hypertension? All
 
 On the surface, this seems to have some sort of clinical relevance. For instance, Weber et al (2006) were able to find an association between this reflected wave systolic augmentation and an increased risk of coronary artery disease. However, in practice, arterial waveform analysis in hypertension would rarely yield an appreciable improvement on the impression one has already formed of the patient from their history, examination, and vital signs. In other words, for the classical waveform demonstrated above, the slope of the systolic upstroke and systolic pressure augmentation by wave reflection add little useful information to the blood pressure measurement (which was 240/100 mmHg).
 
-**Arterial Waveform in Aortic Stenosis**
+## **Arterial Waveform in Aortic Stenosis**
 
 In their paper _Valve Origin of the Aortic Incisura_, Sabbah and Stein were able to demonstrate (using a plastic tube and some cadaveric valves) that the incisura is due to aortic valve closure, and that information regarding the aortic valve can be derived from the shape of the waveform. Though the scanned copy of their 1978 article is greatly degraded by time, one can use the tracing they produced to identify the cardinal features.
 ![[aortic.stenosis.arterial.waveform.png|1000]]
@@ -39,7 +39,7 @@ There is supposed to be a "descendent" dicrotic notch, which is difficult to exp
 
 One must consider that there might be a distinct dicrotic notch distally, and that it will be "descendent" because the whole dicrotic limb is lower. Alternatively, one might embrace the explanation published by Chirinos et al (2018). The authors deduced by waveform analysis that the normal forward compression wave is followed by a mid-systolic "suction wave," which is the consequence of the left ventricle relaxing to a low pressure. Such was their explanation for the appearance of a bisferiens pulse with aortic regurgitation.
 
-**Arterial Pressure Waveform in Hypertrophic Obstructive Cardiomyopathy**
+## **Arterial Pressure Waveform in Hypertrophic Obstructive Cardiomyopathy**
 
 Speaking of bisferiens pulse. HOCM is supposed to produce this characteristic arterial waveform, or so it is repeated throughout the textbooks. On closer inspection, there is little data in support of this, apart from an ancient case report by Goodwin et al (1959). The case report is written in a beautiful manner, characteristic of the times. It also appears to be the first time anybody suggested the term "obstructive cardiomyopathy" to describe this pathology. The authors marveled at the thickness of the myocardium. "In order to obtain a left ventricular pressure curve a 4-inch (10-cm.) needle had to be thrust in up to the hilt and even then good complexes were intermittent, the systolic peak being cut off on many."
 ![[hocm.arterial.waveform.png|1000]]
