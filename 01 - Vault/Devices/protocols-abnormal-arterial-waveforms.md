@@ -4,7 +4,7 @@
 
 The waveform depicted here represents the arterial pressure wave of a hypertensive person with poorly compliant arteries, borrowed from Mills et al (2008), who in turn adapted it from Smith et al (2000). It is supposed to be an aortic pulse waveform produced by applanation tonometry of the radial artery.
 
-![[normal.arterial.waveform.png|500|786x532]]
+![[normal.arterial.line.png]]
 
 
 The non-compliant vessels do not stretch in response to the systolic pressure, and thus the pressure rises rapidly at the beginning of systole, resulting in a steep systolic upstroke. Because of the poor compliance, a powerful reflected wave is sent back to the aortic root, which when added to the systolic effort of the ventricle makes for a high peak systolic pressure. Other reflected waves may also follow, as the pressure reverberates through the hollow woodwind arteries of this smoker.

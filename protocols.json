@@ -34,6 +34,13 @@
       "subtitle": "Hospital",
       "category": "emergencies",
       "contentFile": "01 - Vault/Emergencies/protocol-quick-reference-codes.md"
+    },
+    {
+      "id": "abnormal-arterial-waveforms",
+      "title": "Abnormal Arterial Waveforms",
+      "subtitle": "Troubleshooting",
+      "category": "devices",
+      "contentFile": "01 - Vault/Devices/protocols-abnormal-arterial-waveforms.md"
     }
   ]
 }
