@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Vault/Emergencies/protocol-quick-reference-codes.md",
+                "file": "01 - Vault/Devices/protocols-abnormal-arterial-waveforms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "protocol-quick-reference-codes"
+              "title": "protocols-abnormal-arterial-waveforms"
             }
           }
         ]
@@ -193,8 +193,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "37148d93af0bc366",
+  "active": "5873ae73203bd184",
   "lastOpenFiles": [
+    "01 - Vault/Emergencies/protocol-quick-reference-codes.md",
+    "01 - Vault/Devices/protocols-abnormal-arterial-waveforms.md",
+    "01 - Vault/Devices/Abnormal Arterial Waveforms copy.md",
+    "01 - Vault/Devices/Abnormal Arterial Waveforms.md",
     "02 - Contacts/New Contacts.md",
     "01 - Vault/Orientation/protocols-orientation-timeline.md",
     "01 - Vault/Orientation/protocols-callin-policy.md",
@@ -203,7 +207,6 @@
     "01 - Vault/Orientation/Call In Policy.md",
     "01 - Vault/Orientation/Orientation Timeline.md",
     "02 - Contacts/Contacts.md",
-    "01 - Vault/Emergencies/protocol-quick-reference-codes.md",
     "01 - Vault/Devices/ECMO Troubleshooting.md",
     "HVI-Vault",
     "01 - Vault/Emergencies/quick-reference-codes.",
