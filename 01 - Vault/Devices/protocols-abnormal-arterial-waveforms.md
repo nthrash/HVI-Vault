@@ -10,7 +10,6 @@ The waveform depicted here represents the arterial pressure wave of a hypertensi
 The non-compliant vessels do not stretch in response to the systolic pressure, and thus the pressure rises rapidly at the beginning of systole, resulting in a steep systolic upstroke. Because of the poor compliance, a powerful reflected wave is sent back to the aortic root, which when added to the systolic effort of the ventricle makes for a high peak systolic pressure. Other reflected waves may also follow, as the pressure reverberates through the hollow woodwind arteries of this smoker.
 
 In the elderly, the reflection wave arrives early, during systole - before the aortic valve closes - thus adding to afterload and thus to the myocardial workload; while in diastole there may be no reflection wave, which means the coronary arteries miss out on its benefit. The systolic afterload contribution from the reflected wave disappears in vasodilation, and appears with vasoconstriction.
-![[elderly.arterial.waveform.png]]
 
 Is this for real? Perhaps. Murgo et al (1980) were able to demonstrate that the systolic pressure (and MAP for that matter) in the aorta increases by about 10 mmHg when manual pressure occludes the femoral arteries. The authors were able to demonstrate that the main reason for this was the increase in the magnitude of the reflected wave. Their diagram (depicted on the left) was recorded from the ascending aorta using a transducer-tipped catheter introduced via the brachial artery.
 

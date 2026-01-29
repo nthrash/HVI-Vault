@@ -11,14 +11,12 @@
             "id": "5873ae73203bd184",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "01 - Vault/Devices/protocols-abnormal-arterial-waveforms.md",
-                "mode": "source",
-                "source": false
+                "file": "99 - Meta/Assets/Images/normal.arterial.line.png"
               },
-              "icon": "lucide-file",
-              "title": "protocols-abnormal-arterial-waveforms"
+              "icon": "lucide-image",
+              "title": "normal.arterial.line"
             }
           }
         ]
@@ -195,8 +193,8 @@
   },
   "active": "5873ae73203bd184",
   "lastOpenFiles": [
-    "99 - Meta/Assets/Images/normal.arterial.line.png",
     "01 - Vault/Devices/protocols-abnormal-arterial-waveforms.md",
+    "99 - Meta/Assets/Images/normal.arterial.line.png",
     "01 - Vault/Emergencies/protocol-quick-reference-codes.md",
     "01 - Vault/Devices/Abnormal Arterial Waveforms copy.md",
     "01 - Vault/Devices/Abnormal Arterial Waveforms.md",
