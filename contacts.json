@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastModified": "2026-01-27",
+  "lastModified": "2026-01-30",
   "categories": [
     {
       "id": "emergency",
@@ -121,6 +121,26 @@
           "firstName": "",
           "lastName": "Echo Tech",
           "isPerson": false
+        },
+        {
+          "id": "sasam_carlo",
+          "name": "Carlo Sasam",
+          "role": "House Supervisor",
+          "phone": "(832) 693-8286",
+          "category": "hvi_operations",
+          "firstName": "Carlo",
+          "lastName": "Sasam",
+          "isPerson": true
+        },
+        {
+          "id": "hyder_sandra",
+          "name": "Sandra Hyder",
+          "role": "APP Director",
+          "phone": "+1 (713) 922-3581",
+          "category": "hvi_operations",
+          "firstName": "Sandra",
+          "lastName": "Hyder",
+          "isPerson": true
         }
       ]
     },
@@ -258,6 +278,36 @@
           "firstName": "",
           "lastName": "HF Fellow Night",
           "isPerson": false
+        },
+        {
+          "id": "remy_lawrence",
+          "name": "Lawrence Remy",
+          "role": "HF Nurse Practitioner",
+          "phone": "+1 (210) 748-5243",
+          "category": "hf",
+          "firstName": "Lawrence",
+          "lastName": "Remy",
+          "isPerson": true
+        },
+        {
+          "id": "devineni_harish",
+          "name": "Harish Devineni",
+          "role": "HF Attending",
+          "phone": "+1 (343) 656-6565",
+          "category": "hf",
+          "firstName": "Harish",
+          "lastName": "Devineni",
+          "isPerson": true
+        },
+        {
+          "id": "bhardwaj_anju",
+          "name": "Anju Bhardwaj",
+          "role": "HF Attending",
+          "phone": "+1 (512) 988-3768",
+          "category": "hf",
+          "firstName": "Anju",
+          "lastName": "Bhardwaj",
+          "isPerson": true
         }
       ]
     },
@@ -434,6 +484,146 @@
           "firstName": "Jonathan",
           "lastName": "You",
           "isPerson": true
+        },
+        {
+          "id": "wangmang_felix",
+          "name": "Felix Wangmang",
+          "role": "Cardiology Fellow",
+          "phone": "(972) 804-7916",
+          "category": "cardiology",
+          "firstName": "Felix",
+          "lastName": "Wangmang",
+          "isPerson": true
+        },
+        {
+          "id": "patel_hina",
+          "name": "Hina Patel",
+          "role": "Cardiology Fellow",
+          "phone": "+1 (732) 944-5669",
+          "category": "cardiology",
+          "firstName": "Hina",
+          "lastName": "Patel",
+          "isPerson": true
+        },
+        {
+          "id": "lai_andrew",
+          "name": "Andrew Lai",
+          "role": "Cardiology Fellow",
+          "phone": "+1 (908) 543-6565",
+          "category": "cardiology",
+          "firstName": "Andrew",
+          "lastName": "Lai",
+          "isPerson": true
+        },
+        {
+          "id": "king_nicholas",
+          "name": "Nicholas King",
+          "role": "Cardiology Fellow",
+          "phone": "+1 (646) 775-6280",
+          "category": "cardiology",
+          "firstName": "Nicholas",
+          "lastName": "King",
+          "isPerson": true
+        },
+        {
+          "id": "kapadia_meera",
+          "name": "Meera Kapadia",
+          "role": "Cardiology Fellow",
+          "phone": "+1 (480) 282-1375",
+          "category": "cardiology",
+          "firstName": "Meera",
+          "lastName": "Kapadia",
+          "isPerson": true
+        },
+        {
+          "id": "going_james",
+          "name": "James Going",
+          "role": "Cardiology Fellow",
+          "phone": "+1 (770) 870-8302",
+          "category": "cardiology",
+          "firstName": "James",
+          "lastName": "Going",
+          "isPerson": true
+        },
+        {
+          "id": "desai_shyam",
+          "name": "Shyam Desai",
+          "role": "Cardiology Fellow",
+          "phone": "+1 (864) 525-0051",
+          "category": "cardiology",
+          "firstName": "Shyam",
+          "lastName": "Desai",
+          "isPerson": true
+        },
+        {
+          "id": "dang_alexander",
+          "name": "Alexander Dang",
+          "role": "Cardiology Fellow",
+          "phone": "+1 (405) 488-4281",
+          "category": "cardiology",
+          "firstName": "Alexander",
+          "lastName": "Dang",
+          "isPerson": true
+        },
+        {
+          "id": "chohan_amad",
+          "name": "Amad Chohan",
+          "role": "Cardiology Fellow",
+          "phone": "+1 (832) 881-5642",
+          "category": "cardiology",
+          "firstName": "Amad",
+          "lastName": "Chohan",
+          "isPerson": true
+        },
+        {
+          "id": "chauhan_sid",
+          "name": "Sid Chauhan",
+          "role": "Cardiology Fellow",
+          "phone": "+1 (360) 341-4743",
+          "category": "cardiology",
+          "firstName": "Sid",
+          "lastName": "Chauhan",
+          "isPerson": true
+        },
+        {
+          "id": "brown_matthew",
+          "name": "Matthew Brown",
+          "role": "Cardiology Fellow",
+          "phone": "+1 (205) 210-7111",
+          "category": "cardiology",
+          "firstName": "Matthew",
+          "lastName": "Brown",
+          "isPerson": true
+        },
+        {
+          "id": "boone_david",
+          "name": "David Boone",
+          "role": "Cardiology Fellow",
+          "phone": "+1 (832) 209-9760",
+          "category": "cardiology",
+          "firstName": "David",
+          "lastName": "Boone",
+          "isPerson": true
+        },
+        {
+          "id": "barout_ahmad",
+          "name": "Ahmad Barout",
+          "role": "Cardiology Fellow",
+          "phone": "+1 (832) 466-1629",
+          "category": "cardiology",
+          "firstName": "Ahmad",
+          "lastName": "Barout",
+          "isPerson": true
+        },
+        {
+          "id": "maturi_bhanu",
+          "name": "Bhanu Maturi",
+          "role": "Cardiology Fellow",
+          "phone": "+1 (334) 777-9303",
+          "category": "other",
+          "firstName": "Bhanu",
+          "lastName": "Maturi",
+          "isPerson": true
         }
       ]
     },
@@ -469,6 +659,16 @@
           "category": "other",
           "firstName": "Angelo",
           "lastName": "Nascimbene",
+          "isPerson": true
+        },
+        {
+          "id": "basra_sukhdeep",
+          "name": "Sukhdeep Basra",
+          "role": "Interventional Cardiologist",
+          "phone": "+1 (281) 472-7262",
+          "category": "interventional",
+          "firstName": "Sukhdeep",
+          "lastName": "Basra",
           "isPerson": true
         }
       ]
@@ -682,6 +882,166 @@
           "firstName": "Alisha",
           "lastName": "Young",
           "isPerson": true
+        },
+        {
+          "id": "sikka_gautam",
+          "name": "Gautam Sikka",
+          "role": "PCCM Attending",
+          "phone": "+1 (443) 564-8368",
+          "category": "pccm",
+          "firstName": "Gautam",
+          "lastName": "Sikka",
+          "isPerson": true
+        },
+        {
+          "id": "schock_andrew",
+          "name": "Andrew Schock",
+          "role": "PCCM Fellow",
+          "phone": "+1 (763) 242-9517",
+          "category": "pccm",
+          "firstName": "Andrew",
+          "lastName": "Schock",
+          "isPerson": true
+        },
+        {
+          "id": "patel_maulin",
+          "name": "Maulin Patel",
+          "role": "PCCM Attending",
+          "phone": "+1 (714) 766-1029",
+          "category": "pccm",
+          "firstName": "Maulin",
+          "lastName": "Patel",
+          "isPerson": true
+        },
+        {
+          "id": "li_jason",
+          "name": "Jason Li",
+          "role": "PCCM Fellow",
+          "phone": "+1 (408) 644-8689",
+          "category": "pccm",
+          "firstName": "Jason",
+          "lastName": "Li",
+          "isPerson": true
+        },
+        {
+          "id": "lee_grace",
+          "name": "Grace Lee",
+          "role": "PCCM Fellow",
+          "phone": "+1 (714) 392-7338",
+          "category": "pccm",
+          "firstName": "Grace",
+          "lastName": "Lee",
+          "isPerson": true
+        },
+        {
+          "id": "ferdous_kadri",
+          "name": "Kadri Ferdous",
+          "role": "PCCM Attending",
+          "phone": "+1 (321) 652-2163",
+          "category": "pccm",
+          "firstName": "Kadri",
+          "lastName": "Ferdous",
+          "isPerson": true
+        },
+        {
+          "id": "jani_pushan",
+          "name": "Pushan Jani",
+          "role": "PCCM Attending",
+          "phone": "+1 (847) 309-5943",
+          "category": "pccm",
+          "firstName": "Pushan",
+          "lastName": "Jani",
+          "isPerson": true
+        },
+        {
+          "id": "hussain_rahat",
+          "name": "Rahat Hussain",
+          "role": "Lung Transplant Director",
+          "phone": "+1 (832) 867-3937",
+          "category": "pccm",
+          "firstName": "Rahat",
+          "lastName": "Hussain",
+          "isPerson": true
+        },
+        {
+          "id": "haghanirad_nastaran",
+          "name": "Nastaran Haghani Rad",
+          "role": "PCCM Fellow",
+          "phone": "+1 (832) 575-1127",
+          "category": "pccm",
+          "firstName": "Nastaran",
+          "lastName": "Haghani Rad",
+          "isPerson": true
+        },
+        {
+          "id": "daniel_ashley",
+          "name": "Ashley Daniel",
+          "role": "PCCM NP",
+          "phone": "+1 (281) 643-1983",
+          "category": "pccm",
+          "firstName": "Ashley",
+          "lastName": "Daniel",
+          "isPerson": true
+        },
+        {
+          "id": "box_nathan",
+          "name": "Nathan Box",
+          "role": "PCCM Fellow",
+          "phone": "+1 (713) 444-2425",
+          "category": "pccm",
+          "firstName": "Nathan",
+          "lastName": "Box",
+          "isPerson": true
+        },
+        {
+          "id": "bilal_zafar",
+          "name": "Zafar Bilal",
+          "role": "PCCM Attending",
+          "phone": "+1 (832) 890-7117",
+          "category": "pccm",
+          "firstName": "Zafar",
+          "lastName": "Bilal",
+          "isPerson": true
+        },
+        {
+          "id": "bhesania_aarti",
+          "name": "Aarti Bhesania",
+          "role": "PCCM NP",
+          "phone": "+1 (973) 689-5232",
+          "category": "pccm",
+          "firstName": "Aarti",
+          "lastName": "Bhesania",
+          "isPerson": true
+        },
+        {
+          "id": "bhandari_bharat",
+          "name": "Bharat Bhandari",
+          "role": "PCCM Fellow",
+          "phone": "+1 (713) 283-0565",
+          "category": "pccm",
+          "firstName": "Bharat",
+          "lastName": "Bhandari",
+          "isPerson": true
+        },
+        {
+          "id": "akkanti_bindu",
+          "name": "Bindu Akkanti",
+          "role": "PCCM Attending",
+          "phone": "+1 (630) 796-1908",
+          "category": "pccm",
+          "firstName": "Bindu",
+          "lastName": "Akkanti",
+          "isPerson": true
+        },
+        {
+          "id": "aichie_mazan",
+          "name": "Mazan Aichie",
+          "role": "PCCM Fellow",
+          "phone": "+1 (832) 993-9426",
+          "category": "pccm",
+          "firstName": "Mazan",
+          "lastName": "Aichie",
+          "isPerson": true
         }
       ]
     },
@@ -864,6 +1224,26 @@
           "category": "other",
           "firstName": "Mustafa",
           "lastName": "Singapurwala",
+          "isPerson": true
+        },
+        {
+          "id": "salas_ismael",
+          "name": "Ismael Salas",
+          "role": "CV Surgeon",
+          "phone": "+1 (248) 310-9721",
+          "category": "cv_surgery",
+          "firstName": "Ismael",
+          "lastName": "Salas",
+          "isPerson": true
+        },
+        {
+          "id": "ramzy_danny",
+          "name": "Danny Ramzy",
+          "role": "CV Surgeon",
+          "phone": "+1 (323) 356-4364",
+          "category": "cv_surgery",
+          "firstName": "Danny",
+          "lastName": "Ramzy",
           "isPerson": true
         }
       ]
@@ -1210,6 +1590,36 @@
           "firstName": "",
           "lastName": "Podiatry (Nathaniel Alabi)",
           "isPerson": false
+        },
+        {
+          "id": "streckfuss_madison",
+          "name": "Madison Streckfuss",
+          "role": "Urology (Shu) APP",
+          "phone": "+1 (281) 725-0037",
+          "category": "consults",
+          "firstName": "Madison",
+          "lastName": "Streckfuss",
+          "isPerson": true
+        },
+        {
+          "id": "shu_tung",
+          "name": "Tung Shu",
+          "role": "Urologist",
+          "phone": "(281) 797-9056",
+          "category": "consults",
+          "firstName": "Tung",
+          "lastName": "Shu",
+          "isPerson": true
+        },
+        {
+          "id": "hemetherapy",
+          "name": "Hemetherapy",
+          "role": "Hematologist",
+          "phone": "+1 (713) 469-1307",
+          "category": "",
+          "firstName": "",
+          "lastName": "Hemetherapy",
+          "isPerson": false
         }
       ]
     },
@@ -1217,26 +1627,6 @@
       "id": "other_specialties",
       "name": "OTHER SPECIALTIES",
       "contacts": [
-        {
-          "id": "hemetherapy",
-          "name": "Hemetherapy",
-          "role": "Hematologist",
-          "phone": "+1 (713) 469-1307",
-          "category": "other",
-          "firstName": "",
-          "lastName": "Hemetherapy",
-          "isPerson": false
-        },
-        {
-          "id": "maturi_bhanu",
-          "name": "Bhanu Maturi",
-          "role": "Other",
-          "phone": "+1 (334) 777-9303",
-          "category": "other",
-          "firstName": "Bhanu",
-          "lastName": "Maturi",
-          "isPerson": true
-        }
       ]
     }
   ]
