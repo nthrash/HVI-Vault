@@ -41,6 +41,13 @@
       "subtitle": "Troubleshooting",
       "category": "devices",
       "contentFile": "01 - Vault/Devices/protocols-abnormal-arterial-waveforms.md"
+    },
+    {
+      "id": "icu-np-orientation",
+      "title": "HFICU NP Orientation",
+      "subtitle": "Orientation",
+      "category": "orientation",
+      "contentFile": "01 - Vault/Orientation/protocols-icu-np-orientation.md"
     }
   ]
 }

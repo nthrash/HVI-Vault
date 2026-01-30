@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Vault/Devices/protocols-abnormal-arterial-waveforms.md",
+                "file": "01 - Vault/Orientation/protocols-icu-np-orientation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "protocols-abnormal-arterial-waveforms"
+              "title": "protocols-icu-np-orientation"
             }
           }
         ]
@@ -195,9 +195,10 @@
   },
   "active": "5873ae73203bd184",
   "lastOpenFiles": [
+    "01 - Vault/Devices/protocols-abnormal-arterial-waveforms.md",
+    "01 - Vault/Orientation/protocols-icu-np-orientation.md",
     "99 - Meta/Assets/Images/elderly.arterial.waveform.png",
     "99 - Meta/Assets/Images/normal.arterial.line.png",
-    "01 - Vault/Devices/protocols-abnormal-arterial-waveforms.md",
     "01 - Vault/Emergencies/protocol-quick-reference-codes.md",
     "01 - Vault/Devices/Abnormal Arterial Waveforms copy.md",
     "01 - Vault/Devices/Abnormal Arterial Waveforms.md",
