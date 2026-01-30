@@ -620,9 +620,19 @@
           "name": "Bhanu Maturi",
           "role": "Cardiology Fellow",
           "phone": "+1 (334) 777-9303",
-          "category": "other",
+          "category": "cardiology",
           "firstName": "Bhanu",
           "lastName": "Maturi",
+          "isPerson": true
+        },
+        {
+          "id": "mccormack_melissa",
+          "name": "Melissa McCormack",
+          "role": "Cardiology Fellow",
+          "phone": "(813) 810-4910",
+          "category": "cardiology",
+          "firstName": "Melissa",
+          "lastName": "McCormack",
           "isPerson": true
         }
       ]
@@ -1558,16 +1568,6 @@
           "category": "other",
           "firstName": "",
           "lastName": "Colorectal Surgery",
-          "isPerson": false
-        },
-        {
-          "id": "urology_shu",
-          "name": "Urology (Dr. Shu)",
-          "role": "Consult",
-          "phone": "7133667800",
-          "category": "other",
-          "firstName": "",
-          "lastName": "Urology (Dr. Shu)",
           "isPerson": false
         },
         {
