@@ -11,14 +11,12 @@
             "id": "5873ae73203bd184",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "01 - Vault/Orientation/protocols-overnight-expectations.md",
-                "mode": "source",
-                "source": false
+                "file": "99 - Meta/Assets/Images/elderly.arterial.waveform.png"
               },
-              "icon": "lucide-file",
-              "title": "protocols-overnight-expectations"
+              "icon": "lucide-image",
+              "title": "elderly.arterial.waveform"
             }
           }
         ]
@@ -190,22 +188,23 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "5873ae73203bd184",
   "lastOpenFiles": [
+    "01 - Vault/Emergencies/protocol-quick-reference-codes.md",
+    "01 - Vault/Orientation/protocols-callin-policy.md",
     "01 - Vault/Orientation/protocols-icu-np-orientation.md",
+    "01 - Vault/Orientation/protocols-orientation-timeline.md",
     "01 - Vault/Orientation/protocols-overnight-expectations.md",
     "01 - Vault/Devices/protocols-abnormal-arterial-waveforms.md",
     "99 - Meta/Assets/Images/elderly.arterial.waveform.png",
     "99 - Meta/Assets/Images/normal.arterial.line.png",
-    "01 - Vault/Emergencies/protocol-quick-reference-codes.md",
     "01 - Vault/Devices/Abnormal Arterial Waveforms copy.md",
     "01 - Vault/Devices/Abnormal Arterial Waveforms.md",
     "02 - Contacts/New Contacts.md",
-    "01 - Vault/Orientation/protocols-orientation-timeline.md",
-    "01 - Vault/Orientation/protocols-callin-policy.md",
     "01 - Vault/Devices/protocols-lvad-pulsatility-index.md",
     "01 - Vault/Devices/protocols-ecmo-troubleshooting.md",
     "01 - Vault/Orientation/Call In Policy.md",

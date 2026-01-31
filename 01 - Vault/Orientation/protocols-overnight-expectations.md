@@ -20,5 +20,6 @@
 - Cover as needed vent adjustments or addition of further oxygen delivery devices based on ABG and/or clinical picture.
 	- Communicate with pulmonary critical care fellow/attending for management assistance
 - Morning review of all labs, radiological imaging, and hemodynamics
-- Round with surgery team in the morning after reviewing all pertinent information.
+- Round with surgery team in the morning after reviewing all pertinent information ~0600-0630
 	- 1-2 lines of overnight events, including pertinent events from the day prior. Dr. Salas usually wants coagulation panel, specifically ptt for heparin gtt patients for adjustments
+- Morning conference call with overnight events at 0700
