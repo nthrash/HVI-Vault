@@ -48,6 +48,13 @@
       "subtitle": "Orientation",
       "category": "orientation",
       "contentFile": "01 - Vault/Orientation/protocols-icu-np-orientation.md"
+    },
+    {
+      "id": "overnight-expectations",
+      "title": "HFICU Overnight Expectations",
+      "subtitle": "Orientation",
+      "category": "orientation",
+      "contentFile": "01 - Vault/Orientation/protocols-overnight-expectations.md"
     }
   ]
 }
