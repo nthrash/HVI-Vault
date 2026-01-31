@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Vault/Orientation/protocols-icu-np-orientation.md",
+                "file": "01 - Vault/Orientation/protocols-overnight-expectations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "protocols-icu-np-orientation"
+              "title": "protocols-overnight-expectations"
             }
           }
         ]
@@ -195,8 +195,9 @@
   },
   "active": "5873ae73203bd184",
   "lastOpenFiles": [
-    "01 - Vault/Devices/protocols-abnormal-arterial-waveforms.md",
     "01 - Vault/Orientation/protocols-icu-np-orientation.md",
+    "01 - Vault/Orientation/protocols-overnight-expectations.md",
+    "01 - Vault/Devices/protocols-abnormal-arterial-waveforms.md",
     "99 - Meta/Assets/Images/elderly.arterial.waveform.png",
     "99 - Meta/Assets/Images/normal.arterial.line.png",
     "01 - Vault/Emergencies/protocol-quick-reference-codes.md",

@@ -6,5 +6,6 @@
   "attachmentFolderPath": "99 - Meta/Assets/Images",
   "newLinkFormat": "absolute",
   "newFileLocation": "folder",
-  "newFileFolderPath": "01 - Vault"
+  "newFileFolderPath": "01 - Vault",
+  "readableLineLength": false
 }

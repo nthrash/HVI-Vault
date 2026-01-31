@@ -1,0 +1,21 @@
+Nightly Activities
+- Sign-out from 1900 to 1930, sometimes 1945
+- Round from 1930 to 22/2300. 
+	- Follow up all hemodynamics (Flat and trending)
+	- Lab review and replacements
+	- I&O trend and evaluation for further diuretics/inotropes/CRRT need
+	- Glucose management
+	- ID evaluation and infectious workup/trend
+	- Hematological evaluation for adjustment blood thinner/platelet inhibitors/coagulation correction
+	- Med chart evaluation
+	- Surgical procedure evaluation
+	- Radiology Review
+- Follow up after rounding for post ops, devices, transplants, etc for all of the above. Sometimes requiring as frequent as every 15-30 minute follow up on certain issues such as hemodynamics, I&Os, and labs
+- Cover as needed procedures throughout unit (art line, central line, dialysis line)
+- Orders for admissions along with procedures/discussion with all consulted services
+- Solely consult services such as CV surgery, PCCM, vascular surgery, EGS, IR, GI, OBGYN, neurology, neurosurgery
+- Follow up emergent radiology order from day time and night time with calls to reading room for stat reads/preliminary reports
+- Adjustment to MCS due to volume optimization, worsening cardiac condition, etc.
+- Cover as needed vent adjustments or addition of further oxygen delivery devices based on ABG and/or clinical picture
+- Morning review of all labs, radiological imaging, and hemodynamics
+- Round with surgery team in the morning after reviewing all pertinent information
