@@ -11,12 +11,14 @@
             "id": "5873ae73203bd184",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "99 - Meta/Assets/Images/elderly.arterial.waveform.png"
+                "file": "01 - Vault/Pulmonary/protocol-diaphragm-ultrasound.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "elderly.arterial.waveform"
+              "icon": "lucide-file",
+              "title": "protocol-diaphragm-ultrasound"
             }
           }
         ]
@@ -195,12 +197,17 @@
   "active": "5873ae73203bd184",
   "lastOpenFiles": [
     "01 - Vault/Emergencies/protocol-quick-reference-codes.md",
+    "01 - Vault/Pulmonary/protocol-diaphragm-ultrasound.md",
+    "99 - Meta/Assets/Images/elderly.arterial.waveform.png",
+    "01 - Vault/Pulmonary/protocol-diaphragm-ultrasound",
+    "01 - Vault/Pulmonary/Diaphragm Ultrasound Assessment - A Clinical Reference Guide.md",
+    "01 - Vault/Pulmonary",
+    "01 - Vault/untitled folder",
     "01 - Vault/Orientation/protocols-callin-policy.md",
     "01 - Vault/Orientation/protocols-icu-np-orientation.md",
     "01 - Vault/Orientation/protocols-orientation-timeline.md",
     "01 - Vault/Orientation/protocols-overnight-expectations.md",
     "01 - Vault/Devices/protocols-abnormal-arterial-waveforms.md",
-    "99 - Meta/Assets/Images/elderly.arterial.waveform.png",
     "99 - Meta/Assets/Images/normal.arterial.line.png",
     "01 - Vault/Devices/Abnormal Arterial Waveforms copy.md",
     "01 - Vault/Devices/Abnormal Arterial Waveforms.md",
@@ -221,9 +228,6 @@
     "01 - Vault/Orientation/MHH Numbers.md",
     "01 - Vault/Orientation",
     "contacts.json.md",
-    "contacts.json",
-    "Welcome.md",
-    "99 - Meta/System",
-    "99 - Meta/Templates"
+    "Welcome.md"
   ]
 }

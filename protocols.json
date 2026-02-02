@@ -55,6 +55,13 @@
       "subtitle": "Orientation",
       "category": "orientation",
       "contentFile": "01 - Vault/Orientation/protocols-overnight-expectations.md"
+    },
+    {
+      "id": "diaphragm-ultrasound",
+      "title": "Diaphragm Ultrasound Assessment: A Clinical Reference Guide",
+      "subtitle": "POCUS",
+      "category": "pulmonary",
+      "contentFile": "01 - Vault/Pulmonary/protocols-diaphragm-ultrasound"
     }
   ]
 }
