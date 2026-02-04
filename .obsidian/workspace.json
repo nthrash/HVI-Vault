@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Vault/Surgery/protocols-post-op-bleeding.md",
+                "file": "01 - Vault/Devices/protocols-lvad-pulsatility-index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "protocols-post-op-bleeding"
+              "title": "protocols-lvad-pulsatility-index"
             }
           }
         ],
@@ -209,10 +209,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "37148d93af0bc366",
+  "active": "40459ea2e5148347",
   "lastOpenFiles": [
-    "01 - Vault/Devices/protocols-lvad-pulsatility-index.md",
+    "01 - Vault/Orientation/protocols-call-tree.md",
     "01 - Vault/Surgery/protocols-post-op-bleeding.md",
+    "01 - Vault/Devices/protocols-lvad-pulsatility-index.md",
     "01 - Vault/Devices/protocols-abnormal-arterial-waveforms.md",
     "01 - Vault/Devices/protocols-ecmo-troubleshooting.md",
     "01 - Vault/Pulmonary/protocols-diaphragm-ultrasound.md",
