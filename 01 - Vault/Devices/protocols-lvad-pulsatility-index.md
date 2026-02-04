@@ -88,8 +88,10 @@ Assume the LV is adequately filled, normal-ish hemodynamics for an LVAD patient:
 - There is a healthy beat‑to‑beat swing in flow/power.
 
 Let’s assign some approximate **power values over a 15‑second window**:
-- $(Power_{max} = 5.5\ \text{W})$ (during systole, when LV pressure is higher and pump has more work/flow)
-- $(Power_{min} = 4.5\ \text{W})$ (during diastole, when LV pressure is lower vs AoP)
+- (during systole, when LV pressure is higher and pump has more work/flow)
+	- $(Power_{max} = 5.5\ \text{W})$
+- (during diastole, when LV pressure is lower vs AoP)
+	- $(Power_{min} = 4.5\ \text{W})$ 
 - $(Power_{avg} = 5.0\ \text{W})$
 
 Then:
