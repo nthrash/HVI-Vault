@@ -21,13 +21,12 @@ For a given speed, the **patient’s hemodynamics** pick out two main operating 
 	- Read off $(Q_{dia})$ (lower flow).
 - **Systole**:
 	- LVP rises toward/above AoP → $(H_{sys} = AoP - LVP)$ becomes **smaller** → move **to the left** on the same HQ curve.
-	- Read off **$(Q_{sys})$** (higher flow)
+	- Read off $(Q_{sys})$ (higher flow)
 So on the HQ diagram for a fixed speed:
 - You have two points:
 	- Right‑hand point: $((H_{dia}, Q_{dia}))$
 	- Left‑hand point: $((H_{sys}, Q_{sys}))$
 - As the heart beats, the **operating point moves back and forth** between these two points along the same curve.
-
 The **difference** $(Q_{sys} - Q_{dia})$ is the **flow pulsatility** the pump sees, and because power tracks flow, that’s what feeds into PI.
 
 ## Pulsatility Index in Hypovolemia
@@ -47,23 +46,21 @@ In practice, for _a while_ you may see:
 - **PI also trending down or staying relatively flat**
 This is still compatible with the paper; the “hypovolemia → higher PI in HM3” statement is a _comparative, steady‑state_ description, not a promise that PI monotonically rises from the first drop in preload.
 #### **3. Just before suction: why PI suddenly spikes**
-When the LV is very underfilled and the pump speed is high relative to filling:
-• Toward the end of diastole or early systole, the **inflow cannula can abut or suck in the LV wall/septum**.
-• On that suction beat:
-	▪ Flow can **collase abruptly** for part of the cycle.
-	▪ The controller sees a **very low instantaneous Power<sub>min</sub>** compared with the immediately preceding beats.
-	▪ Over that 15‑second averaging window, you now have:
-◦ A **much lower Power<sub>min</sub>
-◦ Power<sub>max</sub> that hasn’t fallen proportionally as much yet
-◦ Power<sub>avg</sub> that’s lower but not as low as Power<sub>min</sub>
-That means the ratio
-
+When the LV is very under filled and the pump speed is high relative to filling:
+- Toward the end of diastole or early systole, the **inflow cannula can abut or suck in the LV wall/septum**.
+- On that suction beat:
+	- Flow can **collapse abruptly** for part of the cycle.
+	- The controller sees a **very low instantaneous Power**<sub>min</sub> compared with the immediately preceding beats.
+	- Over that 15‑second averaging window, you now have:
+- A **much lower Power**<sub>min</sub>
+- **Power**<sub>max</sub> that hasn’t fallen proportionally as much yet
+- **Power**<sub>avg</sub> that’s lower but not as low as **Power**<sub>min</sub>
+That means the ratio can **jump up sharply** → **PI spike**.
 $$\frac{Power_{max} - Power_{min}}{Power_{avg}}$$
-can **jump up sharply** → **PI spike**.
 That abrupt relative change is exactly what triggers a **PI event** and the **automatic speed drop**, which is the device’s attempt to relieve suction.
 
 So the pattern you see clinically is very logical:
-1. **Preload gradually falling*
+1. **Preload gradually falling**
 	- Flow drifts down
 	- PI gradually drifts down or flattens
 2. **Approaching suction**
@@ -103,8 +100,8 @@ So:
 • PI: **moderate** (your “personal baseline” for this patient)
 
 #### **2. Progressive hypovolemia (over time)**
-Now the patient gets progressively underfilled (e.g., diuresis, poor oral intake):
-- LV preload falls → LV underfilled
+Now the patient gets progressively under filled (e.g., diuresis, poor oral intake):
+- LV preload falls → LV under filled
 - True LVAD flow falls: say from **4.5 → 3.2 L/min**
 - LV contractility may also worsen a bit because of lower preload.
 
@@ -188,8 +185,10 @@ With **hypertension**:
 
 Numerically (illustrative):
 - Normotension:
-	- Diastole: LVP 10, AoP 80 → $(\Delta P = 70)$ mmHg
-	- Systole:  LVP 35, AoP 85 → $(\Delta P = 50)$ mmHg
+	- Diastole: LVP 10, AoP 80 → 
+		- $(\Delta P = 70)$ mmHg
+	- Systole:  LVP 35, AoP 85 → 
+		- $(\Delta P = 50)$ mmHg
 - Hypertension:
 	- Diastole: LVP 10, AoP 100 → $(\Delta P = 90)$ mmHg
 	- Systole:  LVP 35, AoP 105 → $(\Delta P = 70)$ mmHg
@@ -223,7 +222,7 @@ So compared to their normotensive baseline:
 - **Mean flow is down**.
 - **Min flow is disproportionately down**.
 - **Max–min difference is relatively bigger**.
-- → **PI rises**, often into the high range (PI 6+, sometimes even >10 on HM3).
+- → **PI rises**, often into the high range
 From your perspective at the bedside:
 • A “nonpulsatile” HM3 patient with **MAP 120** or a Doppler 110–120
 • LVAD flow might be 2.5–3.0 L/min
