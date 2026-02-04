@@ -18,17 +18,17 @@ The HM3 is special in that:
 For a given speed, the **patient’s hemodynamics** pick out two main operating points on that curve:
 - **Diastole**:
 	- LVP low, AoP relatively higher → $(H_{dia} = AoP - LVP)$ is **large** → move **to the right** on the HQ curve.
-	- Read off **$(Q_{dia})$** (lower flow).
+	- Read off $(Q_{dia})$ (lower flow).
 - **Systole**:
 	- LVP rises toward/above AoP → $(H_{sys} = AoP - LVP)$ becomes **smaller** → move **to the left** on the same HQ curve.
-	- Read off **$(Q_{sys})$** (higher flow).
+	- Read off **$(Q_{sys})$** (higher flow)
 So on the HQ diagram for a fixed speed:
 - You have two points:
 	- Right‑hand point: $((H_{dia}, Q_{dia}))$
 	- Left‑hand point: $((H_{sys}, Q_{sys}))$
 - As the heart beats, the **operating point moves back and forth** between these two points along the same curve.
 
-The **difference $(Q_{sys} - Q_{dia})$** is the **flow pulsatility** the pump sees, and because power tracks flow, that’s what feeds into PI.
+The **difference** $(Q_{sys} - Q_{dia})$ is the **flow pulsatility** the pump sees, and because power tracks flow, that’s what feeds into PI.
 
 ## Pulsatility Index in Hypovolemia
 #### **1. How PI is computed on the HM3 (why timing matters)**
