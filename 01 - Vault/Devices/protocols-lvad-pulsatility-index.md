@@ -24,8 +24,10 @@ For a given speed, the **patient’s hemodynamics** pick out two main operating 
 	- Read off $(Q_{sys})$ (higher flow)
 So on the HQ diagram for a fixed speed:
 - You have two points:
-	- Right‑hand point: $((H_{dia}, Q_{dia}))$
-	- Left‑hand point: $((H_{sys}, Q_{sys}))$
+	- Right‑hand point: 
+		- $((H_{dia}, Q_{dia}))$
+	- Left‑hand point: 
+		- $((H_{sys}, Q_{sys}))$
 - As the heart beats, the **operating point moves back and forth** between these two points along the same curve.
 The **difference** $(Q_{sys} - Q_{dia})$ is the **flow pulsatility** the pump sees, and because power tracks flow, that’s what feeds into PI.
 
