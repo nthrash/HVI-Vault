@@ -13,7 +13,7 @@ Key properties:
 The HM3 is special in that:
 - At **lower flows (<~4 L/min)**, the HQ curve is **flatter** → more sensitive to changes in $(H)$.
 - At **higher flows**, it becomes **steeper** → less sensitive.
-
+![](99%20-%20Meta/Assets/Images/LVAD%20Pulsatility%20Index-1765872461334-optimized.png)
 #### **2. How I apply HQ curves to a cardiac cycle**
 For a given speed, the **patient’s hemodynamics** pick out two main operating points on that curve:
 - **Diastole**:
