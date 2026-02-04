@@ -63,13 +63,6 @@
       "subtitle": "POCUS",
       "category": "pulmonary",
       "contentFile": "01 - Vault/Pulmonary/protocols-diaphragm-ultrasound.md"
-    },
-    { 
-      "id": "lvad-pulsatility-index-mobile", 
-       "title": "LVAD Pulsatility Index-Mobile", 
-       "subtitle": "Heart Failure Guidelines", 
-       "category": "devices", 
-       "contentFile": "01 - Vault/Devices/protocols-lvad-pulsatility-index-mobile.md"
     }
   ]
 }

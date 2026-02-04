@@ -1,9 +1,9 @@
 ## HQ Curves
 #### **1. What an HQ curve is**
-   For a **fixed pump speed**, the LVAD manufacturer gives you a curve:
+For a **fixed pump speed**, the LVAD manufacturer gives you a curve:
 	- **Y‑axis**: head pressure (H) = pressure difference across the pump (≈ (AoP - LVP))
 	- **X‑axis**: flow $(Q)$ through the pump
-  So for each speed (e.g., 4,800; 5,200; 5,600 RPM), you have one **HQ curve**:
+So for each speed (e.g., 4,800; 5,200; 5,600 RPM), you have one **HQ curve**:
 $$Q = f(H)\quad \text{for that speed}$$
 Key properties:
 - As **head pressure (H) increases**, flow (Q) **decreases**.
@@ -36,7 +36,7 @@ The **difference** $(Q_{sys} - Q_{dia})$ is the **flow pulsatility** the pump se
 On the HM3:
 - PI is based on **power variation** over about a **15‑second window**:
 $$PI = \frac{Power_{max} - Power_{min}}{Power_{avg}}$$
-• A **PI event** is triggered if a single second’s PI differs by >45% from the running average, and then the pump briefly drops speed.
+- A **PI event** is triggered if a single second’s PI differs by >45% from the running average, and then the pump briefly drops speed.
 So PI is not a beat‑by‑beat number—it is a **short‑term average**, and it’s very sensitive to **abrupt changes** in flow/power, such as those that happen during a suction beat.
 #### **2. Progressive hypovolemia: why PI can drift down**
 As your patient becomes hypovolemic over time (e.g., diuresis, poor intake, GI loss):
@@ -87,11 +87,9 @@ Assume the LV is adequately filled, normal-ish hemodynamics for an LVAD patient:
 - True LVAD flow: around **4.5 L/min**
 - There is a healthy beat‑to‑beat swing in flow/power.
 
-Let’s assign some approximate **power values over a 15‑second window**:
-- (during systole, when LV pressure is higher and pump has more work/flow)
-	- $(Power_{max} = 5.5\ \text{W})$
-- (during diastole, when LV pressure is lower vs AoP)
-	- $(Power_{min} = 4.5\ \text{W})$ 
+Let’s assign some approximate power values over a 15‑second window:
+- $(Power_{max} = 5.5\ \text{W})$ (during systole, when LV pressure is higher and pump has more work/flow)
+- $(Power_{min} = 4.5\ \text{W})$ (during diastole, when LV pressure is lower vs AoP)
 - $(Power_{avg} = 5.0\ \text{W})$
 
 Then:
