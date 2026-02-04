@@ -1,8 +1,8 @@
 ## HQ Curves
 #### **1. What an HQ curve is**
    For a **fixed pump speed**, the LVAD manufacturer gives you a curve:
-	- **X‑axis**: head pressure (H) = pressure difference across the pump (≈ (AoP - LVP))
-	- **Y‑axis**: flow $(Q)$ through the pump
+	- **Y‑axis**: head pressure (H) = pressure difference across the pump (≈ (AoP - LVP))
+	- **X‑axis**: flow $(Q)$ through the pump
   So for each speed (e.g., 4,800; 5,200; 5,600 RPM), you have one **HQ curve**:
 $$Q = f(H)\quad \text{for that speed}$$
 Key properties:
