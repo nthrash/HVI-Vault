@@ -63,6 +63,13 @@
       "subtitle": "POCUS",
       "category": "pulmonary",
       "contentFile": "01 - Vault/Pulmonary/protocols-diaphragm-ultrasound.md"
+    },
+    {
+      "id": "glycemic-control-inpatient",
+      "title": "Glycemic Control Inpatient",
+      "subtitle": "Insulin Protocol",
+      "category": "endocrine",
+      "contentFile": "01 - Vault/Endocrine/protocols-glycemic-control-inpatient.md"
     }
   ]
 }

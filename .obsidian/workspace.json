@@ -25,12 +25,14 @@
             "id": "a7a7bfc008812cd2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "01 - Vault/Endocrine/protocols-glycemic-control-inpatient.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "protocols-glycemic-control-inpatient"
             }
           }
         ],
@@ -209,6 +211,9 @@
   },
   "active": "a7a7bfc008812cd2",
   "lastOpenFiles": [
+    "01 - Vault/Endocrine/protocols-glycemic-control-inpatient.md",
+    "01 - Vault/Endocrine/Glycemic Control Inpatient.md",
+    "01 - Vault/Endocrine",
     "01 - Vault/Devices/protocols-lvad-pulsatility-index-mobile.md",
     "01 - Vault/Devices/protocols-lvad-pulsatility-index (copy).md",
     "01 - Vault/Orientation/protocols-call-tree.md",
@@ -245,8 +250,6 @@
     "01 - Vault/Devices",
     "01 - Vault/Surgery",
     "01 - Vault/Orientation/MHH Numbers.md",
-    "01 - Vault/Orientation",
-    "contacts.json.md",
-    "Welcome.md"
+    "contacts.json.md"
   ]
 }
