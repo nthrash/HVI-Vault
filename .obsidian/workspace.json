@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "protocols-lvad-pulsatility-index"
             }
+          },
+          {
+            "id": "a7a7bfc008812cd2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,7 +207,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "de384639c311fcc4",
+  "active": "a7a7bfc008812cd2",
   "lastOpenFiles": [
     "01 - Vault/Devices/protocols-lvad-pulsatility-index-mobile.md",
     "01 - Vault/Devices/protocols-lvad-pulsatility-index (copy).md",
