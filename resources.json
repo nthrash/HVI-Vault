@@ -140,22 +140,22 @@
     },
     {
       "id": "powermic-mobile",
-      "title": "Nuance PowerMic Mobile",
+      "title": "PowerMic Mobile",
       "description": "Mobile dictation for clinical documentation",
-      "url": "https://apps.apple.com/app/nuance-powermic-mobile/id1119750456",
+      "url": "https://apps.apple.com/app/powermic-mobile/id983002170",
       "category": "team-tools",
       "icon": "mic-outline",
-      "appStoreUrl": "https://apps.apple.com/app/nuance-powermic-mobile/id1119750456",
+      "appStoreUrl": "https://apps.apple.com/app/powermic-mobile/id983002170",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.Nuance.Mobility.DMic.Live"
     },
     {
       "id": "epic-haiku",
-      "title": "Epic Haiku",
+      "title": "Epic Haiku & Limerick",
       "description": "Mobile access to Epic EHR for physicians",
-      "url": "https://apps.apple.com/app/haiku/id689980521",
+      "url": "https://apps.apple.com/app/epic-haiku-limerick/id348308661",
       "category": "team-tools",
       "icon": "document-text-outline",
-      "appStoreUrl": "https://apps.apple.com/app/haiku/id689980521",
+      "appStoreUrl": "https://apps.apple.com/app/epic-haiku-limerick/id348308661",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.epic.haiku.android"
     }
   ]
