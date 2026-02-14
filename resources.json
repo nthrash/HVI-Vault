@@ -25,6 +25,14 @@
       "icon": "school-outline"
     },
     {
+      "id": "echoref",
+      "title": "EchoRef",
+      "description": "Echocardiography reference app by Rishi Kumar, MD",
+      "url": "https://apps.apple.com/us/app/echoref/id1434016053",
+      "category": "pocus",
+      "icon": "heart-circle-outline"
+    },
+    {
       "id": "openai-chatgpt",
       "title": "ChatGPT",
       "description": "AI assistant for clinical questions",
@@ -71,6 +79,22 @@
       "url": "https://www.acc.org/guidelines",
       "category": "references",
       "icon": "heart-outline"
+    },
+    {
+      "id": "ibcc",
+      "title": "Internet Book of Critical Care",
+      "description": "Free online critical care textbook by Josh Farkas",
+      "url": "https://emcrit.org/ibcc/toc/",
+      "category": "references",
+      "icon": "book-outline"
+    },
+    {
+      "id": "deranged-physiology",
+      "title": "Deranged Physiology",
+      "description": "Free intensive care medicine reference",
+      "url": "https://derangedphysiology.com",
+      "category": "references",
+      "icon": "flask-outline"
     }
   ]
 }

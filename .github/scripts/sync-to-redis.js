@@ -55,6 +55,15 @@ async function main() {
     console.warn('Could not read resources.json:', err.message);
   }
 
+  // Read link-status.json
+  try {
+    const raw = fs.readFileSync('link-status.json', 'utf-8');
+    payload.linkStatus = JSON.parse(raw);
+    console.log('Loaded link-status.json');
+  } catch (err) {
+    console.warn('Could not read link-status.json:', err.message);
+  }
+
   // Read and process protocol markdown files
   if (protocols && protocols.protocols) {
     const protocolContents = [];

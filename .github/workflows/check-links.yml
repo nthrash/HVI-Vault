@@ -1,0 +1,34 @@
+name: Check Resource Links
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # Daily at 6am UTC
+  push:
+    branches: [main]
+    paths:
+      - 'resources.json'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Check links
+        run: node .github/scripts/check-links.js
+
+      - name: Commit link status
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add link-status.json
+          git diff --cached --quiet || git commit -m "chore: update link status [skip ci]"
+          git push
