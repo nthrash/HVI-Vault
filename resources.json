@@ -122,6 +122,14 @@
       "icon": "mic-outline"
     },
     {
+      "id": "epic-haiku",
+      "title": "Epic Haiku",
+      "description": "Mobile access to Epic EHR for physicians",
+      "url": "https://apps.apple.com/us/app/haiku/id689980521",
+      "category": "team-tools",
+      "icon": "document-text-outline"
+    },
+    {
       "id": "pmcardio",
       "title": "PMcardio",
       "description": "AI-powered ECG interpretation and analysis",

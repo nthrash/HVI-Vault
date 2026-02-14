@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "24041d524dde3948",
+        "id": "133b5535ac152d3d",
         "type": "tabs",
         "children": [
           {
-            "id": "27a67e9ddc56730f",
+            "id": "76e780480a21cd96",
             "type": "leaf",
             "state": {
-              "type": "json",
-              "state": {
-                "file": "resources.json"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "resources"
+              "title": "New tab"
             }
           }
         ]
@@ -192,7 +190,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "27a67e9ddc56730f",
+  "active": "76e780480a21cd96",
   "lastOpenFiles": [
     "resources.json",
     "contacts.json",
