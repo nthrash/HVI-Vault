@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-02-14T12:37:21.443Z",
+  "lastChecked": "2026-02-14T12:47:45.785Z",
   "results": {
     "pocus-atlas": {
       "status": "ok",
@@ -10,6 +10,10 @@
       "statusCode": 200
     },
     "open-evidence": {
+      "status": "ok",
+      "statusCode": 200
+    },
+    "pmcardio": {
       "status": "ok",
       "statusCode": 200
     },
@@ -60,10 +64,6 @@
     "epic-haiku": {
       "status": "error",
       "statusCode": 404
-    },
-    "pmcardio": {
-      "status": "ok",
-      "statusCode": 200
     }
   }
 }
