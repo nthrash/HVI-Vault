@@ -1015,12 +1015,12 @@
         },
         {
           "id": "khalid_ahmed",
-          "name": "Ahmed Khalid",
+          "name": "Khalid Ahmed",
           "role": "PCCM Attending",
           "phone": "+1 (605) 201-4462",
           "category": "other",
-          "firstName": "Ahmed",
-          "lastName": "Khalid",
+          "firstName": "Khalid",
+          "lastName": "Ahmed",
           "isPerson": true
         },
         {
@@ -1175,12 +1175,12 @@
         },
         {
           "id": "ferdous_kadri",
-          "name": "Kadri Ferdous",
+          "name": "Ferdous Kadri",
           "role": "PCCM Attending",
           "phone": "+1 (321) 652-2163",
           "category": "pccm",
-          "firstName": "Kadri",
-          "lastName": "Ferdous",
+          "firstName": "Ferdous",
+          "lastName": "Kadri",
           "isPerson": true
         },
         {
