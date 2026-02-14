@@ -29,7 +29,7 @@
       "id": "open-evidence",
       "title": "OpenEvidence",
       "description": "AI clinical decision support grounded in peer-reviewed evidence",
-      "url": "https://www.openevidence.com",
+      "url": "https://apps.apple.com/us/app/openevidence/id6612007783",
       "category": "ai-tools",
       "icon": "sparkles-outline"
     },
@@ -37,7 +37,7 @@
       "id": "mdcalc",
       "title": "MDCalc",
       "description": "Clinical calculators and decision tools",
-      "url": "https://www.mdcalc.com",
+      "url": "https://apps.apple.com/us/app/mdcalc-medical-calculator/id1001640662",
       "category": "calculators",
       "icon": "calculator-outline"
     },
@@ -45,7 +45,7 @@
       "id": "qxmd",
       "title": "QxMD Calculate",
       "description": "Evidence-based clinical calculator",
-      "url": "https://qxmd.com/calculate",
+      "url": "https://apps.apple.com/us/app/calculate-by-qxmd/id361811483",
       "category": "calculators",
       "icon": "stats-chart-outline"
     },
@@ -53,7 +53,7 @@
       "id": "uptodate",
       "title": "UpToDate",
       "description": "Evidence-based clinical decision support",
-      "url": "https://www.uptodate.com",
+      "url": "https://apps.apple.com/us/app/uptodate/id334265345",
       "category": "references",
       "icon": "library-outline"
     },
@@ -101,7 +101,7 @@
       "id": "amion",
       "title": "Amion",
       "description": "On-call scheduling and coverage management",
-      "url": "https://www.amion.com",
+      "url": "https://apps.apple.com/us/app/amion-clinician-scheduling/id481079171",
       "category": "team-tools",
       "icon": "time-outline"
     },
@@ -109,7 +109,7 @@
       "id": "workday",
       "title": "Workday",
       "description": "HR, timekeeping, and payroll",
-      "url": "https://www.myworkday.com",
+      "url": "https://apps.apple.com/us/app/workday/id316800034",
       "category": "team-tools",
       "icon": "briefcase-outline"
     },
@@ -133,7 +133,7 @@
       "id": "pmcardio",
       "title": "PMcardio",
       "description": "AI-powered ECG interpretation and analysis",
-      "url": "https://www.pmcardio.com",
+      "url": "https://apps.apple.com/us/app/pmcardio-ecg-analysis/id1640037895",
       "category": "ai-tools",
       "icon": "analytics-outline"
     }
