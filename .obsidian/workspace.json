@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a867060210f15609",
+        "id": "d2ff47f03ae10f72",
         "type": "tabs",
         "children": [
           {
-            "id": "6e31b8651279f59c",
+            "id": "2c2540dd42b92278",
             "type": "leaf",
             "state": {
-              "type": "json",
-              "state": {
-                "file": "resources.json"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "resources"
+              "title": "New tab"
             }
           }
         ]
@@ -192,11 +190,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6e31b8651279f59c",
+  "active": "37148d93af0bc366",
   "lastOpenFiles": [
+    "resources.json",
     "link-status.json",
     "protocols.json",
-    "resources.json",
     "01 - Vault/Devices/protocols-lvad-pulsatility-index.md",
     "01 - Vault/Endocrine/protocols-glycemic-control-inpatient.md",
     "01 - Vault/Endocrine/Glycemic Control Inpatient.md",
