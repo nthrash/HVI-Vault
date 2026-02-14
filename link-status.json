@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-02-14T12:34:23.377Z",
+  "lastChecked": "2026-02-14T12:37:21.443Z",
   "results": {
     "pocus-atlas": {
       "status": "ok",
@@ -19,7 +19,7 @@
     },
     "qxmd": {
       "status": "ok",
-      "statusCode": 403
+      "statusCode": 200
     },
     "uptodate": {
       "status": "ok",
@@ -50,8 +50,8 @@
       "statusCode": 200
     },
     "workday": {
-      "status": "error",
-      "statusCode": 404
+      "status": "ok",
+      "statusCode": 200
     },
     "powermic-mobile": {
       "status": "error",
