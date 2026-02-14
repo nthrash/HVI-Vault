@@ -21,41 +21,60 @@
       "id": "echoref",
       "title": "EchoRef",
       "description": "Echocardiography reference app by Rishi Kumar, MD",
-      "url": "https://apps.apple.com/us/app/echoref/id1434016053",
+      "url": "https://apps.apple.com/app/echoref/id1434016053",
       "category": "pocus",
-      "icon": "heart-circle-outline"
+      "icon": "heart-circle-outline",
+      "appStoreUrl": "https://apps.apple.com/app/echoref/id1434016053"
     },
     {
       "id": "open-evidence",
       "title": "OpenEvidence",
       "description": "AI clinical decision support grounded in peer-reviewed evidence",
-      "url": "https://apps.apple.com/us/app/openevidence/id6612007783",
+      "url": "https://apps.apple.com/app/openevidence/id6612007783",
       "category": "ai-tools",
-      "icon": "sparkles-outline"
+      "icon": "sparkles-outline",
+      "appStoreUrl": "https://apps.apple.com/app/openevidence/id6612007783",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.openevidence"
+    },
+    {
+      "id": "pmcardio",
+      "title": "PMcardio",
+      "description": "AI-powered ECG interpretation and analysis",
+      "url": "https://apps.apple.com/app/pmcardio-ecg-analysis/id1640037895",
+      "category": "ai-tools",
+      "icon": "analytics-outline",
+      "appStoreUrl": "https://apps.apple.com/app/pmcardio-ecg-analysis/id1640037895",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.powerfulmedical.pmcardio"
     },
     {
       "id": "mdcalc",
       "title": "MDCalc",
       "description": "Clinical calculators and decision tools",
-      "url": "https://apps.apple.com/us/app/mdcalc-medical-calculator/id1001640662",
+      "url": "https://apps.apple.com/app/mdcalc-medical-calculator/id1001640662",
       "category": "calculators",
-      "icon": "calculator-outline"
+      "icon": "calculator-outline",
+      "appStoreUrl": "https://apps.apple.com/app/mdcalc-medical-calculator/id1001640662",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mdaware.mdcalc"
     },
     {
       "id": "qxmd",
       "title": "QxMD Calculate",
       "description": "Evidence-based clinical calculator",
-      "url": "https://apps.apple.com/us/app/calculate-by-qxmd/id361811483",
+      "url": "https://apps.apple.com/app/calculate-by-qxmd/id361811483",
       "category": "calculators",
-      "icon": "stats-chart-outline"
+      "icon": "stats-chart-outline",
+      "appStoreUrl": "https://apps.apple.com/app/calculate-by-qxmd/id361811483",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.qxmd.calculate"
     },
     {
       "id": "uptodate",
       "title": "UpToDate",
       "description": "Evidence-based clinical decision support",
-      "url": "https://apps.apple.com/us/app/uptodate/id334265345",
+      "url": "https://apps.apple.com/app/uptodate/id334265345",
       "category": "references",
-      "icon": "library-outline"
+      "icon": "library-outline",
+      "appStoreUrl": "https://apps.apple.com/app/uptodate/id334265345",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.uptodate.android"
     },
     {
       "id": "acc-guidelines",
@@ -93,49 +112,51 @@
       "id": "team-ip",
       "title": "Teamup",
       "description": "Heart Failure Scheduling App",
-      "url": "https://itunes.apple.com/app/teamup-calendar/id1065897968",
+      "url": "https://apps.apple.com/app/teamup-calendar/id1065897968",
       "category": "team-tools",
-      "icon": "calendar-outline"
+      "icon": "calendar-outline",
+      "appStoreUrl": "https://apps.apple.com/app/teamup-calendar/id1065897968",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.teamup.teamup"
     },
     {
       "id": "amion",
       "title": "Amion",
       "description": "On-call scheduling and coverage management",
-      "url": "https://apps.apple.com/us/app/amion-clinician-scheduling/id481079171",
+      "url": "https://apps.apple.com/app/amion-clinician-scheduling/id481079171",
       "category": "team-tools",
-      "icon": "time-outline"
+      "icon": "time-outline",
+      "appStoreUrl": "https://apps.apple.com/app/amion-clinician-scheduling/id481079171",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.doximity.amiondroid"
     },
     {
       "id": "workday",
       "title": "Workday",
       "description": "HR, timekeeping, and payroll",
-      "url": "https://apps.apple.com/us/app/workday/id316800034",
+      "url": "https://apps.apple.com/app/workday/id316800034",
       "category": "team-tools",
-      "icon": "briefcase-outline"
+      "icon": "briefcase-outline",
+      "appStoreUrl": "https://apps.apple.com/app/workday/id316800034",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.workday.workdroidapp"
     },
     {
       "id": "powermic-mobile",
       "title": "Nuance PowerMic Mobile",
       "description": "Mobile dictation for clinical documentation",
-      "url": "https://apps.apple.com/us/app/nuance-powermic-mobile/id1119750456",
+      "url": "https://apps.apple.com/app/nuance-powermic-mobile/id1119750456",
       "category": "team-tools",
-      "icon": "mic-outline"
+      "icon": "mic-outline",
+      "appStoreUrl": "https://apps.apple.com/app/nuance-powermic-mobile/id1119750456",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.Nuance.Mobility.DMic.Live"
     },
     {
       "id": "epic-haiku",
       "title": "Epic Haiku",
       "description": "Mobile access to Epic EHR for physicians",
-      "url": "https://apps.apple.com/us/app/haiku/id689980521",
+      "url": "https://apps.apple.com/app/haiku/id689980521",
       "category": "team-tools",
-      "icon": "document-text-outline"
-    },
-    {
-      "id": "pmcardio",
-      "title": "PMcardio",
-      "description": "AI-powered ECG interpretation and analysis",
-      "url": "https://apps.apple.com/us/app/pmcardio-ecg-analysis/id1640037895",
-      "category": "ai-tools",
-      "icon": "analytics-outline"
+      "icon": "document-text-outline",
+      "appStoreUrl": "https://apps.apple.com/app/haiku/id689980521",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.epic.haiku.android"
     }
   ]
 }
