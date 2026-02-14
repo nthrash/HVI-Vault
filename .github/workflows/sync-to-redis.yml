@@ -6,6 +6,7 @@ on:
     paths:
       - 'contacts.json'
       - 'protocols.json'
+      - 'resources.json'
       - '**/*.md'
   workflow_dispatch:
 

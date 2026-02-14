@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "lastModified": "2026-02-14",
+  "categories": [
+    { "id": "pocus", "name": "POCUS", "icon": "pulse-outline", "color": "#FF3B30" },
+    { "id": "ai-tools", "name": "AI Tools", "icon": "sparkles-outline", "color": "#AF52DE" },
+    { "id": "calculators", "name": "Calculators", "icon": "calculator-outline", "color": "#007AFF" },
+    { "id": "references", "name": "References", "icon": "book-outline", "color": "#34C759" }
+  ],
+  "resources": [
+    {
+      "id": "pocus-atlas",
+      "title": "POCUS Atlas",
+      "description": "Point-of-care ultrasound image library",
+      "url": "https://www.thepocusatlas.com",
+      "category": "pocus",
+      "icon": "body-outline"
+    },
+    {
+      "id": "butterfly-academy",
+      "title": "Butterfly Academy",
+      "description": "Butterfly iQ training and education",
+      "url": "https://www.butterflynetwork.com/academy",
+      "category": "pocus",
+      "icon": "school-outline"
+    },
+    {
+      "id": "openai-chatgpt",
+      "title": "ChatGPT",
+      "description": "AI assistant for clinical questions",
+      "url": "https://chat.openai.com",
+      "category": "ai-tools",
+      "icon": "chatbubble-ellipses-outline"
+    },
+    {
+      "id": "claude-ai",
+      "title": "Claude",
+      "description": "Anthropic AI assistant",
+      "url": "https://claude.ai",
+      "category": "ai-tools",
+      "icon": "sparkles-outline"
+    },
+    {
+      "id": "mdcalc",
+      "title": "MDCalc",
+      "description": "Clinical calculators and decision tools",
+      "url": "https://www.mdcalc.com",
+      "category": "calculators",
+      "icon": "calculator-outline"
+    },
+    {
+      "id": "qxmd",
+      "title": "QxMD Calculate",
+      "description": "Evidence-based clinical calculator",
+      "url": "https://qxmd.com/calculate",
+      "category": "calculators",
+      "icon": "stats-chart-outline"
+    },
+    {
+      "id": "uptodate",
+      "title": "UpToDate",
+      "description": "Evidence-based clinical decision support",
+      "url": "https://www.uptodate.com",
+      "category": "references",
+      "icon": "library-outline"
+    },
+    {
+      "id": "acc-guidelines",
+      "title": "ACC Guidelines",
+      "description": "American College of Cardiology guidelines",
+      "url": "https://www.acc.org/guidelines",
+      "category": "references",
+      "icon": "heart-outline"
+    }
+  ]
+}
