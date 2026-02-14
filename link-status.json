@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-02-14T12:47:45.785Z",
+  "lastChecked": "2026-02-14T12:52:49.846Z",
   "results": {
     "pocus-atlas": {
       "status": "ok",
@@ -58,12 +58,12 @@
       "statusCode": 200
     },
     "powermic-mobile": {
-      "status": "error",
-      "statusCode": 404
+      "status": "ok",
+      "statusCode": 200
     },
     "epic-haiku": {
-      "status": "error",
-      "statusCode": 404
+      "status": "ok",
+      "statusCode": 200
     }
   }
 }
