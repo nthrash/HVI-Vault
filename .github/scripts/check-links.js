@@ -24,7 +24,9 @@ async function checkUrl(url) {
       // If HEAD returned a client/server error, try GET before giving up
       if (!response.ok && method === 'HEAD') continue;
 
-      return { status: response.ok ? 'ok' : 'error', statusCode: response.status };
+      // Treat 403 as reachable — site is up but blocking bot traffic (e.g. Cloudflare)
+      const reachable = response.ok || response.status === 403;
+      return { status: reachable ? 'ok' : 'error', statusCode: response.status };
     } catch (err) {
       // If HEAD threw (timeout/network), try GET
       if (method === 'HEAD') continue;
