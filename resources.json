@@ -87,6 +87,14 @@
       "url": "https://derangedphysiology.com",
       "category": "references",
       "icon": "flask-outline"
-    }
+    },
+    {
+      "id": "team-ip",
+      "title": "Teamup",
+      "description": "Heart Failure Scheduling App",
+      "url": "https://itunes.apple.com/app/teamup-calendar/id1065897968",
+      "category": "references",
+      "icon": "calendar-outline"
+    }  
   ]
 }

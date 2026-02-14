@@ -11,10 +11,12 @@
             "id": "2c2540dd42b92278",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "json",
+              "state": {
+                "file": "resources.json"
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "resources"
             }
           }
         ]
@@ -190,8 +192,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "37148d93af0bc366",
+  "active": "2c2540dd42b92278",
   "lastOpenFiles": [
+    "contacts.json",
     "resources.json",
     "link-status.json",
     "protocols.json",
