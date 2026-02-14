@@ -1,0 +1,49 @@
+{
+  "lastChecked": "2026-02-14T09:41:36.316Z",
+  "results": {
+    "pocus-atlas": {
+      "status": "ok",
+      "statusCode": 200
+    },
+    "butterfly-academy": {
+      "status": "error",
+      "statusCode": 404
+    },
+    "echoref": {
+      "status": "ok",
+      "statusCode": 200
+    },
+    "openai-chatgpt": {
+      "status": "error",
+      "statusCode": 403
+    },
+    "claude-ai": {
+      "status": "ok",
+      "statusCode": 200
+    },
+    "mdcalc": {
+      "status": "ok",
+      "statusCode": 200
+    },
+    "qxmd": {
+      "status": "ok",
+      "statusCode": 200
+    },
+    "uptodate": {
+      "status": "ok",
+      "statusCode": 200
+    },
+    "acc-guidelines": {
+      "status": "ok",
+      "statusCode": 200
+    },
+    "ibcc": {
+      "status": "error",
+      "statusCode": 415
+    },
+    "deranged-physiology": {
+      "status": "ok",
+      "statusCode": 202
+    }
+  }
+}
