@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-02-14T12:31:55.125Z",
+  "lastChecked": "2026-02-14T12:34:23.377Z",
   "results": {
     "pocus-atlas": {
       "status": "ok",
@@ -34,8 +34,8 @@
       "statusCode": 200
     },
     "ibcc": {
-      "status": "error",
-      "statusCode": 415
+      "status": "ok",
+      "statusCode": 200
     },
     "deranged-physiology": {
       "status": "ok",
@@ -54,6 +54,10 @@
       "statusCode": 404
     },
     "powermic-mobile": {
+      "status": "error",
+      "statusCode": 404
+    },
+    "epic-haiku": {
       "status": "error",
       "statusCode": 404
     },
