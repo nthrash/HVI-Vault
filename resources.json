@@ -5,7 +5,8 @@
     { "id": "pocus", "name": "POCUS", "icon": "pulse-outline", "color": "#FF3B30" },
     { "id": "ai-tools", "name": "AI Tools", "icon": "sparkles-outline", "color": "#AF52DE" },
     { "id": "calculators", "name": "Calculators", "icon": "calculator-outline", "color": "#007AFF" },
-    { "id": "references", "name": "References", "icon": "book-outline", "color": "#34C759" }
+    { "id": "references", "name": "References", "icon": "book-outline", "color": "#34C759" },
+    { "id": "team-tools", "name": "Team Tools", "icon": "people-outline", "color": "#FF9500" }
   ],
   "resources": [
     {
@@ -93,8 +94,8 @@
       "title": "Teamup",
       "description": "Heart Failure Scheduling App",
       "url": "https://itunes.apple.com/app/teamup-calendar/id1065897968",
-      "category": "references",
+      "category": "team-tools",
       "icon": "calendar-outline"
-    }  
+    }
   ]
 }
