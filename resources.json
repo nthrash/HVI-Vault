@@ -96,6 +96,38 @@
       "url": "https://itunes.apple.com/app/teamup-calendar/id1065897968",
       "category": "team-tools",
       "icon": "calendar-outline"
+    },
+    {
+      "id": "amion",
+      "title": "Amion",
+      "description": "On-call scheduling and coverage management",
+      "url": "https://www.amion.com",
+      "category": "team-tools",
+      "icon": "time-outline"
+    },
+    {
+      "id": "workday",
+      "title": "Workday",
+      "description": "HR, timekeeping, and payroll",
+      "url": "https://www.myworkday.com",
+      "category": "team-tools",
+      "icon": "briefcase-outline"
+    },
+    {
+      "id": "powermic-mobile",
+      "title": "Nuance PowerMic Mobile",
+      "description": "Mobile dictation for clinical documentation",
+      "url": "https://apps.apple.com/us/app/nuance-powermic-mobile/id1119750456",
+      "category": "team-tools",
+      "icon": "mic-outline"
+    },
+    {
+      "id": "pmcardio",
+      "title": "PMcardio",
+      "description": "AI-powered ECG interpretation and analysis",
+      "url": "https://www.pmcardio.com",
+      "category": "ai-tools",
+      "icon": "analytics-outline"
     }
   ]
 }
