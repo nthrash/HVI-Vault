@@ -11,10 +11,12 @@
             "id": "76e780480a21cd96",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "json",
+              "state": {
+                "file": "resources.json"
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "resources"
             }
           }
         ]
