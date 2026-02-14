@@ -7,38 +7,29 @@
 
 const fs = require('fs');
 
+// Use a browser-like User-Agent so sites don't block us
+const USER_AGENT = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36';
+
 async function checkUrl(url) {
-  try {
-    const controller = new AbortController();
-    const timeout = setTimeout(() => controller.abort(), 10000);
-
-    const response = await fetch(url, {
-      method: 'HEAD',
-      signal: controller.signal,
-      redirect: 'follow',
-      headers: {
-        'User-Agent': 'HVI-Nexus-LinkChecker/1.0',
-      },
-    });
-
-    clearTimeout(timeout);
-
-    // Some sites block HEAD, try GET if we get 405
-    if (response.status === 405) {
-      const getResponse = await fetch(url, {
-        method: 'GET',
-        signal: AbortSignal.timeout(10000),
+  // Try HEAD first, then fall back to GET if HEAD fails
+  for (const method of ['HEAD', 'GET']) {
+    try {
+      const response = await fetch(url, {
+        method,
+        signal: AbortSignal.timeout(15000),
         redirect: 'follow',
-        headers: {
-          'User-Agent': 'HVI-Nexus-LinkChecker/1.0',
-        },
+        headers: { 'User-Agent': USER_AGENT },
       });
-      return { status: getResponse.ok ? 'ok' : 'error', statusCode: getResponse.status };
-    }
 
-    return { status: response.ok ? 'ok' : 'error', statusCode: response.status };
-  } catch (err) {
-    return { status: 'error', statusCode: 0, error: err.message };
+      // If HEAD returned a client/server error, try GET before giving up
+      if (!response.ok && method === 'HEAD') continue;
+
+      return { status: response.ok ? 'ok' : 'error', statusCode: response.status };
+    } catch (err) {
+      // If HEAD threw (timeout/network), try GET
+      if (method === 'HEAD') continue;
+      return { status: 'error', statusCode: 0, error: err.message };
+    }
   }
 }
 

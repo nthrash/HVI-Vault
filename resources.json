@@ -17,14 +17,6 @@
       "icon": "body-outline"
     },
     {
-      "id": "butterfly-academy",
-      "title": "Butterfly Academy",
-      "description": "Butterfly iQ training and education",
-      "url": "https://www.butterflynetwork.com/academy",
-      "category": "pocus",
-      "icon": "school-outline"
-    },
-    {
       "id": "echoref",
       "title": "EchoRef",
       "description": "Echocardiography reference app by Rishi Kumar, MD",
@@ -33,18 +25,10 @@
       "icon": "heart-circle-outline"
     },
     {
-      "id": "openai-chatgpt",
-      "title": "ChatGPT",
-      "description": "AI assistant for clinical questions",
-      "url": "https://chat.openai.com",
-      "category": "ai-tools",
-      "icon": "chatbubble-ellipses-outline"
-    },
-    {
-      "id": "claude-ai",
-      "title": "Claude",
-      "description": "Anthropic AI assistant",
-      "url": "https://claude.ai",
+      "id": "open-evidence",
+      "title": "OpenEvidence",
+      "description": "AI clinical decision support grounded in peer-reviewed evidence",
+      "url": "https://www.openevidence.com",
       "category": "ai-tools",
       "icon": "sparkles-outline"
     },
@@ -79,6 +63,14 @@
       "url": "https://www.acc.org/guidelines",
       "category": "references",
       "icon": "heart-outline"
+    },
+    {
+      "id": "ishlt",
+      "title": "ISHLT",
+      "description": "International Society for Heart and Lung Transplantation",
+      "url": "https://www.ishlt.org",
+      "category": "references",
+      "icon": "medkit-outline"
     },
     {
       "id": "ibcc",
