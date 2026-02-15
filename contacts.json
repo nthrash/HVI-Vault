@@ -1282,6 +1282,16 @@
           "firstName": "Mazan",
           "lastName": "Aichie",
           "isPerson": true
+        },
+        {
+          "id": "saman_siddiqui",
+          "name": "Saman Siddiqui",
+          "role": "PCCM Fellow",
+          "phone": "+1 (318) 294-0734",
+          "category": "pccm",
+          "firstName": "Saman",
+          "lastName": "Siddiqui",
+          "isPerson": true
         }
       ]
     },

@@ -13,10 +13,10 @@
             "state": {
               "type": "json",
               "state": {
-                "file": "resources.json"
+                "file": "contacts.json"
               },
               "icon": "lucide-file",
-              "title": "resources"
+              "title": "contacts"
             }
           }
         ]
@@ -194,9 +194,9 @@
   },
   "active": "76e780480a21cd96",
   "lastOpenFiles": [
-    "resources.json",
-    "contacts.json",
     "link-status.json",
+    "contacts.json",
+    "resources.json",
     "protocols.json",
     "01 - Vault/Devices/protocols-lvad-pulsatility-index.md",
     "01 - Vault/Endocrine/protocols-glycemic-control-inpatient.md",
