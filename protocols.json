@@ -70,6 +70,13 @@
       "subtitle": "Insulin Protocol",
       "category": "endocrine",
       "contentFile": "01 - Vault/Endocrine/protocols-glycemic-control-inpatient.md"
+    },
+    {
+      "id": "vent-management",
+      "title": "Ventilator Management",
+      "subtitle": "Critical Care Protocol",
+      "category": "pulmonary",
+      "contentFile": "01 - Vault/Pulmonary/protocols-vent-management.md"
     }
   ]
 }
