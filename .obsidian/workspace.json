@@ -11,12 +11,12 @@
             "id": "76e780480a21cd96",
             "type": "leaf",
             "state": {
-              "type": "json",
+              "type": "pdf",
               "state": {
-                "file": "contacts.json"
+                "file": "99 - Meta/Assets/PDFs/Right-Heart-Catheterization_6.2021.pdf"
               },
-              "icon": "lucide-file",
-              "title": "contacts"
+              "icon": "lucide-file-text",
+              "title": "Right-Heart-Catheterization_6.2021"
             }
           }
         ]
@@ -194,8 +194,12 @@
   },
   "active": "76e780480a21cd96",
   "lastOpenFiles": [
-    "link-status.json",
+    "01 - Vault/Pulmonary/protocols-vent-management.md",
+    "99 - Meta/Assets/PDFs/Right-Heart-Catheterization_6.2021.pdf",
+    "99 - Meta/Assets/PDFs",
+    "99 - Meta/Assets/untitled folder",
     "contacts.json",
+    "link-status.json",
     "resources.json",
     "protocols.json",
     "01 - Vault/Devices/protocols-lvad-pulsatility-index.md",
@@ -216,7 +220,6 @@
     "01 - Vault/Pulmonary/protocol-diaphragm-ultrasound",
     "01 - Vault/Pulmonary/Diaphragm Ultrasound Assessment - A Clinical Reference Guide.md",
     "01 - Vault/Pulmonary",
-    "01 - Vault/untitled folder",
     "01 - Vault/Orientation/protocols-callin-policy.md",
     "01 - Vault/Orientation/protocols-icu-np-orientation.md",
     "01 - Vault/Orientation/protocols-orientation-timeline.md",
@@ -229,10 +232,6 @@
     "01 - Vault/Orientation/Orientation Timeline.md",
     "02 - Contacts/Contacts.md",
     "01 - Vault/Devices/ECMO Troubleshooting.md",
-    "HVI-Vault",
-    "01 - Vault/Emergencies/quick-reference-codes.",
-    "protocols.md",
-    "01 - Vault/Emergencies",
-    "01 - Vault/Orientation/MHH Numbers.md"
+    "protocols.md"
   ]
 }
