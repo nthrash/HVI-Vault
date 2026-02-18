@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "44e41f3918b4e007",
@@ -196,11 +197,14 @@
   },
   "active": "76e780480a21cd96",
   "lastOpenFiles": [
-    "01 - Vault/Cardiology/protocols-right-heart-catheterization.pdf",
     "01 - Vault/Devices/protocols-abnormal-arterial-waveforms.md",
+    "01 - Vault/Cardiology/protocols-right-heart-catheterization.pdf",
+    "01 - Vault/Gastroenterology/protocols-acute-cholangitis.md",
+    "01 - Vault/Pulmonary/protocols-vent-management-advanced.md",
+    "99 - Meta/Assets/Images/Acute Cholangitis-1749537011225.png",
+    "01 - Vault/Gastroenterology",
     "01 - Vault/Cardiology",
     "99 - Meta/Assets/PDFs/Right-Heart-Catheterization_6.2021.pdf",
-    "01 - Vault/Pulmonary/protocols-vent-management-advanced.md",
     "01 - Vault/Pulmonary/protocols-vent-management.md",
     "99 - Meta/Assets/PDFs",
     "99 - Meta/Assets/untitled folder",
@@ -211,7 +215,6 @@
     "01 - Vault/Devices/protocols-lvad-pulsatility-index.md",
     "01 - Vault/Endocrine/protocols-glycemic-control-inpatient.md",
     "01 - Vault/Endocrine/Glycemic Control Inpatient.md",
-    "01 - Vault/Endocrine",
     "01 - Vault/Devices/protocols-lvad-pulsatility-index-mobile.md",
     "01 - Vault/Devices/protocols-lvad-pulsatility-index (copy).md",
     "01 - Vault/Orientation/protocols-call-tree.md",
@@ -233,7 +236,6 @@
     "02 - Contacts/New Contacts.md",
     "01 - Vault/Orientation/Call In Policy.md",
     "01 - Vault/Orientation/Orientation Timeline.md",
-    "02 - Contacts/Contacts.md",
-    "01 - Vault/Devices/ECMO Troubleshooting.md"
+    "02 - Contacts/Contacts.md"
   ]
 }

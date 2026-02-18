@@ -92,6 +92,13 @@
       "category": "cardiology",
       "type": "pdf",
       "contentFile": "01 - Vault/Cardiology/protocols-right-heart-catheterization.pdf"
+    },
+    {
+      "id": "acute-cholangitis",
+      "title": "Acute Cholangitis",
+      "subtitle": "Diagnosis & Management",
+      "category": "gastroenterology",
+      "contentFile": "01 - Vault/Gastroenterology/protocols-acute-cholangitis.md"
     }
   ]
 }
