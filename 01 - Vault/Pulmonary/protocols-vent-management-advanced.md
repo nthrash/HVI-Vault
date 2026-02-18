@@ -346,7 +346,7 @@ iNO selectively vasodilates pulmonary vasculature only in ventilated alveoli (V/
 >
 > Discontinuing iNO abruptly after >24 hours causes rebound pulmonary vasoconstriction — sometimes worse than baseline — due to suppression of endogenous NO production.
 >
-> Wean stepwise: 40 → 20 → 10 → 5 → 1 ppm, with hemodynamic reassessment at each step.
+> Wean stepwise: 40 → 20 → 10 → 5 → 4 → 3 → 2 → 1 ppm, with hemodynamic reassessment at each step.
 > Bridge with sildenafil or inhaled iloprost when approaching discontinuation if PAP elevation is a concern.
 
 ### Inhaled Epoprostenol (iEPO)
