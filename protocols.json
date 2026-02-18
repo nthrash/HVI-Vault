@@ -77,6 +77,13 @@
       "subtitle": "Critical Care Protocol",
       "category": "pulmonary",
       "contentFile": "01 - Vault/Pulmonary/protocols-vent-management.md"
+    },
+    {
+      "id": "vent-management-advanced",
+      "title": "Ventilator Management Advanced",
+      "subtitle": "Critical Care Protocol",
+      "category": "pulmonary",
+      "contentFile": "01 - Vault/Pulmonary/protocols-vent-management-advanced.md"
     }
   ]
 }

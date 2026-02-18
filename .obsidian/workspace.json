@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "99 - Meta/Assets/PDFs/Right-Heart-Catheterization_6.2021.pdf"
+                "file": "01 - Vault/Cardiology/protocols-right-heart-catheterization.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Right-Heart-Catheterization_6.2021"
+              "title": "protocols-right-heart-catheterization"
             }
           }
         ]
@@ -192,10 +192,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "76e780480a21cd96",
+  "active": "37148d93af0bc366",
   "lastOpenFiles": [
-    "01 - Vault/Pulmonary/protocols-vent-management.md",
+    "01 - Vault/Cardiology",
     "99 - Meta/Assets/PDFs/Right-Heart-Catheterization_6.2021.pdf",
+    "01 - Vault/Cardiology/protocols-right-heart-catheterization.pdf",
+    "01 - Vault/Pulmonary/protocols-vent-management-advanced.md",
+    "01 - Vault/Pulmonary/protocols-vent-management.md",
     "99 - Meta/Assets/PDFs",
     "99 - Meta/Assets/untitled folder",
     "contacts.json",
@@ -219,7 +222,6 @@
     "99 - Meta/Assets/Images/elderly.arterial.waveform.png",
     "01 - Vault/Pulmonary/protocol-diaphragm-ultrasound",
     "01 - Vault/Pulmonary/Diaphragm Ultrasound Assessment - A Clinical Reference Guide.md",
-    "01 - Vault/Pulmonary",
     "01 - Vault/Orientation/protocols-callin-policy.md",
     "01 - Vault/Orientation/protocols-icu-np-orientation.md",
     "01 - Vault/Orientation/protocols-orientation-timeline.md",
@@ -231,7 +233,6 @@
     "01 - Vault/Orientation/Call In Policy.md",
     "01 - Vault/Orientation/Orientation Timeline.md",
     "02 - Contacts/Contacts.md",
-    "01 - Vault/Devices/ECMO Troubleshooting.md",
-    "protocols.md"
+    "01 - Vault/Devices/ECMO Troubleshooting.md"
   ]
 }
