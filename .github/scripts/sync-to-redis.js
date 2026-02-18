@@ -69,6 +69,12 @@ async function main() {
     const protocolContents = [];
 
     for (const proto of protocols.protocols) {
+      // Skip PDF protocols — they're opened directly from GitHub raw URLs
+      if (proto.type === 'pdf') {
+        console.log(`Skipping PDF: ${proto.id}`);
+        continue;
+      }
+
       const filename = proto.contentFile || `protocol-${proto.id}.md`;
       const filePath = path.resolve(filename);
 
