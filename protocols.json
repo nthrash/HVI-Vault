@@ -77,6 +77,13 @@
       "subtitle": "Critical Care Protocol",
       "category": "pulmonary",
       "contentFile": "01 - Vault/Pulmonary/protocols-vent-management.md"
+    },
+    {
+      "id": "advanced-vent-modes",
+      "title": "Advanced Ventilator Modes & Rescue Strategies",
+      "subtitle": "Critical Care Protocol",
+      "category": "pulmonary",
+      "contentFile": "01 - Vault/Pulmonary/protocols-advanced-vent-modes.md"
     }
   ]
 }
