@@ -1,13 +1,13 @@
 # 🫀 HVI ICU On-Call Protocol
 
-> _Reference guide for overnight communication — New Hire APPs_
+> _Reference guide for overnight communication — New Hire APPs_ - This is a work in progress and a living document for changes
 
 ---
 ## 📞 Quick Reference
 
 | Team                       | Contact          | When                                                        |
 | -------------------------- | ---------------- | ----------------------------------------------------------- |
-| PCCM Fellow                | **Pager 49749**  | Vent issues, sedation, procedures, all admissions           |
+| PCCM Fellow                | **Phone# 49749** | Vent issues, sedation, procedures, all admissions           |
 | On-Call Surgeon (1st call) | On-call schedule | >72hr post-op events, all MCS admissions                    |
 | On-Call Cardiologist       | On-call schedule | All ICU admissions, vasopressor changes hemodynamic changes |
 
@@ -31,7 +31,7 @@
 
 ---
 ## 🫁 Pulmonary Critical Care Medicine (PCCM)
-**Contact:** PCCM Fellow In-House — **Pager 49749**
+**Contact:** PCCM Fellow In-House — **Phone# 49749**
 Notify PCCM for any of the following:
 - **Ventilator** adjustments, troubleshooting, or respiratory concerns
 - **Sedation** requirements (increased) or **pain control** issues
@@ -48,19 +48,22 @@ Notify the on-call cardiologist for:
 
 ---
 ## 🔄 General Communication Flow
-```
-Acute Event or Admission
-        │
-        ├──→ PCCM Fellow (49749) — Always for admissions & vent/sedation issues
-        │
-        ├──→ HF Cardiologist — Always for admissions & vasopressor changes
-        │
-        └──→ HF Surgeon
-              ├── Dr. Patel's pt? → Dr. Patel directly
-              ├── ≤72hr post-op? → Identify & call that surgeon
-              ├── >72hr post-op? → On-call surgeon (1st call)
-              └── MCS present or suspected? → On-call surgeon
-```
+
+**For any Acute Event or Admission, notify all three teams:**
+
+**1. 🫁 PCCM Fellow (49749)**
+- Always notify for all admissions
+- Vent/sedation/procedural issues
+
+**2. 🫀 HF Cardiologist**
+- Always notify for all admissions
+- Any vasopressor changes
+
+**3. 🔪 HF Surgeon**
+- Dr. Patel's patient → **call Dr. Patel directly**
+- ≤72hr post-op → call the **operating surgeon**
+- >72hr post-op → call **on-call surgeon (1st call)**
+- MCS present or suspected → call **on-call surgeon**
 
 ---
 
