@@ -62,7 +62,7 @@ Notify the on-call cardiologist for:
 **3. 🔪 HF Surgeon**
 - Dr. Patel's patient → **call Dr. Patel directly**
 - ≤72hr post-op → call the **operating surgeon**
-- >72hr post-op → call **on-call surgeon (1st call)**
+- .>.72hr post-op → call **on-call surgeon (1st call)**
 - MCS present or suspected → call **on-call surgeon**
 
 ---
