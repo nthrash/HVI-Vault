@@ -91,3 +91,7 @@ Try to figure out why a pt is not flowing max about 3.5-4. L with 3200 rpm with 
 When pt is on VV ecmo, that’s their lungs , avoid the temptation to fix O2 and PCO2 with the vent unless you are weaning from VV ECMO.  
 Weaning or increasing sweep needs to be gentle 0.5-1 liter at a time every hour. Abrupt PCO2 changes will result in brain swelling and disasters. 
 When you notice bleeding from ecmo site, it’s the cannula slipping out due to movement, clean the site thoroughly, push 1-2 cms, hub it to the surface and then suture, just suturing the site may not fix the issue.  May sure stat locks are in place. 
+
+
+---
+_Last updated: 2026 · HVI ICU APP Team_

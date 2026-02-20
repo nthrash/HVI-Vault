@@ -159,3 +159,6 @@ Correction Insulin
 ## 10. References
 -  **Citations:** Include references to key studies and guidelines, such as the NICE-SUGAR trial, ADA guidelines, and SCCM recommendations, to support the information presented in this review.
 - [IBCC](https://emcrit.org/ibcc/glucose/#top)
+
+---
+_Last updated: 2026 · HVI ICU APP Team_

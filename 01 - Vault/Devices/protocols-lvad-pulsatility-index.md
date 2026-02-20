@@ -1,3 +1,12 @@
+## Table of Contents
+
+1. [HQ Curves](#hq-curves)
+2. [Pulsatility Index in Hypovolemia](#pulsatility-index-in-hypovolemia)
+3. [Real World Example](#real-world-example)
+4. [Pulsatility Index in Hypertension](#pulsatility-index-in-hypertension)
+
+---
+
 ## HQ Curves
 #### **1. What an HQ curve is**
 For a **fixed pump speed**, the LVAD manufacturer gives you a curve:
@@ -256,3 +265,6 @@ So the pattern you might see:
 - It also **increases PI**, because minimum (diastolic) flow/power falls more than maximum (systolic), widening the power swing relative to the average.
 - In a weak, “nonpulsatile” LV, this can push a baseline PI in the 3–4 range into 6–10, even without a palpable arterial pulse—and, in the presence of low preload, can strongly predispose to suction.
 - Higher gradient -> lower flow. Lower gradient -> higher flow
+
+---
+_Last updated: 2026 · HVI ICU APP Team_

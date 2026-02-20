@@ -796,6 +796,6 @@ Any acute hemodynamic deterioration temporally linked to a vent change should be
 | COPD exacerbation | VC-AC | 6–8 mL/kg IBW | 5–8 cmH2O (match auto-PEEP) | Long Ti forbidden; I:E 1:4 minimum; NAVA if trigger failure |
 | Post-transplant early | VC-AC | 6 mL/kg IBW | 8–10 cmH2O | Denervated heart; volume-sensitive; early diuresis; watch for rejection-induced pulm edema |
 
----
 
-*HFICU Protocol Library · VitalJobs.ICU · For educational and clinical reference purposes*
+---
+_Last updated: 2026 · HVI ICU APP Team_

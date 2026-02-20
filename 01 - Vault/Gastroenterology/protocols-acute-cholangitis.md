@@ -97,3 +97,7 @@
 
 ## 12. Trials
 - No major trials
+
+
+---
+_Last updated: 2026 · HVI ICU APP Team_

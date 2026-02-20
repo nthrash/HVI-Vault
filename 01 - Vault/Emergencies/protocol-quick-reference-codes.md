@@ -50,3 +50,7 @@
 4. Latex allergy status
 5. Surgeon Operating
 Once you post the case to the OR board via operator you will then be transferred to the HVI OR charge nurse. Just briefly mention you posted a case with which surgeon and for what procedure.
+
+
+---
+_Last updated: 2026 · HVI ICU APP Team_

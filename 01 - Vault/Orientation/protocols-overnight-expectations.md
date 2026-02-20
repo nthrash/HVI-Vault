@@ -14,7 +14,7 @@
 - Follow up after rounding for post ops, devices, transplants, etc for all of the above. Sometimes requiring as frequent as every 15-30 minute follow up on certain issues such as hemodynamics, I&Os, and labs
 - Cover as needed procedures throughout unit (art line, central line, dialysis line, sheath placement for MCS)
 - Orders for admissions along with procedures/discussion with all consulted services
-- Consult services such as CV surgery, PCCM, vascular surgery, EGS, IR, GI, OBGYN, neurology, neurosurgery
+- Consult services such as CV surgery, PCCM, vascular surgery, EGS, IR, GI, OBGYN, neurology, neurosurgery, etc.
 - Follow up emergent radiology order from day time and night time with calls to reading room for stat reads/preliminary reports
 - Adjustment to MCS due to volume optimization, worsening cardiac condition, etc.
 - Cover as needed vent adjustments or addition of further oxygen delivery devices based on ABG and/or clinical picture.
@@ -23,3 +23,6 @@
 - Round with surgery team in the morning after reviewing all pertinent information ~0600-0630
 	- 1-2 lines of overnight events, including pertinent events from the day prior. Dr. Salas usually wants coagulation panel, specifically ptt for heparin gtt patients for adjustments
 - Morning conference call with overnight events at 0700
+
+---
+_Last updated: 2026 · HVI ICU APP Team_
