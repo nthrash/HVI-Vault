@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "55f85d5ebe18bd27",
+        "id": "6820fe3d93cffa1a",
         "type": "tabs",
         "children": [
           {
-            "id": "a36d6413e01124fa",
+            "id": "abbc3415a62e9c5a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Vault/Devices/protocols-lvad-pulsatility-index.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "protocols-lvad-pulsatility-index"
+              "title": "New tab"
             }
           }
         ]
@@ -194,24 +190,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a36d6413e01124fa",
+  "active": "abbc3415a62e9c5a",
   "lastOpenFiles": [
-    "01 - Vault/Pulmonary/protocols-vent-management-advanced.md",
+    "01 - Vault/Orientation/protocols-overnight-expectations.md",
     "01 - Vault/Orientation/protocols-icu-np-orientation.md",
-    "01 - Vault/Devices/protocols-ecmo-troubleshooting.md",
+    "01 - Vault/Orientation/protocols-callin-policy.md",
+    "01 - Vault/Orientation/protocols-call-tree.md",
     "01 - Vault/Gastroenterology/protocols-acute-cholangitis.md",
+    "01 - Vault/Devices/protocols-abnormal-arterial-waveforms.md",
+    "contacts.json",
+    "01 - Vault/Devices/protocols-lvad-pulsatility-index.md",
+    "01 - Vault/Pulmonary/protocols-vent-management-advanced.md",
+    "01 - Vault/Devices/protocols-ecmo-troubleshooting.md",
     "01 - Vault/Endocrine/protocols-glycemic-control-inpatient.md",
     "01 - Vault/Emergencies/protocol-quick-reference-codes.md",
-    "01 - Vault/Devices/protocols-lvad-pulsatility-index.md",
-    "01 - Vault/Devices/protocols-abnormal-arterial-waveforms.md",
     "01 - Vault/Cardiology/protocols-right-heart-catheterization.pdf",
-    "01 - Vault/Orientation/protocols-call-tree.md",
-    "01 - Vault/Orientation/protocols-overnight-expectations.md",
     "01 - Vault/Surgery/protocols-post-op-bleeding.md",
     "01 - Vault/Pulmonary/protocols-vent-management.md",
     "01 - Vault/Pulmonary/protocols-vent-basics.md",
     "01 - Vault/Pulmonary/protocols-diaphragm-ultrasound.md",
-    "01 - Vault/Orientation/protocols-callin-policy.md",
     "06 - Resonance List/Optimizing lung transplant care.md",
     "06 - Resonance List",
     "protocols.json",
@@ -221,7 +218,6 @@
     "99 - Meta/Assets/PDFs/Right-Heart-Catheterization_6.2021.pdf",
     "99 - Meta/Assets/PDFs",
     "99 - Meta/Assets/untitled folder",
-    "contacts.json",
     "link-status.json",
     "01 - Vault/Endocrine/Glycemic Control Inpatient.md",
     "01 - Vault/Devices/protocols-lvad-pulsatility-index-mobile.md",
