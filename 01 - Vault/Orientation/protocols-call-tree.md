@@ -1,4 +1,4 @@
-# 🫀 HVI ICU On-Call Protocol
+# 🫀 HVI ICU Call Tree Protocol
 
 > _Reference guide for overnight communication — New Hire APPs_ - This is a work in progress and a living document for changes
 
@@ -38,6 +38,7 @@ Notify PCCM for any of the following:
 - **Procedural assistance** needs
 - **Major events** requiring cardiology or HF surgery intervention _(keep PCCM in the loop)_
 - **All ICU admissions** — PCCM should be notified regardless of acuity
+- **MCS** - Adjustments to VV ECMO due to changes in patient condition
 
 ---
 ## 🫀 HF Cardiologist
@@ -45,6 +46,7 @@ Notify the on-call cardiologist for:
 - **All ICU admissions** — regardless of acuity
 - **Vasopressor changes** — any increase in current vasopressors or addition of new vasopressors/inotropes
 - **Surgical issues** — update cardiologist on any events that have already been discussed with the surgical team
+- **MCS** - Adjustments to MCS due to hemodynamics or device issues (Impellas, RVAD, LVAD, VA ECMO). Generally VV is communicated to the PCCM team as above.
 
 ---
 ## 🔄 General Communication Flow
@@ -57,7 +59,8 @@ Notify the on-call cardiologist for:
 
 **2. 🫀 HF Cardiologist**
 - Always notify for all admissions
-- Any vasopressor changes
+- Any vasopressor changes/hemodynamic compromise requiring intervention
+- Adjustments to MCS
 
 **3. 🔪 HF Surgeon**
 - Dr. Patel's patient → **call Dr. Patel directly**
