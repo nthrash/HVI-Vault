@@ -1,19 +1,67 @@
-# Call Tree
+# 🫀 HVI ICU On-Call Protocol
 
-## HF Surgery
-- Discuss with Dr. Manish Patel on all of his patients no matter the time out from the surgery he had if any acute changes or events through the night
-- For patients post OP 0-72 hours for all other surgeons, review the operative note to determine who did the procedure to update the appropriate surgeon if overnight events occur. 
-- Outside of the 72 hour mark, update the on call surgeon (1st call) for any acute changes or events
-- All admission with any MCS should be communicated to the on call surgeon. This is in the event of patient needing upgrade of MCS.
+> _Reference guide for overnight communication — New Hire APPs_
 
-## Pulmonary Critical Care
-These scenarios should be communicated to the overnight PCCM team, specifically the PCCM fellow in house at 49749. 
-- Ventilator adjustments and troubleshooting and/or respiratory concerns
-- Increased sedation requirements and/or assistance with pain control issues
-- Procedural assistance
-- Update them on major events requiring the interventions/assistance of the cardiology or HF surgery team
+---
+## 📞 Quick Reference
 
-## HF Cardiologist
-- Admission to ICU no matter acuity
-- Adjustments to vasopressors (increase) or addition of vasopressors/inotropes.
-- Update on call cardiologist of any surgical issues that have been discussed with the appropriate surgeon.
+| Team                       | Contact          | When                                                        |
+| -------------------------- | ---------------- | ----------------------------------------------------------- |
+| PCCM Fellow                | **Pager 49749**  | Vent issues, sedation, procedures, all admissions           |
+| On-Call Surgeon (1st call) | On-call schedule | >72hr post-op events, all MCS admissions                    |
+| On-Call Cardiologist       | On-call schedule | All ICU admissions, vasopressor changes hemodynamic changes |
+
+---
+## 🔪 Heart Failure Surgery
+
+### Dr. Manish Patel's Patients
+> **Always contact Dr. Patel directly** for any of his patients, regardless of time since surgery, if acute changes or events occur overnight.
+
+### All Other Surgeons — Post-Op Timing Matters
+**0–72 Hours Post-Op**
+- Review the operative note to identify the performing surgeon
+- Notify that specific surgeon for any overnight acute changes or events
+
+**> 72 Hours Post-Op**
+- Notify the **on-call surgeon (1st call)** for any acute changes or events
+
+### MCS-Related Notifications
+- ⚠️ **All admissions with MCS** → notify on-call surgeon (in case MCS upgrade is needed)
+- ⚠️ **Admissions without MCS** where MCS may be required → discuss with on-call cardiologist **first**, then notify on-call surgeon
+
+---
+## 🫁 Pulmonary Critical Care Medicine (PCCM)
+**Contact:** PCCM Fellow In-House — **Pager 49749**
+Notify PCCM for any of the following:
+- **Ventilator** adjustments, troubleshooting, or respiratory concerns
+- **Sedation** requirements (increased) or **pain control** issues
+- **Procedural assistance** needs
+- **Major events** requiring cardiology or HF surgery intervention _(keep PCCM in the loop)_
+- **All ICU admissions** — PCCM should be notified regardless of acuity
+
+---
+## 🫀 HF Cardiologist
+Notify the on-call cardiologist for:
+- **All ICU admissions** — regardless of acuity
+- **Vasopressor changes** — any increase in current vasopressors or addition of new vasopressors/inotropes
+- **Surgical issues** — update cardiologist on any events that have already been discussed with the surgical team
+
+---
+## 🔄 General Communication Flow
+```
+Acute Event or Admission
+        │
+        ├──→ PCCM Fellow (49749) — Always for admissions & vent/sedation issues
+        │
+        ├──→ HF Cardiologist — Always for admissions & vasopressor changes
+        │
+        └──→ HF Surgeon
+              ├── Dr. Patel's pt? → Dr. Patel directly
+              ├── ≤72hr post-op? → Identify & call that surgeon
+              ├── >72hr post-op? → On-call surgeon (1st call)
+              └── MCS present or suspected? → On-call surgeon
+```
+
+---
+
+_Last updated: 2026 · HVI ICU APP Team_

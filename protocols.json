@@ -51,6 +51,13 @@
       "contentFile": "01 - Vault/Orientation/protocols-icu-np-orientation.md"
     },
     {
+      "id": "call-tree",
+      "title": "HVI ICU On-Call Protocol",
+      "subtitle": "Orientation",
+      "category": "orientation",
+      "contentFile": "01 - Vault/Orientation/protocols-call-tree.md"
+    },
+    {
       "id": "overnight-expectations",
       "title": "HFICU Overnight Expectations",
       "subtitle": "Orientation",
