@@ -34,8 +34,8 @@
 ### Specialty Mappings
 * **Neuro:** Dr. Levy
 * **ID (Infectious Disease):** UT Team
-* **Renal:** Asad Khan / Saeed
-* **Surgery:** Todd Wilson
+* **Renal:** Asad Khan and colleagues
+* **Gen Surgery:** Todd Wilson
 * **Cerebral Angiograms:** Siegel or Roc Chen
 * **Breast Team:** Emily Robinson
 
@@ -49,3 +49,4 @@
 3. Special instruments needed (circ support, perfusion, xray, etc)
 4. Latex allergy status
 5. Surgeon Operating
+Once you post the case to the OR board via operator you will then be transferred to the HVI OR charge nurse. Just briefly mention you posted a case with which surgeon and for what procedure.
