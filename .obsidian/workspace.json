@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Vault/Orientation/protocols-call-tree.md",
+                "file": "01 - Vault/Pulmonary/protocols-vent-basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "protocols-call-tree"
+              "title": "protocols-vent-basics"
             }
           }
         ]
@@ -196,10 +196,15 @@
   },
   "active": "a36d6413e01124fa",
   "lastOpenFiles": [
+    "01 - Vault/Pulmonary/protocols-vent-management.md",
+    "01 - Vault/Pulmonary/protocols-vent-management-advanced.md",
+    "01 - Vault/Pulmonary/protocols-vent-basics.md",
+    "01 - Vault/Orientation/protocols-call-tree.md",
+    "06 - Resonance List/Optimizing lung transplant care.md",
+    "06 - Resonance List",
     "01 - Vault/Orientation/protocols-overnight-expectations.md",
     "01 - Vault/Orientation/protocols-icu-np-orientation.md",
     "01 - Vault/Orientation/protocols-callin-policy.md",
-    "01 - Vault/Orientation/protocols-call-tree.md",
     "01 - Vault/Devices/protocols-ecmo-troubleshooting.md",
     "01 - Vault/Devices/protocols-abnormal-arterial-waveforms.md",
     "01 - Vault/Devices/protocols-lvad-pulsatility-index.md",
@@ -207,18 +212,15 @@
     "01 - Vault/Emergencies/protocol-quick-reference-codes.md",
     "01 - Vault/Gastroenterology/protocols-acute-cholangitis.md",
     "protocols.json",
-    "01 - Vault/Pulmonary/protocols-vent-management-advanced.md",
     "01 - Vault/Cardiology/protocols-right-heart-catheterization.pdf",
     "99 - Meta/Assets/Images/Acute Cholangitis-1749537011225.png",
     "01 - Vault/Gastroenterology",
     "01 - Vault/Cardiology",
     "99 - Meta/Assets/PDFs/Right-Heart-Catheterization_6.2021.pdf",
-    "01 - Vault/Pulmonary/protocols-vent-management.md",
     "99 - Meta/Assets/PDFs",
     "99 - Meta/Assets/untitled folder",
     "contacts.json",
     "link-status.json",
-    "resources.json",
     "01 - Vault/Endocrine/Glycemic Control Inpatient.md",
     "01 - Vault/Devices/protocols-lvad-pulsatility-index-mobile.md",
     "01 - Vault/Devices/protocols-lvad-pulsatility-index (copy).md",
@@ -234,7 +236,6 @@
     "01 - Vault/Devices/Abnormal Arterial Waveforms.md",
     "02 - Contacts/New Contacts.md",
     "01 - Vault/Orientation/Call In Policy.md",
-    "01 - Vault/Orientation/Orientation Timeline.md",
-    "02 - Contacts/Contacts.md"
+    "01 - Vault/Orientation/Orientation Timeline.md"
   ]
 }

@@ -79,6 +79,13 @@
       "contentFile": "01 - Vault/Endocrine/protocols-glycemic-control-inpatient.md"
     },
     {
+      "id": "vent-basics",
+      "title": "Ventilator Modes Overview",
+      "subtitle": "Vent Basics",
+      "category": "pulmonary",
+      "contentFile": "01 - Vault/Pulmonary/protocols-vent-basics.md"
+    },
+    {
       "id": "vent-management",
       "title": "Ventilator Management",
       "subtitle": "Critical Care Protocol",
