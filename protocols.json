@@ -113,6 +113,13 @@
       "subtitle": "Diagnosis & Management",
       "category": "gastroenterology",
       "contentFile": "01 - Vault/Gastroenterology/protocols-acute-cholangitis.md"
+    },
+    {
+      "id": "lung-transplant-icu",
+      "title": "Lung Transplant ICU Care",
+      "subtitle": "Post-Transplant Protocol",
+      "category": "pulmonary",
+      "contentFile": "01 - Vault/Pulmonary/protocols-lung-transplant-icu.md"
     }
   ]
 }

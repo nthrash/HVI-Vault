@@ -1,0 +1,314 @@
+### ICU Care of Lung Transplant Recipients
+
+## Primary Graft Dysfunction (PGD) Grading
+**ISHLT Criteria** — Graded at 0, 24, 48, and 72 hours post-reperfusion:
+
+| Grade | CXR | PaO₂/FiO₂ |
+|-------|-----|-----------|
+| **0** | No edema | Any |
+| **1** | Edema | > 300 |
+| **2** | Edema | 200–300 |
+| **3** | Edema | < 200 |
+
+> ECMO for pulmonary indication = **PGD 3**
+
+---
+## Mechanical Ventilation
+
+### Initial Protective Settings
+
+| Parameter | Target |
+|-----------|--------|
+| Tidal Volume | **6 mL/kg donor PBW** |
+| Plateau Pressure | **≤ 30 cm H₂O** |
+| SpO₂ | **> 90%** |
+| pH | **> 7.25** |
+| PEEP | Per ARDS network table |
+
+> Avoid PEEP > 12–14 cm H₂O (risk to bronchial anastomosis)
+
+**PEEP Titration:**
+
+| FiO₂ | 0.3 | 0.4 | 0.5 | 0.6–0.7 | 0.8–1.0 |
+|------|-----|-----|-----|---------|---------|
+| PEEP | 5 | 5–8 | 8–10 | 10–12 | 12–14 |
+
+### Weaning Strategy
+**Criteria:** PaO₂/FiO₂ > 200 and pH > 7.25
+
+- Wean sedation
+- Tidal volume: 6–8 mL/kg donor PBW
+- PEEP: 5 cm H₂O
+- Plateau pressure: 25 cm H₂O
+- Early extubation (median: **2–3 days**)
+
+### Severe PGD (PaO₂/FiO₂ < 200)
+- Maintain sedation
+- Tidal volume: ≤ 6 mL/kg donor PBW
+- Plateau pressure: ≤ 25 cm H₂O
+- Respiratory rate: up to 35 breaths/min
+- Driving pressure: ≤ 14 cm H₂O
+
+**Rescue therapies if PaO₂/FiO₂ < 150:**
+- Neuromuscular blockade
+- Inhaled NO
+- Prone positioning (if feasible)
+
+> **Consider ECMO if PaO₂/FiO₂ < 100**
+
+---
+## Hemodynamic Management
+
+**Monitoring:** Swan-Ganz catheter required
+
+| Parameter | Goal |
+|-----------|------|
+| MAP | 65–75 mmHg |
+| Cardiac Index | 2.2–2.5 L·min⁻¹·m⁻² |
+| CVP | **≤ 7 mmHg** |
+| Wedge/LA Pressure | **≤ 10 mmHg** |
+| Urine Output | > 0.5 mL·kg⁻¹·h⁻¹ |
+
+**Key Principles:**
+- Restrictive fluid strategy to minimize lung edema
+- Maintain adequate organ perfusion with lowest necessary cardiac output
+- Gradually increase perfusion as graft function improves
+- Monitor lactate, MvO₂, urine output
+
+---
+## Immunosuppression
+
+### Induction
+**Consider basiliximab for:**
+- Risk of renal dysfunction
+- Older patients
+- Complicated surgery
+
+### Maintenance (Triple Therapy)
+1. **Calcineurin inhibitor** (tacrolimus or cyclosporine)
+2. **Cell-cycle inhibitor** (MMF or azathioprine)
+3. **Corticosteroid**
+
+**Notes:**
+- Alemtuzumab may allow reduced maintenance dosing
+- Monitor calcineurin inhibitor and MMF levels closely
+- Adjust for drug interactions
+
+---
+## Antimicrobial Prophylaxis
+
+### Antibacterial
+**Empiric (first 72 hours):**
+- Broad-spectrum pending donor/recipient BAL cultures
+- Consider MDR coverage based on colonization
+- Duration: tailor to cultures; **7–14 days if positive**
+
+Common regimens:
+- Low-risk: 1st/2nd-generation cephalosporins
+- Colonized patients: culture-directed therapy
+
+### Antiviral — CMV Prophylaxis
+
+| Donor/Recipient Status | Regimen |
+|------------------------|---------|
+| D+/R– | IV ganciclovir → oral valganciclovir × 9 months |
+| D–/R+ or D+/R+ | Valganciclovir × 6 months |
+| D–/R– | Acyclovir × 3 months |
+
+### Antifungal
+**NOT routinely recommended** — consider if:
+- Fungal colonization present
+- High-risk (cystic fibrosis, prior fungal infection)
+
+Options:
+- Aerosolized amphotericin B
+- Voriconazole (first-line for aspergillosis)
+
+### PCP Prophylaxis
+**Trimethoprim-sulfamethoxazole** — start immediately; lifelong at many centers
+
+---
+## Neurologic Complications
+
+### Delirium (40% incidence)
+**Prevention:**
+- Benzodiazepine-free sedation
+- Early mobilization
+- Sleep hygiene
+- Adequate pain control
+
+**Screening:** CAM-ICU or ICDSC
+
+### Pain Management — Multimodal Approach
+- Opioids
+- Acetaminophen
+- Gabapentin
+- Ketamine
+- ± Regional blocks (epidural, paravertebral, erector spinae)
+
+### Hyperammonemia Syndrome (1–4%; HIGH MORTALITY)
+**Monitoring:**
+- Daily ammonia levels × first 2 weeks
+- Threshold: **> 100 µmol/L** (normal ≤ 72)
+
+**Management if elevated:**
+- Urgent hemodialysis
+- Moxifloxacin + doxycycline (targets ureaplasma)
+
+### PRES
+**Risk:** Calcineurin inhibitors
+
+**Management:** Temporarily withhold calcineurin inhibitors; substitute with basiliximab
+
+---
+## Nutritional Support
+
+| Requirement | Target |
+|-------------|--------|
+| Calories | 25–30 kcal/kg/day |
+| Protein | 1.3–2.5 g·kg⁻¹·day⁻¹ |
+| Carbohydrates | 45–65% of calories |
+| Lipids | 20–35% of calories |
+
+**Strategy:**
+- Early enteral nutrition preferred
+- Start after extubation if able to swallow safely
+- Prolonged ventilation: enteral feeding via tube
+
+**Cystic Fibrosis Patients:**
+- Elemental/semi-elemental feeds
+- Pancreatic enzyme replacement
+- Monitor fat-soluble vitamins (A, C, D)
+
+**GERD Management** (critical to prevent chronic lung allograft dysfunction):
+- 30° head elevation
+- Proton pump inhibitors
+- Prokinetics
+- Swallow evaluation (modified barium swallow or FEES)
+
+---
+## Abdominal Complications
+
+> **Low threshold for imaging** — immunosuppression blunts symptoms
+
+**Management:**
+- Early CT with IV contrast if any clinical suspicion
+- Prompt surgical consultation
+- Early surgical intervention preferred over conservative management
+
+**Common Early Complications:**
+- Bowel ischemia (especially right colon)
+- Bowel perforation
+- Ileus
+
+**CF Patients** — risk of distal intestinal obstruction syndrome:
+- Polyethylene glycol solutions
+- N-acetylcysteine
+- Continue until first bowel movement
+
+**Feeding:**
+- Dobhoff placed under visualization only
+- No feeding until cleared by speech evaluation
+
+---
+## Common ICU Complications
+
+### Cardiac
+- **Atrial fibrillation (20–39%):**
+  - Beta blockers first-line
+  - Amiodarone if cleared by team
+  - DCCV if hemodynamically unstable (team clearance required)
+- Right ventricular failure
+- Pericarditis
+- Tamponade
+
+### Renal
+- Acute kidney injury (up to 52%)
+- May require renal replacement therapy
+- Multifactorial: nephrotoxic drugs, pre-renal, ATN
+
+### Infectious
+**Pneumonia (up to 44%):**
+- Most common: _Pseudomonas aeruginosa_, _Staph aureus_
+- Donor-derived vs. nosocomial vs. VAP
+
+**Bloodstream infections (25%):**
+- High mortality (25% bacterial, 50% fungal)
+- Remove infected lines
+
+---
+## Extubation Criteria
+
+**Prerequisites:**
+- Hemodynamically stable
+- PaO₂/FiO₂ > 300
+- Mechanical ventilation targets maintained
+- Adequate pain control
+- Hemostasis achieved
+
+**SBT:** CPAP 5 cm H₂O × 30 minutes
+
+> **Consider early tracheostomy** if weaning prolonged > 1 week or predicted prolonged ventilation
+
+---
+## ECMO Support
+
+### Indications
+**VV-ECMO:**
+- Refractory hypoxemia despite optimal ventilation
+- Allows ultra-protective ventilation
+
+**VA-ECMO:**
+- Severe PGD with hemodynamic instability
+- Pulmonary hypertension recipients (prophylactic)
+- Offloads pulmonary circulation
+
+### Targets During ECMO
+- Tidal volume: as low as tolerated
+- FiO₂: minimize
+- Respiratory rate: reduce
+- Monitor end-tidal CO₂ and PA pulse pressure
+
+---
+## PGD Risk Factors
+
+**Donor:**
+- Brain death > donation after cardiac death
+- Prolonged ischemic time (> 60–120 min)
+- Smoking history
+
+**Recipient:**
+- Sarcoidosis, IPF, pulmonary hypertension
+- BMI > 25
+- African-American race
+
+**Intraoperative:**
+- Cardiopulmonary bypass use
+- Blood transfusions > 1 L
+- Lung size mismatch (undersized graft)
+
+---
+## Daily Monitoring Checklist
+
+- [ ] PGD grading (first 72 hours)
+- [ ] Ammonia level (first 2 weeks)
+- [ ] Immunosuppressant drug levels
+- [ ] Chest X-ray
+- [ ] ABG / Lactate
+- [ ] Fluid balance (target negative to neutral)
+- [ ] Swan-Ganz parameters (CVP ≤ 7, wedge ≤ 10)
+- [ ] Glucose control
+- [ ] Electrolytes (K⁺, Mg²⁺, Ca²⁺)
+- [ ] Renal function
+- [ ] Delirium screening
+- [ ] Pain assessment
+- [ ] Mobilization plan
+- [ ] Bronchoscopy PRN
+
+---
+### References
+1. [Postoperative Management of Lung Transplant Recipients in the Intensive Care Unit](https://pubmed.ncbi.nlm.nih.gov/34910811). Di Nardo M, et al. Anesthesiology. 2022;136(3):482-499. doi:10.1097/ALN.0000000000004054.
+2. [International Consensus Recommendations for Anesthetic and Intensive Care Management of Lung Transplantation](https://pubmed.ncbi.nlm.nih.gov/34732281). Marczin N, et al. J Heart Lung Transplant. 2021;40(11):1327-1348. doi:10.1016/j.healun.2021.07.012.
+
+---
+_Last updated: 2026 · HVI ICU APP Team_
