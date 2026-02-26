@@ -124,7 +124,7 @@
     {
       "id": "halt",
       "title": "Hyperammonemia After Lung Transplant",
-      "subtitle": "HALT Protocol",
+      "subtitle": "HALT",
       "category": "pulmonary",
       "contentFile": "01 - Vault/Pulmonary/protocols-halt.md"
     }
