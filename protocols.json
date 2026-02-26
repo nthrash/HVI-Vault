@@ -120,6 +120,13 @@
       "subtitle": "Post-Transplant Protocol",
       "category": "pulmonary",
       "contentFile": "01 - Vault/Pulmonary/protocols-lung-transplant-icu.md"
+    },
+    {
+      "id": "halt",
+      "title": "Hyperammonemia After Lung Transplant",
+      "subtitle": "HALT Protocol",
+      "category": "pulmonary",
+      "contentFile": "01 - Vault/Pulmonary/protocols-halt.md"
     }
   ]
 }
