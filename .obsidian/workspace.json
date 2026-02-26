@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6820fe3d93cffa1a",
+        "id": "b6b13097668d83b4",
         "type": "tabs",
         "children": [
           {
-            "id": "abbc3415a62e9c5a",
+            "id": "897a9a1b60bbc886",
             "type": "leaf",
             "state": {
-              "type": "json",
-              "state": {
-                "file": "protocols.json"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "protocols"
+              "title": "New tab"
             }
           }
         ]
@@ -192,8 +190,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "abbc3415a62e9c5a",
+  "active": "897a9a1b60bbc886",
   "lastOpenFiles": [
+    "protocols.json",
     "01 - Vault/Pulmonary/protocols-halt.md",
     "01 - Vault/Pulmonary/protocols-lung-transplant-icu.md",
     "01 - Vault/Orientation/protocols-overnight-expectations.md",
@@ -215,7 +214,6 @@
     "01 - Vault/Pulmonary/protocols-diaphragm-ultrasound.md",
     "06 - Resonance List/Optimizing lung transplant care.md",
     "06 - Resonance List",
-    "protocols.json",
     "99 - Meta/Assets/Images/Acute Cholangitis-1749537011225.png",
     "01 - Vault/Gastroenterology",
     "01 - Vault/Cardiology",
@@ -233,7 +231,6 @@
     "01 - Vault/Orientation/protocols-orientation-timeline.md",
     "99 - Meta/Assets/Images/normal.arterial.line.png",
     "01 - Vault/Devices/Abnormal Arterial Waveforms copy.md",
-    "01 - Vault/Devices/Abnormal Arterial Waveforms.md",
-    "02 - Contacts/New Contacts.md"
+    "01 - Vault/Devices/Abnormal Arterial Waveforms.md"
   ]
 }
