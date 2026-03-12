@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b6b13097668d83b4",
+        "id": "3161612e0c073b92",
         "type": "tabs",
         "children": [
           {
-            "id": "897a9a1b60bbc886",
+            "id": "e7210d0c9c1c4c9a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "01 - Vault/Orientation/protocols-icu-np-orientation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "icon": "lucide-file",
+              "title": "protocols-icu-np-orientation"
             }
           }
         ]
@@ -76,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "44e41f3918b4e007",
@@ -192,12 +195,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "897a9a1b60bbc886",
+  "active": "e7210d0c9c1c4c9a",
   "lastOpenFiles": [
+    "01 - Vault/Orientation/protocols-overnight-expectations.md",
+    "01 - Vault/Cardiology/protocols-antiarrhythmic-drugs.md",
     "protocols.json",
     "01 - Vault/Pulmonary/protocols-halt.md",
     "01 - Vault/Pulmonary/protocols-lung-transplant-icu.md",
-    "01 - Vault/Orientation/protocols-overnight-expectations.md",
     "01 - Vault/Orientation/protocols-icu-np-orientation.md",
     "01 - Vault/Orientation/protocols-callin-policy.md",
     "01 - Vault/Orientation/protocols-call-tree.md",
