@@ -127,6 +127,13 @@
       "subtitle": "HALT",
       "category": "pulmonary",
       "contentFile": "01 - Vault/Pulmonary/protocols-halt.md"
+    },
+    {
+      "id": "antiarrhythmic-drugs",
+      "title": "Antiarrhythmic Drugs",
+      "subtitle": "Classification, Mechanisms & Dofetilide Protocol",
+      "category": "cardiology",
+      "contentFile": "01 - Vault/Cardiology/protocols-antiarrhythmic-drugs.md"
     }
   ]
 }
