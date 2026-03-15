@@ -196,6 +196,8 @@
   },
   "active": "7a67d14c5792823e",
   "lastOpenFiles": [
+    "01 - Vault/Devices/protocols-abnormal-arterial-waveforms.md",
+    "01 - Vault/Devices/protocols-iabp.md",
     "99 - Meta/Assets/Images/IABP Early Inflation.png",
     "99 - Meta/Assets/Images/IABP Late Inflation.png",
     "99 - Meta/Assets/Images/IABP Late Deflation.png",
@@ -203,7 +205,6 @@
     "99 - Meta/Assets/Images/IABP Normal waveform.png",
     "99 - Meta/Assets/Images/IABP Console.png",
     "01 - Vault/Devices/protocols-pacemaker-fundamentals.md",
-    "01 - Vault/Devices/protocols-iabp.md",
     "01 - Vault/Pulmonary/protocols-rsi.md",
     "01 - Vault/Surgery/protocols-vasoplegia.md",
     "01 - Vault/Pulmonary/protocols-pulmonary-embolism.md",
@@ -240,7 +241,6 @@
     "99 - Meta/Assets/Images/Acute Cholangitis-1749537011225.png",
     "99 - Meta/Assets/Images/LVAD Pulsatility Index-1765872461334-optimized.png",
     "99 - Meta/Assets/Images/LVAD Pulsatility Index-1765872461334.png",
-    "99 - Meta/Assets/Images/elderly.arterial.waveform.png",
-    "99 - Meta/Assets/Images/normal.arterial.line.png"
+    "99 - Meta/Assets/Images/elderly.arterial.waveform.png"
   ]
 }
