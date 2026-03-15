@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "01 - Vault/Hematology/protocols-clotting-cascade.pdf"
+                "file": "01 - Vault/Nephrology/protocols-nephron-drawing.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "protocols-clotting-cascade"
+              "title": "protocols-nephron-drawing"
             }
           }
         ]
@@ -194,8 +194,10 @@
   },
   "active": "1ace379bb3d7600d",
   "lastOpenFiles": [
-    "protocols.json",
     "01 - Vault/Hematology/protocols-clotting-cascade.pdf",
+    "01 - Vault/Nephrology/protocols-nephron-drawing.pdf",
+    "01 - Vault/Nephrology",
+    "protocols.json",
     "01 - Vault/Hematology",
     "resources.json",
     "link-status.json",
@@ -226,9 +228,7 @@
     "01 - Vault/Pulmonary/protocols-vent-basics.md",
     "01 - Vault/Pulmonary/protocols-diaphragm-ultrasound.md",
     "06 - Resonance List/Optimizing lung transplant care.md",
-    "06 - Resonance List",
     "99 - Meta/Assets/Images/Acute Cholangitis-1749537011225.png",
-    "01 - Vault/Gastroenterology",
     "01 - Vault/Endocrine/Glycemic Control Inpatient.md",
     "01 - Vault/Devices/protocols-lvad-pulsatility-index-mobile.md",
     "99 - Meta/Assets/Images/LVAD Pulsatility Index-1765872461334-optimized.png",

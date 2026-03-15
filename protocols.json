@@ -156,6 +156,14 @@
       "category": "hematology",
       "type": "pdf",
       "contentFile": "01 - Vault/Hematology/protocols-clotting-cascade.pdf"
+    },
+    {
+      "id": "nephron-drawing",
+      "title": "Nephron Drawing",
+      "subtitle": "Renal Anatomy Reference",
+      "category": "nephrology",
+      "type": "pdf",
+      "contentFile": "01 - Vault/Nephrology/protocols-nephron-drawing.pdf"
     }
   ]
 }
