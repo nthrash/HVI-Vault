@@ -11,12 +11,14 @@
             "id": "1ace379bb3d7600d",
             "type": "leaf",
             "state": {
-              "type": "json",
+              "type": "markdown",
               "state": {
-                "file": "contacts.json"
+                "file": "01 - Vault/Infectious Disease/protocols-icu-bacteria.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "contacts"
+              "title": "protocols-icu-bacteria"
             }
           }
         ]
@@ -195,6 +197,9 @@
   "active": "1ace379bb3d7600d",
   "lastOpenFiles": [
     "contacts.json",
+    "01 - Vault/Infectious Disease/protocols-icu-bacteria.md.tmp.5.1773557186814",
+    "01 - Vault/Infectious Disease/protocols-icu-bacteria.md",
+    "01 - Vault/Infectious Disease",
     "02 - Contacts/Contacts.md",
     "01 - Vault/Orientation/protocols-call-tree.md",
     "protocols.json",
@@ -226,10 +231,8 @@
     "99 - Meta/Assets/PDFs/Right-Heart-Catheterization_6.2021.pdf",
     "99 - Meta/Assets/PDFs",
     "99 - Meta/Assets/untitled folder",
-    "link-status.json",
     "01 - Vault/Endocrine/Glycemic Control Inpatient.md",
     "01 - Vault/Devices/protocols-lvad-pulsatility-index-mobile.md",
-    "01 - Vault/Devices/protocols-lvad-pulsatility-index (copy).md",
     "99 - Meta/Assets/Images/LVAD Pulsatility Index-1765872461334-optimized.png",
     "99 - Meta/Assets/Images/LVAD Pulsatility Index-1765872461334.png",
     "99 - Meta/Assets/Images/elderly.arterial.waveform.png",

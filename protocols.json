@@ -141,6 +141,13 @@
       "subtitle": "Diagnosis & Management",
       "category": "cardiology",
       "contentFile": "01 - Vault/Cardiology/protocols-myocarditis.md"
+    },
+    {
+      "id": "icu-bacteria",
+      "title": "ICU Bacteria",
+      "subtitle": "Clinical Reference Guide",
+      "category": "infectious_disease",
+      "contentFile": "01 - Vault/Infectious Disease/protocols-icu-bacteria.md"
     }
   ]
 }
