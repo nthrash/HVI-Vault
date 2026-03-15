@@ -134,6 +134,13 @@
       "subtitle": "Classification, Mechanisms & Dofetilide Protocol",
       "category": "cardiology",
       "contentFile": "01 - Vault/Cardiology/protocols-antiarrhythmic-drugs.md"
+    },
+    {
+      "id": "myocarditis",
+      "title": "Myocarditis",
+      "subtitle": "Diagnosis & Management",
+      "category": "cardiology",
+      "contentFile": "01 - Vault/Cardiology/protocols-myocarditis.md"
     }
   ]
 }
