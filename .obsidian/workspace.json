@@ -11,12 +11,14 @@
             "id": "1ace379bb3d7600d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "01 - Vault/Nephrology/protocols-nephron-drawing.pdf"
+                "file": "01 - Vault/Pulmonary/protocols-pulmonary-embolism.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "protocols-nephron-drawing"
+              "icon": "lucide-file",
+              "title": "protocols-pulmonary-embolism"
             }
           }
         ]
@@ -194,17 +196,20 @@
   },
   "active": "1ace379bb3d7600d",
   "lastOpenFiles": [
-    "01 - Vault/Hematology/protocols-clotting-cascade.pdf",
+    "01 - Vault/Ultrasound/protocols-diaphragm-ultrasound.md",
+    "01 - Vault/Pulmonary/protocols-pulmonary-embolism.md",
+    "01 - Vault/Ultrasound/protocols-vexus.pdf",
+    "01 - Vault/Devices/protocols-rv-failure-lvad.pdf",
+    "01 - Vault/Ultrasound",
+    "01 - Vault/Surgery/protocols-post-op-bleeding.md",
     "01 - Vault/Nephrology/protocols-nephron-drawing.pdf",
+    "01 - Vault/Hematology/protocols-clotting-cascade.pdf",
     "01 - Vault/Nephrology",
     "protocols.json",
     "01 - Vault/Hematology",
     "resources.json",
     "link-status.json",
     "01 - Vault/Infectious Disease/protocols-icu-bacteria.md",
-    "contacts.json",
-    "01 - Vault/Infectious Disease/protocols-icu-bacteria.md.tmp.5.1773557186814",
-    "01 - Vault/Infectious Disease",
     "02 - Contacts/Contacts.md",
     "01 - Vault/Orientation/protocols-call-tree.md",
     "01 - Vault/Cardiology/protocols-myocarditis.md",
@@ -222,15 +227,12 @@
     "01 - Vault/Devices/protocols-ecmo-troubleshooting.md",
     "01 - Vault/Endocrine/protocols-glycemic-control-inpatient.md",
     "01 - Vault/Emergencies/protocol-quick-reference-codes.md",
-    "01 - Vault/Cardiology/protocols-right-heart-catheterization.pdf",
-    "01 - Vault/Surgery/protocols-post-op-bleeding.md",
     "01 - Vault/Pulmonary/protocols-vent-management.md",
     "01 - Vault/Pulmonary/protocols-vent-basics.md",
     "01 - Vault/Pulmonary/protocols-diaphragm-ultrasound.md",
     "06 - Resonance List/Optimizing lung transplant care.md",
     "99 - Meta/Assets/Images/Acute Cholangitis-1749537011225.png",
     "01 - Vault/Endocrine/Glycemic Control Inpatient.md",
-    "01 - Vault/Devices/protocols-lvad-pulsatility-index-mobile.md",
     "99 - Meta/Assets/Images/LVAD Pulsatility Index-1765872461334-optimized.png",
     "99 - Meta/Assets/Images/LVAD Pulsatility Index-1765872461334.png",
     "99 - Meta/Assets/Images/elderly.arterial.waveform.png",

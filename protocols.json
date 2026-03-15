@@ -68,8 +68,8 @@
       "id": "diaphragm-ultrasound",
       "title": "Diaphragm Ultrasound Assessment: A Clinical Reference Guide",
       "subtitle": "POCUS",
-      "category": "pulmonary",
-      "contentFile": "01 - Vault/Pulmonary/protocols-diaphragm-ultrasound.md"
+      "category": "ultrasound",
+      "contentFile": "01 - Vault/Ultrasound/protocols-diaphragm-ultrasound.md"
     },
     {
       "id": "glycemic-control-inpatient",
@@ -164,6 +164,29 @@
       "category": "nephrology",
       "type": "pdf",
       "contentFile": "01 - Vault/Nephrology/protocols-nephron-drawing.pdf"
+    },
+    {
+      "id": "rv-failure-lvad",
+      "title": "RV Failure & LVAD",
+      "subtitle": "Clinical Reference",
+      "category": "devices",
+      "type": "pdf",
+      "contentFile": "01 - Vault/Devices/protocols-rv-failure-lvad.pdf"
+    },
+    {
+      "id": "pulmonary-embolism",
+      "title": "Pulmonary Embolism",
+      "subtitle": "Diagnosis & Management",
+      "category": "pulmonary",
+      "contentFile": "01 - Vault/Pulmonary/protocols-pulmonary-embolism.md"
+    },
+    {
+      "id": "vexus",
+      "title": "VExUS",
+      "subtitle": "Venous Excess Ultrasound Protocol",
+      "category": "ultrasound",
+      "type": "pdf",
+      "contentFile": "01 - Vault/Ultrasound/protocols-vexus.pdf"
     }
   ]
 }
