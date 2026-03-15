@@ -1695,7 +1695,7 @@
       "contacts": [
         {
           "id": "er_reading_room",
-          "name": "ER Reading Room",
+          "name": "Reading Room",
           "role": "Reading Room",
           "phone": "7137042003",
           "category": "other",
