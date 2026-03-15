@@ -250,6 +250,27 @@
       "subtitle": "RSI — Drugs, Doses & Protocol",
       "category": "pulmonary",
       "contentFile": "01 - Vault/Pulmonary/protocols-rsi.md"
+    },
+    {
+      "id": "vasoplegia",
+      "title": "Vasoplegia Syndrome",
+      "subtitle": "Post-Cardiothoracic Surgery",
+      "category": "surgery",
+      "contentFile": "01 - Vault/Surgery/protocols-vasoplegia.md"
+    },
+    {
+      "id": "pacemaker-fundamentals",
+      "title": "Temporary Pacemaker Fundamentals",
+      "subtitle": "Modes, Settings & Troubleshooting",
+      "category": "devices",
+      "contentFile": "01 - Vault/Devices/protocols-pacemaker-fundamentals.md"
+    },
+    {
+      "id": "iabp",
+      "title": "Intra-Aortic Balloon Pump",
+      "subtitle": "IABP — Counterpulsation Therapy",
+      "category": "devices",
+      "contentFile": "01 - Vault/Devices/protocols-iabp.md"
     }
   ]
 }

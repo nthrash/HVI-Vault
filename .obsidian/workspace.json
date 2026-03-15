@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Vault/Pulmonary/protocols-rsi.md",
+                "file": "01 - Vault/Devices/protocols-pacemaker-fundamentals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "protocols-rsi"
+              "title": "protocols-pacemaker-fundamentals"
             }
           }
         ]
@@ -196,6 +196,10 @@
   },
   "active": "7a67d14c5792823e",
   "lastOpenFiles": [
+    "01 - Vault/Devices/protocols-iabp.md",
+    "01 - Vault/Pulmonary/protocols-rsi.md",
+    "01 - Vault/Devices/protocols-pacemaker-fundamentals.md",
+    "01 - Vault/Surgery/protocols-vasoplegia.md",
     "01 - Vault/Pulmonary/protocols-pulmonary-embolism.md",
     "01 - Vault/Pulmonary/protocols-lung-transplant-icu.md",
     "01 - Vault/Pulmonary/protocols-hfnc.md",
@@ -203,7 +207,6 @@
     "01 - Vault/Pulmonary/protocols-difficult-airway.md",
     "01 - Vault/Pulmonary/protocols-copd.md",
     "01 - Vault/Pulmonary/protocols-clad.md",
-    "01 - Vault/Pulmonary/protocols-rsi.md",
     "01 - Vault/Cardiology/protocols-gdmt-hfref.md",
     "01 - Vault/Surgery/protocols-scip.md",
     "01 - Vault/Surgery/protocols-post-op-bleeding.md",
@@ -229,9 +232,6 @@
     "01 - Vault/Cardiology/education-myocarditis.md",
     "01 - Vault/Orientation/protocols-overnight-expectations.md",
     "01 - Vault/Orientation/protocols-callin-policy.md",
-    "01 - Vault/Gastroenterology/protocols-acute-cholangitis.md",
-    "01 - Vault/Devices/protocols-abnormal-arterial-waveforms.md",
-    "01 - Vault/Devices/protocols-lvad-pulsatility-index.md",
     "99 - Meta/Assets/Images/Acute Cholangitis-1749537011225.png",
     "99 - Meta/Assets/Images/LVAD Pulsatility Index-1765872461334-optimized.png",
     "99 - Meta/Assets/Images/LVAD Pulsatility Index-1765872461334.png",
