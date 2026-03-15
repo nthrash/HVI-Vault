@@ -70,7 +70,7 @@ The IABP uses **counterpulsation** — balloon inflation and deflation timed to 
 |-------|--------------|-----------------|
 | Aortic valve closure (dicrotic notch) | **Inflate** | End of T-wave / beginning of diastole |
 | Aortic valve opening (end of diastole) | **Deflate** | R-wave of next cycle |
-
+![[IABP Normal waveform.png]]
 ### Timing Errors
 
 | Error | Waveform Finding | Consequence |
@@ -79,6 +79,8 @@ The IABP uses **counterpulsation** — balloon inflation and deflation timed to 
 | **Late Inflation** (after dicrotic notch) | Delayed diastolic augmentation peak | Suboptimal coronary perfusion; reduced diastolic augmentation |
 | **Early Deflation** (too early in diastole) | Diastolic waveform drops prematurely | Suboptimal afterload reduction; retrograde coronary flow |
 | **Late Deflation** (into systole) | Elevated aortic end-diastolic pressure | Increased afterload; ↑ MVO₂; prolonged isovolumetric contraction phase; impedes ejection |
+
+
 
 ---
 
@@ -136,6 +138,8 @@ The IABP uses **counterpulsation** — balloon inflation and deflation timed to 
 - **Do not leave on 1:2 or 1:3 for >4–6 hours** — risk of thromboembolism on a partially inflating balloon without anticoagulation (Fully anticoagulated)
 - Hold anticoagulation 4–6h before removal; apply manual pressure ≥30 min post-removal
 
+
+![[IABP Console.png]]
 ---
 
 _Last updated: 2026 · HVI ICU APP Team_
