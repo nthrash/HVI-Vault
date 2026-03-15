@@ -70,7 +70,8 @@ The IABP uses **counterpulsation** — balloon inflation and deflation timed to 
 |-------|--------------|-----------------|
 | Aortic valve closure (dicrotic notch) | **Inflate** | End of T-wave / beginning of diastole |
 | Aortic valve opening (end of diastole) | **Deflate** | R-wave of next cycle |
-![[IABP Normal waveform.png]]
+![](99%20-%20Meta/Assets/Images/IABP%20Normal%20waveform.png)
+
 ### Timing Errors
 
 | Error | Waveform Finding | Consequence |
@@ -79,14 +80,18 @@ The IABP uses **counterpulsation** — balloon inflation and deflation timed to 
 | **Late Inflation** (after dicrotic notch) | Delayed diastolic augmentation peak | Suboptimal coronary perfusion; reduced diastolic augmentation |
 | **Early Deflation** (too early in diastole) | Diastolic waveform drops prematurely | Suboptimal afterload reduction; retrograde coronary flow |
 | **Late Deflation** (into systole) | Elevated aortic end-diastolic pressure | Increased afterload; ↑ MVO₂; prolonged isovolumetric contraction phase; impedes ejection |
+
 #### Early Inflation
-![[IABP Early Inflation.png]]
+![](99%20-%20Meta/Assets/Images/IABP%20Early%20Inflation.png)
+
 #### Late Inflation
-![[IABP Late Inflation.png]]
+![](99%20-%20Meta/Assets/Images/IABP%20Late%20Inflation.png)
+
 #### Late Deflation
-![[IABP Late Deflation.png]]
+![](99%20-%20Meta/Assets/Images/IABP%20Late%20Deflation.png)
+
 #### Early Deflation
-![[IABP Early Deflation.png]]
+![](99%20-%20Meta/Assets/Images/IABP%20Early%20Deflation.png)
 
 ---
 
@@ -145,7 +150,8 @@ The IABP uses **counterpulsation** — balloon inflation and deflation timed to 
 - Hold anticoagulation 4–6h before removal; apply manual pressure ≥30 min post-removal
 
 
-![[IABP Console.png]]
+![](99%20-%20Meta/Assets/Images/IABP%20Console.png)
+
 ---
 
 _Last updated: 2026 · HVI ICU APP Team_
