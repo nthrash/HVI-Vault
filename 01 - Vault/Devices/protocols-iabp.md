@@ -79,8 +79,14 @@ The IABP uses **counterpulsation** — balloon inflation and deflation timed to 
 | **Late Inflation** (after dicrotic notch) | Delayed diastolic augmentation peak | Suboptimal coronary perfusion; reduced diastolic augmentation |
 | **Early Deflation** (too early in diastole) | Diastolic waveform drops prematurely | Suboptimal afterload reduction; retrograde coronary flow |
 | **Late Deflation** (into systole) | Elevated aortic end-diastolic pressure | Increased afterload; ↑ MVO₂; prolonged isovolumetric contraction phase; impedes ejection |
-
-
+#### Early Inflation
+![[IABP Early Inflation.png]]
+#### Late Inflation
+![[IABP Late Inflation.png]]
+#### Late Deflation
+![[IABP Late Deflation.png]]
+#### Early Deflation
+![[IABP Early Deflation.png]]
 
 ---
 
