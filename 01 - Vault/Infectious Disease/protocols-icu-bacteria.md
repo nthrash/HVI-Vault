@@ -1,42 +1,54 @@
 # ICU Bacteria: Clinical Reference Guide
 
-## Quick Reference Table
+## Quick Reference Tables
 
-| Organism | Gram Stain | Metabolism | Arrangement | First-Line Antibiotic(s) |
-|---|---|---|---|---|
-| *Staphylococcus aureus* (MSSA) | Positive | Facultative anaerobe | Clusters | Nafcillin / Oxacillin |
-| *Staphylococcus aureus* (MRSA) | Positive | Facultative anaerobe | Clusters | Vancomycin |
-| *Staphylococcus epidermidis* | Positive | Facultative anaerobe | Clusters | Vancomycin |
-| *Staphylococcus lugdunensis* | Positive | Facultative anaerobe | Clusters | Penicillin / Nafcillin |
-| *Streptococcus pneumoniae* | Positive | Facultative anaerobe | Diplococci / chains | Penicillin G / Amoxicillin |
-| *Streptococcus anginosus* group | Positive | Facultative anaerobe | Chains | Penicillin G / Amoxicillin |
-| Group A *Streptococcus* | Positive | Facultative anaerobe | Chains | Penicillin G |
-| Group B *Streptococcus* | Positive | Facultative anaerobe | Chains | Penicillin G |
-| *Enterococcus faecalis* | Positive | Facultative anaerobe | Pairs / chains | Ampicillin ± Gentamicin |
-| *Enterococcus faecium* | Positive | Facultative anaerobe | Pairs / chains | Vancomycin (VRE: Linezolid/Daptomycin) |
-| *Lactobacillus* species | Positive | Facultative anaerobe | Rods / chains | Penicillin / Amoxicillin |
-| *Listeria monocytogenes* | Positive | Facultative anaerobe | Short rods | Ampicillin ± Gentamicin |
-| *Clostridium difficile* | Positive | Obligate anaerobe | Rods | Vancomycin PO / Fidaxomicin |
-| *Clostridium botulinum* | Positive | Obligate anaerobe | Rods | Antitoxin (BAT); supportive care |
-| *Mycobacterium tuberculosis* | Not applicable (acid-fast) | Obligate aerobe | Rods | RIPE (Rifampin, Isoniazid, Pyrazinamide, Ethambutol) |
-| *Escherichia coli* | Negative | Facultative anaerobe | Rods | Ceftriaxone / Piperacillin-tazobactam |
-| *Klebsiella pneumoniae* | Negative | Facultative anaerobe | Rods | Ceftriaxone / Meropenem (KPC: Ceftazidime-avibactam) |
-| *Pseudomonas aeruginosa* | Negative | Obligate aerobe | Rods | Piperacillin-tazobactam / Cefepime |
-| *Acinetobacter* species | Negative | Obligate aerobe | Coccobacilli | Meropenem / Ampicillin-sulbactam |
-| *Enterobacter* species | Negative | Facultative anaerobe | Rods | Cefepime / Meropenem |
-| *Serratia marcescens* | Negative | Facultative anaerobe | Rods | Ceftriaxone / Cefepime |
-| *Proteus mirabilis* | Negative | Facultative anaerobe | Rods | Ampicillin / Ceftriaxone |
-| *Haemophilus influenzae* | Negative | Facultative anaerobe | Coccobacilli | Amoxicillin-clavulanate / Ceftriaxone |
-| *Moraxella catarrhalis* | Negative | Obligate aerobe | Diplococci | Amoxicillin-clavulanate / Azithromycin |
-| *Neisseria gonorrhoeae* | Negative | Obligate aerobe | Diplococci | Ceftriaxone |
-| *Neisseria meningitidis* | Negative | Obligate aerobe | Diplococci | Penicillin G / Ceftriaxone |
-| *Helicobacter pylori* | Negative | Microaerophile | Spiral rods | Triple therapy (PPI + Clarithromycin + Amoxicillin) |
-| *Legionella pneumophila* | Negative (poorly) | Obligate aerobe | Rods | Azithromycin / Fluoroquinolone |
-| *Bacteroides fragilis* | Negative | Obligate anaerobe | Rods | Metronidazole / Piperacillin-tazobactam |
-| *Bordetella pertussis* | Negative | Obligate aerobe | Coccobacilli | Azithromycin |
-| *Leptospira interrogans* | Not applicable (spirochete) | Obligate aerobe | Spiral | Penicillin G / Doxycycline |
-| *Treponema pallidum* | Not applicable (spirochete) | Microaerophile | Spiral | Penicillin G |
-| *Mycoplasma pneumoniae* | Not applicable (no cell wall) | Facultative anaerobe | Pleomorphic | Azithromycin / Doxycycline |
+### Gram-Positive Organisms
+
+| Organism | Metabolism | Arrangement | First-Line Antibiotic(s) |
+|---|---|---|---|
+| *S. aureus* (MSSA) | Facultative anaerobe | Clusters | Nafcillin / Oxacillin |
+| *S. aureus* (MRSA) | Facultative anaerobe | Clusters | Vancomycin |
+| *S. epidermidis* | Facultative anaerobe | Clusters | Vancomycin |
+| *S. lugdunensis* | Facultative anaerobe | Clusters | Penicillin / Nafcillin |
+| *S. pneumoniae* | Facultative anaerobe | Diplococci / chains | Penicillin G / Amoxicillin |
+| *S. anginosus* group | Facultative anaerobe | Chains | Penicillin G / Amoxicillin |
+| Group A *Streptococcus* | Facultative anaerobe | Chains | Penicillin G |
+| Group B *Streptococcus* | Facultative anaerobe | Chains | Penicillin G |
+| *E. faecalis* | Facultative anaerobe | Pairs / chains | Ampicillin ± Gentamicin |
+| *E. faecium* | Facultative anaerobe | Pairs / chains | Vancomycin; VRE: Linezolid / Daptomycin |
+| *Lactobacillus* spp. | Facultative anaerobe | Rods / chains | Penicillin / Amoxicillin |
+| *Listeria monocytogenes* | Facultative anaerobe | Short rods | Ampicillin ± Gentamicin |
+| *C. difficile* | Obligate anaerobe | Rods (spores) | Vancomycin PO / Fidaxomicin |
+| *C. botulinum* | Obligate anaerobe | Rods (spores) | Antitoxin (BAT); supportive |
+| *M. tuberculosis* *(acid-fast)* | Obligate aerobe | Rods | RIPE therapy |
+
+### Gram-Negative Organisms
+
+| Organism | Metabolism | Arrangement | First-Line Antibiotic(s) |
+|---|---|---|---|
+| *E. coli* | Facultative anaerobe | Rods | Ceftriaxone / Pip-tazo |
+| *K. pneumoniae* | Facultative anaerobe | Rods | Ceftriaxone / Meropenem; KPC: Ceftaz-avibactam |
+| *P. aeruginosa* | Obligate aerobe | Rods | Pip-tazo / Cefepime |
+| *Acinetobacter* spp. | Obligate aerobe | Coccobacilli | Meropenem / Amp-sulbactam |
+| *Enterobacter* spp. | Facultative anaerobe | Rods | Cefepime / Meropenem |
+| *S. marcescens* | Facultative anaerobe | Rods | Ceftriaxone / Cefepime |
+| *P. mirabilis* | Facultative anaerobe | Rods | Ampicillin / Ceftriaxone |
+| *H. influenzae* | Facultative anaerobe | Coccobacilli | Amox-clavulanate / Ceftriaxone |
+| *M. catarrhalis* | Obligate aerobe | Diplococci | Amox-clavulanate / Azithromycin |
+| *N. gonorrhoeae* | Obligate aerobe | Diplococci | Ceftriaxone 500 mg |
+| *N. meningitidis* | Obligate aerobe | Diplococci | Penicillin G / Ceftriaxone |
+| *H. pylori* | Microaerophile | Spiral rods | PPI + Clarithromycin + Amoxicillin |
+| *L. pneumophila* | Obligate aerobe | Rods | Azithromycin / Levofloxacin |
+| *B. fragilis* | Obligate anaerobe | Rods | Metronidazole / Pip-tazo |
+| *B. pertussis* | Obligate aerobe | Coccobacilli | Azithromycin |
+
+### Spirochetes & Atypicals
+
+| Organism | Gram Stain | Metabolism | First-Line Antibiotic(s) |
+|---|---|---|---|
+| *Leptospira interrogans* | Spirochete | Obligate aerobe | Penicillin G / Doxycycline |
+| *Treponema pallidum* | Spirochete | Microaerophile | Penicillin G |
+| *Mycoplasma pneumoniae* | No cell wall | Facultative anaerobe | Azithromycin / Doxycycline |
 
 ---
 

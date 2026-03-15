@@ -11,12 +11,12 @@
             "id": "1ace379bb3d7600d",
             "type": "leaf",
             "state": {
-              "type": "json",
+              "type": "pdf",
               "state": {
-                "file": "protocols.json"
+                "file": "01 - Vault/Hematology/protocols-clotting-cascade.pdf"
               },
-              "icon": "lucide-file",
-              "title": "protocols"
+              "icon": "lucide-file-text",
+              "title": "protocols-clotting-cascade"
             }
           }
         ]
@@ -194,10 +194,10 @@
   },
   "active": "1ace379bb3d7600d",
   "lastOpenFiles": [
+    "protocols.json",
     "01 - Vault/Hematology/protocols-clotting-cascade.pdf",
     "01 - Vault/Hematology",
     "resources.json",
-    "protocols.json",
     "link-status.json",
     "01 - Vault/Infectious Disease/protocols-icu-bacteria.md",
     "contacts.json",
