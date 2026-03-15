@@ -148,6 +148,14 @@
       "subtitle": "Clinical Reference Guide",
       "category": "infectious_disease",
       "contentFile": "01 - Vault/Infectious Disease/protocols-icu-bacteria.md"
+    },
+    {
+      "id": "clotting-cascade",
+      "title": "Clotting Cascade",
+      "subtitle": "Coagulation Pathways & Pharmacology",
+      "category": "hematology",
+      "type": "pdf",
+      "contentFile": "01 - Vault/Hematology/protocols-clotting-cascade.pdf"
     }
   ]
 }
