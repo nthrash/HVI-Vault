@@ -874,6 +874,26 @@
           "firstName": "Alice",
           "lastName": "Chu",
           "isPerson": true
+        },
+        {
+          "id": "antonioli_matthew",
+          "name": "Matthew Antonioli",
+          "role": "Cardiology Fellow",
+          "phone": "+1 (972) 977-9199",
+          "category": "cardiology",
+          "firstName": "Matthew",
+          "lastName": "Antonioli",
+          "isPerson": true
+        },
+        {
+          "id": "haidar_amier",
+          "name": "Amier Haidar",
+          "role": "Cardiology Fellow",
+          "phone": "+1 (713) 962-9452",
+          "category": "cardiology",
+          "firstName": "Amier",
+          "lastName": "Haidar",
+          "isPerson": true
         }
       ]
     },
