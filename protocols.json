@@ -215,6 +215,41 @@
       "subtitle": "Inpatient Optimization",
       "category": "cardiology",
       "contentFile": "01 - Vault/Cardiology/protocols-gdmt-hfref.md"
+    },
+    {
+      "id": "copd",
+      "title": "COPD",
+      "subtitle": "Diagnosis & Exacerbation Management",
+      "category": "pulmonary",
+      "contentFile": "01 - Vault/Pulmonary/protocols-copd.md"
+    },
+    {
+      "id": "clad",
+      "title": "Chronic Lung Allograft Dysfunction",
+      "subtitle": "CLAD — BOS & RAS",
+      "category": "pulmonary",
+      "contentFile": "01 - Vault/Pulmonary/protocols-clad.md"
+    },
+    {
+      "id": "hfnc",
+      "title": "High Flow Nasal Cannula",
+      "subtitle": "HFNC Clinical Guide",
+      "category": "pulmonary",
+      "contentFile": "01 - Vault/Pulmonary/protocols-hfnc.md"
+    },
+    {
+      "id": "difficult-airway",
+      "title": "Difficult Airway Management",
+      "subtitle": "Recognition & Preparation",
+      "category": "pulmonary",
+      "contentFile": "01 - Vault/Pulmonary/protocols-difficult-airway.md"
+    },
+    {
+      "id": "rsi",
+      "title": "Rapid Sequence Intubation",
+      "subtitle": "RSI — Drugs, Doses & Protocol",
+      "category": "pulmonary",
+      "contentFile": "01 - Vault/Pulmonary/protocols-rsi.md"
     }
   ]
 }
