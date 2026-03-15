@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "947a96cf4aab6122",
+        "id": "44bc8311c30e85b7",
         "type": "tabs",
         "children": [
           {
-            "id": "1ace379bb3d7600d",
+            "id": "7a67d14c5792823e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Vault/Cardiology/protocols-vasopressors-inotropes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "protocols-vasopressors-inotropes"
+              "title": "New tab"
             }
           }
         ]
@@ -194,24 +190,26 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1ace379bb3d7600d",
+  "active": "7a67d14c5792823e",
   "lastOpenFiles": [
-    "01 - Vault/Cardiology/protocols-antiarrhythmic-drugs.md",
+    "01 - Vault/Cardiology/protocols-gdmt-hfref.md",
+    "01 - Vault/Surgery/protocols-scip.md",
+    "01 - Vault/Surgery/protocols-post-op-bleeding.md",
+    "01 - Vault/Cardiology/protocols-right-heart-catheterization.pdf",
     "01 - Vault/Cardiology/protocols-vasopressors-inotropes.md",
+    "01 - Vault/Cardiology/protocols-antiarrhythmic-drugs.md",
     "01 - Vault/Cardiology/protocols-afterload-intrathoracic-pressure.md",
     "01 - Vault/Ultrasound/protocols-diaphragm-ultrasound.md",
     "01 - Vault/Ultrasound/protocols-vexus.pdf",
     "01 - Vault/Pulmonary/protocols-pulmonary-embolism.md",
     "01 - Vault/Devices/protocols-rv-failure-lvad.pdf",
     "01 - Vault/Ultrasound",
-    "01 - Vault/Surgery/protocols-post-op-bleeding.md",
     "01 - Vault/Nephrology/protocols-nephron-drawing.pdf",
     "01 - Vault/Hematology/protocols-clotting-cascade.pdf",
     "01 - Vault/Nephrology",
     "protocols.json",
     "01 - Vault/Hematology",
     "resources.json",
-    "link-status.json",
     "01 - Vault/Infectious Disease/protocols-icu-bacteria.md",
     "02 - Contacts/Contacts.md",
     "01 - Vault/Orientation/protocols-call-tree.md",
@@ -230,8 +228,6 @@
     "01 - Vault/Endocrine/protocols-glycemic-control-inpatient.md",
     "01 - Vault/Emergencies/protocol-quick-reference-codes.md",
     "01 - Vault/Pulmonary/protocols-vent-management.md",
-    "01 - Vault/Pulmonary/protocols-vent-basics.md",
-    "01 - Vault/Pulmonary/protocols-diaphragm-ultrasound.md",
     "99 - Meta/Assets/Images/Acute Cholangitis-1749537011225.png",
     "99 - Meta/Assets/Images/LVAD Pulsatility Index-1765872461334-optimized.png",
     "99 - Meta/Assets/Images/LVAD Pulsatility Index-1765872461334.png",

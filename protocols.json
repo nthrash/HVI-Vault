@@ -201,6 +201,20 @@
       "subtitle": "ICU Hemodynamic Support",
       "category": "cardiology",
       "contentFile": "01 - Vault/Cardiology/protocols-vasopressors-inotropes.md"
+    },
+    {
+      "id": "scip",
+      "title": "SCIP Protocol",
+      "subtitle": "Surgical Care Improvement Project",
+      "category": "surgery",
+      "contentFile": "01 - Vault/Surgery/protocols-scip.md"
+    },
+    {
+      "id": "gdmt-hfref",
+      "title": "GDMT for HFrEF",
+      "subtitle": "Inpatient Optimization",
+      "category": "cardiology",
+      "contentFile": "01 - Vault/Cardiology/protocols-gdmt-hfref.md"
     }
   ]
 }
