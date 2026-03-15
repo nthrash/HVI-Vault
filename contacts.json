@@ -864,6 +864,16 @@
           "firstName": "Carl",
           "lastName": "Zehner",
           "isPerson": true
+        },
+        {
+          "id": "chu_alice",
+          "name": "Alice Chu",
+          "role": "Cardiology Fellow",
+          "phone": "+1 (510) 378-0096",
+          "category": "cardiology",
+          "firstName": "Alice",
+          "lastName": "Chu",
+          "isPerson": true
         }
       ]
     },
@@ -1292,6 +1302,16 @@
           "firstName": "Saman",
           "lastName": "Siddiqui",
           "isPerson": true
+        },
+        {
+          "id": "bertini_christopher",
+          "name": "Christopher Bertini",
+          "role": "PCCM Fellow",
+          "phone": "+1 (409) 739-2167",
+          "category": "pccm",
+          "firstName": "Christopher",
+          "lastName": "Bertini",
+          "isPerson": true
         }
       ]
     },
@@ -1695,7 +1715,7 @@
       "contacts": [
         {
           "id": "er_reading_room",
-          "name": "Reading Room",
+          "name": "Reading Room (Night)",
           "role": "Reading Room",
           "phone": "7137042003",
           "category": "other",
