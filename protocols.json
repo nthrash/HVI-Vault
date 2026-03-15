@@ -187,6 +187,13 @@
       "category": "ultrasound",
       "type": "pdf",
       "contentFile": "01 - Vault/Ultrasound/protocols-vexus.pdf"
+    },
+    {
+      "id": "afterload-intrathoracic-pressure",
+      "title": "Afterload & Intrathoracic Pressure",
+      "subtitle": "Cardiopulmonary Physiology",
+      "category": "cardiology",
+      "contentFile": "01 - Vault/Cardiology/protocols-afterload-intrathoracic-pressure.md"
     }
   ]
 }

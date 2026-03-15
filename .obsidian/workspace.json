@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Vault/Pulmonary/protocols-pulmonary-embolism.md",
+                "file": "01 - Vault/Cardiology/protocols-afterload-intrathoracic-pressure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "protocols-pulmonary-embolism"
+              "title": "protocols-afterload-intrathoracic-pressure"
             }
           }
         ]
@@ -197,8 +197,9 @@
   "active": "1ace379bb3d7600d",
   "lastOpenFiles": [
     "01 - Vault/Ultrasound/protocols-diaphragm-ultrasound.md",
-    "01 - Vault/Pulmonary/protocols-pulmonary-embolism.md",
     "01 - Vault/Ultrasound/protocols-vexus.pdf",
+    "01 - Vault/Pulmonary/protocols-pulmonary-embolism.md",
+    "01 - Vault/Cardiology/protocols-afterload-intrathoracic-pressure.md",
     "01 - Vault/Devices/protocols-rv-failure-lvad.pdf",
     "01 - Vault/Ultrasound",
     "01 - Vault/Surgery/protocols-post-op-bleeding.md",
@@ -230,9 +231,7 @@
     "01 - Vault/Pulmonary/protocols-vent-management.md",
     "01 - Vault/Pulmonary/protocols-vent-basics.md",
     "01 - Vault/Pulmonary/protocols-diaphragm-ultrasound.md",
-    "06 - Resonance List/Optimizing lung transplant care.md",
     "99 - Meta/Assets/Images/Acute Cholangitis-1749537011225.png",
-    "01 - Vault/Endocrine/Glycemic Control Inpatient.md",
     "99 - Meta/Assets/Images/LVAD Pulsatility Index-1765872461334-optimized.png",
     "99 - Meta/Assets/Images/LVAD Pulsatility Index-1765872461334.png",
     "99 - Meta/Assets/Images/elderly.arterial.waveform.png",
