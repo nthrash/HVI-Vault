@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Onboarding/IT & Systems/onboarding-email-iphone-config.md",
+                "file": "03 - Onboarding/Clinical Access/onboarding-credentialing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "onboarding-email-iphone-config"
+              "title": "onboarding-credentialing"
             }
           }
         ]
@@ -196,12 +196,13 @@
   },
   "active": "1618a56dceaf9660",
   "lastOpenFiles": [
+    "03 - Onboarding/Clinical Access/onboarding-clinical-resources-access.md",
+    "03 - Onboarding/IT & Systems/onboarding-email-iphone-config.md",
     "99 - Meta/Assets/Images/Screenshot 2026-03-16 at 00.41.38.png",
     "99 - Meta/Assets/Images/Screenshot 2026-03-16 at 00.40.19.png",
     "99 - Meta/Assets/Images/Screenshot 2026-03-16 at 00.38.50.png",
     "99 - Meta/Assets/Images/Screenshot 2026-03-16 at 00.38.29.png",
     "03 - Onboarding/IT & Systems/onboarding-epic-tips.md",
-    "03 - Onboarding/IT & Systems/onboarding-email-iphone-config.md",
     "03 - Onboarding/IT & Systems/onboarding-printer-selection.md",
     "03 - Onboarding/IT & Systems/onboarding-shared-drive-access.md",
     "03 - Onboarding/IT & Systems/onboarding-wifi-setup.md",
@@ -214,7 +215,6 @@
     "03 - Onboarding/Clinical Access/onboarding-mhu-online.md",
     "03 - Onboarding/Clinical Access/onboarding-hospital-policies.md",
     "03 - Onboarding/Clinical Access/onboarding-credentialing.md",
-    "03 - Onboarding/Clinical Access/onboarding-clinical-resources-access.md",
     "03 - Onboarding/Unit Operations/onboarding-signout.md",
     "03 - Onboarding/Unit Operations/onboarding-scheduling-pto.md",
     "03 - Onboarding/Unit Operations/onboarding-overnight-expectations.md",
@@ -240,7 +240,6 @@
     "99 - Meta/Assets/Images/IABP Late Deflation.png",
     "99 - Meta/Assets/Images/IABP Console.png",
     "99 - Meta/Assets/Images/elderly.arterial.waveform.png",
-    "99 - Meta/Assets/Images/IABP Early Deflation.png",
-    "99 - Meta/Assets/Images/IABP Early Inflation.png"
+    "99 - Meta/Assets/Images/IABP Early Deflation.png"
   ]
 }
