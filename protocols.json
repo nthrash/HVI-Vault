@@ -9,13 +9,6 @@
        "contentFile": "01 - Vault/Surgery/protocols-post-op-bleeding.md"
     },
     { 
-      "id": "protocols-callin-policy", 
-       "title": "Call In policy", 
-       "subtitle": "Heart Failure Guidelines", 
-       "category": "orientation",
-       "contentFile": "01 - Vault/Orientation/protocols-callin-policy.md"
-    },
-    { 
       "id": "lvad-pulsatility-index", 
        "title": "LVAD Pulsatility Index", 
        "subtitle": "Heart Failure Guidelines", 
@@ -42,27 +35,6 @@
       "subtitle": "Troubleshooting",
       "category": "devices",
       "contentFile": "01 - Vault/Devices/protocols-abnormal-arterial-waveforms.md"
-    },
-    {
-      "id": "icu-np-orientation",
-      "title": "HFICU NP Orientation",
-      "subtitle": "Orientation",
-      "category": "orientation",
-      "contentFile": "01 - Vault/Orientation/protocols-icu-np-orientation.md"
-    },
-    {
-      "id": "call-tree",
-      "title": "HVI ICU On-Call Protocol",
-      "subtitle": "Orientation",
-      "category": "orientation",
-      "contentFile": "01 - Vault/Orientation/protocols-call-tree.md"
-    },
-    {
-      "id": "overnight-expectations",
-      "title": "HFICU Overnight Expectations",
-      "subtitle": "Orientation",
-      "category": "orientation",
-      "contentFile": "01 - Vault/Orientation/protocols-overnight-expectations.md"
     },
     {
       "id": "diaphragm-ultrasound",

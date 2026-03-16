@@ -11,14 +11,12 @@
             "id": "7a67d14c5792823e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "json",
               "state": {
-                "file": "01 - Vault/Orientation/protocols-call-tree.md",
-                "mode": "source",
-                "source": false
+                "file": "protocols.json"
               },
               "icon": "lucide-file",
-              "title": "protocols-call-tree"
+              "title": "protocols"
             }
           }
         ]
@@ -194,8 +192,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "37148d93af0bc366",
+  "active": "7a67d14c5792823e",
   "lastOpenFiles": [
+    "03 - Onboarding/onboarding-zvp-imaging-setup.md",
+    "03 - Onboarding/onboarding-overnight-expectations.md",
+    "03 - Onboarding/onboarding-icu-np-orientation.md",
+    "03 - Onboarding/onboarding-callin-policy.md",
+    "03 - Onboarding/onboarding-call-tree.md",
+    "03 - Onboarding/protocols-overnight-expectations.md",
+    "03 - Onboarding/protocols-icu-np-orientation.md",
+    "03 - Onboarding/protocols-callin-policy.md",
+    "03 - Onboarding/protocols-call-tree.md",
+    "resources.json",
+    "contacts.json",
+    "link-status.json",
+    "01 - Vault/Orientation/protocols-call-tree.md",
+    "03 - Onboarding/zvp-imaging-setup.md",
+    "03 - Onboarding",
     "01 - Vault/Pulmonary/protocols-pulmonary-embolism.md",
     "99 - Meta/Assets/Images/IABP Late Deflation.png",
     "99 - Meta/Assets/Images/IABP Console.png",
@@ -218,26 +231,12 @@
     "01 - Vault/Pulmonary/protocols-clad.md",
     "01 - Vault/Cardiology/protocols-gdmt-hfref.md",
     "01 - Vault/Surgery/protocols-scip.md",
-    "01 - Vault/Surgery/protocols-post-op-bleeding.md",
     "01 - Vault/Cardiology/protocols-right-heart-catheterization.pdf",
-    "01 - Vault/Cardiology/protocols-vasopressors-inotropes.md",
-    "01 - Vault/Cardiology/protocols-antiarrhythmic-drugs.md",
-    "01 - Vault/Cardiology/protocols-afterload-intrathoracic-pressure.md",
-    "01 - Vault/Ultrasound/protocols-diaphragm-ultrasound.md",
     "01 - Vault/Ultrasound/protocols-vexus.pdf",
     "01 - Vault/Devices/protocols-rv-failure-lvad.pdf",
     "01 - Vault/Ultrasound",
     "01 - Vault/Nephrology/protocols-nephron-drawing.pdf",
     "01 - Vault/Hematology/protocols-clotting-cascade.pdf",
-    "01 - Vault/Nephrology",
-    "protocols.json",
-    "01 - Vault/Hematology",
-    "resources.json",
-    "01 - Vault/Infectious Disease/protocols-icu-bacteria.md",
-    "02 - Contacts/Contacts.md",
-    "01 - Vault/Orientation/protocols-call-tree.md",
-    "01 - Vault/Cardiology/protocols-myocarditis.md",
-    "01 - Vault/Orientation/protocols-icu-np-orientation.md",
     "99 - Meta/Assets/Images/Acute Cholangitis-1749537011225.png",
     "99 - Meta/Assets/Images/LVAD Pulsatility Index-1765872461334-optimized.png",
     "99 - Meta/Assets/Images/LVAD Pulsatility Index-1765872461334.png"
