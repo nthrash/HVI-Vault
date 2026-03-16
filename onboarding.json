@@ -58,11 +58,11 @@
       "contentFile": "03 - Onboarding/Unit Operations/onboarding-scheduling-pto.md"
     },
     {
-      "id": "zvp-imaging-setup",
-      "title": "ZVP Imaging Setup",
+      "id": "zfp-imaging-setup",
+      "title": "ZFP Imaging Setup",
       "subtitle": "How to view unit imaging",
       "category": "it-systems",
-      "contentFile": "03 - Onboarding/IT & Systems/onboarding-zvp-imaging-setup.md",
+      "contentFile": "03 - Onboarding/IT & Systems/onboarding-zfp-imaging-setup.md",
       "networkRequired": true
     },
     {

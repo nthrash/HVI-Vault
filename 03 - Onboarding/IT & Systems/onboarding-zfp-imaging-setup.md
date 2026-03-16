@@ -3,9 +3,9 @@ title: ZVP Imaging Setup
 description: How to access and configure ZVP for viewing patient imaging in the unit
 ---
 
-# ZVP Imaging Setup
+# ZFP Imaging Setup
 
-ZVP allows you to view all imaging (CT, X-ray, echo, etc.) for patients in the unit directly from a workstation. This guide walks you through initial setup and daily use.
+ZFP allows you to view all imaging (CT, X-ray, echo, etc.) for patients in the unit directly from a workstation. This guide walks you through initial setup and daily use.
 
 ## Prerequisites
 
@@ -36,4 +36,4 @@ Once configured, here's how to view imaging for your patients:
 
 - <!-- TODO: Any common gotchas or things that trip people up? -->
 - <!-- TODO: Does it time out? Need to re-authenticate? -->
-- If you're having trouble accessing ZVP, contact IT at <!-- TODO: IT phone number or email -->
+- If you're having trouble accessing ZFP, contact IT at <!-- TODO: IT phone number or email -->
