@@ -1,0 +1,235 @@
+{
+  "version": 1,
+  "categories": [
+    { "id": "unit-operations", "name": "Unit Operations", "icon": "medical-outline", "color": "#007AFF" },
+    { "id": "it-systems", "name": "IT & Systems", "icon": "laptop-outline", "color": "#5856D6" },
+    { "id": "hr-benefits", "name": "HR & Benefits", "icon": "briefcase-outline", "color": "#34C759" },
+    { "id": "clinical-access", "name": "Clinical Access", "icon": "school-outline", "color": "#FF9500" },
+    { "id": "getting-around", "name": "Getting Around", "icon": "map-outline", "color": "#FF3B30" }
+  ],
+  "documents": [
+    {
+      "id": "icu-np-orientation",
+      "title": "HFICU NP Orientation",
+      "subtitle": "What to expect and how to prepare",
+      "category": "unit-operations",
+      "contentFile": "03 - Onboarding/Unit Operations/onboarding-icu-np-orientation.md"
+    },
+    {
+      "id": "call-tree",
+      "title": "HVI ICU On-Call Protocol",
+      "subtitle": "Who to call and when",
+      "category": "unit-operations",
+      "contentFile": "03 - Onboarding/Unit Operations/onboarding-call-tree.md"
+    },
+    {
+      "id": "callin-policy",
+      "title": "Call-In Policy",
+      "subtitle": "Attendance and call-in procedures",
+      "category": "unit-operations",
+      "contentFile": "03 - Onboarding/Unit Operations/onboarding-callin-policy.md"
+    },
+    {
+      "id": "overnight-expectations",
+      "title": "HFICU Overnight Expectations",
+      "subtitle": "What overnight shifts look like",
+      "category": "unit-operations",
+      "contentFile": "03 - Onboarding/Unit Operations/onboarding-overnight-expectations.md"
+    },
+    {
+      "id": "rounding-structure",
+      "title": "Rounding Structure",
+      "subtitle": "Daily workflow and team roles",
+      "category": "unit-operations",
+      "contentFile": "03 - Onboarding/Unit Operations/onboarding-rounding-structure.md"
+    },
+    {
+      "id": "signout",
+      "title": "Signout",
+      "subtitle": "Shared drive location and remote access",
+      "category": "unit-operations",
+      "contentFile": "03 - Onboarding/Unit Operations/onboarding-signout.md"
+    },
+    {
+      "id": "scheduling-pto",
+      "title": "Scheduling & PTO",
+      "subtitle": "Group rules, TeamUp, and time-off requests",
+      "category": "unit-operations",
+      "contentFile": "03 - Onboarding/Unit Operations/onboarding-scheduling-pto.md"
+    },
+    {
+      "id": "zvp-imaging-setup",
+      "title": "ZVP Imaging Setup",
+      "subtitle": "How to view unit imaging",
+      "category": "it-systems",
+      "contentFile": "03 - Onboarding/IT & Systems/onboarding-zvp-imaging-setup.md",
+      "networkRequired": true
+    },
+    {
+      "id": "email-iphone-config",
+      "title": "Email & iPhone Setup",
+      "subtitle": "Hospital email and mobile configuration",
+      "category": "it-systems",
+      "contentFile": "03 - Onboarding/IT & Systems/onboarding-email-iphone-config.md"
+    },
+    {
+      "id": "wifi-setup",
+      "title": "Wi-Fi Setup",
+      "subtitle": "Which network to connect to",
+      "category": "it-systems",
+      "contentFile": "03 - Onboarding/IT & Systems/onboarding-wifi-setup.md"
+    },
+    {
+      "id": "printer-selection",
+      "title": "Printer Selection",
+      "subtitle": "Where to print and how",
+      "category": "it-systems",
+      "contentFile": "03 - Onboarding/IT & Systems/onboarding-printer-selection.md"
+    },
+    {
+      "id": "shared-drive-access",
+      "title": "Shared Drive Access",
+      "subtitle": "W: and P: drives, including from home",
+      "category": "it-systems",
+      "contentFile": "03 - Onboarding/IT & Systems/onboarding-shared-drive-access.md"
+    },
+    {
+      "id": "epic-tips",
+      "title": "Epic Tips",
+      "subtitle": "Dot phrases, order sets, and note templates",
+      "category": "it-systems",
+      "contentFile": "03 - Onboarding/IT & Systems/onboarding-epic-tips.md"
+    },
+    {
+      "id": "benefits-access",
+      "title": "Benefits Access",
+      "subtitle": "How to access and manage your benefits",
+      "category": "hr-benefits",
+      "contentFile": "03 - Onboarding/HR & Benefits/onboarding-benefits-access.md"
+    },
+    {
+      "id": "paychecks-workday",
+      "title": "Paychecks & Workday",
+      "subtitle": "Pay stubs and Workday navigation",
+      "category": "hr-benefits",
+      "contentFile": "03 - Onboarding/HR & Benefits/onboarding-paychecks-workday.md"
+    },
+    {
+      "id": "workday-vs-hr-portal",
+      "title": "Workday vs HR Portal",
+      "subtitle": "What lives where",
+      "category": "hr-benefits",
+      "contentFile": "03 - Onboarding/HR & Benefits/onboarding-workday-vs-hr-portal.md"
+    },
+    {
+      "id": "fidelity-retirement",
+      "title": "Fidelity Retirement",
+      "subtitle": "403(b) and retirement account access",
+      "category": "hr-benefits",
+      "externalUrl": "https://www.fidelity.com",
+      "networkRequired": false
+    },
+    {
+      "id": "licensing-reimbursement",
+      "title": "Licensing Reimbursement",
+      "subtitle": "How to submit for reimbursement",
+      "category": "hr-benefits",
+      "contentFile": "03 - Onboarding/HR & Benefits/onboarding-licensing-reimbursement.md"
+    },
+    {
+      "id": "licensing-renewals",
+      "title": "Licensing Renewals",
+      "subtitle": "What needs renewal and when",
+      "category": "hr-benefits",
+      "contentFile": "03 - Onboarding/HR & Benefits/onboarding-licensing-renewals.md"
+    },
+    {
+      "id": "malpractice-insurance",
+      "title": "Malpractice Insurance",
+      "subtitle": "Always keep a copy of your certificate",
+      "category": "hr-benefits",
+      "contentFile": "03 - Onboarding/HR & Benefits/onboarding-malpractice-insurance.md"
+    },
+    {
+      "id": "variance-reporting",
+      "title": "Variance Reporting",
+      "subtitle": "How to report problems or safety concerns",
+      "category": "hr-benefits",
+      "contentFile": "03 - Onboarding/HR & Benefits/onboarding-variance-reporting.md"
+    },
+    {
+      "id": "ask-hr",
+      "title": "Ask HR A Question",
+      "subtitle": "Submit any HR question online",
+      "category": "hr-benefits",
+      "externalUrl": "https://mhone.memorialhermann.org/home",
+      "networkRequired": true
+    },
+    {
+      "id": "pto-buyback",
+      "title": "PTO Buyback & Selling",
+      "subtitle": "Hospital PTO balance and buyback rules",
+      "category": "hr-benefits",
+      "externalUrl": "https://mhone.memorialhermann.org/home",
+      "networkRequired": true
+    },
+    {
+      "id": "clinical-resources-access",
+      "title": "Clinical Resources Access",
+      "subtitle": "Activating UpToDate, Amion, and other tools",
+      "category": "clinical-access",
+      "contentFile": "03 - Onboarding/Clinical Access/onboarding-clinical-resources-access.md"
+    },
+    {
+      "id": "mhu-online",
+      "title": "MHU Online",
+      "subtitle": "Education hub and assigned modules",
+      "category": "clinical-access",
+      "contentFile": "03 - Onboarding/Clinical Access/onboarding-mhu-online.md"
+    },
+    {
+      "id": "hospital-policies",
+      "title": "Hospital Policies",
+      "subtitle": "How to find policies on the intranet",
+      "category": "clinical-access",
+      "contentFile": "03 - Onboarding/Clinical Access/onboarding-hospital-policies.md",
+      "networkRequired": true
+    },
+    {
+      "id": "credentialing",
+      "title": "Credentialing",
+      "subtitle": "Timeline, documents, and Medical Staff Roster",
+      "category": "clinical-access",
+      "contentFile": "03 - Onboarding/Clinical Access/onboarding-credentialing.md"
+    },
+    {
+      "id": "intranet",
+      "title": "Memorial Hermann Intranet",
+      "subtitle": "MHOne portal",
+      "category": "clinical-access",
+      "externalUrl": "https://mhone.memorialhermann.org/home",
+      "networkRequired": true
+    },
+    {
+      "id": "parking",
+      "title": "Parking",
+      "subtitle": "Where to park and how to get a pass",
+      "category": "getting-around",
+      "contentFile": "03 - Onboarding/Getting Around/onboarding-parking.md"
+    },
+    {
+      "id": "lounge-break-area",
+      "title": "Lounge & Break Area",
+      "subtitle": "R455 Robertson Building, 4th floor",
+      "category": "getting-around",
+      "contentFile": "03 - Onboarding/Getting Around/onboarding-lounge-break-area.md"
+    },
+    {
+      "id": "cafeteria-food",
+      "title": "Cafeteria & Food Options",
+      "subtitle": "Where to eat and cafeteria hours",
+      "category": "getting-around",
+      "contentFile": "03 - Onboarding/Getting Around/onboarding-cafeteria-food.md"
+    }
+  ]
+}

@@ -64,6 +64,17 @@ async function main() {
     console.warn('Could not read link-status.json:', err.message);
   }
 
+  // Read onboarding.json
+  let onboarding = null;
+  try {
+    const raw = fs.readFileSync('onboarding.json', 'utf-8');
+    onboarding = JSON.parse(raw);
+    payload.onboarding = onboarding;
+    console.log(`Loaded onboarding.json (${onboarding.documents?.length || 0} documents)`);
+  } catch (err) {
+    console.warn('Could not read onboarding.json:', err.message);
+  }
+
   // Read and process protocol markdown files
   if (protocols && protocols.protocols) {
     const protocolContents = [];
@@ -108,6 +119,58 @@ async function main() {
 
     payload.protocolContents = protocolContents;
     console.log(`\nTotal protocol contents: ${protocolContents.length}`);
+  }
+
+  // Read and process onboarding markdown files
+  if (onboarding && onboarding.documents) {
+    const onboardingContents = [];
+
+    for (const doc of onboarding.documents) {
+      // Skip documents without content files (external URL only)
+      if (!doc.contentFile) {
+        console.log(`Skipping external-only: ${doc.id}`);
+        continue;
+      }
+
+      // Skip PDFs
+      if (doc.type === 'pdf') {
+        console.log(`Skipping PDF: ${doc.id}`);
+        continue;
+      }
+
+      const filename = doc.contentFile;
+      const filePath = path.resolve(filename);
+
+      if (!fs.existsSync(filePath)) {
+        console.warn(`Onboarding file not found: ${filename}`);
+        continue;
+      }
+
+      try {
+        let markdown = fs.readFileSync(filePath, 'utf-8');
+
+        // Strip YAML frontmatter
+        markdown = markdown.replace(/^---\n[\s\S]*?\n---\n/, '');
+
+        // Rewrite relative image paths to GitHub raw URLs
+        markdown = markdown.replace(
+          /!\[([^\]]*)\]\((?!https?:\/\/)([^)]+)\)/g,
+          (_, alt, imgPath) => {
+            const cleanPath = imgPath.replace(/^\//, '');
+            const encodedPath = encodeURI(decodeURI(cleanPath));
+            return `![${alt}](${GITHUB_RAW_BASE}/${encodedPath})`;
+          }
+        );
+
+        onboardingContents.push({ id: doc.id, content: markdown });
+        console.log(`Processed onboarding: ${doc.id} (${filename})`);
+      } catch (err) {
+        console.warn(`Error processing ${filename}:`, err.message);
+      }
+    }
+
+    payload.onboardingContents = onboardingContents;
+    console.log(`\nTotal onboarding contents: ${onboardingContents.length}`);
   }
 
   // POST to sync endpoint
