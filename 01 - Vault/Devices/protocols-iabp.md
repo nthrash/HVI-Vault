@@ -74,12 +74,12 @@ The IABP uses **counterpulsation** — balloon inflation and deflation timed to 
 
 ### Timing Errors
 
-| Error | Waveform Finding | Consequence |
-|-------|-----------------|-------------|
-| **Early Inflation** (before dicrotic notch) | Inflation before incisura on arterial waveform | ↑ LVEDP; aortic valve closes prematurely; ↑ MVO₂; potential AR worsening |
-| **Late Inflation** (after dicrotic notch) | Delayed diastolic augmentation peak | Suboptimal coronary perfusion; reduced diastolic augmentation |
-| **Early Deflation** (too early in diastole) | Diastolic waveform drops prematurely | Suboptimal afterload reduction; retrograde coronary flow |
-| **Late Deflation** (into systole) | Elevated aortic end-diastolic pressure | Increased afterload; ↑ MVO₂; prolonged isovolumetric contraction phase; impedes ejection |
+| Error                                       | Waveform Finding                               | Consequence                                                                              |
+| ------------------------------------------- | ---------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| **Early Inflation** (before dicrotic notch) | Inflation before incisura on arterial waveform | ↑ LVEDP; aortic valve closes prematurely; ↑ MVO₂; potential AR worsening                 |
+| **Late Inflation** (after dicrotic notch)   | Delayed diastolic augmentation peak            | Suboptimal coronary perfusion; reduced diastolic augmentation                            |
+| **Early Deflation** (too early in diastole) | Diastolic waveform drops prematurely           | Suboptimal afterload reduction; retrograde coronary flow                                 |
+| **Late Deflation** (into systole)           | Elevated aortic end-diastolic pressure         | Increased afterload; ↑ MVO₂; prolonged isovolumetric contraction phase; impedes ejection |
 
 #### Early Inflation
 ![](99%20-%20Meta/Assets/Images/IABP%20Early%20Inflation.png)
