@@ -12,6 +12,7 @@
 
 const fs = require('fs');
 const path = require('path');
+const { execSync } = require('child_process');
 
 const GITHUB_RAW_BASE = 'https://raw.githubusercontent.com/nthrash/HVI-Vault/main';
 
@@ -44,6 +45,25 @@ async function main() {
     console.log(`Loaded protocols.json (${protocols.protocols?.length || 0} protocols)`);
   } catch (err) {
     console.warn('Could not read protocols.json:', err.message);
+  }
+
+  // Enrich protocols with git last-modified timestamps
+  if (protocols && protocols.protocols) {
+    for (const proto of protocols.protocols) {
+      const filename = proto.contentFile || `protocol-${proto.id}.md`;
+      try {
+        const timestamp = execSync(
+          `git log -1 --format=%cI -- "${filename}"`,
+          { encoding: 'utf-8' }
+        ).trim();
+        if (timestamp) {
+          proto.lastUpdated = timestamp;
+        }
+      } catch (err) {
+        console.warn(`Could not get git timestamp for ${filename}:`, err.message);
+      }
+    }
+    console.log('Enriched protocols with git timestamps');
   }
 
   // Read resources.json

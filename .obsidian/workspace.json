@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Onboarding/Unit Operations/onboarding-overnight-expectations.md",
+                "file": "03 - Onboarding/Unit Operations/onboarding-signout.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "onboarding-overnight-expectations"
+              "title": "onboarding-signout"
             }
           }
         ]
@@ -196,6 +196,12 @@
   },
   "active": "1618a56dceaf9660",
   "lastOpenFiles": [
+    "03 - Onboarding/Unit Operations/onboarding-scheduling-pto.md",
+    "03 - Onboarding/Unit Operations/onboarding-rounding-structure.md",
+    "03 - Onboarding/Unit Operations/onboarding-overnight-expectations.md",
+    "03 - Onboarding/Unit Operations/onboarding-icu-np-orientation.md",
+    "03 - Onboarding/Unit Operations/onboarding-call-tree.md",
+    "03 - Onboarding/Unit Operations/onboarding-callin-policy.md",
     "03 - Onboarding/IT & Systems/onboarding-zfp-imaging-setup.md",
     "onboarding.json",
     "03 - Onboarding/IT & Systems/onboarding-shared-drive-access.md",
@@ -222,11 +228,6 @@
     "03 - Onboarding/IT & Systems/onboarding-epic-tips.md",
     "03 - Onboarding/IT & Systems/onboarding-email-iphone-config.md",
     "03 - Onboarding/IT & Systems",
-    "03 - Onboarding/Unit Operations/onboarding-signout.md",
-    "03 - Onboarding/Unit Operations/onboarding-scheduling-pto.md",
-    "03 - Onboarding/Unit Operations/onboarding-rounding-structure.md",
-    "03 - Onboarding/Unit Operations/onboarding-overnight-expectations.md",
-    "03 - Onboarding/Unit Operations/onboarding-icu-np-orientation.md",
     "03 - Onboarding/Unit Operations",
     "resources.json",
     "contacts.json",
