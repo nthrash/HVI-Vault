@@ -49,18 +49,18 @@ Update the **Morning Text.docx** file (located in the Heart Failure folder on th
 - PCCM Day Attending
 - PCCM Day Fellow
 
-> On-call physicians can be found on the **first tab** of the HVI Nexus app. Make sure the correct date is selected at the top using the arrows. For night shift, select the date you **started** the shift, not the end date.
+> On-call physicians can be found on the **On Call** tab of the HVI Nexus app. Make sure the correct date is selected at the top using the arrows. For night shift, select the date you **started** the shift, not the end date.
 
 #### Surgery Rounds (0600 - 0645)
 
-Round with **Dr. Salas** or **Dr. Marcano** (arrival time varies). Be ready with your overnight summary before they arrive.
+Round with **Dr. Salas** or **Dr. Marcano** (arrival time varies). Be ready with your overnight summary before they arrive as well as PTTs for patients on heparin gtts.
 
 #### Morning Conference Call (0700)
 
 - Dr. Nathan or the overnight attending will open with: *"Okay, let's get started — overnight events"*
 - Go **room by room**: state the room number and patient name, then give a brief overnight summary
   - If nothing happened: *"No acute events"*
-  - For **admissions**: preface with *"I'll let Dr. [attending] go over the details, but briefly..."* then give pertinent highlights — the overnight on-call cardiology attending will cover the full admission details
+  - For **admissions**: preface with *"I'll let Dr. [attending] go over the details, but briefly..."* then give pertinent highlights — the overnight on-call cardiology attending will cover the full admission details after we finish the overnight events
 - Stay on the call through the rest of the meeting until it ends (~0715)
 
 #### Leaving the Unit
