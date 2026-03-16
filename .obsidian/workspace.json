@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Onboarding/Unit Operations/onboarding-call-tree.md",
+                "file": "03 - Onboarding/IT & Systems/onboarding-zfp-imaging-setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "onboarding-call-tree"
+              "title": "onboarding-zfp-imaging-setup"
             }
           }
         ]
@@ -196,6 +196,11 @@
   },
   "active": "1618a56dceaf9660",
   "lastOpenFiles": [
+    "99 - Meta/Assets/Images/ZFP2.png",
+    "99 - Meta/Assets/Images/ZFP1.png",
+    "03 - Onboarding/IT & Systems/onboarding-printer-selection.md",
+    "03 - Onboarding/IT & Systems/onboarding-zfp-imaging-setup.md",
+    "03 - Onboarding/Unit Operations/onboarding-call-tree.md",
     "03 - Onboarding/Unit Operations/onboarding-rounding-structure.md",
     "03 - Onboarding/Unit Operations/onboarding-callin-policy.md",
     "03 - Onboarding/Clinical Access/onboarding-mhu-online.md",
@@ -207,8 +212,6 @@
     "03 - Onboarding/Unit Operations/onboarding-scheduling-pto.md",
     "03 - Onboarding/Unit Operations/onboarding-overnight-expectations.md",
     "03 - Onboarding/Unit Operations/onboarding-icu-np-orientation.md",
-    "03 - Onboarding/Unit Operations/onboarding-call-tree.md",
-    "03 - Onboarding/IT & Systems/onboarding-zfp-imaging-setup.md",
     "onboarding.json",
     "03 - Onboarding/HR & Benefits/onboarding-malpractice-insurance.md",
     "protocols.json",
@@ -225,8 +228,6 @@
     "03 - Onboarding/HR & Benefits/onboarding-benefits-access.md",
     "03 - Onboarding/HR & Benefits",
     "03 - Onboarding/IT & Systems/onboarding-wifi-setup.md",
-    "03 - Onboarding/IT & Systems/onboarding-printer-selection.md",
-    "03 - Onboarding/IT & Systems/onboarding-epic-tips.md",
     "03 - Onboarding/IT & Systems",
     "03 - Onboarding/Unit Operations",
     "resources.json",
@@ -240,7 +241,6 @@
     "99 - Meta/Assets/Images/IABP Late Inflation.png",
     "99 - Meta/Assets/Images/IABP Normal waveform.png",
     "99 - Meta/Assets/Images/Acute Cholangitis-1749537011225.png",
-    "99 - Meta/Assets/Images/LVAD Pulsatility Index-1765872461334-optimized.png",
-    "99 - Meta/Assets/Images/LVAD Pulsatility Index-1765872461334.png"
+    "99 - Meta/Assets/Images/LVAD Pulsatility Index-1765872461334-optimized.png"
   ]
 }

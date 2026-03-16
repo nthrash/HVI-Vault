@@ -5,7 +5,14 @@ description: Group PTO rules, holiday scheduling, and time-off request process
 
 # Scheduling & PTO
 
-<!-- TODO: How far in advance to notify, max consecutive days, how to submit in TeamUp, who to notify (scheduler/APP lead) -->
+## Vacation Request Guidelines
+
+- All requests **> 3 days** must be approved by **Amanda**
+- All requested days off must be submitted at least **60 days** in advance
+- Vacation **> 7 days** must be submitted **4 months** in advance to guarantee approval
+- **Max off at one time**: 2 on days, 1 on nights — keep this in mind when requesting
+- **Weekends** should be fair and even; multiple weekends off in the same month may not be approved
+- If a request is not approved, you can **switch shifts** with someone else to cover the days you want off
 
 ## Memorial Hermann Holidays
 

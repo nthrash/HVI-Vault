@@ -5,4 +5,8 @@ description: Which hospital network to connect to and how
 
 # Wi-Fi Setup
 
-<!-- TODO: Employee network name, how to connect, any registration steps -->
+Connect to **MH_GUEST** — no password required.
+
+
+---
+_Last updated: 2026 · HVI ICU APP Team_

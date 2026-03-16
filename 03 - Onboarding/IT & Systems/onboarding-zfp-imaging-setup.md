@@ -1,39 +1,61 @@
 ---
-title: ZVP Imaging Setup
-description: How to access and configure ZVP for viewing patient imaging in the unit
+title: ZFP Imaging Setup
+description: How to access and configure ZFP for viewing patient imaging in the unit
 ---
 
 # ZFP Imaging Setup
 
-ZFP allows you to view all imaging (CT, X-ray, echo, etc.) for patients in the unit directly from a workstation. This guide walks you through initial setup and daily use.
+ZFP allows you to view all imaging (CT, X-ray, echo, etc.) for patients in the unit directly from a workstation.
 
-## Prerequisites
+## Opening ZFP
 
-- Hospital network access (VPN or on-site)
-- Active credentials (your hospital username and password)
-- <!-- TODO: Any other prerequisites? Software install needed? -->
+1. From any hospital workstation, navigate to **SSO Applications**
+2. Click the **ZFP** icon (GE logo)
+   - Do **not** select XERO Viewer, XERO Viewer AUX, or any of the TEST/Workflow options — those are different applications
 
-## First-Time Setup
+![](99%20-%20Meta/Assets/Images/ZFP1.png)
 
-<!-- TODO: Add screenshots for each step -->
+## Search Settings
 
-1. Open ZVP from <!-- TODO: where? Desktop shortcut? Intranet link? Browser URL? -->
-2. Log in with your hospital credentials
-3. <!-- TODO: Fill in the configuration steps — what boxes/selectors need to be filled in? -->
-4. <!-- TODO: Any department or unit-specific settings to select? -->
+Once ZFP opens, you'll see the **Search** panel. Configure it as follows:
 
-## Pulling Up Patient Imaging
+### Required Fields
 
-Once configured, here's how to view imaging for your patients:
+| Field | Value |
+|---|---|
+| **Archive** | CPACS |
+| **Location** | HVI 5 Heart Failure ICU |
 
-1. <!-- TODO: How to search — by patient name, MRN, unit? -->
-2. <!-- TODO: What selectors/filters to set -->
-3. <!-- TODO: How results display — what you're looking at -->
+You can search by **Patient Name** (Last, First MI), **Patient ID** (MRN), or browse all patients at the location.
 
-<!-- TODO: Add screenshot of the main viewer here -->
+### Modality
+
+- Check **All** to see every imaging type (CR, CT, MR, US, ECG, etc.)
+- Or select specific modalities if you're looking for something particular (e.g., CT only)
+
+### Exam Date
+
+- **Today** — default, shows only today's studies
+- **Yesterday** — quick look back
+- **Last 7 days** — useful for trending or finding recent comparisons
+- **All** — shows everything on file
+- **Date Range** — specify custom start and end dates
+
+### Other Options
+
+- **Include: Zero Image Studies** — keep this checked to see orders that have been placed but not yet completed
+
+Click **Search** to pull up results. Click **Reset** to clear all fields and start over.
+
+![](99%20-%20Meta/Assets/Images/ZFP2.png)
 
 ## Tips
 
-- <!-- TODO: Any common gotchas or things that trip people up? -->
-- <!-- TODO: Does it time out? Need to re-authenticate? -->
-- If you're having trouble accessing ZFP, contact IT at <!-- TODO: IT phone number or email -->
+- Change the **Location** field for Sarofim or other units as needed
+- If a study isn't showing up, try expanding the **Exam Date** to "All" or "Last 7 days"
+- You can search by **Accession #** if radiology gives you a specific study number
+- The **Referring Physician** field can help narrow results if a patient has a common name
+
+
+---
+_Last updated: 2026 · HVI ICU APP Team_
