@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Vault/Pulmonary/protocols-pulmonary-embolism.md",
+                "file": "01 - Vault/Orientation/protocols-call-tree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "protocols-pulmonary-embolism"
+              "title": "protocols-call-tree"
             }
           }
         ]
@@ -194,8 +194,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7a67d14c5792823e",
+  "active": "37148d93af0bc366",
   "lastOpenFiles": [
+    "01 - Vault/Pulmonary/protocols-pulmonary-embolism.md",
     "99 - Meta/Assets/Images/IABP Late Deflation.png",
     "99 - Meta/Assets/Images/IABP Console.png",
     "99 - Meta/Assets/Images/elderly.arterial.waveform.png",
@@ -209,7 +210,6 @@
     "01 - Vault/Devices/protocols-pacemaker-fundamentals.md",
     "01 - Vault/Pulmonary/protocols-rsi.md",
     "01 - Vault/Surgery/protocols-vasoplegia.md",
-    "01 - Vault/Pulmonary/protocols-pulmonary-embolism.md",
     "01 - Vault/Pulmonary/protocols-lung-transplant-icu.md",
     "01 - Vault/Pulmonary/protocols-hfnc.md",
     "01 - Vault/Pulmonary/protocols-halt.md",
