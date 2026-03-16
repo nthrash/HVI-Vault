@@ -31,30 +31,4 @@ The HFICU signout title has a changing date that you must manually update each d
 
 This keeps a running record so we can reference previous signouts if needed.
 
----
-
-## Morning Text
-
-The other file in the Heart Failure folder is **Morning Text.docx**. This file is updated throughout the night and sent out via secure chat at **0600** to the following providers:
-
-### Attending Physicians
-- Dr. Manish Patel
-- Dr. Carlos Manrique
-- Dr. Harish Devineni
-- Dr. Kha Dinh
-- Dr. Bindu Akkanti
-- Dr. Rahat Hussain
-- Dr. Ismael Salas
-- Dr. Sriram Nathan
-
-### On-Call & Rounding Staff
-- Rounding Cardiology Attending
-- On-call Cardiology Attending
-- AHF Night NP (current shift and next night)
-- Daytime Cardiology/HF Fellow
-- CVS/Organ Procurement 1st Call
-- CVS PA/Fellows
-- PCCM Day Attending
-- PCCM Day Fellow
-
-> On-call physicians can be found on the **first tab** of the HVI Nexus app. Make sure the correct date is selected at the top using the arrows. For night shift, select the date you **started** the shift, not the end date.
+> The **Morning Text.docx** file is also located in the Heart Failure folder. For details on who receives it and when to send it, see [Signout](../Unit%20Operations/onboarding-signout.md).
