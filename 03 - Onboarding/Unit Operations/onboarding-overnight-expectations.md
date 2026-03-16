@@ -1,28 +1,45 @@
-## Night HFICU APP Expectations
-- Sign-out from 1900 to 1930, sometimes 1945
-- Round from 1930 to 22/2300. 
-	- Orders for morning labs and radiology
-	- Follow up all hemodynamics (Flat and trending)
-	- Lab review and replacements
-	- I&O trend and evaluation for further diuretics/inotropes/CRRT need
-	- Glucose management
-	- ID evaluation and infectious workup/trend
-	- Hematological evaluation for adjustment blood thinner/platelet inhibitors/coagulation correction
-	- Med chart evaluation
-	- Surgical procedure evaluation
-	- Radiology Review
-- Follow up after rounding for post ops, devices, transplants, etc for all of the above. Sometimes requiring as frequent as every 15-30 minute follow up on certain issues such as hemodynamics, I&Os, and labs
-- Cover as needed procedures throughout unit (art line, central line, dialysis line, sheath placement for MCS)
-- Orders for admissions along with procedures/discussion with all consulted services
-- Consult services such as CV surgery, PCCM, vascular surgery, EGS, IR, GI, OBGYN, neurology, neurosurgery, etc.
-- Follow up emergent radiology order from day time and night time with calls to reading room for stat reads/preliminary reports
-- Adjustment to MCS due to volume optimization, worsening cardiac condition, etc.
-- Cover as needed vent adjustments or addition of further oxygen delivery devices based on ABG and/or clinical picture.
-	- Communicate with pulmonary critical care fellow/attending for management assistance
-- Morning review of all labs, radiological imaging, and hemodynamics
-- Round with surgery team in the morning after reviewing all pertinent information ~0600-0630
-	- 1-2 lines of overnight events, including pertinent events from the day prior. Dr. Salas usually wants coagulation panel, specifically ptt for heparin gtt patients for adjustments
-- Morning conference call with overnight events at 0700
+---
+title: Overnight Expectations
+description: Night shift HFICU APP responsibilities, rounding workflow, and morning handoff
+---
+
+# Night HFICU APP Expectations
+
+## Evening Sign-Out
+
+- Sign-out from **1900 to 1930** (sometimes until 1945)
+
+## Overnight Rounding (1930 - 2200/2300)
+
+- **Morning orders** — Labs and radiology for the AM
+- **Hemodynamics** — Review flat values and trends
+- **Labs** — Review results, electrolyte replacements
+- **I&Os** — Trend evaluation; assess need for diuretics, inotropes, or CRRT
+- **Glucose management**
+- **Infectious disease** — Evaluate ID workup and trends
+- **Hematology** — Adjust blood thinners, platelet inhibitors, coagulation correction
+- **Medication reconciliation** — Full med chart evaluation
+- **Surgical procedures** — Review and evaluate
+- **Radiology** — Review all imaging
+
+## Ongoing Overnight Responsibilities
+
+- **Post-op and device follow-up** — Continue monitoring post-ops, devices, transplants, etc. for all of the above; some issues (hemodynamics, I&Os, labs) may require reassessment every **15-30 minutes**
+- **Bedside procedures** — Cover as-needed procedures: arterial lines, central lines, dialysis lines, sheath placement for MCS
+- **Admissions** — Place admission orders, perform procedures, and discuss with all consulted services
+- **Consult services** — CV surgery, PCCM, vascular surgery, EGS, IR, GI, OB/GYN, neurology, neurosurgery, etc.
+- **Emergent radiology** — Follow up on day and night orders; call the reading room for stat reads and preliminary reports
+- **MCS adjustments** — Titrate mechanical circulatory support for volume optimization or worsening cardiac status
+- **Ventilator management** — Adjust vent settings or add supplemental oxygen based on ABGs and clinical picture
+  - Communicate with pulmonary critical care fellow/attending for management assistance
+
+## Morning Wrap-Up
+
+- **Lab and imaging review** — Review all morning labs, radiology, and hemodynamics
+- **Surgery rounds (~0600-0630)** — Present 1-2 lines of overnight events plus pertinent daytime events
+  - Dr. Salas requests coagulation panel review, specifically PTT for heparin drip patients
+- **Morning conference call (0700)** — Report overnight events
+
 
 ---
 _Last updated: 2026 · HVI ICU APP Team_
