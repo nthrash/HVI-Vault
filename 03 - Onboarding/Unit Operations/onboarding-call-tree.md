@@ -1,6 +1,11 @@
-# 🫀 HVI ICU Call Tree Protocol
+---
+title: HFICU Call Tree
+description: Overnight communication guide — who to call for surgery, PCCM, and cardiology events
+---
 
-> _Reference guide for overnight communication — New Hire APPs_ - This is a work in progress and a living document for changes
+# HFICU Call Tree
+
+> Reference guide for overnight communication — this is a living document
 
 ---
 ## 📞 Quick Reference
