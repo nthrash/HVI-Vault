@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Onboarding/IT & Systems/onboarding-zfp-imaging-setup.md",
+                "file": "03 - Onboarding/Unit Operations/onboarding-overnight-expectations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "onboarding-zfp-imaging-setup"
+              "title": "onboarding-overnight-expectations"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "1618a56dceaf9660",
   "lastOpenFiles": [
-    "onboarding.json",
     "03 - Onboarding/IT & Systems/onboarding-zfp-imaging-setup.md",
+    "onboarding.json",
     "03 - Onboarding/IT & Systems/onboarding-shared-drive-access.md",
     "03 - Onboarding/Clinical Access/onboarding-mhu-online.md",
     "03 - Onboarding/Clinical Access/onboarding-hospital-policies.md",
