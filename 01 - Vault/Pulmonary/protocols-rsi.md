@@ -110,4 +110,4 @@ Additional roles: MILS provider, scribe, cricoid pressure (if used).
 
 ---
 
-_Last updated: 2026 · HVI ICU APP Team_
+_Last updated: March 2026 · HVI ICU APP Team_

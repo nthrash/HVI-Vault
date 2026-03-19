@@ -847,4 +847,4 @@ The most common cause of **atypical ("walking") pneumonia** in children and youn
 
 ---
 
-_Last updated: 2026 · HVI ICU APP Team_
+_Last updated: March 2026 · HVI ICU APP Team_

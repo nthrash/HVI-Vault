@@ -311,4 +311,4 @@ Options:
 2. [International Consensus Recommendations for Anesthetic and Intensive Care Management of Lung Transplantation](https://pubmed.ncbi.nlm.nih.gov/34732281). Marczin N, et al. J Heart Lung Transplant. 2021;40(11):1327-1348. doi:10.1016/j.healun.2021.07.012.
 
 ---
-_Last updated: 2026 · HVI ICU APP Team_
+_Last updated: March 2026 · HVI ICU APP Team_

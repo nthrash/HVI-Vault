@@ -167,4 +167,4 @@ AutoPEEP occurs when expiratory flow does not return to zero before the next bre
 
 ---
 
-_Last updated: 2026 · HVI ICU APP Team_
+_Last updated: March 2026 · HVI ICU APP Team_

@@ -267,4 +267,4 @@ So the pattern you might see:
 - Higher gradient -> lower flow. Lower gradient -> higher flow
 
 ---
-_Last updated: 2026 · HVI ICU APP Team_
+_Last updated: March 2026 · HVI ICU APP Team_

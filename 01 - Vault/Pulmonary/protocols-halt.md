@@ -210,4 +210,4 @@ Rare but often fatal complication: elevated serum ammonia → encephalopathy, ce
 | Oral sodium phenylbutyrate | ~$3,000–5,000 | **Preferred** if enteral access available |
 
 ---
-_Last updated: 2026 · HVI ICU APP Team_
+_Last updated: March 2026 · HVI ICU APP Team_

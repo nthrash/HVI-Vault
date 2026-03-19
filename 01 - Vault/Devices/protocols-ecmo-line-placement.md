@@ -71,3 +71,6 @@ Understanding the femoral vascular anatomy is essential for safe arterial cannul
 - Monitor insertion sites for signs of bleeding, hematoma, or infection
 - **Never** adjust cannula position without a physician or ECMO specialist present
 - Ensure adequate **slack** in tubing to prevent accidental dislodgement during patient repositioning
+
+---
+_Last updated: March 2026 · HVI ICU APP Team_

@@ -164,4 +164,4 @@ Dofetilide requires a structured, monitored inpatient initiation due to its proa
 
 ---
 
-_Last updated: 2026 · HVI ICU APP Team_
+_Last updated: March 2026 · HVI ICU APP Team_

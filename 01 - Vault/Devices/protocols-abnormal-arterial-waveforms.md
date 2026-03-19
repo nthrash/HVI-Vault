@@ -46,4 +46,4 @@ Speaking of bisferiens pulse. HOCM is supposed to produce this characteristic ar
 To cut a long story short, the authors found that these patients had a bisferiens-like pulse. There was a sudden midsystolic pressure drop, as the LVOT collapsed on itself and systolic flow ceased.
 
 ---
-_Last updated: 2026 · HVI ICU APP Team_
+_Last updated: March 2026 · HVI ICU APP Team_

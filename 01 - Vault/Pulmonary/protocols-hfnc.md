@@ -90,4 +90,4 @@ ROX <4.88 at 12h → consider early intubation
 
 ---
 
-_Last updated: 2026 · HVI ICU APP Team_
+_Last updated: March 2026 · HVI ICU APP Team_
