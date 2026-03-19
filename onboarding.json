@@ -45,7 +45,7 @@
     },
     {
       "id": "signout",
-      "title": "Signout",
+      "title": "Handoff/Signout",
       "subtitle": "Shared drive location and remote access",
       "category": "unit-operations",
       "contentFile": "03 - Onboarding/Unit Operations/onboarding-signout.md"

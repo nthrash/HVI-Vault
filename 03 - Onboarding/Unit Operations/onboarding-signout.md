@@ -1,5 +1,5 @@
 ---
-title: Signout
+title: Handoff/Signout
 description: Handoff workflows for HFICU night, Sarofim day, and PCCM APP coverage areas
 ---
 
