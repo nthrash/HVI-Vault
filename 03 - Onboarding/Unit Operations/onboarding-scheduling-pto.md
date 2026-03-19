@@ -25,7 +25,6 @@ description: Group PTO rules, holiday scheduling, and time-off request process
 - **Max off at one time**: 2 on days, 1 on nights — keep this in mind when requesting
 - **Weekends** should be fair and even; multiple weekends off in the same month may not be approved
 - If a request is not approved, you can **switch shifts** with someone else to cover the days you want off
-- Therefore we are asking that requests be in for July and August by April 30th so we can begin working on it May 1st. This pattern will continue going forward (i.e. September and October requests in by June 30th, November and December requests in by August 31st). If requests are not in on time we may not be able grant those days off and you will need to try to switch days with a co-worker.
 
 ## Memorial Hermann Holidays
 
