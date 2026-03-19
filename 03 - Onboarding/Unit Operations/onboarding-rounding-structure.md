@@ -4,11 +4,11 @@ description: Multidisciplinary rounding format for HFIMU/SHIMU and HFICU Night â
 ---
 
 > Revised structure effective July 2026. Applies to **HFIMU**, **SHIMU**, and **HFICU Night** units.
-> See also: [[onboarding-rounding-structure|Rounding Structure]] Â· [[onboarding-overnight-expectations|Overnight Expectations]]
+> See also: [Overnight Expectations](onboarding-overnight-expectations.md)
 
 ## HFICU Night
 
-> See also: [[onboarding-overnight-expectations|Overnight Expectations]] Â· [[onboarding-call-tree|HFICU Call Tree]]
+> See also: [Overnight Expectations](onboarding-overnight-expectations.md) Â· [HFICU Call Tree](onboarding-call-tree.md)
 
 ### Team Composition
 
@@ -20,7 +20,7 @@ description: Multidisciplinary rounding format for HFIMU/SHIMU and HFICU Night â
 
 ### Rounding Expectations
 
-- Rounding is performed **room by room** following the workflow outlined in the [[onboarding-overnight-expectations#Overnight Rounding (1930 - 2200/2300)|Overnight Rounding]] section
+- Rounding is performed **room by room** following the workflow outlined in the [Overnight Rounding](onboarding-overnight-expectations.md) section
 - **Bedside nursing expectations during APP rounds:**
   - Present any **acute concerns** communicated during the day-to-night nursing handoff
   - Provide **flat hemodynamic numbers** â€” either documented in the chart or available as a photo to show during rounds
@@ -51,7 +51,7 @@ description: Multidisciplinary rounding format for HFIMU/SHIMU and HFICU Night â
 
 ### Escalation
 
-Refer to the [[onboarding-call-tree|HFICU Call Tree]] for the full overnight escalation protocol. Key points:
+Refer to the [HFICU Call Tree](onboarding-call-tree.md) for the full overnight escalation protocol. Key points:
 
 - An **in-house PCCM fellow and attending** are available overnight but cover **all hospital critical care**, not exclusively HFICU
 - For surgical, cardiology, and PCCM escalation pathways, follow the call tree documentation
