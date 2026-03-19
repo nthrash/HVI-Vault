@@ -37,7 +37,7 @@ V-V ECMO provides respiratory support only. Blood is drained and returned to the
 
 Understanding the femoral vascular anatomy is essential for safe arterial cannulation and distal perfusion catheter placement.
 
-![[Femoral anatomy for ecmo cannulation-optimized 2.webp]]
+![](99%20-%20Meta/Assets/Images/Femoral%20anatomy%20for%20ecmo%20cannulation-optimized%202.webp)
 
 **Key landmarks:**
 - **External iliac artery** transitions to the **common femoral artery** below the inguinal ligament
