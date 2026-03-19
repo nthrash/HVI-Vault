@@ -3,8 +3,6 @@ title: HFICU Call Tree
 description: Overnight communication guide — who to call for surgery, PCCM, and cardiology events
 ---
 
-# HFICU Call Tree
-
 > Reference guide for overnight communication — this is a living document
 
 ---

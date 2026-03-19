@@ -3,8 +3,6 @@ title: Signout
 description: Handoff workflows for HFICU night, Sarofim day, and PCCM APP coverage areas
 ---
 
-# Signout
-
 Our group covers three main areas, each with its own signout workflow:
 
 | Coverage Area | Shift | APPs |

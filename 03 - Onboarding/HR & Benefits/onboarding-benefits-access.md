@@ -3,8 +3,6 @@ title: Benefits Access
 description: How to access and manage your benefits, plus the Memorial Hermann new hire checklist
 ---
 
-# Benefits Access
-
 For full details on all Memorial Hermann employee benefits, visit the official benefits portal:
 
 **[YourMHBenefits.com](https://yourmhbenefits.com/)**
@@ -60,6 +58,7 @@ The following steps must be completed as part of your onboarding with Memorial H
 
 - Direct deposit must be entered by **10:00 AM Monday** before your first payroll cycle
 - If not set up in time, you will default to an ePay card
+- Workday>Menu>Pay>Direct Deposit(s)/Pay Card
 
 ### 11. Text Messaging Sign-Up (Optional)
 

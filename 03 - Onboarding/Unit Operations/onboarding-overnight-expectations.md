@@ -3,8 +3,6 @@ title: Overnight Expectations
 description: Night shift HFICU APP responsibilities, rounding workflow, and morning handoff
 ---
 
-# Night HFICU APP Expectations
-
 ## Evening Sign-Out
 
 - Sign-out from **1900 to 1930** (sometimes until 1945)

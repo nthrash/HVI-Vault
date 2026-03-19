@@ -3,8 +3,6 @@ title: MHU Online
 description: Education hub for assigned training modules
 ---
 
-# MHU Online
-
 MHU Online is the education hub for assigned training modules and continuing education.
 
 > [memorialhermann.csod.com](https://memorialhermann.csod.com/ui/lms-learner-home/home)

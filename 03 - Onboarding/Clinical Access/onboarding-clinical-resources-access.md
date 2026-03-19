@@ -3,8 +3,6 @@ title: Clinical Resources Access
 description: How to activate institutional access to UpToDate, Amion, and other tools
 ---
 
-# Clinical Resources Access
-
 ## Remote Access Portal
 
 Access hospital applications from home through the **Workspace ONE** portal:

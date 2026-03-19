@@ -1,4 +1,3 @@
-# Heart Failure ICU NP Orientation
 **Timeline:** 3–6 Months
 **Scope:** Transplant, CABG/PCI, VADs, ECMO
 

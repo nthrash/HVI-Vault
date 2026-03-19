@@ -3,8 +3,6 @@ title: Call-in Policy
 description: Memorial Hermann call-in expectations, NCNS rules, and disciplinary guidelines
 ---
 
-# Call-in Policy
-
 > Memorial Hermann Health System Policy — Last reviewed 06/21/2022 (Version 9)
 
 ## Expectations

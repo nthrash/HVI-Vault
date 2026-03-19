@@ -3,8 +3,6 @@ title: Rounding Structure
 description: Multidisciplinary rounding format for HFIMU/SHIMU — team roles, nursing coordination, and documentation expectations
 ---
 
-# Rounding Structure
-
 > Revised structure effective July 2026. Applies to **HFIMU** and **SHIMU** units.
 
 ## Overview

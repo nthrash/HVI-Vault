@@ -3,8 +3,6 @@ title: ZFP Imaging Setup
 description: How to access and configure ZFP for viewing patient imaging in the unit
 ---
 
-# ZFP Imaging Setup
-
 ZFP allows you to view all imaging (CT, X-ray, echo, etc.) for patients in the unit directly from a workstation.
 
 ## Opening ZFP

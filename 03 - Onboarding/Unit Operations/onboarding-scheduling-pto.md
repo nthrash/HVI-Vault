@@ -3,8 +3,6 @@ title: Scheduling & PTO
 description: Group PTO rules, holiday scheduling, and time-off request process
 ---
 
-# Scheduling & PTO
-
 ## Vacation Request Guidelines
 
 - As of March 2026, schedules will be released on a 2 month basis. 

@@ -3,8 +3,6 @@ title: Epic Tips
 description: Unit-specific Epic setup — patient lists, orders, charting workflows, and dot phrases
 ---
 
-# Epic Tips
-
 ## Patient List Setup
 
 - **Adding a patient**: Right-click the patient > **Assign Teams** > select **"MH TMC Cardiology AHF (Treatment)"**. Patients will automatically fall off the list after discharge.

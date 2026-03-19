@@ -3,8 +3,6 @@ title: Shared Drive Access
 description: How to connect to W: and P: drives, including from home
 ---
 
-# Shared Drive Access
-
 ## Navigating to the HFICU Signout
 
 **Start Menu** > **File Explorer** > **PHI_Access$ (\\\\clinisilonhh) (P:)** > Search **APP** > **PHI-TMC - APP Team Shared** > **Signouts** > **Heart Failure** > **HFICU Signout**

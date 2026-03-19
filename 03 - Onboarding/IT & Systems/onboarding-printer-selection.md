@@ -3,8 +3,6 @@ title: Printer Selection
 description: Default printers for HFICU and Sarofim units
 ---
 
-# Printer Selection
-
 ## HFICU
 
 Set your default printer to:
