@@ -14,5 +14,3 @@ From here you can launch:
 - **Ask HR (Dovetail)** — submit HR questions ([memorialhermann.portal.dovetailnow.com](https://memorialhermann.portal.dovetailnow.com/))
 - **VDI Desktop** — full virtual desktop ([vdi.memorialhermann.org](https://vdi.memorialhermann.org/portal/webclient/#/desktop))
 - Other hospital applications
-
-<!-- TODO: How to set up institutional access for UpToDate, which resources are available -->
