@@ -243,6 +243,13 @@
       "subtitle": "IABP — Counterpulsation Therapy",
       "category": "devices",
       "contentFile": "01 - Vault/Devices/protocols-iabp.md"
+    },
+    {
+      "id": "ecmo-line-placement",
+      "title": "ECMO Line Placement",
+      "subtitle": "Cannulation & Femoral Anatomy",
+      "category": "devices",
+      "contentFile": "01 - Vault/Devices/protocols-ecmo-line-placement.md"
     }
   ]
 }

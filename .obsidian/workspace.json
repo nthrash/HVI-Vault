@@ -194,8 +194,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1618a56dceaf9660",
+  "active": "37148d93af0bc366",
   "lastOpenFiles": [
+    "01 - Vault/Devices/protocols-ecmo-line-placement.md",
+    "99 - Meta/Assets/Images/Femoral anatomy for ecmo cannulation-optimized 2.webp",
     "03 - Onboarding/Clinical Access/onboarding-credentialing.md",
     "03 - Onboarding/Clinical Access/onboarding-clinical-resources-access.md",
     "03 - Onboarding/Clinical Access/onboarding-mhu-online.md",
@@ -239,7 +241,6 @@
     "link-status.json",
     "99 - Meta/Assets/Images/IABP Late Deflation.png",
     "99 - Meta/Assets/Images/IABP Console.png",
-    "99 - Meta/Assets/Images/elderly.arterial.waveform.png",
-    "99 - Meta/Assets/Images/IABP Early Deflation.png"
+    "99 - Meta/Assets/Images/elderly.arterial.waveform.png"
   ]
 }
