@@ -34,11 +34,10 @@ Per the [call tree](onboarding-call-tree.md), **all ICU admissions** require not
 
 - Complete your physical assessment
 - Place any lines or access needed (arterial line, central line, dialysis catheter, sheath for MCS)
-- Initiate MCS if ordered, with appropriate nursing communication orders
 
 ### 5. Documentation
 
-- **Admission H&P** — complete on admission
+- **Admission H&P** — complete on admission per HF Fellow
 - **Problem list** — update immediately for the new patient
 - **Hospital course** — begin the narrative in story format
 - **Add to patient list** — right-click > Assign Teams > "MH TMC Cardiology AHF (Treatment)"
