@@ -224,6 +224,13 @@
       "contentFile": "01 - Vault/Pulmonary/protocols-rsi.md"
     },
     {
+      "id": "cxr-interpretation",
+      "title": "Chest X-ray Interpretation",
+      "subtitle": "ABCDE Method & Common Pathology",
+      "category": "pulmonary",
+      "contentFile": "01 - Vault/Pulmonary/protocols-cxr-interpretation.md"
+    },
+    {
       "id": "vasoplegia",
       "title": "Vasoplegia Syndrome",
       "subtitle": "Post-Cardiothoracic Surgery",

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f5ecda37452a21f1",
+        "id": "78ec7b083281b013",
         "type": "tabs",
         "children": [
           {
-            "id": "dec258d72f6d42ae",
+            "id": "6962a1424b1bf9a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Vault/Pulmonary/protocols-cxr-interpretation.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "protocols-cxr-interpretation"
+              "title": "New tab"
             }
           }
         ]
@@ -194,7 +190,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dec258d72f6d42ae",
+  "active": "37148d93af0bc366",
   "lastOpenFiles": [
     "01 - Vault/Surgery/protocols-vasoplegia.md",
     "01 - Vault/Pulmonary/protocols-cxr-interpretation.md",
