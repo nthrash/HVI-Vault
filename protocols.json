@@ -51,6 +51,13 @@
       "contentFile": "01 - Vault/Endocrine/protocols-glycemic-control-inpatient.md"
     },
     {
+      "id": "euglycemic-dka",
+      "title": "Euglycemic Diabetic Ketoacidosis",
+      "subtitle": "EDKA — Diagnosis & Management",
+      "category": "endocrine",
+      "contentFile": "01 - Vault/Endocrine/euglycemic-diabetic-ketoacidosis.md"
+    },
+    {
       "id": "vent-basics",
       "title": "Ventilator Modes Overview",
       "subtitle": "Vent Basics",

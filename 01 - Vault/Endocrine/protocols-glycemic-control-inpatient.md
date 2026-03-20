@@ -41,6 +41,19 @@ Generally three overall strategies: insulin infusion, basal-bolus, and correctio
 	- The use of a sliding scale alone is generally frowned upon in patients with insulin-dependent type-2 diabetes since it is a purely _reactionary_ strategy.
 	- SSI alone is only recommended for those who weren't treated with insulin before admission
 
+### Insulin Types Reference
+
+| Insulin Type | Onset of Action | Peak Effect | Duration of Action |
+|---|---|---|---|
+| Lispro, aspart, glulisine | 3–15 min | 45–75 min | 2–4 hrs |
+| Regular | 30 min | 2–4 hrs | 5–8 hrs |
+| NPH | 2 hrs | 4–12 hrs | 8–18 hrs (usually 12 hrs) |
+| Glargine | 2 hrs | No peak | 20–24 hrs |
+| Detemir | 2 hrs | 3–9 hrs | 19–23 hrs |
+
+- Several studies showed basal/bolus insulin results in better glycemic control and lower rates of hypoglycemic events than NPH/regular insulin
+- Long-lasting basal PLUS rapid-acting mealtime insulin are more physiological compared to intermediate PLUS short-acting insulin in hospitalized patients
+
 ### SubQ Regimen
 The SQ basal-bolus regimen has 3 components
 - **(1/3) Basal Insulin**
@@ -144,19 +157,75 @@ Correction Insulin
 - Typically chose between low, medium, high protocols
 - 3 times daily PRN, with meals
 
-## 6. Challenges
+## 6. Hypoglycemia Risk Factors
+- Changes to insulin dose should be considered when POC glucose is ≤100 and should be done if POC glucose ≤70
+- Patients at high risk for hypoglycemia include:
+	- History of severe hypoglycemia
+	- Malnutrition
+	- Sepsis
+	- Advanced age
+	- Kidney, liver, or heart failure
+	- Use of certain medications (e.g., beta blockers)
+
+## 7. Management of Special Situations
+### Poor PO Intake
+- **HOLD** scheduled prandial insulin and give basal plus correction insulin q6H
+
+### Perioperative Insulin Management
+- Give 60–80% dose of basal insulin (or half of NPH dose) the morning of or evening before surgery
+- Monitor blood glucose every 4–6 hours while NPO and dose with rapid-acting insulin as needed
+
+#### Perioperative Oral/Non-Insulin Medication Management
+
+| Class | Risk | Medication | Pre-op Instructions |
+|---|---|---|---|
+| Biguanide | Lactic acidosis with renal dysfunction or IV contrast | Metformin | Hold on the morning of surgery |
+| SGLT-2 Inhibitors | Euglycemic ketoacidosis, UTI, hypovolemia | Canagliflozin, Dapagliflozin, Empagliflozin, Ertugliflozin, Bexagliflozin | Hold 3–4 days before surgery |
+| Sulfonylureas | Hypoglycemia with fasting | Glipizide, Glyburide, Glimepiride | Hold on the morning of surgery |
+| GLP-1 / Dual GLP-1 and GIP Agonists | Delayed gastric emptying | Exenatide, Liraglutide, Dulaglutide | Hold 7 days prior to surgery. Oral semaglutide: hold on morning of surgery |
+| Thiazolidinediones | Fluid retention, peripheral edema, possible CHF | Pioglitazone, Rosiglitazone | Hold on the morning of surgery |
+| DPP-4 Inhibitors | Can alter GI motility | Sitagliptin, Saxagliptin, Linagliptin, Alogliptin | Hold on the morning of surgery |
+| Alpha-glucosidase Inhibitors | | Acarbose, Miglitol | Hold for 24 hours prior to surgery |
+
+#### Perioperative Insulin Adjustments
+
+| Class | Medication | Pre-op Instructions |
+|---|---|---|
+| Basal Insulin | Glargine, Detemir, Degludec | Glargine/Detemir: decrease dose by 20–40% the night before and/or day of surgery. Degludec/Toujeo: decrease dose by 20–40% for 3 days prior to surgery |
+| Basal Insulin – Twice Daily | NPH | Reduce both doses (evening before and morning of surgery) by 10–25% |
+| Prandial Insulin | Regular, Lispro, Aspart, Glulisine | Do not take after fasting begins (do not take on the morning of surgery) |
+| Insulin Pump | | Will need Endocrinology recommendations; generally, can continue basal rate |
+| Mixed Insulin | | Will need Endocrinology recommendations; generally, can take reduced dose and monitor finger sticks closely |
+
+### Total Enteral Nutrition (TEN)
+- Patient should already be on basal insulin (basal dose: ~50% of TDD of insulin)
+- Prandial insulin dose depends on:
+	- Method of TF administration (continuous vs. bolus)
+	- Type of TF (each type has different amount of carbohydrates)
+	- Duration of TF (all day vs. nocturnal)
+- Prandial insulin is administered as SubQ regular insulin q6h
+- Prandial insulin dose: 1 unit per 10 g dextrose
+- If tube feeds are stopped → stop regular insulin ONLY and keep basal insulin
+
+### Total Parenteral Nutrition (TPN)
+- For patients receiving continuous TPN, regular insulin is usually added to the TPN solution
+- Prandial insulin dose: 1 unit per 10 g dextrose
+- Patient should already be on basal insulin (basal dose: ~50% of TDD of insulin)
+- If TPN is stopped → prandial insulin off (continue basal insulin)
+
+## 8. Challenges
 -  **Variability in Response:** Individual patient factors, such as insulin sensitivity and nutritional intake, can significantly affect glycemic control. Adjustments to insulin regimens must consider these variables to avoid hypoglycemia.
 -  **Iatrogenic Hypoglycemia:** Insulin is a high-risk medication, and hypoglycemia is a common adverse effect. The NICE-SUGAR trial highlighted the increased risk of hypoglycemia with intensive insulin therapy, underscoring the need for careful titration and monitoring.
-## 7. Special Considerations
+## 9. Special Considerations
 -  **Patient Populations:** Patients with diabetes, renal failure, or those receiving steroids may require tailored glycemic targets and insulin regimens. Steroid therapy, in particular, can increase insulin requirements due to its hyperglycemic effects.
 -  **Nutritional Support:** Enteral and parenteral nutrition can impact glucose levels and insulin needs. Continuous tube feeding requires careful insulin management to prevent fluctuations in glucose levels.
-## 8. Recent Advances and Research
+## 10. Recent Advances and Research
 -  **Landmark Trials:** The pendulum of opinion on glycemic control has shifted over the years, influenced by key trials such as Leuven, VISEP and [[NICE-SUGAR Trial]]. These studies have shaped current practices by highlighting the risks of tight glycemic control.
 -  **Emerging Therapies:** New approaches, such as the use of SGLT2 inhibitors, are being explored for their potential benefits in managing hyperglycemia and its complications in critically ill patients.
-## 9. Conclusion
+## 11. Conclusion
 -  **Summary:** Effective glycemic control in the ICU requires a balance between preventing hyperglycemia and avoiding hypoglycemia. Current guidelines favor a moderate approach, targeting glucose levels of 140-180 mg/dL for most patients.
 -  **Future Directions:** Further research is needed to refine glycemic targets and develop personalized strategies that account for individual patient characteristics and comorbidities.
-## 10. References
+## 12. References
 -  **Citations:** Include references to key studies and guidelines, such as the NICE-SUGAR trial, ADA guidelines, and SCCM recommendations, to support the information presented in this review.
 - [IBCC](https://emcrit.org/ibcc/glucose/#top)
 
