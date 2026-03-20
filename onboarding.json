@@ -58,6 +58,20 @@
       "contentFile": "03 - Onboarding/Unit Operations/onboarding-scheduling-pto.md"
     },
     {
+      "id": "admission-workflow",
+      "title": "Admission & Discharge Workflow",
+      "subtitle": "Step-by-step admission and discharge process",
+      "category": "unit-operations",
+      "contentFile": "03 - Onboarding/Unit Operations/onboarding-admission-workflow.md"
+    },
+    {
+      "id": "end-of-life",
+      "title": "End-of-Life & MCS Withdrawal",
+      "subtitle": "Comfort care, device withdrawal, and documentation",
+      "category": "unit-operations",
+      "contentFile": "03 - Onboarding/Unit Operations/onboarding-end-of-life.md"
+    },
+    {
       "id": "zfp-imaging-setup",
       "title": "ZFP Imaging Setup",
       "subtitle": "How to view unit imaging",
