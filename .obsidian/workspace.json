@@ -11,10 +11,14 @@
             "id": "dec258d72f6d42ae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 - Vault/Pulmonary/protocols-cxr-interpretation.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "protocols-cxr-interpretation"
             }
           }
         ]
@@ -190,8 +194,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "37148d93af0bc366",
+  "active": "dec258d72f6d42ae",
   "lastOpenFiles": [
+    "01 - Vault/Surgery/protocols-vasoplegia.md",
+    "01 - Vault/Pulmonary/protocols-cxr-interpretation.md",
+    "99 - Meta/Assets/Images/cxr_images/page-79-optimized.webp",
+    "99 - Meta/Assets/Images/cxr_images/page-77-optimized.webp",
+    "99 - Meta/Assets/Images/cxr_images/page-76-optimized.webp",
+    "99 - Meta/Assets/Images/cxr_images/page-71-optimized.webp",
+    "99 - Meta/Assets/Images/cxr_images/page-70-optimized.webp",
+    "99 - Meta/Assets/Images/cxr_images/page-67-optimized.webp",
+    "99 - Meta/Assets/Images/cxr_images/page-64-optimized.webp",
+    "99 - Meta/Assets/Images/cxr_images/page-62-optimized.webp",
+    "99 - Meta/Assets/Images/cxr_images/page-59-optimized.webp",
+    "99 - Meta/Assets/Images/cxr_images/page-58-optimized.webp",
+    "99 - Meta/Assets/Images/cxr_images",
+    "03 - Onboarding/HR & Benefits/onboarding-benefits-access.md",
     "03 - Onboarding/Getting Around/onboarding-parking.md",
     "03 - Onboarding/Getting Around/onboarding-lounge-break-area.md",
     "03 - Onboarding/Getting Around/onboarding-cafeteria-food.md",
@@ -208,7 +226,6 @@
     "03 - Onboarding/Unit Operations/onboarding-icu-np-orientation.md",
     "03 - Onboarding/Unit Operations/onboarding-callin-policy.md",
     "03 - Onboarding/Unit Operations/onboarding-overnight-expectations.md",
-    "03 - Onboarding/HR & Benefits/onboarding-benefits-access.md",
     "03 - Onboarding/HR & Benefits/onboarding-workday-vs-hr-portal.md",
     "03 - Onboarding/HR & Benefits/onboarding-variance-reporting.md",
     "03 - Onboarding/HR & Benefits/onboarding-paychecks-workday.md",
@@ -216,15 +233,6 @@
     "03 - Onboarding/HR & Benefits/onboarding-licensing-renewals.md",
     "03 - Onboarding/HR & Benefits/onboarding-licensing-reimbursement.md",
     "01 - Vault/Devices/protocols-ecmo-line-placement.md",
-    "99 - Meta/Assets/Images/Femoral anatomy for ecmo cannulation-optimized 2.webp",
-    "03 - Onboarding/IT & Systems/onboarding-email-iphone-config.md",
-    "99 - Meta/Assets/Images/Screenshot 2026-03-16 at 00.41.38.png",
-    "99 - Meta/Assets/Images/Screenshot 2026-03-16 at 00.40.19.png",
-    "99 - Meta/Assets/Images/Screenshot 2026-03-16 at 00.38.50.png",
-    "99 - Meta/Assets/Images/Screenshot 2026-03-16 at 00.38.29.png",
-    "03 - Onboarding/IT & Systems/onboarding-epic-tips.md",
-    "99 - Meta/Assets/Images/ZFP2.png",
-    "99 - Meta/Assets/Images/ZFP1.png",
     "onboarding.json",
     "protocols.json",
     "03 - Onboarding/Getting Around",
@@ -233,10 +241,6 @@
     "03 - Onboarding/IT & Systems",
     "03 - Onboarding/Unit Operations",
     "resources.json",
-    "contacts.json",
-    "link-status.json",
-    "99 - Meta/Assets/Images/IABP Late Deflation.png",
-    "99 - Meta/Assets/Images/IABP Console.png",
-    "99 - Meta/Assets/Images/elderly.arterial.waveform.png"
+    "contacts.json"
   ]
 }
