@@ -526,6 +526,14 @@ A mechanically ventilated asthmatic in the HFICU (e.g., comorbid asthma + cardio
 
 Mechanically ventilating a patient with severe heart failure is fundamentally different from ventilating a patient with isolated ARDS or pneumonia. The cardiopulmonary interaction is the dominant physiology, and vent settings that are "protective" by ARDS standards may be hemodynamically catastrophic.
 
+> 🔵 **2025 ACC Expert Consensus on Ventilation in Cardiogenic Shock**
+>
+> The 2025 ACC Expert Consensus Statement on Cardiogenic Shock (*JACC* 2025) emphasizes that hemodynamic effects of positive pressure ventilation vary fundamentally based on whether the patient has LV-dominant vs. RV-dominant vs. biventricular failure. Key principles:
+> - In **LV-dominant CS:** PPV reduces LV preload and afterload — generally beneficial
+> - In **RV-dominant CS:** PPV can decrease RV preload and increase RV afterload — potentially catastrophic
+> - Clinicians must assess the **congestion profile** (LV vs. RV predominance) before applying standardized ventilator protocols
+> - NIV is increasingly utilized across SCAI stages and is a safe option for appropriately selected CS patients (AltShock-2 registry, *Eur J Heart Fail* 2024)
+
 ---
 
 ## 5.1 Heart-Lung Interactions — The Framework
@@ -726,7 +734,20 @@ The basics of SBT-based liberation are well-known. This section addresses the ha
 
 ---
 
-## 7.1 Repeated SBT Failure — Systematic Approach
+## 7.1 SBT Practice Update — AARC 2024 Clinical Practice Guideline
+
+The AARC published updated SBT guidance in 2024 (*Respiratory Care* 2024;69(7):891-901; PMID: 38346842) with four key recommendations that change prior practice:
+
+1. **RSBI is no longer required** to determine readiness for SBT — this removes a previously common prerequisite
+2. **SBTs can be conducted with or without PSV** (≤8 cmH2O) — both T-piece and low-PS approaches are acceptable
+3. **SBT should be completed before noon each day** using a standardized protocol
+4. **FiO2 should not be increased** during an SBT
+
+> **Readiness criteria (2024):** Reversal of initial cause of respiratory failure; PaO2/FiO2 ≥150 or SpO2 ≥90% on FiO2 ≤0.40 and PEEP ≤5 cmH2O; pH >7.25. Assessment should begin after the first 24 hours of mechanical ventilation.
+
+---
+
+## 7.2 Repeated SBT Failure — Systematic Approach
 
 A patient who fails multiple SBTs is not simply "not ready" — they have a **fixable problem.** The same patient failing the same way repeatedly tells you something about the mechanism.
 
@@ -756,7 +777,7 @@ Spontaneous breathing creates negative pleural pressure with each breath, which 
 
 ---
 
-## 7.2 Post-Extubation Management in Cardiac Patients
+## 7.3 Post-Extubation Management in Cardiac Patients
 
 ### High-Flow Nasal Cannula (HFNC) After Extubation
 
@@ -783,7 +804,7 @@ Prophylactic NIV (BiPAP) after planned extubation reduces re-intubation rates in
 
 ---
 
-## 7.3 Tracheostomy Decision in the HFICU
+## 7.4 Tracheostomy Decision in the HFICU
 
 ### When to Recommend Early Tracheostomy
 
@@ -877,6 +898,35 @@ In the HFICU, ECCO2R has a very limited niche given these results. Its use shoul
 > Highly cooperative patient; reliable airway (tracheostomy preferred); stable ECMO circuit; ECMO team expertise; individual nursing ratios adequate for continuous monitoring.
 >
 > **Not appropriate for:** patients with high aspiration risk, hemodynamically unstable VA-ECMO, patients requiring deep sedation for other reasons, or institutions without dedicated ECMO nursing competency.
+
+---
+
+## 8.5 Closed-Loop Ventilation and AI-Assisted Ventilation
+
+### ACTiVE Trial (JAMA 2025)
+
+The largest RCT of automated closed-loop ventilation to date (PMID: 41361939). 1,201 patients across 7 ICUs (Netherlands and Switzerland) were randomized to INTELLiVENT-ASV (automated closed-loop targeting SpO2, EtCO2, and lung mechanics) vs. protocolized conventional ventilation.
+
+- **Primary outcome:** Median ventilator-free days 16.7 vs. 16.3 (OR 0.91; 95% CI 0.77–1.06; **p=0.23 — not significant**)
+- **Ventilation quality was higher** with closed-loop: less severe hypercapnia, less hypoxemia, fewer rescue therapies needed
+- Conclusion: No increase in VFDs, but improved ventilation quality and reduced clinician workload
+
+### Cochrane Systematic Review (2025)
+
+Rose et al. (*Cochrane Database Syst Rev* 2025) analyzed 62 trials (5,052 participants) across 10 commercial automated ventilation systems:
+
+- Automated systems **probably reduce MV duration by ~24%** (moderate certainty)
+- **Little to no difference in mortality** (RR 0.94)
+- Probably reduce reintubation (RR 0.73), NIV post-extubation (RR 0.74), prolonged ventilation (RR 0.54), and tracheostomy (RR 0.75)
+
+### Practical Implications for HFICU
+
+Closed-loop ventilation systems are maturing but are **not yet standard of care**. They may be most useful for:
+- Maintaining lung-protective parameters during off-hours when provider attention is limited
+- Automated weaning protocols (reducing time on ventilator)
+- Continuous optimization of FiO2/PEEP to target SpO2 goals
+
+**Limitations in the HFICU:** Current algorithms do not account for RV-LV interdependence, LVAD hemodynamics, or ECMO-specific targets. Clinician oversight remains essential for the cardiac ICU population. AI-based systems should function as **decision-support tools**, not autonomous devices.
 
 ---
 
@@ -992,7 +1042,19 @@ This protocol is informed by the following landmark trials, guidelines, and syst
 
 23. **FLORALI:** Frat JP, Thille AW, Mercat A, et al. High-flow oxygen through nasal cannula in acute hypoxemic respiratory failure. *NEJM* 2015;372:2185-2196.
 24. **SBT Weaning:** Esteban A, et al. A comparison of four methods of weaning patients from mechanical ventilation. *NEJM* 1995;332:345-350.
+25. **AARC SBT Guidelines:** AARC Clinical Practice Guideline: SBTs. *Respiratory Care* 2024;69(7):891-901. PMID: 38346842.
+
+## Closed-Loop Ventilation & AI
+
+26. **ACTiVE Trial:** INTELLiVENT-ASV vs. protocolized conventional ventilation. *JAMA* 2025. PMID: 41361939.
+27. **Cochrane Automated Weaning:** Rose L, et al. Automated versus non-automated weaning for reducing the duration of mechanical ventilation. *Cochrane Database Syst Rev* 2025.
+
+## Heart Failure & Cardiogenic Shock
+
+28. **2025 ACC Expert Consensus on Cardiogenic Shock:** Expert Consensus Statement. *JACC* 2025.
+29. **AltShock-2 Registry:** Sacco F, et al. Ventilatory support in cardiogenic shock. *Eur J Heart Fail* 2024. PMID: 39105476.
+30. **SCCM 2024 Corticosteroid Update:** Annane D, et al. Focused update on corticosteroids in critical illness. *Crit Care Med* 2024;52(2):e72-e81. PMID: 38240492.
 
 ---
 _Last updated: March 2026 · HVI ICU APP Team · Evidence review current through March 2026_
-_Key guideline sources: ATS 2024, ESICM 2023, ELSO Guidelines_
+_Key guideline sources: ATS 2024, ESICM 2023, ACC 2025, AARC 2024, ELSO Guidelines_
