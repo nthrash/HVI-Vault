@@ -81,7 +81,7 @@ The decelerating flow waveform is physiologically more natural and reduces peak 
 >
 > Conversely, when sedation is lightened or patient effort increases, Vt can exceed safe limits — patient's inspiratory effort ADDS to ventilator-delivered volume. This is **P-SILI** (patient self-inflicted lung injury).
 >
-> Watch for: RR >30, SpO2 declining, rising plateau trend → convert to VC-AC with neuromuscular blockade if P-SILI suspected.
+> Watch for: RR >30, SpO2 declining, rising plateau trend → convert to VC-AC with neuromuscular blockade if P-SILI suspected (Brochard et al., *ICM* 2017). Note: the ATS 2024 and ESICM 2023 guidelines diverge on routine NMB use — see Section 3.5 for current evidence.
 
 ### PC-AC in Cardiogenic Shock / ECMO
 
@@ -160,6 +160,10 @@ T-low should be set to allow expiratory flow to fall to **50–75% of peak expir
 - If T-low is too long: alveolar de-recruitment defeats the purpose of APRV
 
 Watch the expiratory flow waveform: the release breath should **not reach zero flow**. This is the signature of APRV — you are riding the lung's own expiratory effort before it fully collapses.
+
+### APRV Evidence Update (2024–2026)
+
+A small RCT (Zou et al., *CHEST* 2025; PMID: 39299389; n=40) using EIT demonstrated that APRV improved dorsal recruitment, V/Q matching, and respiratory compliance compared to low-Vt ventilation in moderate-severe ARDS — but this was a physiologic study, not powered for mortality. An earlier meta-analysis of 6 small RCTs (360 patients total; 2021) showed improved 28-day mortality (RR 0.66; 95% CI 0.47–0.94), but all studies were small and mostly single-center. The **APRVplus trial** (protocol published BMC Pulmonary Medicine 2024; PMID: 38783268), a multicenter RCT planning 840 patients across ≥35 hospitals in China, is ongoing and will provide the first definitive evidence on APRV in ARDS. **Until APRVplus results are available, APRV should be considered a rescue strategy rather than first-line ARDS management.**
 
 ### APRV: When to Use It and When to Abandon It
 
@@ -240,7 +244,23 @@ In patients with significant auto-PEEP, the patient must generate negative press
 
 ---
 
-## 2.2 Dyssynchrony Index and When to Act
+## 2.2 Advanced Dyssynchrony Monitoring — Emerging Technologies
+
+### Electrical Impedance Tomography (EIT)
+
+EIT provides real-time, radiation-free bedside imaging of regional ventilation distribution. It can detect regional overdistension, pendelluft (intrapulmonary gas redistribution during dyssynchrony), and ventral-dorsal ventilation imbalance. EIT-guided PEEP titration and dyssynchrony identification are emerging clinical applications, though availability remains limited to specialized centers.
+
+### AI-Powered Waveform Analysis
+
+Machine learning algorithms for automated ventilator waveform analysis are in active development for detecting dyssynchrony events including double-triggering, flow starvation, and reverse triggering with higher sensitivity than clinical observation. These systems analyze pressure, flow, and volume waveforms continuously and can detect dyssynchrony in real-time. While several commercial systems are in clinical validation (2024–2025), none have yet demonstrated improved patient outcomes in RCTs. These tools may complement — but do not replace — clinician waveform assessment.
+
+### Esophageal Manometry (Pes Monitoring)
+
+Esophageal pressure monitoring remains the gold standard for assessing patient effort, transpulmonary pressure, and detecting occult dyssynchrony (particularly reverse triggering). The EPVent-2 trial (Beitler et al., *JAMA* 2019) did not show mortality benefit for esophageal pressure-guided PEEP titration in moderate-severe ARDS, but Pes monitoring remains invaluable for diagnosing complex dyssynchrony and guiding management in refractory cases.
+
+---
+
+## 2.3 Dyssynchrony Index and When to Act
 
 Clinically significant dyssynchrony is generally defined as >10% of all breaths being asynchronous. Practical triggers for action include:
 
@@ -277,13 +297,39 @@ Refractory hypoxemia (PaO2 <60 mmHg or SpO2 <88% despite FiO2 1.0 and PEEP ≥15
 
 ARDSNet tables provide a population-based starting point, not an individualized PEEP target. A PEEP that opens alveoli in one patient may overdistend them in another with different chest wall compliance. The correct PEEP is the one that **maximizes alveolar recruitment while minimizing overdistension** — which requires either advanced monitoring or bedside physiology assessment.
 
+> 🔵 **2024 ATS Guideline Update on PEEP**
+>
+> The ATS 2024 Clinical Practice Guideline (Qadir et al., *AJRCCM* 2024;209:24-36) provides a **conditional recommendation** for higher PEEP (without recruitment maneuvers) in moderate-severe ARDS, based on low-to-moderate certainty evidence. The ESICM 2023 guidelines (Grasselli et al., *ICM* 2023;49:727-759) make no specific recommendation for or against routine higher vs. lower PEEP, emphasizing individualized titration.
+>
+> **Bottom line:** Neither guideline endorses a fixed PEEP strategy. Individualized PEEP titration guided by driving pressure, compliance, and hemodynamics remains the standard of care.
+
+### Driving Pressure and Mechanical Power — Key Ventilator Targets
+
+> 🔵 **Driving Pressure (ΔP = Pplat − PEEP)**
+>
+> Driving pressure is the ventilator variable most strongly associated with survival in ARDS (Amato et al., *NEJM* 2015;372:747-755; PMID: 25693014). In a multilevel mediation analysis of 3,562 patients across 9 RCTs, a 7 cmH2O increase in ΔP was associated with a relative risk of 1.41 for mortality (p<0.001) — even within "protective" ventilation ranges. Changes in Vt or PEEP were only associated with survival if they resulted in a reduction in ΔP.
+>
+> **Target: ΔP <15 cmH2O.** Observational data consistently associate ΔP >15 cmH2O with ~19% increased mortality risk (HR 1.19; 95% CI 1.07–1.33). While no adequately powered RCT has confirmed a ΔP-limiting strategy (the STAMINA trial [Maia et al., *BJA* 2024; PMID: 39592365] was stopped early for slow enrollment after 214 of 500 planned patients), the physiologic rationale and observational evidence are strong enough that ΔP should be monitored as a primary safety target alongside Pplat.
+>
+> **Practical application:** If increasing PEEP raises ΔP, you are overdistending — back down. If increasing PEEP lowers ΔP, you are recruiting — continue. Use ΔP as the tiebreaker when PEEP titration decisions are ambiguous.
+
+> 🔵 **Mechanical Power (MP)**
+>
+> Mechanical power quantifies total energy delivered to the respiratory system per minute, integrating Vt, pressures, respiratory rate, and flow into a single variable reflecting VILI risk (Serpa Neto et al., *ICM* 2018;44:1914-1922; PMID: 30291378). In 8,207 ICU patients, MP was independently associated with in-hospital mortality even at low tidal volumes (OR 1.70; 95% CI 1.32–2.18 when MP >17 J/min).
+>
+> **Target: MP <17 J/min.** This is the most widely cited clinical threshold, though the exact cutoff varies by patient size and lung compliance. Normalizing MP to compliance or well-aerated lung volume improves its predictive value (Cressoni et al., *ICM* 2023). No large RCT has yet tested an MP-limiting strategy for clinical outcomes — this remains a critical evidence gap.
+>
+> **Simplified calculation (VC-AC):**
+> `MP (J/min) = 0.098 × RR × Vt × (Ppeak − ΔP/2)`
+
 ### Bedside PEEP Titration Without Esophageal Manometry
 
 1. Perform incremental PEEP trial: increase PEEP by 2 cmH2O every 5–10 minutes (e.g., 10 → 12 → 14 → 16 cmH2O)
-2. At each step, assess: SpO2, Pplat, driving pressure (ΔP = Pplat - PEEP), LVAD flows (if applicable), vasopressor requirements
+2. At each step, assess: SpO2, Pplat, driving pressure (ΔP = Pplat - PEEP), mechanical power, LVAD flows (if applicable), vasopressor requirements
 3. Optimal PEEP = level at which SpO2 improves, ΔP stops increasing or decreases, hemodynamics remain stable
 4. If ΔP **increases** with PEEP increase → you are overdistending, not recruiting. Back down.
 5. If SpO2 improves but LVAD flows fall and BP drops → beneficial for lungs but harmful for RV. Find the balance or reconsider strategy.
+6. **Track mechanical power** at each step — if MP exceeds 17 J/min, reassess Vt and RR in addition to PEEP
 
 ### Stress Index — Reading the Pressure Waveform for PEEP Titration
 
@@ -310,7 +356,11 @@ In volume-controlled ventilation with constant flow, the airway pressure wavefor
 
 ### Sustained Inflation RM
 
-CPAP at 40 cmH2O for 40 seconds. Effective at short-term alveolar recruitment but carries hemodynamic compromise and barotrauma risk. **NOT recommended** in hemodynamically unstable patients (ART trial — increased mortality).
+CPAP at 40 cmH2O for 40 seconds. Effective at short-term alveolar recruitment but carries hemodynamic compromise and barotrauma risk. **NOT recommended** — the ART trial (Writing Group for the Alveolar Recruitment for ARDS Trial, *JAMA* 2017;318:1335-1345) demonstrated **increased mortality** with prolonged high-pressure recruitment maneuvers (≥35 cmH2O for ≥1 min) combined with high PEEP titration.
+
+> 🔵 **2024 ATS & 2023 ESICM Guideline Agreement on Recruitment Maneuvers**
+>
+> Both ATS 2024 and ESICM 2023 guidelines **strongly recommend against** prolonged high-pressure recruitment maneuvers (≥35 cmH2O for ≥1 minute) based on moderate certainty evidence. This is one of the few points of complete agreement between the two guideline sets. Brief, lower-pressure RMs (e.g., 30 cmH2O for 30 seconds) have not been specifically studied in large RCTs but carry theoretical risk in the same direction.
 
 > 🚨 **RM Contraindications in HFICU**
 >
@@ -320,7 +370,7 @@ CPAP at 40 cmH2O for 40 seconds. Effective at short-term alveolar recruitment bu
 
 ### Prone Positioning in the HFICU
 
-Prone positioning for moderate-severe ARDS (P/F <150) reduces mortality when maintained ≥16 hours per session (PROSEVA trial). In the HFICU, the decision to prone is more complex:
+Prone positioning for moderate-severe ARDS (P/F <150) reduces mortality when maintained ≥16 hours per session (PROSEVA trial, Guérin et al., *NEJM* 2013). Both the **ATS 2024** (strong recommendation, moderate certainty for >12 hr/day in severe ARDS) and **ESICM 2023** (strong recommendation, high certainty for ≥16 consecutive hours in moderate-severe ARDS with P/F <150) guidelines endorse early prone positioning as a cornerstone of ARDS management. In the HFICU, the decision to prone is more complex:
 
 | Factor | Prone Benefit | HFICU Concern | Practical Note |
 |--------|--------------|----------------|----------------|
@@ -330,6 +380,20 @@ Prone positioning for moderate-severe ARDS (P/F <150) reduces mortality when mai
 | ECMO patient | Occasionally attempted | Circuit management, cannula stability | Requires dedicated team; specialized protocols |
 | RV failure | Improves V/Q matching | RV preload may drop in prone | PA catheter or POCUS monitoring essential |
 | Hemodynamic instability | May improve if hypoxemia is driver | Positional vasodilation | Acceptable MAP threshold: >65 on stable vasopressors |
+
+### Awake Prone Positioning — Emerging Evidence
+
+> 🔵 **Awake Prone Positioning in Non-Intubated Patients**
+>
+> A 2025 individual patient data meta-analysis of 14 RCTs (>3,000 patients) demonstrated that awake prone positioning in acute hypoxemic respiratory failure improves survival without intubation (OR 1.42), reduces intubation risk (OR 0.70), and reduces in-hospital mortality (OR 0.77) (Luo et al., *JAMA Internal Medicine* 2025; PMID: 40063016). Duration ≥10 hours/day within the first 3 days yielded the strongest benefit (OR 1.85 for survival without intubation).
+>
+> **Practical implications for HFICU:**
+> - Consider awake prone positioning for non-intubated patients with hypoxemic respiratory failure on HFNC or NIV who are cooperative
+> - Target ≥10 hours/day when tolerated; even shorter durations show benefit
+> - Safe — no increase in serious adverse events in pooled analysis
+> - **Caveat:** Nearly all evidence derives from COVID-19 populations; generalizability to non-COVID acute hypoxemic respiratory failure (including cardiogenic pulmonary edema) remains uncertain
+> - In LVAD patients: consider driveline position and padding; feasibility depends on patient cooperation and driveline security
+> - Post-sternotomy patients: assess wound stability before attempting; may be contraindicated in early post-operative period
 
 ---
 
@@ -356,6 +420,53 @@ Inhaled epoprostenol achieves similar pulmonary vasodilation to iNO and is subst
 - Equivalent oxygenation improvement to iNO in ARDS
 - Not as well-studied for post-cardiac surgery RV failure, but commonly used given cost profile
 - Requires dedicated nebulizer in-circuit; ensure compatibility with heated humidifier
+
+---
+
+## 3.5 Neuromuscular Blockade in ARDS — Updated Evidence
+
+### The ACURASYS-to-ROSE Evolution
+
+The ACURASYS trial (Papazian et al., *NEJM* 2010) showed mortality benefit with 48-hour cisatracurium infusion in early severe ARDS. However, the **ROSE trial** (National Heart, Lung, and Blood Institute PETAL Network, *NEJM* 2019;380:1997-2008) — a larger, more rigorous multicenter RCT of 1,006 patients — found **no mortality benefit** of early continuous cisatracurium infusion versus usual care with lighter sedation targets.
+
+Key differences explaining discordant results:
+- ACURASYS used deep sedation in both arms; ROSE used lighter sedation in the control group
+- The benefit in ACURASYS may have been driven by avoiding deep sedation-related harm in the control arm rather than a direct benefit of paralysis
+
+### 2024 Guideline Discordance on NMB
+
+> ⚠️ **ATS vs. ESICM Disagreement on NMB**
+>
+> - **ATS 2024**: Conditional suggestion **for** NMB in early severe ARDS (low certainty evidence)
+> - **ESICM 2023**: Recommends **against** routine NMB in moderate-severe ARDS
+>
+> This discordance reflects differing interpretations of the ACURASYS and ROSE trial data. In practice, **NMB should not be used routinely** but remains appropriate in specific scenarios.
+
+### When to Use NMB in the HFICU
+
+| Indication | Rationale | Duration |
+|-----------|-----------|----------|
+| Severe dyssynchrony causing Vt stacking or P-SILI despite deep sedation | Eliminate patient effort to protect lungs | 24–48 hr, reassess |
+| Refractory hypoxemia (P/F <80) during prone positioning | Optimize prone mechanics; prevent fighting vent | Duration of prone session |
+| Abdominal compartment syndrome with vent-splinting | Reduce abdominal wall tone to improve compliance | Until decompression |
+| Severe RV failure with dyssynchrony-driven hemodynamic instability | Eliminate negative-pressure swings that worsen RV loading | 24–48 hr |
+| Post-cardiac arrest with shivering and refractory hypoxemia | Eliminate oxygen consumption from shivering | 24–48 hr |
+
+**Cisatracurium** remains the preferred agent (organ-independent Hofmann elimination). Monitor with train-of-four; target 1–2 twitches. Discontinue as soon as clinical indication resolves — prolonged NMB increases risk of ICU-acquired weakness and ventilator-induced diaphragm dysfunction (VIDD).
+
+---
+
+## 3.6 Corticosteroids in ARDS — New Guideline Recommendation
+
+> 🔵 **ATS 2024: Conditional Recommendation for Corticosteroids in ARDS**
+>
+> The ATS 2024 guideline update introduces a **new conditional recommendation** for corticosteroids in ARDS (moderate certainty evidence). This is the first time the ATS has formally recommended corticosteroids for ARDS in their practice guidelines, based on cumulative evidence from multiple RCTs including:
+>
+> - **DEXA-ARDS** (Villar et al., *Lancet Respiratory Medicine* 2020): Dexamethasone 20 mg × 5 days then 10 mg × 5 days in moderate-severe ARDS reduced ventilator-free days and mortality
+> - **COVID-ARDS data** (RECOVERY, CoDEX, and others): Reinforced benefit of dexamethasone in ARDS
+> - **Meta-analyses** (2020–2024): Consistent signal for reduced mortality and ventilator-free days
+>
+> **Practical application in HFICU:** Dexamethasone 20 mg IV daily × 5 days, then 10 mg IV daily × 5 days is a reasonable protocol for moderate-severe ARDS (P/F <200). Consider earlier initiation (within 14 days of ARDS onset). Use caution in: post-cardiac surgery patients at risk for wound infection, post-transplant patients already on immunosuppression (coordinate with transplant team), and patients with uncontrolled infection.
 
 ---
 
@@ -540,14 +651,19 @@ Ventilator management on ECMO represents the most advanced application of these 
 
 ### VV-ECMO Lung Rest Targets
 
+The EOLIA trial (Combes et al., *NEJM* 2018) established the framework for VV-ECMO in severe ARDS, and a post-hoc Bayesian analysis demonstrated a high posterior probability of mortality benefit. The **ESICM 2023 guidelines** strongly recommend VV-ECMO in severe ARDS at experienced centers following the EOLIA protocol (strong recommendation, moderate certainty). The **ATS 2024 guidelines** offer a more cautious conditional recommendation (low certainty evidence).
+
+Ultra-protective lung rest ventilation during ECMO aims to minimize ongoing VILI while maintaining some alveolar recruitment. Current evidence supports the targets below, which align with ELSO guidelines and post-EOLIA practice patterns:
+
 > 🔵 **Ultra-Protective Ventilation on VV-ECMO**
 >
-> - **Vt:** 2–4 mL/kg IBW
+> - **Vt:** 2–4 mL/kg IBW (some centers use ≤4 mL/kg; lower is generally preferred)
 > - **RR:** 5–10 breaths/min
 > - **PEEP:** 10–15 cmH2O (higher than off-ECMO to maintain open lung)
 > - **FiO2:** 0.30–0.40 (avoid excessive O2 toxicity)
-> - **Pplat target:** ≤25 cmH2O
-> - **Driving pressure target:** ≤10 cmH2O
+> - **Pplat target:** ≤25 cmH2O (≤24 cmH2O per EOLIA protocol)
+> - **Driving pressure target:** ≤10 cmH2O (emerging as the critical safety target on ECMO)
+> - **Mechanical power:** Minimize — target <10 J/min on ECMO when possible
 > - **Mode:** VC-AC or PC-AC; APRV sometimes used for recruitment, but not universally adopted
 
 ### Monitoring Native Lung Recovery on VV-ECMO
@@ -644,12 +760,19 @@ Spontaneous breathing creates negative pleural pressure with each breath, which 
 
 ### High-Flow Nasal Cannula (HFNC) After Extubation
 
-HFNC provides significant respiratory support and modest CPAP effect (~1–2 cmH2O per 10 L/min of flow). In cardiac patients, HFNC post-extubation:
+HFNC provides significant respiratory support and modest CPAP effect (~1–2 cmH2O per 10 L/min of flow). Multiple RCTs have established HFNC as a standard post-extubation strategy:
+
+- **FLORALI trial** (Frat et al., *NEJM* 2015): HFNC reduced intubation rates and 90-day mortality vs. standard O2 in acute hypoxemic respiratory failure
+- **Hernández et al., *JAMA* 2016**: HFNC non-inferior to NIV for preventing reintubation in high-risk patients post-extubation
+- **ATS/ESICM 2024 alignment**: Both guidelines support HFNC or prophylactic NIV for high-risk extubations
+
+In cardiac patients, HFNC post-extubation:
 
 - Reduces work of breathing (heated, humidified gas reduces nasal airway resistance)
 - Provides modest LV afterload reduction through CPAP effect — beneficial in HF patients
 - Maintains upper airway patency — especially important in obese patients with sleep apnea (common in HF population)
 - Safe for LVAD patients post-extubation: the CPAP effect may modestly reduce LVAD flows, but this is typically clinically insignificant
+- **Consider HFNC as the default post-extubation support** for all HFICU patients unless contraindicated (e.g., high aspiration risk, facial trauma)
 
 ### NIV as a Bridge After Extubation
 
@@ -689,11 +812,11 @@ Tracheostomy in the presence of ECMO anticoagulation is high-risk but not absolu
 
 HFOV delivers very small tidal volumes (1–3 mL/kg) at extremely high frequencies (3–15 Hz), oscillating around a fixed mean airway pressure. Gas exchange occurs by multiple non-convective mechanisms (asymmetric velocity profiles, molecular diffusion, collateral flow). HFOV maintains near-constant lung volume, potentially minimizing atelectrauma.
 
-> ⚠️ **HFOV in 2025 — Where Does It Stand?**
+> ⚠️ **HFOV in 2026 — Where Does It Stand?**
 >
-> The OSCAR and OSCILLATE trials (2013) failed to show benefit of HFOV over conventional ventilation in moderate-severe ARDS, and OSCILLATE was stopped early for harm (increased mortality) in the HFOV group.
+> The OSCAR and OSCILLATE trials (2013) failed to show benefit of HFOV over conventional ventilation in moderate-severe ARDS, and OSCILLATE was stopped early for harm (increased mortality) in the HFOV group. Both the **ATS 2024** and **ESICM 2023** guidelines **strongly recommend against** routine HFOV use in ARDS (high certainty evidence) — one of the strongest points of agreement between the two guideline sets.
 >
-> **Current role:** HFOV is considered a rescue strategy when all other options have failed and ECMO is not available or not appropriate. It should **NOT** be used as first-line ARDS management.
+> **Current role:** HFOV is considered a last-resort rescue strategy when all other options — including prone positioning, NMB, inhaled vasodilators, and ECMO — have failed or are unavailable. It should **NOT** be used as first-line or routine ARDS management. No new evidence since OSCAR/OSCILLATE has changed this position.
 >
 > In HFICU: HFOV is particularly poorly suited for patients with any RV compromise — the very high mean airway pressures (30–35 cmH2O) routinely needed are catastrophic for failing RVs.
 
@@ -719,13 +842,24 @@ NAVA is most appropriate when: repeated SBT failure appears dyssynchrony-driven,
 
 ## 8.3 Extracorporeal CO2 Removal (ECCO2R)
 
-ECCO2R uses a low-flow ECMO circuit (typically 200–800 mL/min) to remove CO2 without providing meaningful O2 support. It is not VV-ECMO — it does not treat hypoxemia. Its role is to:
+ECCO2R uses a low-flow ECMO circuit (typically 200–800 mL/min) to remove CO2 without providing meaningful O2 support. It is not VV-ECMO — it does not treat hypoxemia. Its theoretical role includes:
 
 - Allow extreme reduction in respiratory rate and Vt in ARDS (ultra-protective ventilation without hypercapnia)
 - Provide CO2 buffer in refractory obstructive disease without requiring full ECMO
 - Enable SBT by offloading CO2 work in patients with severe respiratory muscle weakness
 
-In the HFICU, ECCO2R has a limited niche. Its anticoagulation requirement (similar to ECMO) and cannulation complexity make it most useful in centers with robust ECMO programs where ECCO2R represents a "step-down" from full ECMO support.
+> 🚨 **ECCO2R — Critical Evidence Update (REST and VENT-AVOID Trials)**
+>
+> **The REST trial** (McNamee et al., *JAMA* 2021;326:1013-1023; PMID: 34463700) — a multicenter RCT at 51 UK ICUs (412 patients) — was **stopped early for futility**. ECCO2R showed:
+> - **No mortality benefit:** 90-day mortality 41.5% vs. 39.5% (RR 1.05; 95% CI 0.83–1.33)
+> - **Fewer ventilator-free days** in the ECCO2R group (7.1 vs. 9.2 days; p=0.02)
+> - **Significantly more serious adverse events:** 31% vs. 9%, including **intracranial hemorrhage in 4.5% vs. 0%**
+>
+> **The VENT-AVOID trial** (*AJRCCM* 2024) in COPD exacerbations was also stopped early (113 of 180 patients) with no improvement in ventilator-free days.
+>
+> **ESICM 2023 guidelines recommend against ECCO2R outside of RCTs.** A secondary analysis of REST (*NEJM Evidence*) suggested patients with ventilatory ratio ≥3 might benefit (posterior probability 82%), but this is hypothesis-generating only.
+
+In the HFICU, ECCO2R has a very limited niche given these results. Its use should be restricted to highly selected patients (e.g., potential ECCO2R responders with high ventilatory ratio) within a clinical trial or with explicit multidisciplinary discussion of the risk-benefit profile. Its anticoagulation requirement and serious bleeding risk make it particularly concerning in post-cardiac surgery patients.
 
 ---
 
@@ -757,12 +891,14 @@ Use this sequential framework when SpO2 is persistently <88% despite initial ven
 | Step | Action | Time Frame | If Fails |
 |------|--------|------------|----------|
 | 1 | Confirm ETT position (CXR), rule out pneumothorax (US), suction/bronchoscopy for mucus plug | 0–30 min | Step 2 |
-| 2 | Optimize PEEP (titrate to stress index; target ΔP <15) | 30–60 min | Step 3 |
-| 3 | Recruitment maneuver if hemodynamically stable; sustained PEEP increase post-RM | 1–2 hr | Step 4 |
-| 4 | Prone positioning ≥16 hr if P/F <150 | 16 hr cycle | Step 5 |
-| 5 | Inhaled vasodilator (iNO 20–40 ppm or inhaled epoprostenol) | 1–2 hr trial | Step 6 |
+| 2 | Optimize PEEP (titrate to driving pressure; target ΔP <15, MP <17 J/min) | 30–60 min | Step 3 |
+| 3 | **Prone positioning ≥16 hr if P/F <150** (strong recommendation, ATS 2024 + ESICM 2023) | 16 hr cycle | Step 4 |
+| 4 | Inhaled vasodilator (iNO 20–40 ppm or inhaled epoprostenol) | 1–2 hr trial | Step 5 |
+| 5 | Consider NMB if severe dyssynchrony, P-SILI, or refractory hypoxemia during prone | 24–48 hr | Step 6 |
 | 6 | APRV if not contraindicated by RV failure or obstruction | 4–8 hr trial | Step 7 |
 | 7 | ECMO consultation — VV-ECMO if P/F <80 despite optimal strategy, or pH <7.15 from hypercapnia | Urgent | ECMO |
+
+> **Note on algorithm changes (2024–2026):** Prone positioning has been elevated above recruitment maneuvers in this algorithm based on ATS 2024 and ESICM 2023 guidelines. Prolonged high-pressure recruitment maneuvers (≥35 cmH2O for ≥1 min) are **no longer recommended** (strong recommendation against, both guidelines). NMB has been added as an explicit step for specific indications. Corticosteroids (dexamethasone) should be considered early for moderate-severe ARDS per ATS 2024 conditional recommendation (see Section 3.6).
 
 ---
 
@@ -783,19 +919,80 @@ Any acute hemodynamic deterioration temporally linked to a vent change should be
 
 ## 9.3 Vent Settings at a Glance by Patient Context
 
-| Patient Context | Mode | Vt / ΔP | PEEP | Key Special Consideration |
-|-----------------|------|---------|------|--------------------------|
-| Standard ARDS, no HF | VC-AC | 6 mL/kg IBW | Per ARDSNet table | Prone if P/F <150; iNO if RV strain |
-| Cardiogenic pulmonary edema | VC-AC | 6–8 mL/kg IBW | 10–14 cmH2O (therapeutic) | PEEP = afterload reduction; watch for RV compromise if PHT present |
-| Cardiogenic shock, MCS pending | VC-AC | 6–7 mL/kg IBW | 8–10 cmH2O | Pre-intubation vasopressor mandatory; paralysis post-intubation |
-| Post-CABG, uncomplicated | VC-AC → PSV | 6–8 mL/kg IBW | 5–8 cmH2O | Fast-track; SBT at 4–6 hr; diaphragm US if weaning difficulty |
-| Post-LVAD implant | VC-AC / PC-AC | 6–7 mL/kg IBW | 8–10 cmH2O | RV failure risk; minimize PEEP if CVP rising; iNO if RV support needed |
-| VV-ECMO, lung rest | VC-AC or PC-AC | 2–4 mL/kg IBW | 10–15 cmH2O | Ultra-protective; FiO2 0.40; watch for VIDD |
-| VA-ECMO, cardiogenic shock | PC-AC | 4–6 mL/kg IBW | 8–12 cmH2O | LV distension → ECMELLA; North-South → circuit reconfiguration |
-| Status asthmaticus | VC-AC | 5–6 mL/kg IBW | 80% of auto-PEEP | Permissive hypercapnia pH >7.20; disconnect if tension hyperinflation |
-| COPD exacerbation | VC-AC | 6–8 mL/kg IBW | 5–8 cmH2O (match auto-PEEP) | Long Ti forbidden; I:E 1:4 minimum; NAVA if trigger failure |
-| Post-transplant early | VC-AC | 6 mL/kg IBW | 8–10 cmH2O | Denervated heart; volume-sensitive; early diuresis; watch for rejection-induced pulm edema |
+| Patient Context | Mode | Vt | ΔP Target | PEEP | MP Target | Key Special Consideration |
+|-----------------|------|-----|-----------|------|-----------|--------------------------|
+| Standard ARDS, no HF | VC-AC | 6 mL/kg IBW | <15 cmH2O | Per ARDSNet table | <17 J/min | Prone if P/F <150; dexamethasone per ATS 2024; iNO if RV strain |
+| Cardiogenic pulmonary edema | VC-AC | 6–8 mL/kg IBW | <15 cmH2O | 10–14 cmH2O (therapeutic) | <17 J/min | PEEP = afterload reduction; watch for RV compromise if PHT present |
+| Cardiogenic shock, MCS pending | VC-AC | 6–7 mL/kg IBW | <15 cmH2O | 8–10 cmH2O | <17 J/min | Pre-intubation vasopressor mandatory; NMB post-intubation if needed |
+| Post-CABG, uncomplicated | VC-AC → PSV | 6–8 mL/kg IBW | N/A | 5–8 cmH2O | N/A | Fast-track; SBT at 4–6 hr; diaphragm US if weaning difficulty |
+| Post-LVAD implant | VC-AC / PC-AC | 6–7 mL/kg IBW | <15 cmH2O | 8–10 cmH2O | <17 J/min | RV failure risk; minimize PEEP if CVP rising; iNO if RV support needed |
+| VV-ECMO, lung rest | VC-AC or PC-AC | 2–4 mL/kg IBW | ≤10 cmH2O | 10–15 cmH2O | <10 J/min | Ultra-protective; FiO2 0.40; watch for VIDD; consider awake ECMO early |
+| VA-ECMO, cardiogenic shock | PC-AC | 4–6 mL/kg IBW | ≤10 cmH2O | 8–12 cmH2O | <10 J/min | LV distension → ECMELLA; North-South → circuit reconfiguration |
+| Status asthmaticus | VC-AC | 5–6 mL/kg IBW | <15 cmH2O | 80% of auto-PEEP | <17 J/min | Permissive hypercapnia pH >7.20; disconnect if tension hyperinflation |
+| COPD exacerbation | VC-AC | 6–8 mL/kg IBW | <15 cmH2O | 5–8 cmH2O (match auto-PEEP) | <17 J/min | Long Ti forbidden; I:E 1:4 minimum; NAVA if trigger failure |
+| Post-transplant early | VC-AC | 6 mL/kg IBW | <15 cmH2O | 8–10 cmH2O | <17 J/min | Denervated heart; volume-sensitive; early diuresis; watch for rejection-induced pulm edema |
 
 
 ---
-_Last updated: March 2026 · HVI ICU APP Team_
+
+# Key References & Evidence Base
+
+This protocol is informed by the following landmark trials, guidelines, and systematic reviews. References are organized by topic and include PubMed IDs (PMIDs) where available.
+
+## Practice Guidelines
+
+1. **ATS 2024 ARDS Guideline Update:** Qadir N, Sahetya S, Munshi L, et al. An Update on Management of Adult Patients with Acute Respiratory Distress Syndrome: An Official ATS Clinical Practice Guideline. *Am J Respir Crit Care Med* 2024;209(1):24-36.
+2. **ESICM 2023 ARDS Guidelines:** Grasselli G, Calfee CS, Camporota L, et al. ESICM guidelines on acute respiratory distress syndrome: definition, phenotyping and respiratory support strategies. *Intensive Care Med* 2023;49(7):727-759.
+3. **ATS/ESICM/SCCM 2017 Mechanical Ventilation Guideline:** Fan E, Del Sorbo L, Goligher EC, et al. An Official ATS/ESICM/SCCM Clinical Practice Guideline: Mechanical Ventilation in Adult Patients with ARDS. *Am J Respir Crit Care Med* 2017;195(9):1253-1263.
+
+## Lung-Protective Ventilation & ARDS
+
+4. **ARDSNet:** Acute Respiratory Distress Syndrome Network. Ventilation with lower tidal volumes for ALI and ARDS. *NEJM* 2000;342:1301-1308.
+5. **Driving Pressure:** Amato MBP, Meade MO, Slutsky AS, et al. Driving pressure and survival in ARDS. *NEJM* 2015;372:747-755. PMID: 25693014.
+6. **STAMINA Trial:** Maia IS, et al. Driving pressure-limited strategy in moderate-severe ARDS. *Br J Anaesth* 2024. PMID: 39592365.
+7. **Mechanical Power:** Serpa Neto A, et al. Mechanical power of ventilation is associated with mortality in critically ill patients. *Intensive Care Med* 2018;44:1914-1922. PMID: 30291378.
+8. **ART Trial:** Writing Group for the Alveolar Recruitment for ARDS Trial. Effect of lung recruitment and titrated PEEP vs low PEEP on mortality in ARDS. *JAMA* 2017;318:1335-1345.
+9. **EPVent-2:** Beitler JR, et al. Effect of titrating PEEP with esophageal pressure-guided strategy vs empirical high PEEP-FiO2 in ARDS. *JAMA* 2019;321:846-857.
+
+## Prone Positioning
+
+10. **PROSEVA:** Guérin C, Reignier J, Richard JC, et al. Prone positioning in severe ARDS. *NEJM* 2013;368:2159-2168.
+11. **Awake Prone IPD Meta-Analysis:** Luo J, et al. Awake prone positioning in acute hypoxemic respiratory failure: individual patient data meta-analysis. *JAMA Internal Medicine* 2025. PMID: 40063016.
+
+## Neuromuscular Blockade
+
+12. **ACURASYS:** Papazian L, Forel JM, Gacouin A, et al. Neuromuscular blockers in early ARDS. *NEJM* 2010;363:1107-1116.
+13. **ROSE Trial:** National Heart, Lung, and Blood Institute PETAL Clinical Trials Network. Early neuromuscular blockade in ARDS. *NEJM* 2019;380:1997-2008.
+
+## ECMO
+
+14. **EOLIA:** Combes A, Hajage D, Capellier G, et al. Extracorporeal membrane oxygenation for severe ARDS. *NEJM* 2018;378:1965-1975.
+
+## ECCO2R
+
+15. **REST Trial:** McNamee JJ, Gillies MA, Barrett NA, et al. Effect of lower tidal volume ventilation facilitated by ECCO2R vs standard care on 90-day mortality in AHRF. *JAMA* 2021;326:1013-1023. PMID: 34463700.
+16. **VENT-AVOID:** ECCO2R in COPD exacerbations. *AJRCCM* 2024.
+
+## Corticosteroids in ARDS
+
+17. **DEXA-ARDS:** Villar J, et al. Dexamethasone treatment for the ARDS: a multicentre, randomised controlled trial. *Lancet Respir Med* 2020;8:267-276.
+
+## Rescue Modes
+
+18. **OSCAR:** Young D, et al. High-frequency oscillation for ARDS. *NEJM* 2013;368:806-813.
+19. **OSCILLATE:** Ferguson ND, et al. High-frequency oscillation in early ARDS. *NEJM* 2013;368:795-805.
+20. **APRVplus Trial (ongoing):** Protocol in *BMC Pulmonary Medicine* 2024. PMID: 38783268.
+21. **APRV EIT Study:** Zou X, et al. APRV vs low Vt ventilation in moderate-severe ARDS. *CHEST* 2025. PMID: 39299389.
+
+## Dyssynchrony & Monitoring
+
+22. **P-SILI Concept:** Brochard L, Slutsky A, Pesenti A. Mechanical ventilation to minimize progression of lung injury in acute respiratory failure. *Am J Respir Crit Care Med* 2017;195:438-442.
+
+## Liberation & Post-Extubation
+
+23. **FLORALI:** Frat JP, Thille AW, Mercat A, et al. High-flow oxygen through nasal cannula in acute hypoxemic respiratory failure. *NEJM* 2015;372:2185-2196.
+24. **SBT Weaning:** Esteban A, et al. A comparison of four methods of weaning patients from mechanical ventilation. *NEJM* 1995;332:345-350.
+
+---
+_Last updated: March 2026 · HVI ICU APP Team · Evidence review current through March 2026_
+_Key guideline sources: ATS 2024, ESICM 2023, ELSO Guidelines_
