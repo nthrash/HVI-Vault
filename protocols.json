@@ -271,6 +271,13 @@
       "subtitle": "Cannulation & Femoral Anatomy",
       "category": "devices",
       "contentFile": "01 - Vault/Devices/protocols-ecmo-line-placement.md"
+    },
+    {
+      "id": "icu-cardiac-calculations",
+      "title": "ICU Cardiac & Critical Care Calculations",
+      "subtitle": "Hemodynamics, Oxygenation & Organ Function",
+      "category": "cardiology",
+      "contentFile": "01 - Vault/Cardiology/protocols-icu-cardiac-calculations.md"
     }
   ]
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Vault/Cardiology/protocols-heart-failure-classifications.md",
+                "file": "01 - Vault/Cardiology/protocols-icu-cardiac-calculations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "protocols-heart-failure-classifications"
+              "title": "protocols-icu-cardiac-calculations"
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "30acc68d825fb9f8",
   "lastOpenFiles": [
-    "03 - Onboarding/Getting Around/onboarding-cafeteria-food.md",
     "01 - Vault/Cardiology/protocols-heart-failure-classifications.md",
+    "01 - Vault/Cardiology/protocols-icu-cardiac-calculations.md",
+    "03 - Onboarding/Getting Around/onboarding-cafeteria-food.md",
     "03 - Onboarding/Clinical Access/onboarding-mhu-online.md",
     "03 - Onboarding/Clinical Access/onboarding-hospital-policies.md",
     "03 - Onboarding/Clinical Access/onboarding-credentialing.md",
@@ -233,7 +234,6 @@
     "03 - Onboarding/HR & Benefits/onboarding-benefits-access.md",
     "03 - Onboarding/Getting Around/onboarding-parking.md",
     "03 - Onboarding/Getting Around/onboarding-lounge-break-area.md",
-    "03 - Onboarding/Unit Operations/onboarding-end-of-life.md",
     "onboarding.json",
     "protocols.json",
     "03 - Onboarding/Getting Around",
