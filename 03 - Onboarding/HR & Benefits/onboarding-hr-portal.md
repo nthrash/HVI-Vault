@@ -7,7 +7,7 @@ description: Overview of the Memorial Hermann HR Portal and what you can find th
 
 **[Memorial Hermann HR Portal](https://memorialhermann.portal.dovetailnow.com)**
 
-> Accessible from the hospital network or remote access portal.
+> Accessible from the hospital network or [remote access portal](https://memorialhermann.workspaceair.com/).
 
 The HR Portal is your one-stop hub for employment-related information. The top navigation bar includes the following sections, each with drop-down menus for related topics:
 

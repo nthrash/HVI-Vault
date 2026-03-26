@@ -9,7 +9,7 @@ A variance report documents any unexpected event, near-miss, or safety concern. 
 
 ## How to Access VRS
 
-1. Go to the **MHOne** intranet page from the hospital network or remote access portal
+1. Go to the **MHOne** intranet page from the hospital network or [remote access portal](https://memorialhermann.workspaceair.com/)
 2. In the **Web Applications** section, click the **Business** tab
 3. Scroll down (or search) for **VRS (Variance Reporting)** and click it
 4. You will be presented with a login screen — you can log in with your credentials or click **Submit Anonymously**

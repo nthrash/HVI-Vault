@@ -9,7 +9,7 @@ All Memorial Hermann hospital policies and procedures are available on the **Pol
 
 **[https://memorialhermann.policytech.com](https://memorialhermann.policytech.com)**
 
-> **Note:** This site is only accessible from the hospital network or via the remote access portal.
+> **Note:** This site is only accessible from the hospital network or via the [remote access portal](https://memorialhermann.workspaceair.com/).
 
 ## How to Find Policies
 

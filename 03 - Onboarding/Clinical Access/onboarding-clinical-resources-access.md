@@ -7,7 +7,7 @@ description: How to activate institutional access to UpToDate, Amion, and other 
 
 Access hospital applications from home through the **Workspace ONE** portal:
 
-> [memorialhermann.workspaceair.com](https://memorialhermann.workspaceair.com/catalog-portal/ui#/apps)
+> [memorialhermann.workspaceair.com](https://memorialhermann.workspaceair.com/)
 > [MHOne](https://mhone.memorialhermann.org/home)
 
 
