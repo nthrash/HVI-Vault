@@ -11,12 +11,12 @@
             "id": "88694ff800db291d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "json",
               "state": {
-                "file": "03 - Onboarding/HR & Benefits/onboarding-PTO-Buy-During-Annual-Enrollment.pdf"
+                "file": "onboarding.json"
               },
-              "icon": "lucide-file-text",
-              "title": "onboarding-PTO-Buy-During-Annual-Enrollment"
+              "icon": "lucide-file",
+              "title": "onboarding"
             }
           }
         ]
@@ -192,12 +192,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "37148d93af0bc366",
+  "active": "88694ff800db291d",
   "lastOpenFiles": [
+    "protocols.json",
+    "onboarding.json",
+    "03 - Onboarding/HR & Benefits/onboarding-PTO-Buy-During-Annual-Enrollment.pdf",
     "03 - Onboarding/HR & Benefits/onboarding-licensing-reimbursement.md",
     "03 - Onboarding/HR & Benefits/onboarding-hr-portal.md",
     "01 - Vault/Cardiology/protocols-myocarditis.md",
-    "03 - Onboarding/HR & Benefits/onboarding-PTO-Buy-During-Annual-Enrollment.pdf",
     "01 - Vault/Cardiology/protocols-right-heart-catheterization.pdf",
     "03 - Onboarding/HR & Benefits/onboarding-benefits-access.md",
     "03 - Onboarding/IT & Systems/onboarding-wifi-setup.md",
@@ -226,7 +228,6 @@
     "01 - Vault/Endocrine/protocols-glycemic-control-inpatient.md",
     "01 - Vault/Surgery/protocols-vasoplegia.md",
     "01 - Vault/Endocrine/inpatient-dm-management.md",
-    "01 - Vault/Cardiology/protocols-vasopressors-inotropes.md",
     "01 - Vault/Rheumatology",
     "99 - Meta/Assets/Images/cxr_images/page-79-optimized.webp",
     "99 - Meta/Assets/Images/cxr_images/page-77-optimized.webp",
@@ -235,8 +236,6 @@
     "99 - Meta/Assets/Images/cxr_images/page-70-optimized.webp",
     "99 - Meta/Assets/Images/cxr_images/page-67-optimized.webp",
     "99 - Meta/Assets/Images/cxr_images",
-    "onboarding.json",
-    "protocols.json",
     "03 - Onboarding/Getting Around",
     "03 - Onboarding/Clinical Access",
     "03 - Onboarding/HR & Benefits"
