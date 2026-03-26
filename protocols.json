@@ -196,6 +196,13 @@
       "contentFile": "01 - Vault/Cardiology/protocols-gdmt-hfref.md"
     },
     {
+      "id": "heart-failure-classifications",
+      "title": "Heart Failure Classifications",
+      "subtitle": "Classifications & Etiologies",
+      "category": "cardiology",
+      "contentFile": "01 - Vault/Cardiology/protocols-heart-failure-classifications.md"
+    },
+    {
       "id": "copd",
       "title": "COPD",
       "subtitle": "Diagnosis & Exacerbation Management",
