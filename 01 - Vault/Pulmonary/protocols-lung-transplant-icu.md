@@ -13,6 +13,45 @@
 > ECMO for pulmonary indication = **PGD 3**
 
 ---
+## Post-Op Whiteboard Documentation
+
+Upon patient arrival from the OR, the APP documents the following on the bedside window using a dry erase marker:
+
+### Timing and Immunosuppression
+- **Patient arrival time**
+- **CMV status** — Donor and Recipient (D+/R–, D+/R+, D–/R+, D–/R–)
+- **Simulect (basiliximab) time**
+- **Steroids time**
+- **Antibiotic times**
+
+### Intraoperative Data
+- **Cold ischemic times** — Right lung and Left lung
+- **Blood products received** (pRBC, FFP, platelets, cryo)
+- **Colloids/Crystalloids received**
+- **Estimated blood loss**
+- **Urine output**
+
+### Current Status on Arrival
+- **Ventilator settings** (mode, TV, RR, FiO₂, PEEP)
+- **Vitals/Hemodynamics** (MAP, HR, CVP, PA pressures, CO/CI)
+- **Drips** (vasopressors, inotropes, sedation, analgesics)
+
+### Operative Findings
+- **Intraoperative complications/issues**
+- **Echo findings** (if mentioned by team)
+- **Bronchoscopy findings** (anastomosis appearance, airway status)
+- **Pulmonary Velocities** 
+
+### Lines and Drains
+- Central lines, arterial lines, Swan-Ganz catheter
+- Chest tubes (location, output)
+- Foley, NGT/OGT, other drains
+
+### Immediate Assessments
+- **P:F ratio trend** (intraoperative through arrival)
+- **Chest X-ray** — order immediately on arrival and page result to team
+
+---
 ## Mechanical Ventilation
 
 ### Initial Protective Settings
