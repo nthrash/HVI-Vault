@@ -24,6 +24,28 @@ description: Group PTO rules, holiday scheduling, and time-off request process
 - **Weekends** should be fair and even; multiple weekends off in the same month may not be approved
 - If a request is not approved, you can **switch shifts** with someone else to cover the days you want off
 
+## How to Submit PTO in My Time and Schedule
+
+PTO requests are entered through the **My Time and Schedule** web application on the Memorial Hermann intranet.
+
+### Steps to Submit a PTO Request
+
+1. Log in to the **Memorial Hermann intranet**
+2. Navigate to **My Time and Schedule** (found under the employee self-service tools)
+3. Select the **Time Off** or **Request Time Off** tab
+4. Choose the **type of time off** (PTO, sick, etc.)
+5. Select the **date(s)** you are requesting off
+6. Enter the **number of hours** for each day
+7. Add any **comments** if needed (e.g., reason for request or shift swap details)
+8. Click **Submit**
+
+### Tips
+
+- Submit requests **before the deadline** listed in the schedule block table above to guarantee they are reviewed in time
+- You can check the **status** of your request (pending, approved, denied) by returning to My Time and Schedule and viewing your submitted requests
+- If your request is denied, reach out to your charge nurse or scheduler to discuss alternatives such as shift swaps
+- For requests **> 3 days**, ensure you have also communicated with **Amanda, Fidel, or Jessica** for approval
+
 ## Memorial Hermann Holidays
 
 | Holiday | Typical Date |
