@@ -194,8 +194,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "30acc68d825fb9f8",
+  "active": "37148d93af0bc366",
   "lastOpenFiles": [
+    "99 - Meta/Assets/Images/ptoinput4.webp",
+    "99 - Meta/Assets/Images/ptoinput3.webp",
+    "99 - Meta/Assets/Images/ptoinput2.webp",
+    "99 - Meta/Assets/Images/ptoinput1.webp",
     "03 - Onboarding/Clinical Access/onboarding-hospital-policies.md",
     "03 - Onboarding/Clinical Access/onboarding-credentialing.md",
     "03 - Onboarding/Clinical Access/onboarding-clinical-resources-access.md",
@@ -216,9 +220,6 @@
     "99 - Meta/Assets/Images/cxr_images/page-70-optimized.webp",
     "99 - Meta/Assets/Images/cxr_images/page-67-optimized.webp",
     "99 - Meta/Assets/Images/cxr_images/page-64-optimized.webp",
-    "99 - Meta/Assets/Images/cxr_images/page-62-optimized.webp",
-    "99 - Meta/Assets/Images/cxr_images/page-59-optimized.webp",
-    "99 - Meta/Assets/Images/cxr_images/page-58-optimized.webp",
     "99 - Meta/Assets/Images/cxr_images",
     "03 - Onboarding/HR & Benefits/onboarding-benefits-access.md",
     "03 - Onboarding/Getting Around/onboarding-parking.md",
@@ -233,7 +234,6 @@
     "03 - Onboarding/Unit Operations/onboarding-rounding-structure.md",
     "03 - Onboarding/Unit Operations/onboarding-icu-np-orientation.md",
     "03 - Onboarding/Unit Operations/onboarding-callin-policy.md",
-    "03 - Onboarding/Unit Operations/onboarding-overnight-expectations.md",
     "onboarding.json",
     "protocols.json",
     "03 - Onboarding/Getting Around",
