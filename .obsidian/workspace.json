@@ -11,12 +11,14 @@
             "id": "30acc68d825fb9f8",
             "type": "leaf",
             "state": {
-              "type": "json",
+              "type": "markdown",
               "state": {
-                "file": "contacts.json"
+                "file": "03 - Onboarding/IT & Systems/onboarding-wifi-setup.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "contacts"
+              "title": "onboarding-wifi-setup"
             }
           }
         ]
@@ -194,6 +196,10 @@
   },
   "active": "30acc68d825fb9f8",
   "lastOpenFiles": [
+    "99 - Meta/Assets/PDFs/Benefits - PTO Buy During Annual Enrollment.pdf",
+    "03 - Onboarding/HR & Benefits/onboarding-fmla-leave.md",
+    "03 - Onboarding/Unit Operations/onboarding-code-gray.md",
+    "contacts.json",
     "01 - Vault/Cardiology/protocols-icu-cardiac-calculations.md",
     "01 - Vault/Cardiology/protocols-heart-failure-classifications.md",
     "03 - Onboarding/Getting Around/onboarding-cafeteria-food.md",
@@ -229,16 +235,12 @@
     "99 - Meta/Assets/Images/cxr_images/page-70-optimized.webp",
     "99 - Meta/Assets/Images/cxr_images/page-67-optimized.webp",
     "99 - Meta/Assets/Images/cxr_images",
-    "03 - Onboarding/HR & Benefits/onboarding-benefits-access.md",
-    "03 - Onboarding/Getting Around/onboarding-parking.md",
-    "03 - Onboarding/Getting Around/onboarding-lounge-break-area.md",
     "onboarding.json",
     "protocols.json",
     "03 - Onboarding/Getting Around",
     "03 - Onboarding/Clinical Access",
     "03 - Onboarding/HR & Benefits",
     "03 - Onboarding/IT & Systems",
-    "03 - Onboarding/Unit Operations",
-    "resources.json"
+    "03 - Onboarding/Unit Operations"
   ]
 }

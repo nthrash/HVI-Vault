@@ -72,6 +72,13 @@
       "contentFile": "03 - Onboarding/Unit Operations/onboarding-end-of-life.md"
     },
     {
+      "id": "code-gray",
+      "title": "Code Gray",
+      "subtitle": "Disaster status, team designations, and staffing guidance",
+      "category": "unit-operations",
+      "contentFile": "03 - Onboarding/Unit Operations/onboarding-code-gray.md"
+    },
+    {
       "id": "zfp-imaging-setup",
       "title": "ZFP Imaging Setup",
       "subtitle": "How to view unit imaging",
@@ -173,6 +180,13 @@
       "contentFile": "03 - Onboarding/HR & Benefits/onboarding-variance-reporting.md"
     },
     {
+      "id": "fmla-leave",
+      "title": "FMLA & Leave Management",
+      "subtitle": "Filing and managing leave claims through Sedgwick",
+      "category": "hr-benefits",
+      "contentFile": "03 - Onboarding/HR & Benefits/onboarding-fmla-leave.md"
+    },
+    {
       "id": "ask-hr",
       "title": "Ask HR A Question",
       "subtitle": "Submit any HR question online",
@@ -182,11 +196,10 @@
     },
     {
       "id": "pto-buyback",
-      "title": "PTO Buyback & Selling",
-      "subtitle": "Hospital PTO balance and buyback rules",
+      "title": "PTO Buy During Annual Enrollment",
+      "subtitle": "How to purchase additional PTO during annual enrollment",
       "category": "hr-benefits",
-      "externalUrl": "https://mhone.memorialhermann.org/home",
-      "networkRequired": true
+      "contentFile": "99 - Meta/Assets/PDFs/Benefits - PTO Buy During Annual Enrollment.pdf"
     },
     {
       "id": "clinical-resources-access",
