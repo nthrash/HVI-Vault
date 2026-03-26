@@ -754,15 +754,15 @@ In the HFICU, ECCO2R has a limited niche. Its anticoagulation requirement (simil
 
 Use this sequential framework when SpO2 is persistently <88% despite initial ventilator optimization.
 
-| Step | Action | Time Frame | If Fails |
-|------|--------|------------|----------|
-| 1 | Confirm ETT position (CXR), rule out pneumothorax (US), suction/bronchoscopy for mucus plug | 0–30 min | Step 2 |
-| 2 | Optimize PEEP (titrate to stress index; target ΔP <15) | 30–60 min | Step 3 |
-| 3 | Recruitment maneuver if hemodynamically stable; sustained PEEP increase post-RM | 1–2 hr | Step 4 |
-| 4 | Prone positioning ≥16 hr if P/F <150 | 16 hr cycle | Step 5 |
-| 5 | Inhaled vasodilator (iNO 20–40 ppm or inhaled epoprostenol) | 1–2 hr trial | Step 6 |
-| 6 | APRV if not contraindicated by RV failure or obstruction | 4–8 hr trial | Step 7 |
-| 7 | ECMO consultation — VV-ECMO if P/F <80 despite optimal strategy, or pH <7.15 from hypercapnia | Urgent | ECMO |
+| Step | Action                                                                                                                                                                | Time Frame   | If Fails |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | -------- |
+| 1    | Confirm ETT position (CXR), rule out pneumothorax (US), suction/bronchoscopy for mucus plug. Assess diuretics or MCS adjustment upgrade if MR or unable to offload LV | 0–30 min     | Step 2   |
+| 2    | Optimize PEEP (titrate to stress index; target ΔP <15)                                                                                                                | 30–60 min    | Step 3   |
+| 3    | Recruitment maneuver if hemodynamically stable; sustained PEEP increase post-RM                                                                                       | 1–2 hr       | Step 4   |
+| 4    | Prone positioning ≥16 hr if P/F <150                                                                                                                                  | 16 hr cycle  | Step 5   |
+| 5    | Inhaled vasodilator (iNO 20–40 ppm or inhaled epoprostenol)                                                                                                           | 1–2 hr trial | Step 6   |
+| 6    | APRV if not contraindicated by RV failure or obstruction                                                                                                              | 4–8 hr trial | Step 7   |
+| 7    | ECMO consultation — VV-ECMO if P/F <80 despite optimal strategy, or pH <7.15 from hypercapnia                                                                         | Urgent       | ECMO     |
 
 ---
 
