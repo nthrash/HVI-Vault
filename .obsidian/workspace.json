@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9d4871cde3230f5e",
+        "id": "367fc344039f951f",
         "type": "tabs",
         "children": [
           {
-            "id": "30acc68d825fb9f8",
+            "id": "88694ff800db291d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "03 - Onboarding/IT & Systems/onboarding-wifi-setup.md",
-                "mode": "source",
-                "source": false
+                "file": "03 - Onboarding/HR & Benefits/onboarding-PTO-Buy-During-Annual-Enrollment.pdf"
               },
-              "icon": "lucide-file",
-              "title": "onboarding-wifi-setup"
+              "icon": "lucide-file-text",
+              "title": "onboarding-PTO-Buy-During-Annual-Enrollment"
             }
           }
         ]
@@ -194,9 +192,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "30acc68d825fb9f8",
+  "active": "37148d93af0bc366",
   "lastOpenFiles": [
-    "99 - Meta/Assets/PDFs/Benefits - PTO Buy During Annual Enrollment.pdf",
+    "03 - Onboarding/HR & Benefits/onboarding-licensing-reimbursement.md",
+    "03 - Onboarding/HR & Benefits/onboarding-hr-portal.md",
+    "01 - Vault/Cardiology/protocols-myocarditis.md",
+    "03 - Onboarding/HR & Benefits/onboarding-PTO-Buy-During-Annual-Enrollment.pdf",
+    "01 - Vault/Cardiology/protocols-right-heart-catheterization.pdf",
+    "03 - Onboarding/HR & Benefits/onboarding-benefits-access.md",
+    "03 - Onboarding/IT & Systems/onboarding-wifi-setup.md",
     "03 - Onboarding/HR & Benefits/onboarding-fmla-leave.md",
     "03 - Onboarding/Unit Operations/onboarding-code-gray.md",
     "contacts.json",
@@ -207,10 +211,8 @@
     "03 - Onboarding/Clinical Access/onboarding-hospital-policies.md",
     "03 - Onboarding/Clinical Access/onboarding-credentialing.md",
     "03 - Onboarding/Clinical Access/onboarding-clinical-resources-access.md",
-    "03 - Onboarding/HR & Benefits/onboarding-hr-portal.md",
     "01 - Vault/Pulmonary/protocols-lung-transplant-icu.md",
     "03 - Onboarding/Unit Operations/onboarding-rounding-structure.md",
-    "03 - Onboarding/HR & Benefits/onboarding-licensing-reimbursement.md",
     "03 - Onboarding/HR & Benefits/onboarding-licensing-renewals.md",
     "03 - Onboarding/HR & Benefits/onboarding-paychecks-workday.md",
     "03 - Onboarding/Unit Operations/onboarding-scheduling-pto.md",
@@ -225,8 +227,6 @@
     "01 - Vault/Surgery/protocols-vasoplegia.md",
     "01 - Vault/Endocrine/inpatient-dm-management.md",
     "01 - Vault/Cardiology/protocols-vasopressors-inotropes.md",
-    "01 - Vault/Pulmonary/protocols-cxr-interpretation.md",
-    "01 - Vault/Rheumatology/Autoimmune Cheat Sheet.md",
     "01 - Vault/Rheumatology",
     "99 - Meta/Assets/Images/cxr_images/page-79-optimized.webp",
     "99 - Meta/Assets/Images/cxr_images/page-77-optimized.webp",
@@ -239,8 +239,6 @@
     "protocols.json",
     "03 - Onboarding/Getting Around",
     "03 - Onboarding/Clinical Access",
-    "03 - Onboarding/HR & Benefits",
-    "03 - Onboarding/IT & Systems",
-    "03 - Onboarding/Unit Operations"
+    "03 - Onboarding/HR & Benefits"
   ]
 }

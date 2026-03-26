@@ -199,7 +199,8 @@
       "title": "PTO Buy During Annual Enrollment",
       "subtitle": "How to purchase additional PTO during annual enrollment",
       "category": "hr-benefits",
-      "contentFile": "99 - Meta/Assets/PDFs/Benefits - PTO Buy During Annual Enrollment.pdf"
+      "type": "pdf",
+      "contentFile": "03 - Onboarding/HR & Benefits/onboarding-PTO-Buy-During-Annual-Enrollment.pdf"
     },
     {
       "id": "clinical-resources-access",
