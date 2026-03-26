@@ -11,10 +11,14 @@
             "id": "f04e84daa26aa3ca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -192,6 +196,7 @@
   },
   "active": "f04e84daa26aa3ca",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "01 - Vault/Endocrine/euglycemic-diabetic-ketoacidosis.md",
     "01 - Vault/Endocrine/protocols-glycemic-control-inpatient.md",
     "01 - Vault/Surgery/protocols-vasoplegia.md",
@@ -229,7 +234,6 @@
     "03 - Onboarding/Unit Operations/onboarding-callin-policy.md",
     "03 - Onboarding/Unit Operations/onboarding-overnight-expectations.md",
     "03 - Onboarding/HR & Benefits/onboarding-workday-vs-hr-portal.md",
-    "03 - Onboarding/HR & Benefits/onboarding-variance-reporting.md",
     "onboarding.json",
     "protocols.json",
     "03 - Onboarding/Getting Around",
