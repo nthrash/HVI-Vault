@@ -204,6 +204,13 @@
       "contentFile": "03 - Onboarding/HR & Benefits/onboarding-PTO-Buy-During-Annual-Enrollment.pdf"
     },
     {
+      "id": "onboarding-test",
+      "title": "Workday Paycheck & eW-2 Guide",
+      "subtitle": "Step-by-step guide to viewing paychecks in Workday",
+      "category": "hr-benefits",
+      "contentFile": "03 - Onboarding/HR & Benefits/onboarding-test.md"
+    },
+    {
       "id": "clinical-resources-access",
       "title": "Clinical Resources Access",
       "subtitle": "Activating UpToDate, Amion, and other tools",
