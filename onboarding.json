@@ -129,11 +129,12 @@
       "contentFile": "03 - Onboarding/HR & Benefits/onboarding-paychecks-workday.md"
     },
     {
-      "id": "workday-vs-hr-portal",
-      "title": "Workday vs HR Portal",
-      "subtitle": "What lives where",
+      "id": "hr-portal",
+      "title": "HR Portal",
+      "subtitle": "What's available on the HR Portal",
       "category": "hr-benefits",
-      "contentFile": "03 - Onboarding/HR & Benefits/onboarding-workday-vs-hr-portal.md"
+      "contentFile": "03 - Onboarding/HR & Benefits/onboarding-hr-portal.md",
+      "networkRequired": true
     },
     {
       "id": "fidelity-retirement",
