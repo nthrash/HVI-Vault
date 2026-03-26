@@ -30,7 +30,8 @@ description: Multidisciplinary rounding format for HFIMU/SHIMU and HFICU Night �
 ### Nursing Communication
 
 - **Non-emergent communication** — use **Epic Secure Chat** for proper triaging and documentation
-- **Emergent communication** — call the Spectralink phone at **44057**
+- **Emergent communication** — call the Spectralink phone at (HF NIight NP) **44057**.
+- When 2 providers are present the 2nd provider will carry the 44844 (Critical Care NP) Spectralink phone
 - All non-emergent communication should go through Epic Chat; reserve phone calls for emergencies
 
 ### Nursing Responsibilities
