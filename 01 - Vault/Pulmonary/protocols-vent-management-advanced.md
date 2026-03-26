@@ -17,7 +17,6 @@ This protocol is designed for APPs with working ventilator knowledge who need to
 7. [Liberation from Mechanical Ventilation — Advanced Approach](#section-7-liberation-from-mechanical-ventilation--advanced-approach)
 8. [Rescue Modes & Emerging Strategies](#section-8-rescue-modes--emerging-ventilatory-strategies)
 9. [Rapid Reference — Decision Frameworks](#section-9-rapid-reference--decision-frameworks)
-
 ---
 
 # Section 1: Ventilator Mode Deep Dive
@@ -888,7 +887,6 @@ In the HFICU, ECCO2R has a very limited niche given these results. Its use shoul
 
 Use this sequential framework when SpO2 is persistently <88% despite initial ventilator optimization.
 
-<<<<<<< HEAD
 | Step | Action                                                                                                                                                                | Time Frame   | If Fails |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | -------- |
 | 1    | Confirm ETT position (CXR), rule out pneumothorax (US), suction/bronchoscopy for mucus plug. Assess diuretics or MCS adjustment upgrade if MR or unable to offload LV | 0–30 min     | Step 2   |
@@ -898,7 +896,8 @@ Use this sequential framework when SpO2 is persistently <88% despite initial ven
 | 5    | Inhaled vasodilator (iNO 20–40 ppm or inhaled epoprostenol)                                                                                                           | 1–2 hr trial | Step 6   |
 | 6    | APRV if not contraindicated by RV failure or obstruction                                                                                                              | 4–8 hr trial | Step 7   |
 | 7    | ECMO consultation — VV-ECMO if P/F <80 despite optimal strategy, or pH <7.15 from hypercapnia                                                                         | Urgent       | ECMO     |
-=======
+
+
 | Step | Action | Time Frame | If Fails |
 |------|--------|------------|----------|
 | 1 | Confirm ETT position (CXR), rule out pneumothorax (US), suction/bronchoscopy for mucus plug | 0–30 min | Step 2 |
@@ -908,7 +907,7 @@ Use this sequential framework when SpO2 is persistently <88% despite initial ven
 | 5 | Consider NMB if severe dyssynchrony, P-SILI, or refractory hypoxemia during prone | 24–48 hr | Step 6 |
 | 6 | APRV if not contraindicated by RV failure or obstruction | 4–8 hr trial | Step 7 |
 | 7 | ECMO consultation — VV-ECMO if P/F <80 despite optimal strategy, or pH <7.15 from hypercapnia | Urgent | ECMO |
->>>>>>> origin/main
+
 
 > **Note on algorithm changes (2024–2026):** Prone positioning has been elevated above recruitment maneuvers in this algorithm based on ATS 2024 and ESICM 2023 guidelines. Prolonged high-pressure recruitment maneuvers (≥35 cmH2O for ≥1 min) are **no longer recommended** (strong recommendation against, both guidelines). NMB has been added as an explicit step for specific indications. Corticosteroids (dexamethasone) should be considered early for moderate-severe ARDS per ATS 2024 conditional recommendation (see Section 3.6).
 
