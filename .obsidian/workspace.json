@@ -11,12 +11,14 @@
             "id": "88694ff800db291d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "03 - Onboarding/HR & Benefits/onboarding-Infor-XM-Expense-Request-Guide.pdf"
+                "file": "03 - Onboarding/HR & Benefits/onboarding-test.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "onboarding-Infor-XM-Expense-Request-Guide"
+              "icon": "lucide-file",
+              "title": "onboarding-test"
             }
           }
         ]
@@ -192,11 +194,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "37148d93af0bc366",
+  "active": "88694ff800db291d",
   "lastOpenFiles": [
+    "01 - Vault/onboarding-test.md",
     "03 - Onboarding/HR & Benefits/onboarding-test.md",
     "03 - Onboarding/HR & Benefits/onboarding-Infor-XM-Expense-Request-Guide.pdf",
-    "01 - Vault/onboarding-test.md",
     "03 - Onboarding/HR & Benefits/onboarding-licensing-reimbursement.md",
     "onboarding.json",
     "protocols.json",
