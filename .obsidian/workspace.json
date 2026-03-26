@@ -11,12 +11,12 @@
             "id": "88694ff800db291d",
             "type": "leaf",
             "state": {
-              "type": "json",
+              "type": "pdf",
               "state": {
-                "file": "onboarding.json"
+                "file": "03 - Onboarding/HR & Benefits/onboarding-Infor-XM-Expense-Request-Guide.pdf"
               },
-              "icon": "lucide-file",
-              "title": "onboarding"
+              "icon": "lucide-file-text",
+              "title": "onboarding-Infor-XM-Expense-Request-Guide"
             }
           }
         ]
@@ -194,10 +194,11 @@
   },
   "active": "88694ff800db291d",
   "lastOpenFiles": [
-    "protocols.json",
-    "onboarding.json",
-    "03 - Onboarding/HR & Benefits/onboarding-PTO-Buy-During-Annual-Enrollment.pdf",
     "03 - Onboarding/HR & Benefits/onboarding-licensing-reimbursement.md",
+    "03 - Onboarding/HR & Benefits/onboarding-Infor-XM-Expense-Request-Guide.pdf",
+    "onboarding.json",
+    "protocols.json",
+    "03 - Onboarding/HR & Benefits/onboarding-PTO-Buy-During-Annual-Enrollment.pdf",
     "03 - Onboarding/HR & Benefits/onboarding-hr-portal.md",
     "01 - Vault/Cardiology/protocols-myocarditis.md",
     "01 - Vault/Cardiology/protocols-right-heart-catheterization.pdf",
@@ -237,7 +238,6 @@
     "99 - Meta/Assets/Images/cxr_images/page-67-optimized.webp",
     "99 - Meta/Assets/Images/cxr_images",
     "03 - Onboarding/Getting Around",
-    "03 - Onboarding/Clinical Access",
-    "03 - Onboarding/HR & Benefits"
+    "03 - Onboarding/Clinical Access"
   ]
 }

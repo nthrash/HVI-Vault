@@ -152,11 +152,12 @@
       "networkRequired": false
     },
     {
-      "id": "licensing-reimbursement",
-      "title": "Licensing Reimbursement",
-      "subtitle": "How to submit for reimbursement",
+      "id": "expense-request-guide",
+      "title": "Infor XM Expense Request Guide",
+      "subtitle": "How to submit expense and reimbursement requests",
       "category": "hr-benefits",
-      "contentFile": "03 - Onboarding/HR & Benefits/onboarding-licensing-reimbursement.md"
+      "type": "pdf",
+      "contentFile": "03 - Onboarding/HR & Benefits/onboarding-Infor-XM-Expense-Request-Guide.pdf"
     },
     {
       "id": "licensing-renewals",
