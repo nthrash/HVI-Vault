@@ -1,12 +1,5 @@
-Guide with Workday and mchsftwr.mhhs.org
 ========================================
 
-* * *
-
-*   Created by Nicholas Thrash on 3/26/2026
-*   [Edit original on dubble](https://dubble.so/guides/guide-with-workday-and-mchsftwrmhhsorg-akfwqvp21m9bvn8fnaxm)
-
-* * *
 ### [1\. Go to Home - Workday](https://wd5.myworkday.com/memorialhermann/d/home.htmld)
 
 ![|685x371](https://dubble-prod-01.s3.amazonaws.com/assets/6e33c2d4-979c-4255-9826-11ce4fbb040c.png?0)
