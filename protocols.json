@@ -58,16 +58,9 @@
       "contentFile": "01 - Vault/Endocrine/euglycemic-diabetic-ketoacidosis.md"
     },
     {
-      "id": "vent-basics",
-      "title": "Ventilator Modes Overview",
-      "subtitle": "Vent Basics",
-      "category": "pulmonary",
-      "contentFile": "01 - Vault/Pulmonary/protocols-vent-basics.md"
-    },
-    {
       "id": "vent-management",
-      "title": "Ventilator Management",
-      "subtitle": "Critical Care Protocol",
+      "title": "Ventilator Modes & Management",
+      "subtitle": "Modes, Initial Settings & Critical Care Protocol",
       "category": "pulmonary",
       "contentFile": "01 - Vault/Pulmonary/protocols-vent-management.md"
     },
