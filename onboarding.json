@@ -122,6 +122,22 @@
       "contentFile": "03 - Onboarding/IT & Systems/onboarding-epic-tips.md"
     },
     {
+      "id": "onesource-overview",
+      "title": "OneSource Overview",
+      "subtitle": "Navigating the intranet and setting up favorites",
+      "category": "it-systems",
+      "contentFile": "03 - Onboarding/IT & Systems/onboarding-onesource-overview.md",
+      "networkRequired": true
+    },
+    {
+      "id": "isd-service-portal",
+      "title": "ISD Service Portal",
+      "subtitle": "How to submit IT support requests",
+      "category": "it-systems",
+      "contentFile": "03 - Onboarding/IT & Systems/onboarding-isd-service-portal.md",
+      "networkRequired": true
+    },
+    {
       "id": "benefits-access",
       "title": "Benefits Access",
       "subtitle": "How to access and manage your benefits",
@@ -201,7 +217,7 @@
       "title": "Workday Paycheck & eW-2 Guide",
       "subtitle": "Step-by-step guide to viewing paychecks in Workday",
       "category": "hr-benefits",
-      "contentFile": "03 - Onboarding/HR & Benefits/onboarding-test.md"
+      "contentFile": "03 - Onboarding/HR & Benefits/onboarding-paycheck-workday.md"
     },
     {
       "id": "clinical-resources-access",
@@ -231,6 +247,14 @@
       "subtitle": "Timeline, documents, and Medical Staff Roster",
       "category": "clinical-access",
       "contentFile": "03 - Onboarding/Clinical Access/onboarding-credentialing.md"
+    },
+    {
+      "id": "medical-staff-roster",
+      "title": "Medical Staff Roster",
+      "subtitle": "Look up providers and verify clinical privileges",
+      "category": "clinical-access",
+      "contentFile": "03 - Onboarding/Clinical Access/onboarding-medical-staff-roster.md",
+      "networkRequired": true
     },
     {
       "id": "intranet",
