@@ -1,125 +1,28 @@
 {
   "version": 1,
   "categories": [
-    { "id": "unit-operations", "name": "Unit Operations", "icon": "medical-outline", "color": "#007AFF" },
+    { "id": "getting-around", "name": "Getting Around", "icon": "map-outline", "color": "#FF3B30" },
     { "id": "it-systems", "name": "IT & Systems", "icon": "laptop-outline", "color": "#5856D6" },
     { "id": "hr-benefits", "name": "HR & Benefits", "icon": "briefcase-outline", "color": "#34C759" },
     { "id": "clinical-access", "name": "Clinical Access", "icon": "school-outline", "color": "#FF9500" },
-    { "id": "getting-around", "name": "Getting Around", "icon": "map-outline", "color": "#FF3B30" }
+    { "id": "unit-operations", "name": "Unit Operations", "icon": "medical-outline", "color": "#007AFF" }
   ],
   "documents": [
+
     {
-      "id": "icu-np-orientation",
-      "title": "HFICU NP Orientation",
-      "subtitle": "What to expect and how to prepare",
-      "category": "unit-operations",
-      "contentFile": "03 - Onboarding/Unit Operations/onboarding-icu-np-orientation.md"
+      "id": "cafeteria-food",
+      "title": "Cafeteria, Food & Break Areas",
+      "subtitle": "Where to eat, cafeteria hours, and the APP lounge",
+      "category": "getting-around",
+      "contentFile": "03 - Onboarding/Getting Around/onboarding-cafeteria-food.md"
     },
-    {
-      "id": "call-tree",
-      "title": "HFICU Call Tree",
-      "subtitle": "Who to call and when",
-      "category": "unit-operations",
-      "contentFile": "03 - Onboarding/Unit Operations/onboarding-call-tree.md"
-    },
-    {
-      "id": "callin-policy",
-      "title": "Call-In Policy",
-      "subtitle": "Attendance and call-in procedures",
-      "category": "unit-operations",
-      "contentFile": "03 - Onboarding/Unit Operations/onboarding-callin-policy.md"
-    },
-    {
-      "id": "overnight-expectations",
-      "title": "HFICU Overnight Expectations",
-      "subtitle": "What overnight shifts look like",
-      "category": "unit-operations",
-      "contentFile": "03 - Onboarding/Unit Operations/onboarding-overnight-expectations.md"
-    },
-    {
-      "id": "rounding-structure",
-      "title": "Rounding Structure",
-      "subtitle": "Daily workflow and team roles",
-      "category": "unit-operations",
-      "contentFile": "03 - Onboarding/Unit Operations/onboarding-rounding-structure.md"
-    },
-    {
-      "id": "signout",
-      "title": "Handoff/Signout",
-      "subtitle": "Shared drive location and remote access",
-      "category": "unit-operations",
-      "contentFile": "03 - Onboarding/Unit Operations/onboarding-signout.md"
-    },
-    {
-      "id": "scheduling-pto",
-      "title": "Scheduling & PTO",
-      "subtitle": "Group rules, TeamUp, and time-off requests",
-      "category": "unit-operations",
-      "contentFile": "03 - Onboarding/Unit Operations/onboarding-scheduling-pto.md"
-    },
-    {
-      "id": "admission-workflow",
-      "title": "Admission & Discharge Workflow",
-      "subtitle": "Step-by-step admission and discharge process",
-      "category": "unit-operations",
-      "contentFile": "03 - Onboarding/Unit Operations/onboarding-admission-workflow.md"
-    },
-    {
-      "id": "end-of-life",
-      "title": "End-of-Life & MCS Withdrawal",
-      "subtitle": "Comfort care, device withdrawal, and documentation",
-      "category": "unit-operations",
-      "contentFile": "03 - Onboarding/Unit Operations/onboarding-end-of-life.md"
-    },
-    {
-      "id": "code-gray",
-      "title": "Code Gray",
-      "subtitle": "Disaster status, team designations, and staffing guidance",
-      "category": "unit-operations",
-      "contentFile": "03 - Onboarding/Unit Operations/onboarding-code-gray.md"
-    },
-    {
-      "id": "zfp-imaging-setup",
-      "title": "ZFP Imaging Setup",
-      "subtitle": "How to view unit imaging",
-      "category": "it-systems",
-      "contentFile": "03 - Onboarding/IT & Systems/onboarding-zfp-imaging-setup.md",
-      "networkRequired": true
-    },
+
     {
       "id": "email-iphone-config",
-      "title": "Email & iPhone Setup",
-      "subtitle": "Hospital email and mobile configuration",
+      "title": "Email, iPhone & Wi-Fi Setup",
+      "subtitle": "Hospital Wi-Fi, email, and mobile configuration",
       "category": "it-systems",
       "contentFile": "03 - Onboarding/IT & Systems/onboarding-email-iphone-config.md"
-    },
-    {
-      "id": "wifi-setup",
-      "title": "Wi-Fi Setup",
-      "subtitle": "Which network to connect to",
-      "category": "it-systems",
-      "contentFile": "03 - Onboarding/IT & Systems/onboarding-wifi-setup.md"
-    },
-    {
-      "id": "printer-selection",
-      "title": "Printer Selection",
-      "subtitle": "Where to print and how",
-      "category": "it-systems",
-      "contentFile": "03 - Onboarding/IT & Systems/onboarding-printer-selection.md"
-    },
-    {
-      "id": "shared-drive-access",
-      "title": "Shared Drive Access",
-      "subtitle": "W: and P: drives, including from home",
-      "category": "it-systems",
-      "contentFile": "03 - Onboarding/IT & Systems/onboarding-shared-drive-access.md"
-    },
-    {
-      "id": "epic-tips",
-      "title": "Epic Tips",
-      "subtitle": "Dot phrases, order sets, and note templates",
-      "category": "it-systems",
-      "contentFile": "03 - Onboarding/IT & Systems/onboarding-epic-tips.md"
     },
     {
       "id": "onesource-overview",
@@ -138,11 +41,48 @@
       "networkRequired": true
     },
     {
+      "id": "shared-drive-access",
+      "title": "Shared Drive Access",
+      "subtitle": "W: and P: drives, including from home",
+      "category": "it-systems",
+      "contentFile": "03 - Onboarding/IT & Systems/onboarding-shared-drive-access.md"
+    },
+    {
+      "id": "printer-selection",
+      "title": "Printer Selection",
+      "subtitle": "Default printers for HFICU and Sarofim",
+      "category": "it-systems",
+      "contentFile": "03 - Onboarding/IT & Systems/onboarding-printer-selection.md"
+    },
+    {
+      "id": "epic-tips",
+      "title": "Epic Tips",
+      "subtitle": "Patient lists, orders, charting workflows, and dot phrases",
+      "category": "it-systems",
+      "contentFile": "03 - Onboarding/IT & Systems/onboarding-epic-tips.md"
+    },
+    {
+      "id": "zfp-imaging-setup",
+      "title": "ZFP Imaging Setup",
+      "subtitle": "How to view unit imaging",
+      "category": "it-systems",
+      "contentFile": "03 - Onboarding/IT & Systems/onboarding-zfp-imaging-setup.md",
+      "networkRequired": true
+    },
+
+    {
       "id": "benefits-access",
       "title": "Benefits Access",
-      "subtitle": "How to access and manage your benefits",
+      "subtitle": "New hire checklist and benefits enrollment",
       "category": "hr-benefits",
       "contentFile": "03 - Onboarding/HR & Benefits/onboarding-benefits-access.md"
+    },
+    {
+      "id": "onboarding-paycheck-workday",
+      "title": "Workday Paycheck & eW-2 Guide",
+      "subtitle": "Step-by-step guide to viewing paychecks in Workday",
+      "category": "hr-benefits",
+      "contentFile": "03 - Onboarding/HR & Benefits/onboarding-paycheck-workday.md"
     },
     {
       "id": "hr-portal",
@@ -153,12 +93,32 @@
       "networkRequired": true
     },
     {
-      "id": "fidelity-retirement",
-      "title": "Fidelity Retirement",
-      "subtitle": "403(b) and retirement account access",
+      "id": "scheduling-pto",
+      "title": "Scheduling & PTO",
+      "subtitle": "Group PTO rules, holiday schedule, and time-off requests",
       "category": "hr-benefits",
-      "externalUrl": "https://www.fidelity.com",
-      "networkRequired": false
+      "contentFile": "03 - Onboarding/Unit Operations/onboarding-scheduling-pto.md"
+    },
+    {
+      "id": "licensing-renewals",
+      "title": "Licensing Renewals",
+      "subtitle": "What needs renewal and when",
+      "category": "hr-benefits",
+      "contentFile": "03 - Onboarding/HR & Benefits/onboarding-licensing-renewals.md"
+    },
+    {
+      "id": "licensing-reimbursement",
+      "title": "Licensing Reimbursement",
+      "subtitle": "How to submit for reimbursement of licensing costs",
+      "category": "hr-benefits",
+      "contentFile": "03 - Onboarding/HR & Benefits/onboarding-licensing-reimbursement.md"
+    },
+    {
+      "id": "fmla-leave",
+      "title": "FMLA & Leave Management",
+      "subtitle": "Filing and managing leave claims through Sedgwick",
+      "category": "hr-benefits",
+      "contentFile": "03 - Onboarding/HR & Benefits/onboarding-fmla-leave.md"
     },
     {
       "id": "expense-request-guide",
@@ -169,32 +129,20 @@
       "contentFile": "03 - Onboarding/HR & Benefits/onboarding-Infor-XM-Expense-Request-Guide.pdf"
     },
     {
-      "id": "licensing-renewals",
-      "title": "Licensing Renewals",
-      "subtitle": "What needs renewal and when",
+      "id": "pto-buyback",
+      "title": "PTO Buy During Annual Enrollment",
+      "subtitle": "How to purchase additional PTO during annual enrollment",
       "category": "hr-benefits",
-      "contentFile": "03 - Onboarding/HR & Benefits/onboarding-licensing-renewals.md"
+      "type": "pdf",
+      "contentFile": "03 - Onboarding/HR & Benefits/onboarding-PTO-Buy-During-Annual-Enrollment.pdf"
     },
     {
-      "id": "malpractice-insurance",
-      "title": "Malpractice Insurance",
-      "subtitle": "Always keep a copy of your certificate",
+      "id": "fidelity-retirement",
+      "title": "Fidelity Retirement",
+      "subtitle": "403(b) and retirement account access",
       "category": "hr-benefits",
-      "contentFile": "03 - Onboarding/HR & Benefits/onboarding-malpractice-insurance.md"
-    },
-    {
-      "id": "variance-reporting",
-      "title": "Variance Reporting",
-      "subtitle": "How to report problems or safety concerns",
-      "category": "hr-benefits",
-      "contentFile": "03 - Onboarding/HR & Benefits/onboarding-variance-reporting.md"
-    },
-    {
-      "id": "fmla-leave",
-      "title": "FMLA & Leave Management",
-      "subtitle": "Filing and managing leave claims through Sedgwick",
-      "category": "hr-benefits",
-      "contentFile": "03 - Onboarding/HR & Benefits/onboarding-fmla-leave.md"
+      "externalUrl": "https://www.fidelity.com",
+      "networkRequired": false
     },
     {
       "id": "ask-hr",
@@ -204,47 +152,18 @@
       "externalUrl": "https://memorialhermann.portal.dovetailnow.com/",
       "networkRequired": true
     },
-    {
-      "id": "pto-buyback",
-      "title": "PTO Buy During Annual Enrollment",
-      "subtitle": "How to purchase additional PTO during annual enrollment",
-      "category": "hr-benefits",
-      "type": "pdf",
-      "contentFile": "03 - Onboarding/HR & Benefits/onboarding-PTO-Buy-During-Annual-Enrollment.pdf"
-    },
-    {
-      "id": "onboarding-paycheck-workday",
-      "title": "Workday Paycheck & eW-2 Guide",
-      "subtitle": "Step-by-step guide to viewing paychecks in Workday",
-      "category": "hr-benefits",
-      "contentFile": "03 - Onboarding/HR & Benefits/onboarding-paycheck-workday.md"
-    },
+
     {
       "id": "clinical-resources-access",
-      "title": "Clinical Resources Access",
-      "subtitle": "Activating UpToDate, Amion, and other tools",
+      "title": "Clinical Resources & Remote Access",
+      "subtitle": "UpToDate, Amion, VDI Desktop, and remote access",
       "category": "clinical-access",
       "contentFile": "03 - Onboarding/Clinical Access/onboarding-clinical-resources-access.md"
     },
     {
-      "id": "mhu-online",
-      "title": "MHU Online",
-      "subtitle": "Education hub and assigned modules",
-      "category": "clinical-access",
-      "contentFile": "03 - Onboarding/Clinical Access/onboarding-mhu-online.md"
-    },
-    {
-      "id": "hospital-policies",
-      "title": "Hospital Policies",
-      "subtitle": "How to find policies on the intranet",
-      "category": "clinical-access",
-      "contentFile": "03 - Onboarding/Clinical Access/onboarding-hospital-policies.md",
-      "networkRequired": true
-    },
-    {
       "id": "credentialing",
       "title": "Credentialing",
-      "subtitle": "Timeline, documents, and Medical Staff Roster",
+      "subtitle": "Timeline, documents, and the eCredentialing portal",
       "category": "clinical-access",
       "contentFile": "03 - Onboarding/Clinical Access/onboarding-credentialing.md"
     },
@@ -257,33 +176,90 @@
       "networkRequired": true
     },
     {
-      "id": "intranet",
-      "title": "Memorial Hermann Intranet",
-      "subtitle": "MHOne portal",
+      "id": "mhu-online",
+      "title": "MHU Online",
+      "subtitle": "Education hub and assigned training modules",
       "category": "clinical-access",
-      "externalUrl": "https://mhone.memorialhermann.org/home",
+      "contentFile": "03 - Onboarding/Clinical Access/onboarding-mhu-online.md"
+    },
+    {
+      "id": "hospital-policies",
+      "title": "Hospital Policies (PolicyTech)",
+      "subtitle": "How to find and search hospital policies",
+      "category": "clinical-access",
+      "contentFile": "03 - Onboarding/Clinical Access/onboarding-hospital-policies.md",
       "networkRequired": true
     },
+
     {
-      "id": "parking",
-      "title": "Parking",
-      "subtitle": "Where to park and how to get a pass",
-      "category": "getting-around",
-      "contentFile": "03 - Onboarding/Getting Around/onboarding-parking.md"
+      "id": "icu-np-orientation",
+      "title": "HFICU NP Orientation",
+      "subtitle": "3–6 month orientation timeline and competency checklists",
+      "category": "unit-operations",
+      "contentFile": "03 - Onboarding/Unit Operations/onboarding-icu-np-orientation.md"
     },
     {
-      "id": "lounge-break-area",
-      "title": "Lounge & Break Area",
-      "subtitle": "R455 Robertson Building, 4th floor",
-      "category": "getting-around",
-      "contentFile": "03 - Onboarding/Getting Around/onboarding-lounge-break-area.md"
+      "id": "rounding-structure",
+      "title": "Rounding Structure",
+      "subtitle": "Multidisciplinary rounding workflow and team roles",
+      "category": "unit-operations",
+      "contentFile": "03 - Onboarding/Unit Operations/onboarding-rounding-structure.md"
     },
     {
-      "id": "cafeteria-food",
-      "title": "Cafeteria & Food Options",
-      "subtitle": "Where to eat and cafeteria hours",
-      "category": "getting-around",
-      "contentFile": "03 - Onboarding/Getting Around/onboarding-cafeteria-food.md"
+      "id": "overnight-expectations",
+      "title": "HFICU Overnight Expectations",
+      "subtitle": "Night shift responsibilities and morning handoff",
+      "category": "unit-operations",
+      "contentFile": "03 - Onboarding/Unit Operations/onboarding-overnight-expectations.md"
+    },
+    {
+      "id": "signout",
+      "title": "Handoff/Signout",
+      "subtitle": "Morning text, surgery rounds, and conference call workflow",
+      "category": "unit-operations",
+      "contentFile": "03 - Onboarding/Unit Operations/onboarding-signout.md"
+    },
+    {
+      "id": "call-tree",
+      "title": "HFICU Call Tree",
+      "subtitle": "Who to call and when — surgery, PCCM, cardiology",
+      "category": "unit-operations",
+      "contentFile": "03 - Onboarding/Unit Operations/onboarding-call-tree.md"
+    },
+    {
+      "id": "admission-workflow",
+      "title": "Admission & Discharge Workflow",
+      "subtitle": "Step-by-step admission and discharge process",
+      "category": "unit-operations",
+      "contentFile": "03 - Onboarding/Unit Operations/onboarding-admission-workflow.md"
+    },
+    {
+      "id": "end-of-life",
+      "title": "End-of-Life & MCS Withdrawal",
+      "subtitle": "Comfort care, device withdrawal, and documentation",
+      "category": "unit-operations",
+      "contentFile": "03 - Onboarding/Unit Operations/onboarding-end-of-life.md"
+    },
+    {
+      "id": "variance-reporting",
+      "title": "Variance Reporting",
+      "subtitle": "How to report safety events and near-misses",
+      "category": "unit-operations",
+      "contentFile": "03 - Onboarding/HR & Benefits/onboarding-variance-reporting.md"
+    },
+    {
+      "id": "callin-policy",
+      "title": "Call-In Policy",
+      "subtitle": "Attendance, NCNS rules, and disciplinary guidelines",
+      "category": "unit-operations",
+      "contentFile": "03 - Onboarding/Unit Operations/onboarding-callin-policy.md"
+    },
+    {
+      "id": "code-gray",
+      "title": "Code Gray",
+      "subtitle": "Disaster status, team designations, and staffing guidance",
+      "category": "unit-operations",
+      "contentFile": "03 - Onboarding/Unit Operations/onboarding-code-gray.md"
     }
   ]
 }

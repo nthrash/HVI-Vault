@@ -1,9 +1,15 @@
 ---
-title: Cafeteria & Food Options
-description: Where to eat, cafeteria hours, and nearby options
+title: Cafeteria, Food & Break Areas
+description: Where to eat, cafeteria hours, break rooms, and nearby options
 ---
 
-# Cafeteria & Food Options
+## APP Lounge
+
+The APP lounge is located on the **4th floor of the Robertson Building** in room **R455**, right before the glass double doors. This is where you can take breaks, store your things, and decompress.
+
+---
+
+## Cafeteria & Food Options
 
 Memorial Hermann-Texas Medical Center offers a variety of food options for patients and visitors.
 

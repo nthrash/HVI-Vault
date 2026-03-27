@@ -1,11 +1,19 @@
 ---
-title: Email & iPhone Setup
-description: How to access hospital email and configure it on your iPhone
+title: Email, iPhone & Wi-Fi Setup
+description: How to connect to hospital Wi-Fi and configure email on your iPhone
 ---
+
+## Wi-Fi
+
+Connect to **MH_GUEST** on your personal devices — no password required. This is the network used by staff, patients, and visitors throughout the campus.
+
+---
+
+## Hospital Email on Your iPhone
 
 Make sure your **hospital email and calendar** are set up on your phone so you can stay up to date on all group communications and schedule changes.
 
-## Adding Your Hospital Email (iPhone)
+## Adding Hospital Email (iPhone)
 
 ### Step 1 — Open Mail Settings
 
