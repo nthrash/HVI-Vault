@@ -11,12 +11,14 @@
             "id": "88694ff800db291d",
             "type": "leaf",
             "state": {
-              "type": "json",
+              "type": "markdown",
               "state": {
-                "file": "onboarding.json"
+                "file": "03 - Onboarding/HR & Benefits/onboarding-paycheck-workday.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "onboarding"
+              "title": "onboarding-paycheck-workday"
             }
           }
         ]
@@ -194,10 +196,11 @@
   },
   "active": "88694ff800db291d",
   "lastOpenFiles": [
+    "03 - Onboarding/HR & Benefits/onboarding-paychecks-workday.md",
     "03 - Onboarding/HR & Benefits/onboarding-paycheck-workday.md",
     "03 - Onboarding/HR & Benefits/onboarding-PTO-Buy-During-Annual-Enrollment.pdf",
+    "onboarding.json",
     "03 - Onboarding/HR & Benefits/onboarding-variance-reporting.md",
-    "03 - Onboarding/HR & Benefits/onboarding-paychecks-workday.md",
     "03 - Onboarding/HR & Benefits/onboarding-malpractice-insurance.md",
     "03 - Onboarding/HR & Benefits/onboarding-licensing-renewals.md",
     "03 - Onboarding/HR & Benefits/onboarding-licensing-reimbursement.md",
@@ -206,7 +209,6 @@
     "03 - Onboarding/HR & Benefits/onboarding-fmla-leave.md",
     "03 - Onboarding/HR & Benefits/onboarding-benefits-access.md",
     "01 - Vault/onboarding-test.md",
-    "onboarding.json",
     "protocols.json",
     "01 - Vault/Cardiology/protocols-myocarditis.md",
     "01 - Vault/Cardiology/protocols-right-heart-catheterization.pdf",

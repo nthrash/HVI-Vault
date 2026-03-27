@@ -1,3 +1,7 @@
+---
+title: Paychecks & Workday
+description: How to access pay stubs and navigate Workday
+---
 ========================================
 
 ### [1\. Go to Home - Workday](https://wd5.myworkday.com/memorialhermann/d/home.htmld)
@@ -19,3 +23,7 @@
 ### [5\. Click on the date paycheck](https://mchsftwr.mhhs.org/)
 
 ![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/7273cf13-7cfa-484e-a56a-8958af022f26/2.5/22.95719844358/17.728904847397?0)
+
+
+---
+_Last updated: March 2026 · HVI ICU APP Team

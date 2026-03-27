@@ -129,13 +129,6 @@
       "contentFile": "03 - Onboarding/HR & Benefits/onboarding-benefits-access.md"
     },
     {
-      "id": "paychecks-workday",
-      "title": "Paychecks & Workday",
-      "subtitle": "Pay stubs and Workday navigation",
-      "category": "hr-benefits",
-      "contentFile": "03 - Onboarding/HR & Benefits/onboarding-paychecks-workday.md"
-    },
-    {
       "id": "hr-portal",
       "title": "HR Portal",
       "subtitle": "What's available on the HR Portal",
