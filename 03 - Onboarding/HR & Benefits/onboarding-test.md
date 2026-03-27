@@ -16,6 +16,6 @@
 
 ![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/e7315c51-b274-4c8b-a63b-fe894b4b36e2/2.5/36.502918287938/32.369277378815?0)
 
-### [5\. Click on 03-26-2026](https://mchsftwr.mhhs.org/)
+### [5\. Click on the date paycheck](https://mchsftwr.mhhs.org/)
 
 ![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/7273cf13-7cfa-484e-a56a-8958af022f26/2.5/22.95719844358/17.728904847397?0)
