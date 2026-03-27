@@ -4,24 +4,6 @@
 
 ---
 
-## Quick Reference: Key Thresholds for Cardiac ICU
-
-| Parameter | Critical Threshold | Clinical Implication |
-|-----------|--------------------|----------------------|
-| CI | < 2.2 L/min/m2 | Cardiogenic shock (SCAI/ACC 2025) |
-| CPO | < 0.6 W | Severe CS; strongest mortality predictor |
-| PAPi | < 0.9 | Severe RV failure |
-| SvO2 / ScvO2 | < 60% / < 65% | Inadequate oxygen delivery |
-| Lactate | >= 2.0 mmol/L | Tissue hypoperfusion (SCAI Stage C) |
-| Lactate | > 5-10 mmol/L | Refractory shock (SCAI Stage E) |
-| Driving Pressure | > 15 cmH2O | Increased ARDS mortality |
-| P/F Ratio | < 100 | Severe ARDS; consider ECMO |
-| QTc | > 500 ms | High risk TdP; stop offending agents |
-| MAP | < 65 mmHg | Below perfusion target |
-| Osmolar Gap | > 10 | Toxic alcohol ingestion |
-
----
-
 ## 1. Hemodynamic Calculations
 
 ### Systemic Vascular Resistance (SVR)
@@ -396,6 +378,59 @@ MP = 0.098 x RR x Vt x (PIP - 0.5 x Driving Pressure)    (J/min)
 
 - **Target:** < 17 J/min (proposed threshold for VILI risk)
 - **Clinical significance:** Integrates all ventilator variables contributing to ventilator-induced lung injury (VILI) into a single parameter. Gaining traction in 2025 ICU practice as a comprehensive measure of mechanical stress, though specific guideline thresholds are still being validated.
+
+---
+
+### Desired Minute Ventilation
+
+**Formula:**
+
+```
+Desired MV = PaCO2 x (Known MV / Desired PaCO2)
+```
+
+- **Clinical significance:** Used to calculate the target minute ventilation needed to achieve a desired PaCO2. Useful when adjusting ventilator settings to correct respiratory acidosis or alkalosis. Assumes constant CO2 production and dead space fraction.
+
+---
+
+### Henderson-Hasselbalch Equation
+
+**Formula:**
+
+```
+pH = 6.1 + log [HCO3- / (0.03 x PaCO2)]
+```
+
+- **Normal pH:** 7.35-7.45
+- **Clinical significance:** Defines the relationship between pH, bicarbonate, and PaCO2. Fundamental for interpreting acid-base disorders and predicting pH changes with ventilator adjustments or bicarbonate administration. The constant 6.1 is the pKa of carbonic acid; 0.03 is the solubility coefficient of CO2 in plasma.
+
+---
+
+### PaCO2 Equation
+
+**Formula:**
+
+```
+PaCO2 = (VCO2 x 0.863) / VA
+
+Where VA = MV - (Vd x RR)
+```
+
+- **Normal PaCO2:** 35-45 mmHg
+- **Clinical significance:** Demonstrates that PaCO2 is determined by CO2 production (VCO2) relative to alveolar ventilation (VA). The constant 0.863 converts units from STPD to BTPS. Useful for understanding why patients with high dead space (PE, ARDS) develop hypercapnia despite normal minute ventilation, and for calculating required ventilator changes.
+
+---
+
+### Base Excess (BE)
+
+**Formula:**
+
+```
+BE = 0.02786 x PaCO2 x 10^(pH - 6.1) + 13.77 x pH - 124.58
+```
+
+- **Normal:** -2 to +2 mEq/L
+- **Clinical significance:** Quantifies the metabolic component of acid-base balance independent of respiratory contribution. A negative BE (base deficit) indicates metabolic acidosis and correlates with tissue hypoperfusion and lactate accumulation in shock states. Base deficit > 6 mEq/L is associated with increased mortality in trauma and cardiogenic shock. Serial trending guides adequacy of resuscitation.
 
 ---
 
