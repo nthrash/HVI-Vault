@@ -34,7 +34,14 @@ description: Overnight communication guide — who to call for surgery, PCCM, an
 
 ### Report to Dr. Patel
 - Be inside the patient's room
-- Start with the monitor: HR, BP (SBP/DBP)
+- Start with the monitor: HR, BP (SBP/DBP), Map, PAP, CVP, SpO2
+- SvO2, CO/CI
+- Device settings, flows, any issues
+- Drip rates
+- Chest tubes (Pt R -> L) and UOP
+- Any new issues, neuro changes, site/line bleeding
+- Recent ABG and labs
+- Any further concerns
 
 ---
 ## 🫁 Pulmonary Critical Care Medicine (PCCM)
