@@ -62,6 +62,11 @@ Notify the on-call cardiologist for:
 - **Surgical issues** — update cardiologist on any events that have already been discussed with the surgical team
 - **MCS** - Adjustments to MCS due to hemodynamics or device issues (Impellas, RVAD, LVAD, VA ECMO). Generally VV is communicated to the PCCM team as above.
 
+Notify the in house HF Fellow (45156) for:
+- **All ICU Admissions** - Regardless of acuity. They write the admission note.
+- **Activating cath lab** - Stemi/IABP are activated by the fellow through a web service
+- **Pacemaker Interrogation** - Fellows can help interrogate if you are unfamiliar
+
 ---
 ## 🔄 General Communication Flow
 
@@ -72,7 +77,7 @@ Notify the on-call cardiologist for:
 - Vent/sedation/procedural issues
 
 **2. 🫀 HF Cardiologist**
-- Always notify for all admissions
+- Always notify attending for all ICU admissions
 - Any vasopressor changes/hemodynamic compromise requiring intervention
 - Adjustments to MCS
 
