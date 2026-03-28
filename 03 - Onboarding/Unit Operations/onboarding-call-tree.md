@@ -32,6 +32,10 @@ description: Overnight communication guide — who to call for surgery, PCCM, an
 - ⚠️ **All admissions with MCS** → notify on-call surgeon (in case MCS upgrade is needed)
 - ⚠️ **Admissions without MCS** where MCS may be required → discuss with on-call cardiologist **first**, then notify on-call surgeon
 
+### Report to Dr. Patel
+- Be inside the patient's room
+- Start with the monitor: HR, BP (SBP/DBP)
+
 ---
 ## 🫁 Pulmonary Critical Care Medicine (PCCM)
 **Contact:** PCCM Fellow In-House — **Phone# 49749**
