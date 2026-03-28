@@ -11,14 +11,10 @@
             "id": "cf091cb44dbc542b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Onboarding/Unit Operations/onboarding-call-tree.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "onboarding-call-tree"
+              "title": "New tab"
             }
           }
         ]
@@ -194,8 +190,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "cf091cb44dbc542b",
+  "active": "37148d93af0bc366",
   "lastOpenFiles": [
+    "02 - Contacts/Contacts.md",
+    "02 - Contacts/New Contacts.md",
+    "03 - Onboarding/Clinical Access/onboarding-clinical-resources-access.md",
+    "03 - Onboarding/Unit Operations/onboarding-signout.md",
+    "03 - Onboarding/Unit Operations/onboarding-scheduling-pto.md",
+    "03 - Onboarding/Unit Operations/onboarding-rounding-structure.md",
+    "03 - Onboarding/Unit Operations/onboarding-overnight-expectations.md",
+    "03 - Onboarding/Unit Operations/onboarding-admission-workflow.md",
+    "03 - Onboarding/Unit Operations/onboarding-call-tree.md",
     "02 - Studies/Merged_Landmark_Trials_HF_ICU_Reference.md",
     "02 - Studies/danger-shock-2024.md",
     "MH Online Resources Guide.pdf",
@@ -206,7 +211,6 @@
     "onboarding.json",
     "contacts.json",
     "link-status.json",
-    "03 - Onboarding/Clinical Access/onboarding-clinical-resources-access.md",
     "03 - Onboarding/Clinical Access/onboarding-credentialing.md",
     "03 - Onboarding/Clinical Access/onboarding-hospital-policies.md",
     "03 - Onboarding/Clinical Access/onboarding-medical-staff-roster.md",
@@ -222,15 +226,7 @@
     "03 - Onboarding/HR & Benefits/onboarding-paychecks-workday.md",
     "03 - Onboarding/HR & Benefits/onboarding-PTO-Buy-During-Annual-Enrollment.pdf",
     "03 - Onboarding/HR & Benefits/onboarding-variance-reporting.md",
-    "01 - Vault/onboarding-test.md",
-    "01 - Vault/Cardiology/protocols-myocarditis.md",
     "01 - Vault/Cardiology/protocols-right-heart-catheterization.pdf",
-    "03 - Onboarding/IT & Systems/onboarding-wifi-setup.md",
-    "03 - Onboarding/Unit Operations/onboarding-code-gray.md",
-    "01 - Vault/Cardiology/protocols-icu-cardiac-calculations.md",
-    "01 - Vault/Cardiology/protocols-heart-failure-classifications.md",
-    "03 - Onboarding/Getting Around/onboarding-cafeteria-food.md",
-    "01 - Vault/Pulmonary/protocols-lung-transplant-icu.md",
     "99 - Meta/Assets/Images/ptoinput4.webp",
     "99 - Meta/Assets/Images/ptoinput3.webp",
     "99 - Meta/Assets/Images/ptoinput2.webp",
