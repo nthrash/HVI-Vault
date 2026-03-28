@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "367fc344039f951f",
+        "id": "b4b1916fe9741a46",
         "type": "tabs",
         "children": [
           {
-            "id": "88694ff800db291d",
+            "id": "cf091cb44dbc542b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Onboarding/HR & Benefits/onboarding-fmla-leave.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "onboarding-fmla-leave"
+              "title": "New tab"
             }
           }
         ]
@@ -194,8 +190,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "88694ff800db291d",
+  "active": "cf091cb44dbc542b",
   "lastOpenFiles": [
+    "03 - Onboarding/HR & Benefits/onboarding-fmla-leave.md",
     "03 - Onboarding/HR & Benefits/onboarding-hr-portal.md",
     "resources.json",
     "protocols.json",
@@ -212,7 +209,6 @@
     "03 - Onboarding/IT & Systems/onboarding-isd-service-portal.md",
     "03 - Onboarding/IT & Systems/onboarding-onesource-overview.md",
     "03 - Onboarding/HR & Benefits/onboarding-Infor-XM-Expense-Request-Guide.pdf",
-    "03 - Onboarding/HR & Benefits/onboarding-fmla-leave.md",
     "03 - Onboarding/HR & Benefits/onboarding-benefits-access.md",
     "03 - Onboarding/HR & Benefits/onboarding-malpractice-insurance.md",
     "03 - Onboarding/HR & Benefits/onboarding-paycheck-workday.md",

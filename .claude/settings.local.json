@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xargs sed:*)",
+      "Bash(while IFS= read -r file)",
+      "Bash(do sed:*)",
+      "Bash(done)",
+      "mcp__claude_ai_PubMed__search_articles",
+      "mcp__claude_ai_PubMed__get_article_metadata",
+      "WebFetch(domain:yourmhbenefits.com)",
+      "Bash(brew list:*)",
+      "Bash(textutil -convert html -stdout \"/Users/nthrash/Downloads/Autoimmune cheat sheet.docx\")",
+      "Bash(pip3 install:*)",
+      "Bash(python3 -m venv /tmp/pptx_env)",
+      "Bash(/tmp/pptx_env/bin/pip install:*)",
+      "Bash(ls:*)",
+      "WebSearch",
+      "WebFetch(domain:www.jacc.org)",
+      "WebFetch(domain:classicanesthesia.com)",
+      "WebFetch(domain:jamanetwork.com)"
+    ]
+  }
+}
