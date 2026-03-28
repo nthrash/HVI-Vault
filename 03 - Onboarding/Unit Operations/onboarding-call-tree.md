@@ -54,7 +54,7 @@ Notify PCCM for any of the following:
 - **Major events** requiring cardiology or HF surgery intervention _(keep PCCM in the loop)_
 - **All ICU admissions** — PCCM should be notified regardless of acuity
 - **MCS** - Adjustments to VV ECMO due to changes in patient condition
-PCCM Fellow also includes a PCCM Attending that is also in house if unable to reach PCCM fellow for any acute concerns. Must contact the
+PCCM Fellow also includes a PCCM Attending that is also in house if unable to reach PCCM fellow for any acute concerns. Must contact them through their cellphone.
 
 ---
 ## 🫀 HF Cardiologist
