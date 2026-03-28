@@ -8,11 +8,12 @@ description: Overnight communication guide — who to call for surgery, PCCM, an
 ---
 ## 📞 Quick Reference
 
-| Team                       | Contact          | When                                                        |
-| -------------------------- | ---------------- | ----------------------------------------------------------- |
-| PCCM Fellow                | **Phone# 49749** | Vent issues, sedation, procedures, all admissions           |
-| On-Call Surgeon (1st call) | On-call schedule | >72hr post-op events, all MCS admissions                    |
-| On-Call Cardiologist       | On-call schedule | All ICU admissions, vasopressor changes hemodynamic changes |
+| Team                       | Contact             | When                                                        |
+| -------------------------- | ------------------- | ----------------------------------------------------------- |
+| PCCM Fellow                | **Phone# 49749**    | Vent issues, sedation, procedures, all admissions           |
+| On-Call Surgeon (1st call) | On-call schedule    | >72hr post-op events, all MCS admissions                    |
+| On-Call Cardiologist       | On-call schedule    | All ICU admissions, vasopressor changes hemodynamic changes |
+| On-Call HF Fellow          | **Phone#<br>45156** | All ICU Admissions                                          |
 
 ---
 ## 🔪 Heart Failure Surgery
@@ -53,6 +54,7 @@ Notify PCCM for any of the following:
 - **Major events** requiring cardiology or HF surgery intervention _(keep PCCM in the loop)_
 - **All ICU admissions** — PCCM should be notified regardless of acuity
 - **MCS** - Adjustments to VV ECMO due to changes in patient condition
+PCCM Fellow also includes a PCCM Attending that is also in house if unable to reach PCCM fellow for any acute concerns. Must contact the
 
 ---
 ## 🫀 HF Cardiologist
