@@ -15,7 +15,8 @@ Keeping your licenses and certifications current is your responsibility. If anyt
 | **Texas APRN License** | Every 2 years | Texas BON (renews with or separately from RN) | Included in RN CE requirements |
 | **DEA Registration** | Every 3 years | U.S. Drug Enforcement Administration | None (fee-based renewal) |
 | **Texas CSR** (Controlled Substance Registration) | Every 1 year | Texas DPS | None (fee-based renewal) |
-| **National Certification** (ANCC, AANP, or other certifying body) | Varies by certifying body (typically every 5 years) | ANCC, AANP, etc. | Varies — check your certifying body's requirements |
+| **National NP Certification** (ANCC, AANP, or other certifying body) | Varies by certifying body (typically every 5 years) | ANCC, AANP, etc. | Varies — check your certifying body's requirements |
+| **AACN Certification** — ACNPC-AG, CCRN, CCRN-K, PCCN, CMC, CSC, and other subspecialties | Every 3–5 years depending on credential | American Association of Critical-Care Nurses (AACN) | CE hours + practice hours vary by credential; most require a combination of CERPs, contact hours, and/or pharmacology hours. Check [AACN Renewal Requirements](https://www.aacn.org/certification/renewal) for your specific credential |
 | **BLS** | Every 2 years | American Heart Association | Renewal course |
 | **ACLS** | Every 2 years | American Heart Association | Renewal course |
 | **Hospital Credentialing** | Every 2 years (typical) | Memorial Hermann via [eCredentialing Portal](https://psv.memorialhermann.org/PractitionerPortal/Login.aspx) | Completed by medical staff office — you provide updated documents |
@@ -31,7 +32,8 @@ Most licensing boards allow renewal **60–90 days** before expiration. Don't wa
 | Texas RN / APRN License | 60 days before expiration |
 | DEA Registration | 90 days before expiration |
 | Texas CSR | 60 days before expiration |
-| National Certification | 90+ days (some require portfolio submission) |
+| National NP Certification | 90+ days (some require portfolio submission) |
+| AACN Certification (ACNPC-AG, CCRN, etc.) | 90+ days — verify CE/CERP hours are complete before submitting |
 | BLS / ACLS | Schedule your renewal course 1–2 months ahead |
 
 ---
@@ -45,6 +47,7 @@ Most licensing boards allow renewal **60–90 days** before expiration. Don't wa
 | Texas CSR | [Texas DPS Controlled Substance](https://www.dps.texas.gov/rsd/portal/index.aspx) |
 | ANCC Certification | [ANCC Certification Renewal](https://www.nursingworld.org/our-certifications/) |
 | AANP Certification | [AANP Recertification](https://www.aanpcert.org/recert) |
+| AACN Certification (ACNPC-AG, CCRN, CCRN-K, PCCN, CMC, CSC, etc.) | [AACN Certification Renewal](https://www.aacn.org/certification/renewal) |
 | BLS / ACLS | [AHA Training Center Locator](https://cpr.heart.org/en/course-catalog-search) |
 
 ---

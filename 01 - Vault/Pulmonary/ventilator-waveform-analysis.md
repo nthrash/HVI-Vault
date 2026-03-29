@@ -1,5 +1,5 @@
 # Ventilator Waveform Analysis
-## A Comprehensive Guide for Advanced Practice Providers
+## A Comprehensive Guide
 *Standalone Reference — UTHealth Houston HVI*
 
 Understanding ventilator waveforms is one of the most powerful clinical skills an APP can develop. Waveforms give you **real-time, breath-by-breath insight** into what is happening inside the patient's lungs — long before lab values, imaging, or clinical deterioration make the problem obvious. This document covers scalar waveforms, loops, dyssynchrony recognition, and clinical troubleshooting using graphics.
