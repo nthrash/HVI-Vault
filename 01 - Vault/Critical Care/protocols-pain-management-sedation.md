@@ -70,14 +70,14 @@ The approach to analgesia and sedation in the ICU should follow a **multimodal s
 
 ### Methocarbamol
 
-| Parameter | Detail |
-|-----------|--------|
-| **PO dosing** | 1,000–1,500 mg q6hr |
-| **IV dosing** | 1,000 mg q8hr |
-| **Indications** | Musculoskeletal pain, muscle spasm (herniated discs, rib fractures, painful chest tubes), perioperative pain |
-| **Contraindications (IV)** | Hypotension/tenuous hemodynamics; renal failure (polyethylene glycol in vehicle) |
-| **Not effective for** | Spasms due to upper motor neuron injury |
-| **Half-life** | 1–2 hours |
+| Parameter                  | Detail                                                                                                       |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| **PO dosing**              | 500–1,500 mg q6hr                                                                                            |
+| **IV dosing**              | 500 - 1,000 mg q8hr                                                                                          |
+| **Indications**            | Musculoskeletal pain, muscle spasm (herniated discs, rib fractures, painful chest tubes), perioperative pain |
+| **Contraindications (IV)** | Hypotension/tenuous hemodynamics; renal failure (polyethylene glycol in vehicle)                             |
+| **Not effective for**      | Spasms due to upper motor neuron injury                                                                      |
+| **Half-life**              | 1–2 hours                                                                                                    |
 
 ### NSAIDs — General Principles
 
