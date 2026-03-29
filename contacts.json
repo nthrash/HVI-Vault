@@ -630,6 +630,16 @@
           "isPerson": false
         },
         {
+          "id": "sarofim_ahf_imu_np",
+          "name": "Sarofim Heart Failure IMU NP",
+          "role": "Sarofim AHF IMU NP",
+          "phone": "(713) 704-4855",
+          "category": "hf",
+          "firstName": "",
+          "lastName": "Sarofim Heart Failure IMU NP",
+          "isPerson": false
+        },
+        {
           "id": "ahf_sarofim_imu_np",
           "name": "Sarofim Heart Failure IMU Nurse Practioner",
           "role": "Sarofim AHF IMU NP",
@@ -657,7 +667,8 @@
           "category": "hf",
           "firstName": "Sydney",
           "lastName": "Bianco",
-          "isPerson": true
+          "isPerson": true,
+          "note": "Alt: (570) 204-7778"
         },
         {
           "id": "yessica",
@@ -679,11 +690,12 @@
           "id": "barout_ahmad",
           "name": "Ahmad Barout",
           "role": "Cardiology Fellow",
-          "phone": "(832) 466-1629",
+          "phone": "(630) 926-1629",
           "category": "cardiology",
           "firstName": "Ahmad",
           "lastName": "Barout",
-          "isPerson": true
+          "isPerson": true,
+          "note": "Previous: (832) 466-1629"
         },
         {
           "id": "yarrabothula_akshitha",
@@ -749,11 +761,12 @@
           "id": "chohan_amad",
           "name": "Amad Chohan",
           "role": "Cardiology Fellow",
-          "phone": "(832) 881-5642",
+          "phone": "(405) 488-4281",
           "category": "cardiology",
           "firstName": "Amad",
           "lastName": "Chohan",
-          "isPerson": true
+          "isPerson": true,
+          "note": "Previous: (832) 881-5642"
         },
         {
           "id": "haidar_amier",
@@ -849,11 +862,12 @@
           "id": "zehner_carl",
           "name": "Carl Zehner",
           "role": "Cardiology Fellow",
-          "phone": "(908) 221-2362",
+          "phone": "(508) 221-2382",
           "category": "cardiology",
           "firstName": "Carl",
           "lastName": "Zehner",
-          "isPerson": true
+          "isPerson": true,
+          "note": "Previous: (908) 221-2362"
         },
         {
           "id": "wanna_charles",
@@ -989,11 +1003,12 @@
           "id": "patel_hina",
           "name": "Hina Patel",
           "role": "Cardiology Fellow",
-          "phone": "(732) 944-5669",
+          "phone": "(443) 944-5669",
           "category": "cardiology",
           "firstName": "Hina",
           "lastName": "Patel",
-          "isPerson": true
+          "isPerson": true,
+          "note": "Previous: (732) 944-5669"
         },
         {
           "id": "shadid_husain",
@@ -1009,11 +1024,12 @@
           "id": "going_james",
           "name": "James Going",
           "role": "Cardiology Fellow",
-          "phone": "(770) 870-8302",
+          "phone": "(770) 870-8306",
           "category": "cardiology",
           "firstName": "James",
           "lastName": "Going",
-          "isPerson": true
+          "isPerson": true,
+          "note": "Previous: (770) 870-8302"
         },
         {
           "id": "chohan_jawad",
@@ -1249,11 +1265,12 @@
           "id": "king_nicholas",
           "name": "Nicholas King",
           "role": "Cardiology Fellow",
-          "phone": "(646) 775-6280",
+          "phone": "(512) 423-9233",
           "category": "cardiology",
           "firstName": "Nicholas",
           "lastName": "King",
-          "isPerson": true
+          "isPerson": true,
+          "note": "Previous: (646) 775-6280"
         },
         {
           "id": "patel_nimai",
@@ -1637,11 +1654,12 @@
           "id": "akkanti_bindu",
           "name": "Bindu Akkanti",
           "role": "PCCM Attending",
-          "phone": "(630) 796-1908",
+          "phone": "(281) 908-7912",
           "category": "pccm",
           "firstName": "Bindu",
           "lastName": "Akkanti",
-          "isPerson": true
+          "isPerson": true,
+          "note": "Previous: (630) 796-1908"
         },
         {
           "id": "harding_chris",
