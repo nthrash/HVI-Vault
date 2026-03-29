@@ -119,11 +119,12 @@ Used as part of multimodal analgesia; inhibits sodium channels to reduce pain si
 
 ### Selection of IV Opioid — Non-Intubated Patients
 
-| Priority     | Agent                | Rationale                                                                                                                                                              |
-| ------------ | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1st line** | **IV Nalbuphine**    | Less respiratory depression (ceiling effect), less N/V, less pruritus, lowest abuse potential. Contraindicated in opioid-tolerant patients or those on chronic opioids |
-| **2nd line** | **IV Morphine**      | Effective; less habit-forming; contraindicated GFR <30                                                                                                                 |
-| **3rd line** | **IV Hydromorphone** | Fewer side effects than morphine but more habit-forming                                                                                                                |
+| Priority        | Agent                                    | Rationale                                                                                                                                                                                                                       |
+| --------------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1st line**    | **IV Fentanyl (low-dose, e.g., 25 mcg)** | Rapid onset; easily titrated; no histamine release; minimal hemodynamic effect at low doses; preferred for non-intubated patients when brief analgesia is needed                                                                |
+| **2nd line**    | **IV Hydromorphone**                     | Longer duration than fentanyl; no histamine release; useful when more sustained analgesia needed; start 0.2–0.5 mg                                                                                                              |
+| **3rd line**    | **IV Morphine**                          | Effective; less habit-forming; contraindicated GFR <30; more histamine release (hypotension, pruritus)                                                                                                                          |
+| **Alternative** | **IV Nalbuphine**                        | Less respiratory depression (ceiling effect), less N/V, less pruritus, lowest abuse potential. Contraindicated in opioid-tolerant patients. *Not routinely used at all facilities — consider availability and team familiarity* |
 
 ### Selection of Oral Opioid
 
@@ -301,9 +302,63 @@ Nalbuphine deserves emphasis as it is under-utilized. It is a **partial mu-recep
 
 | Agent | Dose | Notes |
 |-------|------|-------|
+| **Olanzapine (Zyprexa)** | See detailed section below | Workhorse agent for ICU agitation |
 | **Quetiapine** | 50–100 mg PO q12hr | Useful adjunctive sedation |
-| **Olanzapine** | 5–10 mg PO/IM | Effective for agitation; metabolic effects |
 | **Lurasidone** | Variable | Fewer metabolic effects |
+
+### Olanzapine (Zyprexa) — Detailed Reference
+
+Olanzapine is one of the most versatile and effective agents for managing agitation, delirium, and nausea in the critically ill. It has a favorable side-effect profile compared to haloperidol and offers multiple routes of administration.
+
+| Parameter | Detail |
+|-----------|--------|
+| **PO dose** | 5–10 mg PO q12–24hr; may start 2.5–5 mg in elderly or debilitated patients |
+| **IM dose** | 5–10 mg IM; may repeat × 1 in 2 hours; max 30 mg/day IM |
+| **ODT (orally disintegrating tablet)** | 5–10 mg — dissolves on tongue; useful for patients who refuse or cannot swallow tablets but can open mouth |
+| **Onset** | PO: 15–45 min; IM: 15–30 min (peak ~30–45 min) |
+| **Half-life** | 21–54 hours (mean ~30 hr) — allows q12–24hr dosing |
+| **Duration** | Effective sedation lasts ~4–6+ hours after IM dosing |
+| **Metabolism** | Hepatic (CYP1A2 primary, CYP2D6 minor); glucuronidation |
+
+**Clinical Advantages:**
+
+- **Rapid, reliable IM onset** — among the fastest-acting IM antipsychotics for acute agitation (comparable or superior to IM haloperidol)
+- **Broad receptor profile** — antagonizes D2, 5-HT2A, 5-HT2C, H1, muscarinic, and alpha-1 receptors → sedation + antiemesis + anxiolysis + antipsychotic effect
+- **Less EPS and dystonia** than haloperidol — particularly advantageous in elderly and Parkinson's-adjacent patients
+- **Potent antiemetic** — useful for postoperative nausea, opioid-induced nausea, and chemotherapy-associated nausea (5-HT2/D2/H1 blockade)
+- **Minimal QTc prolongation** — significantly safer than haloperidol and droperidol regarding torsades risk; can be used when QTc limits haloperidol
+- **Long half-life** — once adequate sedation is achieved, dosing frequency is lower than shorter-acting agents
+- **No IV formulation issues** — avoids propylene glycol toxicity concerns seen with IV lorazepam
+
+**ICU Indications:**
+
+- **Hyperactive delirium / agitation** — first-line atypical antipsychotic; especially when haloperidol is limited by QTc prolongation
+- **ICU delirium prevention** — some evidence supports low-dose olanzapine (5 mg QHS) to reduce delirium incidence in high-risk patients
+- **Nausea/vomiting** — 2.5–5 mg PO/ODT/IM; effective as rescue antiemetic and as part of multimodal PONV prophylaxis
+- **Adjunctive sedation** — useful when trying to minimize propofol or benzodiazepine exposure
+- **Agitation in alcohol/substance withdrawal** — adjunct to primary withdrawal therapy
+- **Sleep promotion** — H1 antagonism provides sedation at lower doses (2.5–5 mg QHS)
+
+**Key Precautions:**
+
+| Concern | Detail |
+|---------|--------|
+| **IM olanzapine + IM benzodiazepine** | **Avoid concurrent IM administration** — reports of cardiorespiratory depression, excessive sedation, and death. Separate by ≥1 hour. PO combinations are generally safer |
+| **Hypotension** | Alpha-1 blockade can cause orthostatic hypotension; use cautiously in hypovolemic or hemodynamically unstable patients |
+| **Anticholinergic effects** | Dry mouth, urinary retention, constipation, tachycardia — avoid in patients with bowel obstruction or severe ileus |
+| **Metabolic effects** | Hyperglycemia, weight gain, hyperlipidemia — less relevant in acute ICU setting but consider in prolonged use |
+| **Hepatic impairment** | Start at lower dose (2.5–5 mg); monitor LFTs |
+| **Elderly with dementia** | Black box warning: increased risk of cerebrovascular events and mortality (class effect for all atypicals) — weigh risk/benefit in acute delirium |
+| **Smoking status** | CYP1A2 inducer — smokers may require higher doses; dose reduction if smoking cessation occurs during admission |
+| **Drug interactions** | CYP1A2 inhibitors (ciprofloxacin, fluvoxamine) increase levels — reduce dose by ~50% |
+
+**Dosing Strategy for ICU Agitation:**
+
+1. Mild agitation / delirium prophylaxis: **2.5–5 mg PO/ODT QHS**
+2. Moderate agitation: **5–10 mg PO/ODT or IM**, reassess in 30–60 min
+3. Severe agitation (acute): **10 mg IM**, may repeat 5–10 mg IM × 1 after 2 hr (max 30 mg/day)
+4. Maintenance: **5–10 mg PO q12–24hr** once acute episode controlled
+5. Antiemetic: **2.5–5 mg PO/ODT/IM q6–8hr PRN**
 
 ### Valproic Acid
 
