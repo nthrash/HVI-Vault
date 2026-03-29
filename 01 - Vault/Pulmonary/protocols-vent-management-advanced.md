@@ -25,21 +25,21 @@ The basics are reviewed here not as a refresher, but as a foundation for underst
 
 ---
 
-## 1.1 Volume-Controlled Assist Control (VC-AC)
+## 1.1 Assist Control Volume Control (ACVC)
 
 ### Mechanics & Physiology
 
-VC-AC guarantees delivery of a set tidal volume (Vt) with every triggered or mandatory breath. The ventilator delivers a constant or decelerating flow to reach that Vt regardless of the patient's inspiratory effort or lung compliance. Because the volume is fixed, the resulting peak airway pressure is entirely determined by the patient's respiratory system mechanics.
+ACVC guarantees delivery of a set tidal volume (Vt) with every triggered or mandatory breath. The ventilator delivers a constant or decelerating flow to reach that Vt regardless of the patient's inspiratory effort or lung compliance. Because the volume is fixed, the resulting peak airway pressure is entirely determined by the patient's respiratory system mechanics.
 
 > **Key equation:** Peak Pressure = Flow Resistance Pressure + Plateau Pressure. Plateau pressure (Pplat) reflects alveolar pressure (static compliance). The gap between Peak and Pplat reflects airway resistance. A widening Peak-Pplat gap means airway obstruction; a rising Pplat means worsening lung compliance or auto-PEEP.
 
-### VC-AC Failure Modes
+### ACVC Failure Modes
 
-> ⚠️ **VC-AC Failure Recognition**
+> ⚠️ **ACVC Failure Recognition**
 >
 > 1. **High peak with normal Pplat** → secretions, bronchospasm, kinked ETT. Treat the airway, not the vent.
 > 2. **High Pplat despite low Vt** → severe ARDS, tension pneumothorax, abdominal compartment syndrome.
-> 3. **Patient dyssynchrony** → flow starvation if flow rate too low; increase flow to 80-100 L/min or switch to PC-AC.
+> 3. **Patient dyssynchrony** → flow starvation if flow rate too low; increase flow to 80-100 L/min or switch to ACPC.
 > 4. **Auto-PEEP accumulation** → undetected unless you perform expiratory hold; treat by extending I:E ratio.
 > 5. **CO2 retention despite high RR** → dead space ventilation; adding PEEP or treating underlying cause more useful than increasing rate.
 
@@ -48,45 +48,45 @@ VC-AC guarantees delivery of a set tidal volume (Vt) with every triggered or man
 - Positive pressure ventilation reduces LV preload and afterload — beneficial in decompensated HF; maintain PEEP 8–12 if pulmonary edema present
 - RV afterload increases with every breath in positive pressure ventilation. In RV failure, keep mean airway pressure as low as possible; target lowest effective PEEP
 - Post-CABG or post-valve patients: phrenic nerve injury from topical cooling → unilateral diaphragm paralysis → asymmetric lung expansion → apparent refractory atelectasis on CXR; diaphragm US is confirmatory (TFdi <20% on affected side)
-- In LVAD patients on VC-AC: mean airway pressure directly affects RV preload and thus LVAD flows; rising Ppeak with falling LVAD flow suggests auto-PEEP or worsening RV failure — not just a vent problem
+- In LVAD patients on ACVC: mean airway pressure directly affects RV preload and thus LVAD flows; rising Ppeak with falling LVAD flow suggests auto-PEEP or worsening RV failure — not just a vent problem
 
 ---
 
-## 1.2 Pressure-Controlled Assist Control (PC-AC)
+## 1.2 Assist Control Pressure Control (ACPC)
 
 ### Mechanics & Physiology
 
-PC-AC delivers breaths to a set inspiratory pressure above PEEP, generating a decelerating flow waveform. Tidal volume is the **dependent variable** — it changes breath-to-breath based on compliance and resistance. This is fundamentally different from VC-AC: you are setting the driving pressure, not the volume.
+ACPC delivers breaths to a set inspiratory pressure above PEEP, generating a decelerating flow waveform. Tidal volume is the **dependent variable** — it changes breath-to-breath based on compliance and resistance. This is fundamentally different from ACVC: you are setting the driving pressure, not the volume.
 
 ```
 Vt = (ΔP × Compliance) − (Resistance × Flow integral)
 ```
 
-The decelerating flow waveform is physiologically more natural and reduces peak pressure compared to constant-flow VC-AC, but at the cost of volume guarantee.
+The decelerating flow waveform is physiologically more natural and reduces peak pressure compared to constant-flow ACVC, but at the cost of volume guarantee.
 
-### When to Prefer PC-AC
+### When to Prefer ACPC
 
-- Severe ARDS with Pplat >30 cmH2O on VC-AC despite Vt reduction to 4 mL/kg IBW
+- Severe ARDS with Pplat >30 cmH2O on ACVC despite Vt reduction to 4 mL/kg IBW
 - Severe bronchospasm — decelerating flow allows more complete alveolar filling
-- Significant patient-ventilator dyssynchrony that persists despite flow titration in VC-AC
+- Significant patient-ventilator dyssynchrony that persists despite flow titration in ACVC
 - Bronchopleural fistula — pressure limit may reduce leak-driven volume loss
 - Post-cardiac surgery patient with highly variable compliance (e.g., re-expansion after tamponade drainage)
 
-### The Critical Danger of PC-AC in the HFICU
+### The Critical Danger of ACPC in the HFICU
 
-> 🚨 **Volume Alarm is Your Lifeline in PC-AC**
+> 🚨 **Volume Alarm is Your Lifeline in ACPC**
 >
 > When compliance drops suddenly (pneumothorax, mucus plug, bronchospasm), Vt drops silently unless your low-Vt alarm is set. **Set low Vt alarm at 5 mL/kg IBW** (e.g., 350 mL for 70 kg IBW patient).
 >
 > Conversely, when sedation is lightened or patient effort increases, Vt can exceed safe limits — patient's inspiratory effort ADDS to ventilator-delivered volume. This is **P-SILI** (patient self-inflicted lung injury).
 >
-> Watch for: RR >30, SpO2 declining, rising plateau trend → convert to VC-AC with neuromuscular blockade if P-SILI suspected (Brochard et al., *ICM* 2017). Note: the ATS 2024 and ESICM 2023 guidelines diverge on routine NMB use — see Section 3.5 for current evidence.
+> Watch for: RR >30, SpO2 declining, rising plateau trend → convert to ACVC with neuromuscular blockade if P-SILI suspected (Brochard et al., *ICM* 2017). Note: the ATS 2024 and ESICM 2023 guidelines diverge on routine NMB use — see Section 3.5 for current evidence.
 
-### PC-AC in Cardiogenic Shock / ECMO
+### ACPC in Cardiogenic Shock / ECMO
 
-- For patients on VA-ECMO with severe LV dysfunction: lung rest ventilation uses PC-AC with ΔP of 10–15 cmH2O, RR 8–12, PEEP 8–12 cmH2O
+- For patients on VA-ECMO with severe LV dysfunction: lung rest ventilation uses ACPC with ΔP of 10–15 cmH2O, RR 8–12, PEEP 8–12 cmH2O
 - Watch Vt trends closely — with improving ECMO flows and lung recruitment, compliance may improve rapidly and Vt may rise above intended targets
-- Use PC-AC for ECMO lung rest only if you can monitor Vt continuously; otherwise VC-AC with very low Vt (2–4 mL/kg) is safer operationally
+- Use ACPC for ECMO lung rest only if you can monitor Vt continuously; otherwise ACVC with very low Vt (2–4 mL/kg) is safer operationally
 
 ---
 
@@ -106,7 +106,7 @@ Many APPs set PS at 5 cmH2O for "weaning" and leave it. This is overly simplisti
 
 > ⚠️ **PSV Failure Scenarios**
 >
-> **INEFFECTIVE TRIGGERING:** In auto-PEEP states, the patient must first overcome auto-PEEP before the trigger threshold is reached. Each failed effort = wasted work. Solution: set PEEP to ~80% of measured auto-PEEP, or consider VC-AC.
+> **INEFFECTIVE TRIGGERING:** In auto-PEEP states, the patient must first overcome auto-PEEP before the trigger threshold is reached. Each failed effort = wasted work. Solution: set PEEP to ~80% of measured auto-PEEP, or consider ACVC.
 >
 > **DOUBLE TRIGGERING:** Patient effort outlasts the ventilator inspiratory time → second breath triggered immediately. Watch for double humps on flow waveform. Increase cycle-off threshold (e.g., 30–40% peak flow) or switch mode.
 >
@@ -168,11 +168,11 @@ A small RCT (Zou et al., *CHEST* 2025; PMID: 39299389; n=40) using EIT demonstra
 
 | Use APRV When... | Avoid or Abandon APRV When... |
 |-----------------|------------------------------|
-| Moderate-severe ARDS refractory to conventional VC-AC | Severe obstructive physiology (COPD, asthma) — air trapping guaranteed |
+| Moderate-severe ARDS refractory to conventional ACVC | Severe obstructive physiology (COPD, asthma) — air trapping guaranteed |
 | De-recruitment loop: each recruitment maneuver followed by rapid de-recruitment | Elevated ICP — sustained high ITP reduces cerebral venous drainage |
 | Patient is awake/semi-awake with preserved respiratory drive | Severe RV failure — P-high sustained > RVPP → RV impedes pulmonary flow |
 | Secretion clearance is a primary problem (cough during release phase) | Hemodynamic instability requiring high vasopressors |
-| Traditional prone + VC-AC has failed and ECMO is not yet available | Patient is paralyzed — APRV relies on spontaneous breathing for optimal benefit |
+| Traditional prone + ACVC has failed and ECMO is not yet available | Patient is paralyzed — APRV relies on spontaneous breathing for optimal benefit |
 
 ### APRV in the HFICU — Special Cautions
 
@@ -195,18 +195,18 @@ Dyssynchrony is underdiagnosed. Studies suggest **25–50% of mechanically venti
 
 ## 2.1 Types of Dyssynchrony — A Waveform-Based Classification
 
-### Flow Starvation (VC-AC)
+### Flow Starvation (ACVC)
 
 The patient's inspiratory demand exceeds the set flow rate. The pressure waveform shows a **concave "scooped" appearance** during inspiration. The patient is trying to breathe faster than the vent delivers flow.
 
-- **Fix:** Increase peak flow to 80–100 L/min OR switch to decelerating flow OR convert to PC-AC
+- **Fix:** Increase peak flow to 80–100 L/min OR switch to decelerating flow OR convert to ACPC
 - In cardiac patients: flow starvation increases work of breathing substantially, worsens oxygen consumption, and can precipitate myocardial ischemia in CAD patients
 
 ### Double Triggering
 
 A single patient inspiratory effort triggers two ventilator cycles. On the flow waveform: a full delivered breath followed immediately by another with no expiratory pause. This creates **Vt stacking** — delivered volume can reach 2x the set Vt, causing lung injury.
 
-- **Fix:** Increase Ti to match patient's neural inspiratory time, switch to PC-AC, or increase sedation if Vt stacking is causing injury
+- **Fix:** Increase Ti to match patient's neural inspiratory time, switch to ACPC, or increase sedation if Vt stacking is causing injury
 
 ### Reverse Triggering
 
@@ -224,8 +224,8 @@ The diaphragm contracts in response to passive inflation — a reflex, not consc
 
 The ventilator cycles to expiration before the patient's neural inspiration is complete. Patient appears to be "fighting the vent" despite adequate sedation.
 
-- **Fix in PC-AC/PSV:** Reduce cycle-off threshold (from 25% to 10–15% of peak flow)
-- **Fix in VC-AC:** Increase Ti or reduce inspiratory flow rate
+- **Fix in ACPC/PSV:** Reduce cycle-off threshold (from 25% to 10–15% of peak flow)
+- **Fix in ACVC:** Increase Ti or reduce inspiratory flow rate
 
 ### Delayed Cycling (Late Termination)
 
@@ -318,7 +318,7 @@ ARDSNet tables provide a population-based starting point, not an individualized 
 >
 > **Target: MP <17 J/min.** This is the most widely cited clinical threshold, though the exact cutoff varies by patient size and lung compliance. Normalizing MP to compliance or well-aerated lung volume improves its predictive value (Cressoni et al., *ICM* 2023). No large RCT has yet tested an MP-limiting strategy for clinical outcomes — this remains a critical evidence gap.
 >
-> **Simplified calculation (VC-AC):**
+> **Simplified calculation (ACVC):**
 > `MP (J/min) = 0.098 × RR × Vt × (Ppeak − ΔP/2)`
 
 ### Bedside PEEP Titration Without Esophageal Manometry
@@ -334,13 +334,13 @@ ARDSNet tables provide a population-based starting point, not an individualized 
 
 In volume-controlled ventilation with constant flow, the airway pressure waveform during inspiration should be linear. Deviations indicate:
 
-| Waveform Shape (Constant Flow VC-AC) | Interpretation |
+| Waveform Shape (Constant Flow ACVC) | Interpretation |
 |--------------------------------------|----------------|
 | Upward concavity (accelerating pressure rise) | Stress index >1 → progressive overdistension; PEEP too high or Vt too large |
 | Linear (straight line) | Stress index ~1 → optimal recruitment-overdistension balance |
 | Downward concavity (decelerating pressure rise) | Stress index <1 → ongoing recruitment during tidal breath; PEEP may be suboptimal |
 
-> **Note:** Stress index requires constant-flow VC-AC to be interpretable. Spontaneous efforts invalidate this assessment.
+> **Note:** Stress index requires constant-flow ACVC to be interpretable. Spontaneous efforts invalidate this assessment.
 
 ### PEEP in Heart Failure Specifically
 
@@ -568,7 +568,7 @@ In cardiogenic shock requiring intubation, your vent settings directly affect he
 
 | Parameter | Target | Rationale | Cardiogenic Shock Caveat |
 |-----------|--------|-----------|--------------------------|
-| Mode | VC-AC initially | Guarantees minute ventilation | PC-AC acceptable; SIMV avoid |
+| Mode | ACVC initially | Guarantees minute ventilation | ACPC acceptable; SIMV avoid |
 | Vt | 6–8 mL/kg IBW | Lung protective | Lower end (6 mL/kg) if pulmonary edema severe |
 | RR | 16–20 initially | Maintain minute ventilation | Avoid high RR → auto-PEEP risk |
 | PEEP | 8–12 cmH2O | Afterload reduction, edema clearance | Reduce if MAP drops (RV compromise) |
@@ -663,7 +663,7 @@ Ultra-protective lung rest ventilation during ECMO aims to minimize ongoing VILI
 > - **Pplat target:** ≤25 cmH2O (≤24 cmH2O per EOLIA protocol)
 > - **Driving pressure target:** ≤10 cmH2O (emerging as the critical safety target on ECMO)
 > - **Mechanical power:** Minimize — target <10 J/min on ECMO when possible
-> - **Mode:** VC-AC or PC-AC; APRV sometimes used for recruitment, but not universally adopted
+> - **Mode:** ACVC or ACPC; APRV sometimes used for recruitment, but not universally adopted
 
 ### Monitoring Native Lung Recovery on VV-ECMO
 
@@ -680,7 +680,7 @@ Ultra-protective lung rest ventilation during ECMO aims to minimize ongoing VILI
 
 | VA-ECMO Vent Setting | Rationale |
 |---------------------|-----------|
-| Mode: PC-AC | Decelerating flow; pressure limit safer in stiff, edematous lungs |
+| Mode: ACPC | Decelerating flow; pressure limit safer in stiff, edematous lungs |
 | P-high: 20–25 cmH2O above PEEP | Lung recruitment while limiting overdistension |
 | PEEP: 8–12 cmH2O | Open lung strategy; also reduces LV preload (helps LV unloading) |
 | RR: 12–16 | Maintain some ventilation; ECMO handling CO2 but vent contributes |
@@ -713,7 +713,7 @@ In patients with recovering cardiac function on VA-ECMO with femoral return cann
 |-----------------|----------------|
 | VV-ECMO: Reduce sweep gas 50% | Increase vent RR by 2–4; monitor PaCO2 |
 | VV-ECMO: Reduce sweep to 1 L/min | Transition to standard lung-protective settings (6 mL/kg, PEEP 10–12) |
-| VV-ECMO: Sweep gas off trial | VC-AC 6 mL/kg, PEEP 10, FiO2 0.60; check ABG at 10–15 min |
+| VV-ECMO: Sweep gas off trial | ACVC 6 mL/kg, PEEP 10, FiO2 0.60; check ABG at 10–15 min |
 | VA-ECMO: Flow reduction to 1–2 L/min | Increase vasoactives for hemodynamic support; vent remains constant |
 | ECMO decannulation | Extubation or SBT based on standard criteria; high threshold for early extubation post-decannulation |
 
@@ -932,16 +932,16 @@ Any acute hemodynamic deterioration temporally linked to a vent change should be
 
 | Patient Context | Mode | Vt | ΔP Target | PEEP | MP Target | Key Special Consideration |
 |-----------------|------|-----|-----------|------|-----------|--------------------------|
-| Standard ARDS, no HF | VC-AC | 6 mL/kg IBW | <15 cmH2O | Per ARDSNet table | <17 J/min | Prone if P/F <150; dexamethasone per ATS 2024; iNO if RV strain |
-| Cardiogenic pulmonary edema | VC-AC | 6–8 mL/kg IBW | <15 cmH2O | 10–14 cmH2O (therapeutic) | <17 J/min | PEEP = afterload reduction; watch for RV compromise if PHT present |
-| Cardiogenic shock, MCS pending | VC-AC | 6–7 mL/kg IBW | <15 cmH2O | 8–10 cmH2O | <17 J/min | Pre-intubation vasopressor mandatory; NMB post-intubation if needed |
-| Post-CABG, uncomplicated | VC-AC → PSV | 6–8 mL/kg IBW | N/A | 5–8 cmH2O | N/A | Fast-track; SBT at 4–6 hr; diaphragm US if weaning difficulty |
-| Post-LVAD implant | VC-AC / PC-AC | 6–7 mL/kg IBW | <15 cmH2O | 8–10 cmH2O | <17 J/min | RV failure risk; minimize PEEP if CVP rising; iNO if RV support needed |
-| VV-ECMO, lung rest | VC-AC or PC-AC | 2–4 mL/kg IBW | ≤10 cmH2O | 10–15 cmH2O | <10 J/min | Ultra-protective; FiO2 0.40; watch for VIDD; consider awake ECMO early |
-| VA-ECMO, cardiogenic shock | PC-AC | 4–6 mL/kg IBW | ≤10 cmH2O | 8–12 cmH2O | <10 J/min | LV distension → ECMELLA; North-South → circuit reconfiguration |
-| Status asthmaticus | VC-AC | 5–6 mL/kg IBW | <15 cmH2O | 80% of auto-PEEP | <17 J/min | Permissive hypercapnia pH >7.20; disconnect if tension hyperinflation |
-| COPD exacerbation | VC-AC | 6–8 mL/kg IBW | <15 cmH2O | 5–8 cmH2O (match auto-PEEP) | <17 J/min | Long Ti forbidden; I:E 1:4 minimum; NAVA if trigger failure |
-| Post-transplant early | VC-AC | 6 mL/kg IBW | <15 cmH2O | 8–10 cmH2O | <17 J/min | Denervated heart; volume-sensitive; early diuresis; watch for rejection-induced pulm edema |
+| Standard ARDS, no HF | ACVC | 6 mL/kg IBW | <15 cmH2O | Per ARDSNet table | <17 J/min | Prone if P/F <150; dexamethasone per ATS 2024; iNO if RV strain |
+| Cardiogenic pulmonary edema | ACVC | 6–8 mL/kg IBW | <15 cmH2O | 10–14 cmH2O (therapeutic) | <17 J/min | PEEP = afterload reduction; watch for RV compromise if PHT present |
+| Cardiogenic shock, MCS pending | ACVC | 6–7 mL/kg IBW | <15 cmH2O | 8–10 cmH2O | <17 J/min | Pre-intubation vasopressor mandatory; NMB post-intubation if needed |
+| Post-CABG, uncomplicated | ACVC → PSV | 6–8 mL/kg IBW | N/A | 5–8 cmH2O | N/A | Fast-track; SBT at 4–6 hr; diaphragm US if weaning difficulty |
+| Post-LVAD implant | ACVC / ACPC | 6–7 mL/kg IBW | <15 cmH2O | 8–10 cmH2O | <17 J/min | RV failure risk; minimize PEEP if CVP rising; iNO if RV support needed |
+| VV-ECMO, lung rest | ACVC or ACPC | 2–4 mL/kg IBW | ≤10 cmH2O | 10–15 cmH2O | <10 J/min | Ultra-protective; FiO2 0.40; watch for VIDD; consider awake ECMO early |
+| VA-ECMO, cardiogenic shock | ACPC | 4–6 mL/kg IBW | ≤10 cmH2O | 8–12 cmH2O | <10 J/min | LV distension → ECMELLA; North-South → circuit reconfiguration |
+| Status asthmaticus | ACVC | 5–6 mL/kg IBW | <15 cmH2O | 80% of auto-PEEP | <17 J/min | Permissive hypercapnia pH >7.20; disconnect if tension hyperinflation |
+| COPD exacerbation | ACVC | 6–8 mL/kg IBW | <15 cmH2O | 5–8 cmH2O (match auto-PEEP) | <17 J/min | Long Ti forbidden; I:E 1:4 minimum; NAVA if trigger failure |
+| Post-transplant early | ACVC | 6 mL/kg IBW | <15 cmH2O | 8–10 cmH2O | <17 J/min | Denervated heart; volume-sensitive; early diuresis; watch for rejection-induced pulm edema |
 
 
 ---

@@ -67,8 +67,8 @@ Each mode has three features:
 
 ## Ventilator Modes
 
-### VC — Volume Control
-*(a.k.a. Assist Control Volume)*
+### ACVC — Assist Control Volume Control
+*(a.k.a. Volume-Controlled Assist Control)*
 
 **Description:** Every breath delivered (mandatory and patient triggered) is the same set **volume (TV)**
 - T – time/pressure/flow, C – volume, L – volume
@@ -88,8 +88,8 @@ Each mode has three features:
 
 ---
 
-### PC — Pressure Control
-*(a.k.a. Assist Control Pressure)*
+### ACPC — Assist Control Pressure Control
+*(a.k.a. Pressure-Controlled Assist Control)*
 
 **Description:** Every breath delivered (mandatory & patient triggered) is a set **pressure (IP)** for a **set time (Ti)**
 - T – time/pressure/flow, C – time, L – pressure
@@ -192,8 +192,8 @@ Each mode has three features:
 
 | Mode | Target | Trigger | Cycle | Limit | Monitor |
 |------|--------|---------|-------|-------|---------|
-| **VC** | Volume | Time/pressure/flow | Volume | Volume | Ppeak, Pplat |
-| **PC** | Pressure | Time/pressure/flow | Time | Pressure | TV, MV |
+| **ACVC** | Volume | Time/pressure/flow | Volume | Volume | Ppeak, Pplat |
+| **ACPC** | Pressure | Time/pressure/flow | Time | Pressure | TV, MV |
 | **PRVC** | Volume (pressure-regulated) | Time/pressure/flow | Volume | Volume | Pressures & volumes |
 | **SIMV** | Volume (fixed mandatory) | Time | Volume | Volume | Ppeak, Pplat |
 | **PS** | Patient-driven | Pressure/flow | Flow | Pressure | TV, MV |
@@ -205,7 +205,7 @@ Each mode has three features:
 
 ## Initial Ventilator Settings
 
-**Recommended Initial Settings (VC-AC):**
+**Recommended Initial Settings (ACVC):**
 
 | Parameter | Initial Setting |
 |-----------|----------------|
