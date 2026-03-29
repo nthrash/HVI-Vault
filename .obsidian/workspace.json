@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Vault/Critical Care/protocols-pain-management-sedation.md",
+                "file": "01 - Vault/Pulmonary/protocols-vent-management-advanced.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "protocols-pain-management-sedation"
+              "title": "protocols-vent-management-advanced"
             }
           }
         ]
@@ -196,8 +196,11 @@
   },
   "active": "e2f643174b74e012",
   "lastOpenFiles": [
-    "contacts.json",
+    "01 - Vault/Pulmonary/ventilator-waveform-analysis.md",
     "01 - Vault/Critical Care/protocols-pain-management-sedation.md",
+    "~$ntilator-Waveform-Analysis.docx",
+    "Ventilator-Waveform-Analysis.docx",
+    "contacts.json",
     "01 - Vault/Critical Care",
     "01 - Vault/Pulmonary/protocols-pain-management-sedation.md",
     "02 - Contacts/New Contacts.md",
@@ -228,9 +231,6 @@
     "03 - Onboarding/HR & Benefits/onboarding-Infor-XM-Expense-Request-Guide.pdf",
     "03 - Onboarding/HR & Benefits/onboarding-benefits-access.md",
     "03 - Onboarding/HR & Benefits/onboarding-malpractice-insurance.md",
-    "03 - Onboarding/HR & Benefits/onboarding-paycheck-workday.md",
-    "03 - Onboarding/HR & Benefits/onboarding-PTO-Buy-During-Annual-Enrollment.pdf",
-    "01 - Vault/Cardiology/protocols-right-heart-catheterization.pdf",
     "99 - Meta/Assets/Images/ptoinput4.webp",
     "99 - Meta/Assets/Images/ptoinput3.webp",
     "99 - Meta/Assets/Images/ptoinput2.webp",
