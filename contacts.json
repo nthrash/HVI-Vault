@@ -2853,7 +2853,7 @@
           "category": "device_reps",
           "firstName": "Samantha",
           "lastName": "",
-          "isPerson": false
+          "isPerson": true
         },
         {
           "id": "altieri_sarah",
@@ -2913,7 +2913,7 @@
           "category": "device_reps",
           "firstName": "Vince (Medtronic UT Houston)",
           "lastName": "",
-          "isPerson": false
+          "isPerson": true
         }
       ]
     },
