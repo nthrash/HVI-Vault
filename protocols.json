@@ -271,6 +271,13 @@
       "subtitle": "Hemodynamics, Oxygenation & Organ Function",
       "category": "cardiology",
       "contentFile": "01 - Vault/Cardiology/protocols-icu-cardiac-calculations.md"
+    },
+    {
+      "id": "pain-management-sedation",
+      "title": "Pain Management & Sedation",
+      "subtitle": "Analgesia & Sedation for the Critically Ill",
+      "category": "critical_care",
+      "contentFile": "01 - Vault/Critical Care/protocols-pain-management-sedation.md"
     }
   ]
 }
