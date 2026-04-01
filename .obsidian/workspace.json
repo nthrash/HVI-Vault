@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Vault/Neurology/protocols-intracerebral-hemorrhage.md",
+                "file": "01 - Vault/Cardiology/protocols-icu-cardiac-calculations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "protocols-intracerebral-hemorrhage"
+              "title": "protocols-icu-cardiac-calculations"
             }
           }
         ]
@@ -196,6 +196,7 @@
   },
   "active": "83b46fbe9ee26c04",
   "lastOpenFiles": [
+    "01 - Vault/Critical Care/protocols-pain-management-sedation.md",
     "01 - Vault/Neurology/protocols-ischemic-stroke.md",
     "01 - Vault/Neurology/protocols-intracerebral-hemorrhage.md",
     "01 - Vault/Infectious Disease/protocols-icu-bacteria.md",
@@ -203,7 +204,6 @@
     "01 - Vault/Neurology",
     "01 - Vault/Pulmonary/NEEDS-COMPLETION-ventilator-waveform-analysis.md",
     "01 - Vault/Pulmonary/protocols-vent-management-advanced.md",
-    "01 - Vault/Critical Care/protocols-pain-management-sedation.md",
     "~$ntilator-Waveform-Analysis.docx",
     "Ventilator-Waveform-Analysis.docx",
     "contacts.json",
