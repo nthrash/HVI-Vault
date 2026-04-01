@@ -292,6 +292,13 @@
       "subtitle": "Neurology / Neurocritical Care",
       "category": "neurology",
       "contentFile": "01 - Vault/Neurology/protocols-intracerebral-hemorrhage.md"
+    },
+    {
+      "id": "valvular-heart-disease-icu",
+      "title": "Valvular Heart Disease in the ICU",
+      "subtitle": "CCAPP Learning Topic",
+      "category": "cardiology",
+      "contentFile": "01 - Vault/Cardiology/protocols-valvular-heart-disease-icu.md"
     }
   ]
 }
