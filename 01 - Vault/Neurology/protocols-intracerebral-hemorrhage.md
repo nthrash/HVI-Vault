@@ -670,5 +670,5 @@ The following recent publications reinforce or refine current practice:
 
 ---
 
-*Source: Josh Farkas, IBCC – Spontaneous Intracerebral Hemorrhage (ICH). EMCrit/PulmCrit. June 2022. https://emcrit.org/ibcc/ich/*
-*Note: Deranged Physiology (derangedphysiology.com) was referenced as a supplemental source; direct content was not accessible at time of writing due to network restrictions. Readers are encouraged to consult that resource directly for additional pathophysiology depth.*
+*Last updated: March 2026 · HVI ICU APP Team*
+

@@ -693,3 +693,5 @@ Most current comprehensive guideline (published 2026, based on literature throug
 26. Farkas J. Acute Ischemic Stroke (AIS). *Internet Book of Critical Care (IBCC)*. EMCrit. Updated January 30, 2026.
 27. Deranged Physiology. Acute Supportive Management for Stroke in the ICU; Causes and Classifications of Stroke; Classical Stroke Syndromes. derangedphysiology.com.
 28. Li S, et al. Clinical and Neuroimaging Findings in Thalamic Territory Infarctions: A Review. *J Neuroimaging*. 2018;28(4):343–349. PMID: 29460331.
+---
+*Last updated: March 2026 · HVI ICU APP Team*
