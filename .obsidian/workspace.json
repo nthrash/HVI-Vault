@@ -11,10 +11,14 @@
             "id": "36623f1fbd937c1d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 - Vault/Neurology/protocols-ischemic-stroke.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "protocols-ischemic-stroke"
             }
           }
         ]
@@ -190,8 +194,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "37148d93af0bc366",
+  "active": "36623f1fbd937c1d",
   "lastOpenFiles": [
+    "01 - Vault/Neurology/protocols-ischemic-stroke.md",
+    "01 - Vault/Neurology",
     "APP_Critical_Care_Exam_Specifications.md",
     "01 - Vault/Pulmonary/NEEDS-COMPLETION-ventilator-waveform-analysis.md",
     "01 - Vault/Pulmonary/protocols-vent-management-advanced.md",
@@ -226,8 +232,6 @@
     "03 - Onboarding/HR & Benefits/onboarding-licensing-reimbursement.md",
     "03 - Onboarding/IT & Systems/onboarding-isd-service-portal.md",
     "03 - Onboarding/IT & Systems/onboarding-onesource-overview.md",
-    "03 - Onboarding/HR & Benefits/onboarding-Infor-XM-Expense-Request-Guide.pdf",
-    "03 - Onboarding/HR & Benefits/onboarding-benefits-access.md",
     "99 - Meta/Assets/Images/ptoinput4.webp",
     "99 - Meta/Assets/Images/ptoinput3.webp",
     "99 - Meta/Assets/Images/ptoinput2.webp",

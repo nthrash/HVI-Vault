@@ -278,6 +278,13 @@
       "subtitle": "Analgesia & Sedation for the Critically Ill",
       "category": "critical_care",
       "contentFile": "01 - Vault/Critical Care/protocols-pain-management-sedation.md"
+    },
+    {
+      "id": "ischemic-stroke",
+      "title": "Ischemic Stroke",
+      "subtitle": "Neurology / Critical Care",
+      "category": "neurology",
+      "contentFile": "01 - Vault/Neurology/protocols-ischemic-stroke.md"
     }
   ]
 }
