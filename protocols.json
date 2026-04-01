@@ -285,6 +285,13 @@
       "subtitle": "Neurology / Critical Care",
       "category": "neurology",
       "contentFile": "01 - Vault/Neurology/protocols-ischemic-stroke.md"
+    },
+    {
+      "id": "intracerebral-hemorrhage",
+      "title": "Intracerebral Hemorrhage",
+      "subtitle": "Neurology / Neurocritical Care",
+      "category": "neurology",
+      "contentFile": "01 - Vault/Neurology/protocols-intracerebral-hemorrhage.md"
     }
   ]
 }
