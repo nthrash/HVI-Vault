@@ -294,11 +294,39 @@
       "contentFile": "01 - Vault/Neurology/protocols-intracerebral-hemorrhage.md"
     },
     {
-      "id": "valvular-heart-disease-icu",
-      "title": "Valvular Heart Disease in the ICU",
-      "subtitle": "CCAPP Learning Topic",
+      "id": "valvular-heart-disease-overview",
+      "title": "Valvular Heart Disease — ICU Overview",
+      "subtitle": "Cross-Cutting Physiology & Clinical Pearls",
       "category": "cardiology",
-      "contentFile": "01 - Vault/Cardiology/protocols-valvular-heart-disease-icu.md"
+      "contentFile": "01 - Vault/Cardiology/protocols-valvular-heart-disease-overview.md"
+    },
+    {
+      "id": "aortic-valve-disease",
+      "title": "Aortic Valve Disease",
+      "subtitle": "Aortic Stenosis & Aortic Regurgitation",
+      "category": "cardiology",
+      "contentFile": "01 - Vault/Cardiology/protocols-aortic-valve-disease.md"
+    },
+    {
+      "id": "mitral-valve-disease",
+      "title": "Mitral Valve Disease",
+      "subtitle": "Mitral Stenosis & Mitral Regurgitation",
+      "category": "cardiology",
+      "contentFile": "01 - Vault/Cardiology/protocols-mitral-valve-disease.md"
+    },
+    {
+      "id": "tricuspid-valve-disease",
+      "title": "Tricuspid Valve Disease",
+      "subtitle": "Tricuspid Regurgitation & Stenosis",
+      "category": "cardiology",
+      "contentFile": "01 - Vault/Cardiology/protocols-tricuspid-valve-disease.md"
+    },
+    {
+      "id": "pulmonic-valve-disease",
+      "title": "Pulmonic Valve Disease",
+      "subtitle": "Pulmonic Stenosis & Regurgitation",
+      "category": "cardiology",
+      "contentFile": "01 - Vault/Cardiology/protocols-pulmonic-valve-disease.md"
     }
   ]
 }
