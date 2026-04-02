@@ -257,7 +257,7 @@ institution: UTHealth Houston HVI
 
 ### Hemodynamic Monitoring
 
-#### Swan-Ganz Catheter (Pulmonary Artery Catheter)
+#### Pulmonary Artery Catheter
 
 **Aortic Stenosis Pattern:**
 - RA: normal
@@ -342,13 +342,13 @@ institution: UTHealth Houston HVI
 
 #### Pharmacologic Support in AS
 
-> [!tip] **Drug Strategy in Severe AS**
-> Prioritize **dobutamine** or **milrinone** for inotropic support; avoid pure vasodilators. If vasodilation needed, use **cautiously** with concurrent inotropic support. **NEVER use nitroglycerin or nitroprusside monotherapy** in decompensated AS.
+> [!warning] **Drug Strategy in Severe AS — Inotropes Are NOT First-Line**
+> The hypertrophied AS ventricle faces a **fixed mechanical obstruction** — inotropes do not meaningfully increase forward flow because the valve is the bottleneck, not contractility. Dobutamine causes tachycardia (reduces diastolic fill time) and vasodilation (drops SVR against a fixed gradient), both of which can precipitate hemodynamic collapse. **First-line is vasopressor support** (phenylephrine or norepinephrine) to maintain SVR and coronary perfusion pressure. Inotropes may have a role as a **bridge only** in the subset with **concomitant LV systolic dysfunction** (reduced EF) on top of AS, and only at low doses while awaiting definitive intervention. **NEVER use vasodilators as monotherapy** in decompensated AS.
 
 | Drug | Mechanism | Dose | AS ICU Use | Caution |
 |------|-----------|------|-----------|---------|
-| **Dobutamine** | Beta-1 (inotrope), beta-2 (mild vasodilation), DA | 2–10 mcg/kg/min | **Preferred inotrope** for AS; improves contractility & forward flow | May cause tachycardia, arrhythmias; monitor BP |
-| **Milrinone** | PDE-3 inhibitor (inotrope + vasodilator) | 0.25–0.75 mcg/kg/min | **Preferred if hypotensive inotrope needed**; lusitropic effect aids diastolic function | Systemic vasodilation; requires concurrent vasopressor |
+| **Dobutamine** | Beta-1 (inotrope), beta-2 (mild vasodilation), DA | 2–5 mcg/kg/min | **Use with caution and only as bridge** — does NOT overcome fixed obstruction; reserve for AS with **concomitant reduced EF** and low CI; tachycardia and vasodilation are harmful in AS | Risk of tachycardia, SVR drop, arrhythmias; pair with vasopressor |
+| **Milrinone** | PDE-3 inhibitor (inotrope + vasodilator) | 0.25–0.75 mcg/kg/min | **Generally avoid in AS cardiogenic shock** — vasodilatory effect drops SVR and worsens hemodynamics against fixed obstruction; lusitropic effect is theoretical benefit; requires vasopressor to offset hypotension | Systemic vasodilation is particularly dangerous in AS; use only in exceptional circumstances |
 | **Phenylephrine** | Pure alpha-1 agonist | 0.5–1.4 mcg/kg/min | **Preferred vasopressor if needed** with inotrope; maintains BP without tachycardia | Reflex bradycardia may be beneficial; monitor CO |
 | **Norepinephrine** | Alpha-1 > beta-1 | 0.01–0.5 mcg/kg/min | Second-line vasopressor; provides inotropic support + vasoconstriction | More tachycardia than phenylephrine; use if CI very low |
 | **Nitroglycerin** | Nitric oxide donor; venodilator >> arteriodilator | 10–400 mcg/min IV | **Use cautiously only if**:pulmonary edema life-threatening; always pair with inotrope | **Risk:** Severe hypotension, syncope, ischemia; AVOID monotherapy |
@@ -641,7 +641,7 @@ Patients with chronic AR may present with:
 > 4. **Urgent TAVR Timing in Cardiogenic Shock:** TAVR within 24–48 hours of AS-related cardiogenic shock onset (30-day mortality 13–28%) outperforms delayed intervention (>40–50% at 5 days). Longer ICU stays before TAVR independently predict worse outcomes. Stabilize with medical bridge while expediting intervention — don't wait for the "perfect" moment.
 > 5. **BAV Mortality & 90-Day Window:** BAV restenosis occurs in 50–70% by 6 months. Definitive AVR (TAVR or SAVR) must occur within 90 days — mortality approaches 50% without it. At the time of BAV, commit to a definitive intervention plan.
 > 6. **Chronic AR Decompensation & Aorta Size:** Ascending aorta >50 mm warrants surgical AVR ± root replacement regardless of AR severity or EF due to rupture risk. Use lower thresholds (>45 mm) in Marfan, Loeys-Dietz, or other connective tissue disorders.
-> 7. **Rate Slowing in AS Is Therapeutic:** AF with RVR in severe AS is a hemodynamic emergency — cardiovert or aggressively rate-control immediately. Unlike most shock states, slowing heart rate in severe AS increases diastolic fill time for the stiff, atrial-kick-dependent LV.
+> 7. **Rate Slowing in AS Is Therapeutic, Inotropes Generally Are Not:** AF with RVR in severe AS is a hemodynamic emergency — cardiovert or aggressively rate-control immediately. Unlike most shock states, slowing HR in severe AS improves hemodynamics. Similarly, unlike most cardiogenic shock, **inotropes are not first-line in AS** — forward flow is limited by fixed obstruction, not contractility. Vasopressors (phenylephrine, norepinephrine) to maintain SVR and coronary perfusion are the priority. Reserve low-dose dobutamine for the subset with concomitant significantly reduced EF.
 > 8. **"AS Angina" Doesn't Require Revascularization:** Troponin elevation and chest pain in severe AS are typically from demand ischemia, not obstructive CAD. Revascularization before AVR is often unnecessary. Focus on expedited TAVR/AVR.
 
 ---
@@ -845,7 +845,7 @@ Patients with chronic AR may present with:
 | **LFGL-AS** | DSE (classical) or CT calcium (paradoxical) for diagnosis; TAVR superior to SAVR |
 | **IABP in AR** | **CONTRAINDICATED** — use Impella or ECMO instead |
 | **BAV** | Bridge therapy only; 90-day window for definitive AVR, or 50% mortality |
-| **Drug strategy** | Dobutamine preferred inotrope; **norepinephrine preferred over phenylephrine** in acute AR (inotropic support); phenylephrine preferred in AS; avoid vasodilators monotherapy in AS |
+| **Drug strategy** | AS: vasopressors first (phenylephrine/NE); inotropes **not first-line** — fixed obstruction limits benefit; use only for concomitant reduced EF as bridge. AR: norepinephrine preferred vasopressor; afterload reduction cornerstone |
 
 ---
 
