@@ -11,12 +11,14 @@
             "id": "83b46fbe9ee26c04",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "99 - Meta/Assets/Images/Vent Waveforms/Online/15-PV-loops-summary.jpg"
+                "file": "01 - Vault/Cardiology/protocols-valvular-heart-disease-icu.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "15-PV-loops-summary"
+              "icon": "lucide-file",
+              "title": "protocols-valvular-heart-disease-icu"
             }
           }
         ]
@@ -194,6 +196,13 @@
   },
   "active": "83b46fbe9ee26c04",
   "lastOpenFiles": [
+    "01 - Vault/Cardiology/protocols-myocarditis.md",
+    "01 - Vault/Cardiology/protocols-valvular-heart-disease-icu.md",
+    "01 - Vault/Cardiology/protocols-icu-cardiac-calculations.md",
+    "01 - Vault/Pulmonary/NEEDS COMPLETION-ventilator-waveform-analysis.md",
+    "~$ntilator-Waveform-Analysis.docx",
+    "99 - Meta/Assets/Images/Vent Waveforms/Online/15-PV-loops-summary.jpg",
+    "01 - Vault/Pulmonary/NEEDS-COMPLETION-ventilator-waveform-analysis.md",
     "99 - Meta/Assets/Images/Vent Waveforms/Online/16-PV-loops-disease-states.jpg",
     "99 - Meta/Assets/Images/Vent Waveforms/Online/17-FV-loops.jpg",
     "99 - Meta/Assets/Images/Vent Waveforms/Online/ventilator-waveform-image-review.html",
@@ -204,21 +213,15 @@
     "99 - Meta/Assets/Images/Vent Waveforms/Online/22-dyssynchrony-cardiac-oscillations.jpg",
     "99 - Meta/Assets/Images/Vent Waveforms/Online/23-dyssynchrony-double-triggering-premature-termination.jpg",
     "99 - Meta/Assets/Images/Vent Waveforms/Online/24-LITFL-PV-loop-1.jpg",
-    "99 - Meta/Assets/Images/Vent Waveforms/Online/25-LITFL-PV-loop-2.jpg",
-    "99 - Meta/Assets/Images/Vent Waveforms/Online/26-LITFL-FV-loop.jpg",
     "99 - Meta/Assets/Images/Vent Waveforms/Online",
     "APP_Critical_Care_Exam_Specifications.md",
     "99 - Meta/Assets/Images/Vent Waveforms",
-    "01 - Vault/Cardiology/protocols-valvular-heart-disease-icu.md",
-    "01 - Vault/Cardiology/protocols-icu-cardiac-calculations.md",
     "01 - Vault/Critical Care/protocols-pain-management-sedation.md",
     "01 - Vault/Neurology/protocols-ischemic-stroke.md",
     "01 - Vault/Neurology/protocols-intracerebral-hemorrhage.md",
     "01 - Vault/Infectious Disease/protocols-icu-bacteria.md",
     "01 - Vault/Neurology",
-    "01 - Vault/Pulmonary/NEEDS-COMPLETION-ventilator-waveform-analysis.md",
     "01 - Vault/Pulmonary/protocols-vent-management-advanced.md",
-    "~$ntilator-Waveform-Analysis.docx",
     "Ventilator-Waveform-Analysis.docx",
     "contacts.json",
     "01 - Vault/Critical Care",
@@ -238,7 +241,6 @@
     "03 - Onboarding/HR & Benefits/onboarding-fmla-leave.md",
     "03 - Onboarding/HR & Benefits/onboarding-hr-portal.md",
     "resources.json",
-    "03 - Onboarding/Clinical Access/onboarding-credentialing.md",
-    "03 - Onboarding/Clinical Access/onboarding-hospital-policies.md"
+    "03 - Onboarding/Clinical Access/onboarding-credentialing.md"
   ]
 }
