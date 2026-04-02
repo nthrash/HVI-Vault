@@ -199,35 +199,17 @@ Fibrinolysis regimen: **25 mg tPA over 6–24 hours without bolus** (ultraslow, 
 
 ## Cross-Cutting Clinical Pearls
 
-> [!tip] Pearl 1: Know the Lesion Before Treating the Pressure
-> Hypotension in AS is treated differently than hypotension in acute MR. Do not reflexively start vasodilators for "hypertensive pulmonary edema" without ruling out AS. A bedside TTE takes 5 minutes and changes everything.
-
-> [!tip] Pearl 2: The Quiet Murmur of Acute MR
-> Acute severe MR may have a soft or absent murmur due to rapid equalization of LA and LV pressures. Flash pulmonary edema + new hypotension within 1–7 days of MI = papillary muscle rupture until proven otherwise — regardless of murmur.
-
-> [!tip] Pearl 3: V-Waves on the PA Catheter
-> Giant V-waves on the PCWP tracing are not pathognomonic for MR — they occur whenever the LA is non-compliant and filling rapidly. In the right clinical context (post-MI shock + pulmonary edema), they strongly support acute MR. Always correlate with echo.
-
-> [!tip] Pearl 4: IABP Is Not Universal
-> IABP reduces afterload in acute MR (helpful) but inflates in diastole in severe AR (contraindicated — worsens regurgitation) and provides limited benefit in severe AS. Know the physiology before placing.
-
-> [!tip] Pearl 5: Rate Control in MS Is Therapeutic
-> In decompensated MS with rapid AF, successful rate control (HR <80) can dramatically improve hemodynamics — often more reliably than diuresis alone. Treat the rate first.
-
-> [!tip] Pearl 6: Don't Delay Surgical Consultation
-> Acute MR and acute AR are surgical emergencies. Medical stabilization buys time but does not reverse the underlying pathology. Call CT surgery early — the window for successful intervention narrows with every hour of shock.
-
-> [!tip] Pearl 7: Urgent TAVR Is Now an Option
-> For acute decompensated severe AS, urgent TAVR within the index hospitalization is increasingly performed with acceptable outcomes. Longer hospitalizations prior to TAVR are associated with worse outcomes — get the structural heart team involved early.
-
-> [!tip] Pearl 8: Endocarditis Masquerades
-> New or worsening valve regurgitation in any febrile ICU patient should prompt blood cultures and echocardiography. Infective endocarditis on native or prosthetic valves can present with acute hemodynamic collapse from leaflet destruction.
-
-> [!tip] Pearl 9: PPV Is Therapeutic in Acute MR
-> Positive pressure ventilation (noninvasive or invasive) in acute MR is not just respiratory support — it reduces LV afterload, decreases regurgitant fraction, and improves forward cardiac output. PEEP is particularly effective. Don't delay NIV or intubation in the decompensating patient.
-
-> [!tip] Pearl 10: RV-PA Coupling in Functional TR
-> The RV tolerates volume overload better than pressure overload. In severe functional TR with pulmonary hypertension, the key question is whether the RV can maintain coupling to the PA (RV-PA coupling ratio via echo: TAPSE/PASP <0.19 mm/mmHg suggests decoupling and poor prognosis). Target the cause of RV failure, not the TR in isolation.
+> [!tip] Cross-Cutting Clinical Pearls
+> 1. **Know the lesion before treating the pressure:** Hypotension in AS is treated differently than in acute MR. Do not reflexively start vasodilators for "hypertensive pulmonary edema" without ruling out AS. A bedside TTE takes 5 minutes and changes everything.
+> 2. **The quiet murmur of acute MR:** Acute severe MR may have a soft or absent murmur due to rapid LA-LV pressure equalization. Flash pulmonary edema + hypotension within 1–7 days of MI = papillary muscle rupture until proven otherwise.
+> 3. **V-waves on the PA catheter:** Giant V-waves on PCWP are not pathognomonic for MR — they occur whenever the LA is non-compliant and filling rapidly. Always correlate with echo.
+> 4. **IABP is not universal:** Helpful in acute MR (reduces afterload), contraindicated in severe AR (worsens regurgitation in diastole), and of limited benefit in severe AS. Know the physiology before placing.
+> 5. **Rate control in MS is therapeutic:** In decompensated MS with rapid AF, rate control (HR <80) often improves hemodynamics more reliably than diuresis alone. Treat the rate first.
+> 6. **Don't delay surgical consultation:** Acute MR and acute AR are surgical emergencies. The window for successful intervention narrows with every hour of shock. Call CT surgery early.
+> 7. **Urgent TAVR is now an option:** For acute decompensated severe AS, urgent TAVR within the index hospitalization is increasingly performed. Longer ICU stays before TAVR independently predict worse outcomes — involve the structural heart team early.
+> 8. **Endocarditis masquerades:** New or worsening valve regurgitation in any febrile ICU patient warrants blood cultures and echocardiography. Leaflet destruction from endocarditis can cause acute hemodynamic collapse.
+> 9. **PPV is therapeutic in acute MR:** Positive pressure ventilation (NIV or invasive) reduces LV afterload, decreases regurgitant fraction, and improves forward cardiac output. PEEP is particularly effective. Don't delay.
+> 10. **RV-PA coupling in functional TR:** TAPSE/PASP <0.19 mm/mmHg suggests RV-PA decoupling and poor prognosis. Target the cause of RV failure (PH, volume overload), not the TR in isolation.
 
 ---
 
@@ -260,3 +242,7 @@ Emergency surgical MV repair/replacement for post-MI papillary muscle rupture. M
 9. Tarantini G et al. Acute Decompensated Valvular Disease in the Intensive Care Unit. *JACC: Advances.* 2024;3:101402.
 10. Sá MP et al. Emergency transcatheter aortic valve implantation for acute heart failure due to severe aortic stenosis in critically ill patients with or without cardiogenic shock. *EuroIntervention.* 2022. PMID 36210517.
 11. Estévez-Loureiro R et al. Management of Severe Mitral Regurgitation in Patients With Acute Myocardial Infarction: JACC Focus Seminar 2/5. *JACC.* 2024;83(22). PMID 38692830.
+
+---
+
+*Last updated: April 2026 · HVI ICU APP Team*

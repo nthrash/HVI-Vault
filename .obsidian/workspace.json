@@ -196,20 +196,22 @@
   },
   "active": "83b46fbe9ee26c04",
   "lastOpenFiles": [
-    "01 - Vault/Cardiology/protocols-valvular-heart-disease-overview.md",
+    "01 - Vault/Cardiology/protocols-mitral-valve-disease.md",
     "01 - Vault/Cardiology/protocols-aortic-valve-disease.md",
+    "01 - Vault/Cardiology/protocols-tricuspid-valve-disease.md",
+    "01 - Vault/Cardiology/protocols-myocarditis.md",
+    "01 - Vault/Cardiology/protocols-right-heart-catheterization.pdf",
+    "01 - Vault/Cardiology/protocols-pulmonic-valve-disease.md",
+    "01 - Vault/Cardiology/protocols-right-heart-catheterization.md",
+    "01 - Vault/Cardiology/protocols-valvular-heart-disease-overview.md",
     "01 - Vault/Cardiology/protocols-afterload-intrathoracic-pressure.md",
     "01 - Vault/Cardiology/valvular-heart-disease-overview.md",
-    "01 - Vault/Cardiology/protocols-pulmonic-valve-disease.md",
-    "01 - Vault/Cardiology/protocols-tricuspid-valve-disease.md",
-    "01 - Vault/Cardiology/protocols-mitral-valve-disease.md",
     "01 - Vault/Cardiology/aortic-valve-disease.md",
     "01 - Vault/Cardiology/protocols-valvular-heart-disease-icu.md",
     "01 - Vault/Cardiology/protocols-vasopressors-inotropes.md",
     "01 - Vault/Cardiology/tricuspid-valve-disease.md",
     "01 - Vault/Cardiology/pulmonic-valve-disease.md",
     "01 - Vault/Cardiology/mitral-valve-disease.md",
-    "01 - Vault/Cardiology/protocols-myocarditis.md",
     "01 - Vault/Cardiology/protocols-icu-cardiac-calculations.md",
     "01 - Vault/Pulmonary/NEEDS COMPLETION-ventilator-waveform-analysis.md",
     "~$ntilator-Waveform-Analysis.docx",
@@ -238,9 +240,6 @@
     "contacts.json",
     "01 - Vault/Critical Care",
     "01 - Vault/Pulmonary/protocols-pain-management-sedation.md",
-    "02 - Contacts/New Contacts.md",
-    "02 - Contacts/Contacts.md",
-    "MH Online Resources Guide.pdf",
-    "resources.json"
+    "MH Online Resources Guide.pdf"
   ]
 }

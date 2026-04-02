@@ -27,10 +27,10 @@ institution: UTHealth Houston HVI
 
 ## Overview
 
-**Aortic valve disease** comprises two primary pathologies affecting ICU patients: **aortic stenosis (AS)** — narrowing of the aortic valve orifice — and **aortic regurgitation (AR)** — valve insufficiency allowing retrograde flow into the left ventricle. Both present unique hemodynamic crises that demand rapid diagnosis and intervention in the critical care setting.
+**Aortic valve disease** comprises two primary pathologies affecting ICU patients: **aortic stenosis (AS)** — narrowing of the aortic valve orifice — and **aortic regurgitation (AR)** — valve insufficiency allowing retrograde flow into the left ventricle. Throughout this document, **TAVR** (transcatheter aortic valve replacement) and **TAVI** (transcatheter aortic valve implantation) are used interchangeably — both terms refer to the same procedure and appear across different guidelines and literature. Both present unique hemodynamic crises that demand rapid diagnosis and intervention in the critical care setting.
 
 > [!tip] **Why This Matters**
-> Aortic valve disease causes **acute hemodynamic decompensation** requiring ICU admission in 10–15% of cases. Severe AS in cardiogenic shock carries **30-day mortality of 13–28% with urgent TAVR** but approaches **100% if left untreated**. Acute AR can deteriorate within hours to fulminant pulmonary edema and shock. Early recognition of hemodynamic patterns, rapid echocardiographic assessment, and emergent structural heart team involvement are **life-saving interventions** in the ICU.
+> Aortic valve disease causes **acute hemodynamic decompensation** requiring ICU admission in 10–15% of cases. Severe AS in cardiogenic shock carries **30-day mortality of 13–28% with urgent TAVR** (vs. ~25–40% with emergency SAVR; registry data). Evidence is largely observational — no randomized trials comparing emergency TAVR vs. SAVR exist. Untreated AS-related cardiogenic shock approaches 100% mortality. Acute AR can deteriorate within hours to fulminant pulmonary edema and shock. Early recognition of hemodynamic patterns, rapid echocardiographic assessment, and emergent structural heart team involvement are **life-saving interventions** in the ICU.
 
 ---
 
@@ -99,7 +99,7 @@ institution: UTHealth Houston HVI
 **Paradoxical low-flow low-gradient AS (plFLGL-AS; "flash" AS):**
 - Mild-to-moderate AS (AVA 1.0–1.5 cm²) + normal EF (≥50%) + low SVI (<35 mL/m²) + low gradient (<40 mmHg)
 - Mechanism: **restrictive LV physiology** from severe diastolic dysfunction and hypertrophy (elevated LVEDP, small cavity) → reduced stroke volume despite normal contractility
-- **CT aortic valve calcium scoring:** preferred over DSE; Agatston score >3000 in men, >1600 in women suggests true hemodynamically significant AS
+- **CT aortic valve calcium scoring:** preferred over DSE; Agatston score ≥2,000 AU in men, ≥1,200 AU in women confirms hemodynamically significant AS (validated thresholds per Clavel et al.)
 - **ICU implication:** Often misclassified as "mild AS" on standard echo; high calcium burden suggests severe disease; TAVR outcomes favorable in selected cases
 
 ### Aortic Regurgitation
@@ -249,8 +249,9 @@ institution: UTHealth Houston HVI
 **CT Aortic Valve Calcium Scoring (preferred):**
 - **Method:** Non-contrast CT; measure Agatston calcium score in aortic valve region
 - **Interpretation:**
-  - **Men:** Score >2400 Agatston units suggests hemodynamically significant AS
-  - **Women:** Score >1600 Agatston units suggests hemodynamically significant AS
+  - **Men:** Score **≥2,000 Agatston units** confirms hemodynamically significant AS
+  - **Women:** Score **≥1,200 Agatston units** confirms hemodynamically significant AS
+  - *Thresholds validated across multiple studies and referenced in current ACC/AHA guidelines (Clavel MA et al., JACC Cardiovasc Imaging 2017; Otto CM et al., JAMA 2024)*
 - **Clinical utility:** Identifies patients with restrictive physiology who appear "mild" on echo but have heavy calcification; these patients benefit from TAVR
 - **Advantages over DSE:** No need for pharmacologic stress; better tolerability in decompensated patients
 
@@ -394,7 +395,7 @@ institution: UTHealth Houston HVI
 
 | Setting | TAVR 30-Day Mortality | SAVR 30-Day Mortality | Notes |
 |---------|----------------------|----------------------|-------|
-| **Cardiogenic shock** | 13–28% | 25–40% | TAVR superior; earlier intervention preferred |
+| **Cardiogenic shock** | 13–28% | 25–40% | Emergency TAVR appears superior to emergency SAVR (risk difference −0.15, 95% CI −0.25 to −0.04; Deng et al. 2025); most data from observational registries, not RCTs |
 | **Decompensated (non-shock)** | 4–16% | 8–20% | TAVR favorable; lower morbidity |
 | **Elective high-risk** (STS >4%) | 8–12% | 12–15% | TAVR non-inferior; frailty/comorbidities favor TAVR |
 | **Elective intermediate-risk** | 3–5% | 3–5% | Similar outcomes; valve choice (bioprosthetic vs mechanical) influences long-term decisions |
@@ -409,7 +410,7 @@ institution: UTHealth Houston HVI
 | Factor | TAVR Advantage | SAVR Advantage | ICU Implication |
 |--------|---|---|---|
 | **Age >75 years** | Yes (reduced mortality) | — | Prioritize TAVR if anatomically suitable |
-| **Cardiogenic shock** | Yes (13–28% mortality vs 25–40%) | — | **Urgent TAVR = lifesaving** |
+| **Cardiogenic shock** | Yes (13–28% vs 25–40% SAVR) | — | **Urgent TAVR appears superior to emergency SAVR**; registry data only — no RCT comparison |
 | **LVEF <30%** | Yes (TAVR outcomes better) | — | SAVR high-risk; TAVR preferred |
 | **Frailty, high STS score (>8%)** | Yes (lower morbidity) | — | Surgical risk unacceptable; TAVR only option |
 | **Aortic root too large (>50 mm)** | — | Yes (better long-term durability) | TAVR may require root enlargement; consider SAVR |
@@ -481,7 +482,7 @@ institution: UTHealth Houston HVI
 
 | Parameter | Target | Drug Choice | Rationale |
 |-----------|--------|------------|-----------|
-| **Heart rate** | 80–100 bpm | Beta-blocker, calcium channel blocker | ↓ diastolic fill time for AR; counterintuitive but reduces diastolic regurgitation time |
+| **Heart rate** | 80–100 bpm (non-dissection) | Beta-blocker, calcium channel blocker | ↓ diastolic fill time for AR reduces regurgitant volume; **Exception: aortic dissection-related AR** → beta-blockade is critical to reduce dP/dt regardless of HR effect on AR |
 | **SBP** | 90–100 mmHg | Vasodilator (nicardipine, hydralazine) | Reduces afterload → ↓ regurgitant volume |
 | **Cardiac output** | CI >2.0 L/min/m² | Inotrope (dobutamine, milrinone) if CI falls | Maintain forward flow |
 | **PCWP** | 15–20 mmHg | Diuretics if pulmonary edema | Gentle diuresis; avoid hypovolemia |
@@ -497,7 +498,9 @@ institution: UTHealth Houston HVI
 | **Esmolol** | Beta-1 blocker | 50–200 mcg/kg/min | **CRITICAL in acute AR**: slows HR (reduce AR regurgitation window); pair with vasodilator | Monitor EF; avoid if HF evident |
 | **Diltiazem** | Calcium channel blocker | 0.25 mg/kg IV loading, then 5–15 mg/hr | Alternative AV nodal blocker; also vasodilator | Negative inotrope; risk if EF very low |
 | **Dobutamine** | Inotrope + mild vasodilation | 2–10 mcg/kg/min | **Use cautiously**: inotropic support if CI low, BUT tachycardia may worsen AR | Risk of tachycardia; pair with rate-limiting agent |
-| **Milrinone** | Inotrope + vasodilator | 0.25–0.75 mcg/kg/min | Favorable hemodynamics (inotropy + vasodilation), but systemic hypotension; requires vasopressor | Often paired with phenylephrine or norepinephrine |
+| **Milrinone** | Inotrope + vasodilator | 0.25–0.75 mcg/kg/min | Favorable hemodynamics (inotropy + vasodilation), but systemic hypotension; requires vasopressor | Pair with norepinephrine (preferred) rather than phenylephrine in AR |
+| **Norepinephrine** | Alpha-1 + beta-1 | 0.01–0.5 mcg/kg/min | **PREFERRED vasopressor in hypotensive acute AR** — provides inotropic support alongside vasoconstriction; better tolerated than pure alpha agents | Risk of tachycardia; acceptable in AR context |
+| **Phenylephrine** | Pure alpha-1 agonist | 0.5–5 mcg/kg/min | **AVOID in acute AR** — pure vasoconstriction without inotropy worsens AR severity by increasing afterload without improving forward flow | Preferred in AS but contraindicated in AR |
 
 #### IABP: Contraindication in Acute AR
 
@@ -506,9 +509,13 @@ institution: UTHealth Houston HVI
 
 #### Mechanical Circulatory Support (if medical management fails)
 
-- **Impella 2.5 or 5.0:** Transaortic pump; provides forward flow, unloads LV
-- **ECMO:** Reserved for profound shock; requires anticoagulation, bleeding risk
+- **Impella 2.5 or 5.0:** Transaortic pump; provides forward flow, unloads LV — preferred MCS in acute AR
+- **Peripheral VA-ECMO:** Use with caution — increases LV afterload, which can worsen AR severity. If VA-ECMO required, consider concurrent LV unloading (Impella + ECMO "ECPELLA" strategy) to mitigate this
+- **LAVA-ECMO (Left Atrial to Aortic ECMO):** Emerging strategy at experienced centers; avoids aortic afterload increase inherent to peripheral VA-ECMO; may be preferable in severe AR with refractory shock
 - **Goal:** Bridge to surgery (acute AR is **surgical emergency, not TAVR indication**)
+
+> [!warning] VA-ECMO Caution in Acute AR
+> Peripheral VA-ECMO increases aortic afterload and can worsen AR regurgitant volume, potentially accelerating hemodynamic deterioration. Prefer Impella; if VA-ECMO is necessary, LV unloading or LAVA-ECMO at experienced centers should be considered (Miller PE et al., JACC Advances 2024).
 
 #### Etiologic Management
 
@@ -592,8 +599,9 @@ Patients with chronic AR may present with:
 1. **Echo findings:** AVA 1.0–1.5 cm² ("mild-moderate"), mean gradient <40 mmHg, EF ≥50%, SVI <35 mL/m²
 2. **Mechanism:** Restrictive LV physiology from severe concentric LV hypertrophy + diastolic dysfunction → reduced stroke volume despite normal contractility
 3. **CT aortic valve calcium scoring:**
-   - **Men:** Agatston >2400 = high likelihood of hemodynamically significant AS; TAVR likely beneficial
-   - **Women:** Agatston >1600 = high likelihood of hemodynamically significant AS; TAVR likely beneficial
+   - **Men:** Agatston **≥2,000** = confirmed hemodynamically significant AS; TAVR likely beneficial
+   - **Women:** Agatston **≥1,200** = confirmed hemodynamically significant AS; TAVR likely beneficial
+   - *Note: DSE is inconclusive in ~55% of classical LFGL-AS cases, reinforcing CT calcium scoring as a complementary — not competing — modality (Clavel MA & Pibarot P, JACC Cardiovasc Imaging 2024)*
 
 **ICU Management:**
 - **Avoid aggressive diuretics:** Restrictive physiology is preload-dependent
@@ -626,29 +634,15 @@ Patients with chronic AR may present with:
 
 ## Clinical Pearls: ICU-Focused Insights
 
-> [!tip] **Pearl 1: The AS + Sepsis Trap**
-> Severe AS patients may present with fever, elevated lactate, and hypotension initially attributed to septic shock. However, the underlying pathology may be **acute hemodynamic decompensation from AS itself** (fever from demand ischemia, lactate from cardiogenic shock, hypotension from low forward flow). Always obtain urgent echo in febrile critically ill patients with known AS. Blood cultures + structural heart imaging (TEE) differentiate endocarditis from other causes. Premature antibiotics without cardiac imaging can delay necessary TAVR/AVR by hours.
-
-> [!tip] **Pearl 2: IABP Contraindication in AR**
-> IABP inflation during diastole inflates when the aortic valve is open in AR, directly increasing regurgitant volume into the failing left ventricle. This paradoxically worsens hemodynamics and is associated with increased mortality. If mechanical support needed in acute AR, use **Impella or ECMO** instead. This is a common, deadly error in undifferentiated cardiogenic shock.
-
-> [!tip] **Pearl 3: The Low-Gradient AS Pitfall**
-> A patient with AVA 1.2 cm², mean gradient 35 mmHg, EF 55%, and SVI 30 mL/m² may be dismissed as having "mild AS." However, **paradoxical LFGL-AS with restrictive LV physiology can be severely hemodynamically significant.** Obtain **CT aortic valve calcium scoring**—if Agatston >2400 (men) or >1600 (women), this patient has true severe AS and benefits from TAVR despite low gradient. Failure to recognize this phenotype leads to delayed intervention and worse outcomes.
-
-> [!tip] **Pearl 4: Urgent TAVR Timing in Cardiogenic Shock**
-> TAVR performed **within 24–48 hours of AS cardiogenic shock onset** dramatically improves outcomes (30-day mortality 13–28%) compared to delayed intervention (mortality >40–50% at 5 days). **Every hour counts.** Early structural heart team involvement, parallel imaging (TEE + CTA), and standby OR reduce door-to-balloon time. Longer ICU stay before TAVR independently predicts worse outcomes—avoid prolonged stabilization attempts; stabilize with medical bridge (dobutamine + phenylephrine) while expediting definitive intervention.
-
-> [!tip] **Pearl 5: BAV Mortality & 90-Day Window**
-> BAV provides transient relief but restenosis occurs in 50–70% by 6 months. **If BAV performed, definitive AVR (TAVR or SAVR) MUST occur within 90 days**; mortality approaches 50% if AVR delayed beyond this window. At time of BAV, commit to a definitive intervention plan and timeline. Do not use BAV as "permanent" bridge; it is a temporary holding measure.
-
-> [!tip] **Pearl 6: Chronic AR Decompensation & Aorta Size**
-> A patient with moderate AR (RF 40%) and EF 55% may be deemed stable. However, if **ascending aorta >50 mm**, surgical AVR ± aortic root replacement should be considered **regardless of AR severity or EF**, due to risk of aortic rupture. Marfan, Loeys-Dietz, and other connective tissue disorders accelerate aortic dilation—use lower thresholds (>45 mm) in these populations. Repeat imaging every 6–12 months if aorta borderline.
-
-> [!tip] **Pearl 7: Rate Slowing in AS Offends Physiology**
-> Unlike many cardiogenic shock scenarios, **slowing heart rate in severe AS is THERAPEUTIC**. Reduced heart rate increases diastolic fill time for the stiff, hypertrophied ventricle dependent on atrial contraction. Atrial fibrillation with RVR in a severe AS patient is hemodynamic emergency—cardiovert or aggressively rate-control immediately. Conversely, beta-blockers (if no contraindication) improve filling and should be continued or initiated. This is counterintuitive in shock but correct for AS physiology.
-
-> [!tip] **Pearl 8: "AS Angina" Doesn't Require Revascularization**
-> Troponin elevation and chest pain are common in severe AS from demand ischemia and subendocardial ischemia, not atherosclerotic obstruction. Coronary angiography may show normal or non-obstructive disease. **Revascularization before AVR is often unnecessary** and adds procedural risk. Focus on hemodynamic stabilization and expedited TAVR/AVR. If true STEMI pattern on ECG (ST elevation in territory), pursue cath, but balance against timing of AVR.
+> [!tip] Clinical Pearls — Aortic Valve Disease
+> 1. **The AS + Sepsis Trap:** Severe AS can mimic septic shock (fever, elevated lactate, hypotension from low forward flow). Always obtain urgent echo in febrile critically ill patients with known AS. Blood cultures + TEE differentiate endocarditis from other causes. Premature antibiotics without cardiac imaging can delay necessary TAVR/AVR by hours.
+> 2. **IABP Contraindication in AR:** IABP inflates in diastole, directly increasing regurgitant volume into the failing LV. This paradoxically worsens hemodynamics. Use **Impella or ECMO** instead for mechanical support in acute AR — placing an IABP in undifferentiated cardiogenic shock is a common, potentially deadly error.
+> 3. **The Low-Gradient AS Pitfall:** AVA 1.2 cm², gradient 35 mmHg, EF 55%, SVI 30 mL/m² can be true severe AS. Obtain **CT aortic valve calcium scoring** — Agatston ≥2,000 AU (men) or ≥1,200 AU (women) confirms severity despite low gradient (updated validated thresholds per Clavel et al. and ACC/AHA guidelines). Failure to recognize paradoxical LFLG-AS leads to delayed intervention and worse outcomes.
+> 4. **Urgent TAVR Timing in Cardiogenic Shock:** TAVR within 24–48 hours of AS-related cardiogenic shock onset (30-day mortality 13–28%) outperforms delayed intervention (>40–50% at 5 days). Longer ICU stays before TAVR independently predict worse outcomes. Stabilize with medical bridge while expediting intervention — don't wait for the "perfect" moment.
+> 5. **BAV Mortality & 90-Day Window:** BAV restenosis occurs in 50–70% by 6 months. Definitive AVR (TAVR or SAVR) must occur within 90 days — mortality approaches 50% without it. At the time of BAV, commit to a definitive intervention plan.
+> 6. **Chronic AR Decompensation & Aorta Size:** Ascending aorta >50 mm warrants surgical AVR ± root replacement regardless of AR severity or EF due to rupture risk. Use lower thresholds (>45 mm) in Marfan, Loeys-Dietz, or other connective tissue disorders.
+> 7. **Rate Slowing in AS Is Therapeutic:** AF with RVR in severe AS is a hemodynamic emergency — cardiovert or aggressively rate-control immediately. Unlike most shock states, slowing heart rate in severe AS increases diastolic fill time for the stiff, atrial-kick-dependent LV.
+> 8. **"AS Angina" Doesn't Require Revascularization:** Troponin elevation and chest pain in severe AS are typically from demand ischemia, not obstructive CAD. Revascularization before AVR is often unnecessary. Focus on expedited TAVR/AVR.
 
 ---
 
@@ -820,6 +814,16 @@ Patients with chronic AR may present with:
 - Libby's Textbook of Cardiovascular Medicine (Valvular heart disease pathophysiology, management)
 - ICU Critical Care Medicine textbooks (hemodynamic monitoring, cardiogenic shock management)
 
+### Additional References (OpenEvidence Review, April 2026)
+
+- Clavel MA, Magne J, Pibarot P. Low-Gradient Aortic Stenosis. *Eur Heart J.* 2016;37(34):2645–57. — Validates ≥2,000/≥1,200 AU calcium thresholds for men/women.
+- Clavel MA, Burwash IG, Pibarot P. Cardiac Imaging for Assessing Low-Gradient Severe Aortic Stenosis. *JACC Cardiovasc Imaging.* 2017;10(2):185–202. — CT calcium scoring methodology and thresholds.
+- Clavel MA, Pibarot P. Adjudication of Low-Flow, Low-Gradient Aortic Stenosis Severity: DSE and MSCT Are Complementary, Not Competitive. *JACC Cardiovasc Imaging.* 2024;17(8):861–864. — DSE inconclusive in ~55% of classical LFGL-AS; CT calcium as complementary modality.
+- Deng Y, Wei S, Zhu L, Tao L. Effectiveness and Safety of Emergency TAVR in Severe AS Complicated by Cardiogenic Shock: A Systematic Review and Meta-Analysis. *Heart Lung.* 2025;69:62–70. — Emergency TAVR vs. SAVR: risk difference −0.15 (95% CI −0.25 to −0.04); largely observational data.
+- Karamasis GV, Kourek C, Alexopoulos D, Parissis J. TAVI in Cardiogenic Shock: Current Evidence, Clinical Challenges, and Future Directions. *J Clin Med.* 2025;14(15):5398.
+- Miller PE, Senman BC, Gage A, et al. Acute Decompensated Valvular Disease in the Intensive Care Unit. *JACC Advances.* 2024;3(12):101402. — Vasopressor strategy in acute AR; VA-ECMO afterload effect; LAVA-ECMO at experienced centers.
+- Otto CM, Newby DE, Hillis GS. Calcific Aortic Stenosis: A Review. *JAMA.* 2024;332(23):2014–2026. — AHA Target: Aortic Stenosis initiative; 90-day AVR quality benchmark.
+
 ### Additional Resources for ICU Providers
 
 - **ACC Appropriate Use Criteria for TAVR/SAVR** — Decision-support for intervention selection
@@ -841,8 +845,12 @@ Patients with chronic AR may present with:
 | **LFGL-AS** | DSE (classical) or CT calcium (paradoxical) for diagnosis; TAVR superior to SAVR |
 | **IABP in AR** | **CONTRAINDICATED** — use Impella or ECMO instead |
 | **BAV** | Bridge therapy only; 90-day window for definitive AVR, or 50% mortality |
-| **Drug strategy** | Dobutamine preferred inotrope; phenylephrine preferred vasopressor; avoid vasodilators monotherapy in AS |
+| **Drug strategy** | Dobutamine preferred inotrope; **norepinephrine preferred over phenylephrine** in acute AR (inotropic support); phenylephrine preferred in AS; avoid vasodilators monotherapy in AS |
 
 ---
 
 **Created:** 2026-04-02 | **Audience:** Cardiac ICU APPs & Physicians | **Institution:** UTHealth Houston HVI
+
+---
+
+*Last updated: April 2026 · HVI ICU APP Team*

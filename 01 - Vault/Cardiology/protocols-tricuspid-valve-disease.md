@@ -312,35 +312,17 @@ More severe TR
 
 ## 5. Clinical Pearls for the HVI Cardiac ICU
 
-> [!tip] **Pearl #1: TR Causes RV Failure; RV Failure Causes TR—The Vicious Cycle**
-> This bidirectional relationship means that improving RV function (weaning mechanical ventilation, optimizing pulmonary HTN, enhancing RV contractility) may improve functional TR. Don't assume TR severity is static; reassess after changes in RV loading or contractility.
-
-> [!warning] **Pearl #2: Diuresis Can Be Harmful in Severe TR**
-> The RV is preload-dependent; excessive diuresis (trying to reduce JVD or ascites) can precipitate acute RV failure and cardiogenic shock in severe TR. Instead, use targeted diuretics at lower doses, optimize RV contractility with inotropes, and reduce pulmonary afterload with inhaled agents or PAH drugs. Monitor CVP, urine output, and lactate closely.
-
-> [!tip] **Pearl #3: Fixing Left-Sided Disease May Resolve Functional TR**
-> If a patient has mitral stenosis + functional TR, percutaneous mitral balloon valvuloplasty or surgical mitral valve repair can reduce pulmonary HTN and reverse RV dilation, improving or resolving TR. This is a distinct strategy from TV surgery and should be pursued first.
-
-> [!tip] **Pearl #4: Carvallo's Sign (TR Murmur Increases with Inspiration)**
-> This is the sine qua non of TR; use it clinically to distinguish from MR (which often decreases with inspiration due to decreased LV volume). Simple bedside maneuver; don't forget to assess it during rounds.
-
-> [!warning] **Pearl #5: Carcinoid TR Always Affects the Right Side**
-> Serotonin produced by carcinoid tumors causes endocardial fibrosis on the right side of the heart only (lung circulation filters serotonin; left side spared unless there's a patent foramen ovale or lung disease allowing bypass). Expect TV + PV disease; mitral and aortic valves usually normal.
-
-> [!tip] **Pearl #6: Pacemaker/ICD Lead–Related TR Is Increasingly Common**
-> With over 3 million pacemakers implanted globally, lead-induced TR (from perforation, entrapment, friction) is becoming a leading cause of primary TR in the ICU. Always review device history; consider lead extraction or extraction + TV repair if severe TR develops post-device placement.
-
-> [!warning] **Pearl #7: LVAD Patients with Severe TR Have Worse Outcomes**
-> LVAD-induced RV dilation + increased systemic venous return → worsening TR. LVAD recipients with ≥moderate-severe TR should undergo concomitant TV repair (annuloplasty) at implant time. If TR develops or worsens post-LVAD, escalate to mechanical support (RVAD, ProtekDuo, VA-ECMO) early.
-
-> [!tip] **Pearl #8: Mechanical Ventilation Settings Matter in RV Failure + TR**
-> PEEP >10 cmH₂O, high plateau pressures, and hypoxia/hypercarbia all increase RV afterload. Lung-protective ventilation (Vt 6–8 mL/kg, PEEP 5–8 cmH₂O in most cases, pH goal >7.30, SpO₂ >90%) is essential. Consider early extubation or spontaneous breathing trials to reduce afterload. Permissive hypercarbia (pH 7.25–7.30) is acceptable if it reduces PEEP.
-
-> [!warning] **Pearl #9: Renal Failure in Severe TR**
-> Systemic venous congestion (elevated CVP, hepatic congestion) → renal venous HTN → reduced renal perfusion pressure → acute kidney injury (cardiorenal syndrome type 2). Diuretics alone won't help; require inotropic support, afterload reduction, and possibly mechanical support to restore cardiac output and renal perfusion.
-
-> [!tip] **Pearl #10: Hepatic Dysfunction from Chronic Severe TR**
-> Ischemic hepatitis from chronic venous congestion impairs hepatic metabolism and synthetic function. Expect elevated transaminases, bilirubin, and coagulopathy. IV drugs (pain meds, antibiotics) and oral medications will accumulate. Consider lower doses of sedatives, opioids, and antibiotics; monitor INR/PT closely; transfuse FFP cautiously (fluid overload worsens TR).
+> [!tip] Clinical Pearls — Tricuspid Valve Disease
+> 1. **TR causes RV failure; RV failure causes TR:** This bidirectional relationship means improving RV function (weaning ventilation, optimizing PH, enhancing contractility) may improve functional TR. Don't assume TR severity is static — reassess after changes in RV loading or contractility.
+> 2. **Diuresis can be harmful in severe TR:** The RV is preload-dependent; excessive diuresis can precipitate acute RV failure and cardiogenic shock. Use targeted low-dose diuretics, optimize RV contractility with inotropes, and reduce pulmonary afterload with inhaled agents or PAH drugs. Monitor CVP, urine output, and lactate closely.
+> 3. **Fixing left-sided disease may resolve functional TR:** PMBC or surgical mitral repair can reduce PH and reverse RV dilation, improving or resolving TR — pursue this before TV surgery in appropriate patients.
+> 4. **Carvallo's sign:** TR murmur increases with inspiration (distinguishes from MR, which often decreases). Simple bedside maneuver — use it on rounds.
+> 5. **Carcinoid TR is always right-sided:** Serotonin causes right-sided endocardial fibrosis; the pulmonary circulation filters it before reaching the left heart. Expect TV + PV disease; mitral and aortic valves are typically spared (unless PFO or lung metastases).
+> 6. **Pacemaker/ICD lead–related TR is increasingly common:** Lead-induced TR (perforation, entrapment, friction) is now a leading cause of primary TR. Always review device history; consider lead extraction ± TV repair if severe TR develops post-implant.
+> 7. **LVAD patients with severe TR have worse outcomes:** Concomitant TV repair (annuloplasty) should be performed at LVAD implant in patients with ≥moderate-severe TR. If TR worsens post-LVAD, escalate to RVAD, ProtekDuo, or VA-ECMO early.
+> 8. **Ventilator settings matter in RV failure + TR:** PEEP >10 cmH₂O, high plateau pressures, and hypoxia/hypercarbia all increase RV afterload. Target Vt 6–8 mL/kg, PEEP 5–8 cmH₂O, pH >7.30, SpO₂ >90%. Permissive hypercarbia (pH 7.25–7.30) is acceptable to reduce PEEP.
+> 9. **Renal failure in severe TR is cardiorenal, not purely renal:** Systemic venous congestion → renal venous HTN → reduced perfusion pressure → AKI (cardiorenal syndrome type 2). Diuretics alone won't fix it — inotropic support, afterload reduction, and possibly mechanical support are needed.
+> 10. **Hepatic dysfunction from chronic severe TR:** Chronic venous congestion causes ischemic hepatitis, impairing drug metabolism and synthetic function. Expect elevated transaminases, bilirubin, and coagulopathy. Dose-adjust sedatives, opioids, and antibiotics accordingly; monitor INR closely.
 
 ---
 
@@ -601,3 +583,7 @@ Based on PubMed search results retrieved:
 **Last Updated**: April 2, 2026
 **Intended Users**: Advanced Practice Providers, Physicians (HVI Cardiac ICU, UTHealth Houston)
 **Feedback/Updates**: Contact Cardiology Education Team
+
+---
+
+*Last updated: April 2026 · HVI ICU APP Team*

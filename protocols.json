@@ -74,10 +74,9 @@
     {
       "id": "right-heart-catheterization",
       "title": "Right Heart Catheterization",
-      "subtitle": "Basic Pressures, Gradients, and Indices",
+      "subtitle": "Basics of Pressures, Gradients & Indices",
       "category": "cardiology",
-      "type": "pdf",
-      "contentFile": "01 - Vault/Cardiology/protocols-right-heart-catheterization.pdf"
+      "contentFile": "01 - Vault/Cardiology/protocols-right-heart-catheterization.md"
     },
     {
       "id": "acute-cholangitis",

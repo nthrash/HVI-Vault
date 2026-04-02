@@ -549,29 +549,15 @@ tags:
 
 ## Clinical Pearls
 
-> [!tip]
-> 1. **The quiet murmur of acute severe MR:** A patient with acute post-MI cardiogenic shock may have a soft, difficult-to-hear systolic murmur or no murmur at all. Equalization of LV-LA pressures in acute MR eliminates the gradient needed for a loud murmur. Listen carefully but do not rely on murmur absence to exclude acute MR. Suspect papillary muscle rupture if acute pulmonary edema + shock post-MI.
-
-> [!tip]
-> 2. **V-waves are not pathognomonic for MR:** Prominent V-waves on PA catheter can also indicate left ventricular rupture, ventricular septal rupture, or severe tricuspid regurgitation. Always integrate PA data with imaging (echocardiography, TEE). A "positive deflection" on PA tracing should prompt echo confirmation.
-
-> [!tip]
-> 3. **Positive pressure ventilation is therapeutic in acute MR, not just supportive:** PEEP reduces LV end-systolic volume and thereby decreases regurgitant fraction. Apply PEEP deliberately (10–15 cm H₂O on invasive ventilation); watch hemodynamics improve in many patients before escalating to mechanical support or surgery.
-
-> [!tip]
-> 4. **Do not delay cardiac surgery consultation in acute MR:** Medical optimization (vasodilators, diuretics, PPV, IABP) buys time—often 24–48 hours. But surgical consultation should happen within hours, not days. Redo surgeries (elective repair after palliative TEER, for example) are more morbid. Get definitive repair/replacement in the acute phase if feasible.
-
-> [!tip]
-> 5. **IABP is helpful in acute MR but not a substitute for surgery:** IABP improves hemodynamics acutely (reduces afterload, improves coronary flow). However, evidence is observational. IABP is contraindicated in aortic regurgitation; don't place blindly. Use as a bridge to OR, not as definitive therapy.
-
-> [!tip]
-> 6. **Chronic MR with normal LV function can be observed:** Do not operate on asymptomatic patients with severe MR if LVEF >60%, LVESD <40 mm, and normal LA pressure. Serial echocardiography (q1–2 years) is appropriate. Intervene when LV dysfunction develops (LVEF 30–60%, LVESD ≥40 mm, or AF/PH).
-
-> [!tip]
-> 7. **Rate control is essential in mitral stenosis; vasodilators alone are insufficient:** MS is a fixed obstruction. Shortening diastolic filling time (tachycardia) increases the LA-LV gradient. Beta-blockers or non-DHP CCBs are first-line. Vasodilators should be reserved for hypertensive patients and paired with diuretics + rate control.
-
-> [!tip]
-> 8. **Secondary MR phenotyping matters:** "Proportionate" secondary MR (severe LV dilation) does not benefit from MitraClip (MITRA-FR), while "disproportionate" secondary MR (moderate MR relative to degree of LV dysfunction) may benefit (COAPT). Involve cardiology and cardiothoracic surgery in decision-making to avoid futile intervention.
+> [!tip] Clinical Pearls — Mitral Valve Disease
+> 1. **The quiet murmur of acute severe MR:** A patient with acute post-MI cardiogenic shock may have a soft or absent systolic murmur — equalization of LV-LA pressures eliminates the gradient for a loud murmur. Do not exclude acute MR based on murmur absence. Suspect papillary muscle rupture with pulmonary edema + shock post-MI.
+> 2. **V-waves are not pathognomonic for MR:** Prominent V-waves on PA catheter also occur with LV rupture, ventricular septal rupture, or severe TR. Always confirm with echo/TEE before attributing to MR alone.
+> 3. **PPV is therapeutic in acute MR, not just supportive:** PEEP (10–15 cmH₂O) reduces LV end-systolic volume, decreasing regurgitant fraction and improving forward flow. Apply PEEP deliberately before escalating to mechanical support or surgery.
+> 4. **Don't delay surgical consultation in acute MR:** Medical optimization buys 24–48 hours — surgical consultation should happen within hours, not days. Definitive repair/replacement in the acute phase is preferable to delayed redo surgery.
+> 5. **IABP is a bridge, not a destination, in acute MR:** IABP reduces afterload and improves coronary flow, but evidence is observational. It is contraindicated in AR — don't place blindly. Use as a bridge to OR only.
+> 6. **Chronic MR with preserved LV function can be observed:** Do not operate on asymptomatic patients with LVEF >60%, LVESD <40 mm, and normal LA pressure. Intervene when LV dysfunction develops (LVEF 30–60%, LVESD ≥40 mm, AF, or PH).
+> 7. **Rate control is the priority in decompensated MS:** MS is a fixed obstruction — tachycardia shortens diastole and worsens the LA-LV gradient. Beta-blockers or non-DHP CCBs first; vasodilators alone are insufficient.
+> 8. **Secondary MR phenotyping matters:** Proportionate secondary MR (large LV dilation) does not benefit from MitraClip (MITRA-FR). Disproportionate secondary MR (severe MR relative to LV size) does (COAPT). Get cardiology and CT surgery involved before pursuing TEER.
 
 ---
 
@@ -707,3 +693,7 @@ According to PubMed, recent literature on acute mitral regurgitation and transca
 ---
 
 **Document prepared for the UTHealth Houston HVI Clinical Knowledge Vault**
+
+---
+
+*Last updated: April 2026 · HVI ICU APP Team*

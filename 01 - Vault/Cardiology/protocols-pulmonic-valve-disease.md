@@ -646,29 +646,15 @@ According to PubMed evidence:
 
 ## 7. Clinical Pearls
 
-> [!tip]
-> 1. **Gradient ≠ Symptom Status**: A patient with a severe PS gradient but no symptoms may not need intervention yet, whereas a mildly symptomatic patient with moderate PS often benefits from BPV. Symptom status and functional limitation drive timing more than catheter gradient alone.
-
-> [!tip]
-> 2. **The "Silent Killer" of ACHD**: Severe PR is often missed because patients compensate beautifully for years. Always ask ACHD patients about exercise capacity, arrange regular echo surveillance even if asymptomatic, and don't miss the opportunity to intervene before RV dysfunction becomes irreversible.
-
-> [!tip]
-> 3. **Atrial Fibrillation in PS is an Emergency**: A patient with severe PS who develops new-onset atrial fibrillation can deteriorate rapidly (loss of atrial contraction deprives the hypertrophied RV of its critical preload boost). Restore sinus rhythm urgently; consider synchronized cardioversion if hemodynamically unstable.
-
-> [!tip]
-> 4. **Preload is Sacred in RV Disease**: Whether PS or PR, the RV is preload-dependent. Avoid aggressive diuresis, maintain adequate CVP, and be cautious with vasodilators that drop systemic pressures. A patient's apparent "pulmonary edema" may actually be RV failure with elevated RA pressure (physiologic right heart failure, not left heart failure).
-
-> [!tip]
-> 5. **TPVR is a Bridge, Not a Cure**: Modern TPVR has revolutionized ACHD care, but durability is limited. Half of Melody valve recipients will need reintervention by 10 years. Counsel patients appropriately — TPVR buys time and improves quality of life, but eventually another procedure will likely be needed.
-
-> [!tip]
-> 6. **Syndromic PS is Different**: Noonan syndrome and other syndromic forms of PS often have dysplastic valves refractory to balloon valvuloplasty. In these patients, BPV success rates are lower; surgical valvotomy or early valve replacement may be needed. Know your patient's underlying syndrome.
-
-> [!tip]
-> 7. **Check the Septal Wall**: In severe RV pressure or volume overload, pay attention to the interventricular septum — rightward bowing during systole (PS) or leftward bowing during diastole (PR) indicates significant chamber burden and may influence intervention timing.
-
-> [!tip]
-> 8. **Endocarditis Risk Post-TPVR**: Transcatheter valves carry endocarditis risk. Counsel all post-TPVR patients on antibiotic prophylaxis for dental/GI procedures for at least 6 months and preferably indefinitely; arrange annual echo surveillance for early detection.
+> [!tip] Clinical Pearls — Pulmonic Valve Disease
+> 1. **Gradient ≠ Symptom Status:** A severe PS gradient in an asymptomatic patient may not require immediate intervention, while a mildly symptomatic patient with moderate PS often benefits from BPV. Symptom status and functional limitation drive timing more than gradient alone.
+> 2. **The "Silent Killer" of ACHD:** Severe PR is often missed — patients compensate for years. Always ask ACHD patients about exercise capacity, maintain regular echo surveillance even if asymptomatic, and don't miss the window to intervene before RV dysfunction becomes irreversible.
+> 3. **AF in PS is an emergency:** New-onset AF in severe PS can cause rapid deterioration — loss of atrial kick deprives the hypertrophied RV of its critical preload boost. Restore sinus rhythm urgently; consider synchronized cardioversion if hemodynamically unstable.
+> 4. **Preload is sacred in RV disease:** Whether PS or PR, the RV is preload-dependent. Avoid aggressive diuresis, maintain adequate CVP, and be cautious with vasodilators. Apparent "pulmonary edema" may actually be RV failure with elevated RA pressure — not left heart failure.
+> 5. **TPVR is a bridge, not a cure:** Durability is limited — half of Melody valve recipients need reintervention by 10 years. Counsel patients that TPVR buys time and quality of life, but another procedure will likely be needed.
+> 6. **Syndromic PS is different:** Noonan syndrome and other syndromic forms often have dysplastic valves refractory to BPV. Success rates are lower; surgical valvotomy or early valve replacement may be needed. Know the underlying syndrome.
+> 7. **Check the septal wall:** Rightward septal bowing during systole (PS) or leftward bowing during diastole (PR) signals significant chamber burden on echo and may influence intervention timing.
+> 8. **Endocarditis risk post-TPVR:** Antibiotic prophylaxis for dental/GI procedures is recommended for at least 6 months post-implant, preferably indefinitely. Arrange annual echo surveillance for early detection.
 
 ---
 
@@ -843,3 +829,7 @@ According to PubMed evidence:
 ---
 
 *This learning topic integrates current evidence from peer-reviewed literature, major society guidelines (AHA/ACC, ESC), and clinical expertise in ACHD and structural heart disease. It is intended as a decision-support resource and should be used in conjunction with clinical judgment and patient-specific factors.*
+
+---
+
+*Last updated: April 2026 · HVI ICU APP Team*
