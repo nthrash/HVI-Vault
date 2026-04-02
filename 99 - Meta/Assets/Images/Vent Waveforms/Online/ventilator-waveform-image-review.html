@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ventilator Waveform Image Review — HVI</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #0f1923; color: #e0e0e0; font-family: 'Segoe UI', Arial, sans-serif; }
+  header { background: #1a2a3a; padding: 24px 32px; border-bottom: 2px solid #2a4a6a; }
+  header h1 { font-size: 22px; color: #4fc3f7; margin-bottom: 4px; }
+  header p { color: #90a4ae; font-size: 13px; }
+  nav { display: flex; gap: 8px; flex-wrap: wrap; padding: 14px 32px; background: #14202e; border-bottom: 1px solid #1e3045; }
+  nav a { color: #80cbc4; font-size: 12px; text-decoration: none; padding: 4px 10px; border-radius: 12px; border: 1px solid #2a4a4a; transition: background 0.2s; }
+  nav a:hover { background: #1e3a3a; color: #e0f7fa; }
+  .section { padding: 28px 32px; border-bottom: 1px solid #1a2a3a; }
+  .section h2 { font-size: 16px; color: #ffd54f; margin-bottom: 6px; letter-spacing: 0.5px; text-transform: uppercase; }
+  .section p.desc { color: #90a4ae; font-size: 12px; margin-bottom: 16px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 20px; }
+  .card { background: #1a2535; border: 1px solid #2a3a4a; border-radius: 8px; overflow: hidden; transition: transform 0.15s, border-color 0.15s; }
+  .card:hover { transform: translateY(-2px); border-color: #4fc3f7; }
+  .card img { width: 100%; display: block; background: #fff; cursor: zoom-in; }
+  .card .caption { padding: 10px 12px; font-size: 12px; color: #b0bec5; line-height: 1.5; }
+  .card .caption strong { color: #e0e0e0; display: block; margin-bottom: 2px; font-size: 13px; }
+  .modal { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.9); z-index: 1000; align-items: center; justify-content: center; }
+  .modal.open { display: flex; }
+  .modal img { max-width: 92vw; max-height: 90vh; object-fit: contain; border-radius: 4px; }
+  .modal-close { position: fixed; top: 18px; right: 24px; color: #fff; font-size: 28px; cursor: pointer; background: rgba(0,0,0,0.5); width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center; }
+  .modal-caption { position: fixed; bottom: 16px; left: 50%; transform: translateX(-50%); background: rgba(0,0,0,0.7); color: #e0e0e0; font-size: 13px; padding: 8px 18px; border-radius: 20px; max-width: 80vw; text-align: center; }
+  .source-badge { display: inline-block; font-size: 10px; padding: 2px 7px; border-radius: 8px; margin-top: 4px; }
+  .dp { background: #1a3a2a; color: #80cbc4; border: 1px solid #2a5a3a; }
+  .litfl { background: #1a2a4a; color: #90caf9; border: 1px solid #2a3a6a; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Ventilator Waveform Image Review</h1>
+  <p>UTHealth Houston HVI · Sourced from Deranged Physiology &amp; LITFL · For clinical education use</p>
+</header>
+
+<nav>
+  <a href="#scalars">Scalar Waveforms</a>
+  <a href="#pressure">Pressure Waveform</a>
+  <a href="#flow">Flow Waveform</a>
+  <a href="#pvloop">P-V Loops</a>
+  <a href="#fvloop">F-V Loops</a>
+  <a href="#dyssynchrony">Dyssynchrony</a>
+</nav>
+
+<!-- SECTION 1: Overview -->
+<div class="section" id="scalars">
+  <h2>Scalar Waveforms — Overview</h2>
+  <p class="desc">The three scalars (pressure, flow, volume) plotted against time. Understanding normal appearance in each mode is the foundation of waveform interpretation.</p>
+  <div class="grid">
+
+    <div class="card" onclick="openModal(this)">
+      <img src="01-ventilator-graphics-overview.jpg" alt="Ventilator graphics overview" loading="lazy">
+      <div class="caption">
+        <strong>Ventilator Monitor Display — All Scalars</strong>
+        Overview of the ventilator graphics display showing pressure, flow, and volume scalars alongside PV and FV loops as seen on a real ventilator screen.
+        <span class="source-badge dp">Deranged Physiology</span>
+      </div>
+    </div>
+
+    <div class="card" onclick="openModal(this)">
+      <img src="02-ventilator-waveform-schematic.jpg" alt="Ventilator waveform schematic" loading="lazy">
+      <div class="caption">
+        <strong>Ventilator Waveform Schematic</strong>
+        Schematic representation of the three scalar waveforms (pressure, flow, volume) time-aligned during a mechanical breath.
+        <span class="source-badge dp">Deranged Physiology</span>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- SECTION 2: Pressure Waveform -->
+<div class="section" id="pressure">
+  <h2>Pressure-Time Waveform</h2>
+  <p class="desc">The pressure scalar is the workhorse. It reveals airway resistance (PIP−Pplat), lung compliance (Pplat−PEEP), and dyssynchrony patterns like flow starvation.</p>
+  <div class="grid">
+
+    <div class="card" onclick="openModal(this)">
+      <img src="03-pressure-waveform-normal.jpg" alt="Normal pressure waveform" loading="lazy">
+      <div class="caption">
+        <strong>Normal Pressure Waveform (ACVC)</strong>
+        Linear ramp rise to PIP, plateau pressure after inspiratory hold, return to PEEP. Key landmarks labeled.
+        <span class="source-badge dp">Deranged Physiology</span>
+      </div>
+    </div>
+
+    <div class="card" onclick="openModal(this)">
+      <img src="04-pressure-high-vs-normal-airway-resistance.jpg" alt="High vs normal airway resistance" loading="lazy">
+      <div class="caption">
+        <strong>High vs Normal Airway Resistance</strong>
+        High PIP with normal Pplat = increased PIP−Pplat gap = airway resistance problem (secretions, bronchospasm, kinked ETT). Pplat unchanged because compliance is preserved.
+        <span class="source-badge dp">Deranged Physiology</span>
+      </div>
+    </div>
+
+    <div class="card" onclick="openModal(this)">
+      <img src="05-pressure-poor-vs-normal-compliance.jpg" alt="Poor vs normal compliance" loading="lazy">
+      <div class="caption">
+        <strong>Decreased Compliance — Pressure Waveform</strong>
+        Both PIP and Pplat rise together = compliance problem (ARDS, pulmonary edema, pneumothorax). PIP−Pplat gap stays normal because resistance is unchanged.
+        <span class="source-badge dp">Deranged Physiology</span>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- SECTION 3: Flow Waveform -->
+<div class="section" id="flow">
+  <h2>Flow-Time Waveform</h2>
+  <p class="desc">The flow waveform is the most sensitive detector of auto-PEEP (expiratory flow not returning to zero) and secretions (saw-tooth pattern).</p>
+  <div class="grid">
+
+    <div class="card" onclick="openModal(this)">
+      <img src="06-flow-waveform-normal.jpg" alt="Normal flow waveform" loading="lazy">
+      <div class="caption">
+        <strong>Normal Flow Waveform</strong>
+        Square inspiratory flow (ACVC) above the baseline, passive exponential expiratory flow below. Flow returns to zero before the next breath — no air trapping.
+        <span class="source-badge dp">Deranged Physiology</span>
+      </div>
+    </div>
+
+    <div class="card" onclick="openModal(this)">
+      <img src="07-flow-pressure-control-reaches-zero.jpg" alt="Pressure control flow reaches zero" loading="lazy">
+      <div class="caption">
+        <strong>ACPC — Flow Decelerates to Zero</strong>
+        In pressure control, inspiratory flow decelerates and reaches zero at the end of Ti — the lung is fully filled. This is the expected pattern; if it doesn't reach zero, Ti may be too short.
+        <span class="source-badge dp">Deranged Physiology</span>
+      </div>
+    </div>
+
+    <div class="card" onclick="openModal(this)">
+      <img src="08-flow-insufficient-inspiration-time.jpg" alt="Insufficient inspiration time" loading="lazy">
+      <div class="caption">
+        <strong>Insufficient Inspiratory Time (ACPC)</strong>
+        Flow is cut off before reaching zero — Ti is too short. The lung hasn't finished filling. This results in reduced tidal volume delivery.
+        <span class="source-badge dp">Deranged Physiology</span>
+      </div>
+    </div>
+
+    <div class="card" onclick="openModal(this)">
+      <img src="09-flow-air-trapping-increased-resistance.jpg" alt="Air trapping and increased resistance" loading="lazy">
+      <div class="caption">
+        <strong>Air Trapping / Auto-PEEP + Increased Airway Resistance</strong>
+        Expiratory flow does not return to zero before the next breath. This is the gold-standard waveform sign of auto-PEEP. Also shows prolonged expiratory flow pattern with increased resistance.
+        <span class="source-badge dp">Deranged Physiology</span>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- SECTION 4: PV Loops -->
+<div class="section" id="pvloop">
+  <h2>Pressure-Volume (PV) Loops</h2>
+  <p class="desc">PV loops reveal lung compliance (slope), overdistension (beaking at UIP), atelectasis (LIP), and work of breathing (loop area). Traced counterclockwise.</p>
+  <div class="grid">
+
+    <div class="card" onclick="openModal(this)">
+      <img src="10-PV-loop-spontaneous-breathing.jpg" alt="PV loop spontaneous breathing" loading="lazy">
+      <div class="caption">
+        <strong>PV Loop — Spontaneous Breathing</strong>
+        PV loop in a spontaneously breathing patient. Note the work of breathing is represented by the leftward deflection below the trigger point (patient effort).
+        <span class="source-badge dp">Deranged Physiology</span>
+      </div>
+    </div>
+
+    <div class="card" onclick="openModal(this)">
+      <img src="11-PV-loop-anatomy.jpg" alt="Anatomy of the PV loop" loading="lazy">
+      <div class="caption">
+        <strong>Anatomy of the PV Loop</strong>
+        Labeled components: inspiratory limb, expiratory limb, compliance slope, hysteresis area, lower inflection point (LIP), upper inflection point (UIP/beaking).
+        <span class="source-badge dp">Deranged Physiology</span>
+      </div>
+    </div>
+
+    <div class="card" onclick="openModal(this)">
+      <img src="12-PV-loop-ideal-CMV.jpg" alt="Ideal CMV PV loop" loading="lazy">
+      <div class="caption">
+        <strong>Normal PV Loop — Volume Control (CMV/ACVC)</strong>
+        Ideal PV loop in volume-controlled ventilation. Note the characteristic shape — pressure rises as volume is delivered, forming a closed loop with normal hysteresis.
+        <span class="source-badge dp">Deranged Physiology</span>
+      </div>
+    </div>
+
+    <div class="card" onclick="openModal(this)">
+      <img src="13-PV-loop-ideal-PCV.jpg" alt="Ideal PCV PV loop" loading="lazy">
+      <div class="caption">
+        <strong>Normal PV Loop — Pressure Control (PCV/ACPC)</strong>
+        PV loop in pressure-controlled ventilation. The pressure rises rapidly to the set level, then volume fills in — different shape from volume control.
+        <span class="source-badge dp">Deranged Physiology</span>
+      </div>
+    </div>
+
+    <div class="card" onclick="openModal(this)">
+      <img src="14-PV-loop-SIMV-PRVC.jpg" alt="SIMV PRVC PV loop" loading="lazy">
+      <div class="caption">
+        <strong>PV Loop — SIMV / PRVC</strong>
+        PV loop appearance in SIMV and PRVC modes. Note how PRVC loops may vary breath-to-breath as the ventilator auto-adjusts pressure to achieve target tidal volume.
+        <span class="source-badge dp">Deranged Physiology</span>
+      </div>
+    </div>
+
+    <div class="card" onclick="openModal(this)">
+      <img src="15-PV-loops-summary.jpg" alt="PV loops summary" loading="lazy">
+      <div class="caption">
+        <strong>PV Loops Summary — Key Patterns</strong>
+        Summary diagram comparing normal PV loop against abnormal patterns. Quick reference for compliance changes, overdistension (beaking), and air trapping (loop not closing).
+        <span class="source-badge dp">Deranged Physiology</span>
+      </div>
+    </div>
+
+    <div class="card" onclick="openModal(this)">
+      <img src="16-PV-loops-disease-states.jpg" alt="PV loops in disease states" loading="lazy">
+      <div class="caption">
+        <strong>PV Loops in Disease States</strong>
+        PV loop changes across pathologic states: decreased compliance (ARDS, pulmonary edema), increased resistance (bronchospasm), air trapping. Loops shift right and widen with disease.
+        <span class="source-badge dp">Deranged Physiology</span>
+      </div>
+    </div>
+
+    <div class="card" onclick="openModal(this)">
+      <img src="24-LITFL-PV-loop-1.jpg" alt="LITFL PV loop 1" loading="lazy">
+      <div class="caption">
+        <strong>PV Loop — LITFL Diagram (Part 1)</strong>
+        LITFL's labeled PV loop showing normal loop anatomy, compliance slope, and key inflection points.
+        <span class="source-badge litfl">LITFL</span>
+      </div>
+    </div>
+
+    <div class="card" onclick="openModal(this)">
+      <img src="25-LITFL-PV-loop-2.jpg" alt="LITFL PV loop 2" loading="lazy">
+      <div class="caption">
+        <strong>PV Loop — LITFL Diagram (Part 2)</strong>
+        LITFL's PV loop showing abnormal patterns — beaking (overdistension), decreased compliance, and clinical interpretation pearls.
+        <span class="source-badge litfl">LITFL</span>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- SECTION 5: FV Loops -->
+<div class="section" id="fvloop">
+  <h2>Flow-Volume (FV) Loops</h2>
+  <p class="desc">FV loops reveal airway obstruction (scooped expiratory limb), bronchodilator response, and air trapping (loop doesn't close).</p>
+  <div class="grid">
+
+    <div class="card" onclick="openModal(this)">
+      <img src="17-FV-loops.jpg" alt="Flow-volume loops" loading="lazy">
+      <div class="caption">
+        <strong>Flow-Volume Loop Patterns</strong>
+        Normal FV loop vs obstructive pattern (scooped expiratory limb), restrictive pattern (small compressed loop), and air trapping (truncated expiratory limb). Key patterns for bedside interpretation.
+        <span class="source-badge dp">Deranged Physiology</span>
+      </div>
+    </div>
+
+    <div class="card" onclick="openModal(this)">
+      <img src="26-LITFL-FV-loop.jpg" alt="LITFL flow-volume loop" loading="lazy">
+      <div class="caption">
+        <strong>Flow-Volume Loop — LITFL</strong>
+        LITFL's FV loop diagram showing normal loop anatomy with inspiratory (upper) and expiratory (lower) limbs labeled. Foundation for recognizing obstructive vs restrictive patterns.
+        <span class="source-badge litfl">LITFL</span>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- SECTION 6: Dyssynchrony -->
+<div class="section" id="dyssynchrony">
+  <h2>Patient-Ventilator Dyssynchrony</h2>
+  <p class="desc">Dyssynchrony affects 25–50% of ventilated patients. These waveform patterns allow early detection — often before clinical signs are obvious.</p>
+  <div class="grid">
+
+    <div class="card" onclick="openModal(this)">
+      <img src="18-dyssynchrony-wasted-effort-mandatory-mode.jpg" alt="Wasted effort mandatory mode" loading="lazy">
+      <div class="caption">
+        <strong>Ineffective Triggering — Mandatory Mode</strong>
+        Wasted patient effort in a mandatory ventilation mode. Small flow/pressure deflections that don't result in a triggered breath. Cause: trigger too insensitive or significant auto-PEEP.
+        <span class="source-badge dp">Deranged Physiology</span>
+      </div>
+    </div>
+
+    <div class="card" onclick="openModal(this)">
+      <img src="19-dyssynchrony-trigger-too-high.jpg" alt="Trigger set too high" loading="lazy">
+      <div class="caption">
+        <strong>Ineffective Triggering — Trigger Sensitivity Too High</strong>
+        Patient effort is visible but not reaching the trigger threshold. Patient is working hard to breathe but the ventilator isn't responding. Fix: increase trigger sensitivity (lower threshold).
+        <span class="source-badge dp">Deranged Physiology</span>
+      </div>
+    </div>
+
+    <div class="card" onclick="openModal(this)">
+      <img src="20-dyssynchrony-flow-starvation-scalloping.jpg" alt="Flow starvation scalloping" loading="lazy">
+      <div class="caption">
+        <strong>Flow Starvation — Pressure Scalloping (ACVC)</strong>
+        The normally convex/linear pressure rise becomes concave ("scooped" or "scalloped") during inspiration. Patient demand exceeds set flow rate. Fix: increase flow to 60–80 L/min or switch to ACPC.
+        <span class="source-badge dp">Deranged Physiology</span>
+      </div>
+    </div>
+
+    <div class="card" onclick="openModal(this)">
+      <img src="21-dyssynchrony-auto-PEEP-effort.jpg" alt="Auto-PEEP increased effort" loading="lazy">
+      <div class="caption">
+        <strong>Auto-PEEP — Increased Respiratory Effort</strong>
+        Auto-PEEP forces the patient to generate extra inspiratory effort just to overcome intrinsic PEEP before reaching trigger threshold. Results in wasted efforts and respiratory distress. Especially dangerous in RV failure and LVAD patients.
+        <span class="source-badge dp">Deranged Physiology</span>
+      </div>
+    </div>
+
+    <div class="card" onclick="openModal(this)">
+      <img src="22-dyssynchrony-cardiac-oscillations.jpg" alt="Cardiac oscillations" loading="lazy">
+      <div class="caption">
+        <strong>Auto-Triggering — Cardiac Oscillations</strong>
+        Cardiac contractions transmit pressure/flow oscillations into the circuit, which can be misinterpreted by the ventilator as patient effort, triggering auto-triggered breaths. Fix: reduce trigger sensitivity.
+        <span class="source-badge dp">Deranged Physiology</span>
+      </div>
+    </div>
+
+    <div class="card" onclick="openModal(this)">
+      <img src="23-dyssynchrony-double-triggering-premature-termination.jpg" alt="Double triggering" loading="lazy">
+      <div class="caption">
+        <strong>Double Triggering &amp; Premature Breath Termination</strong>
+        Two consecutive breaths fire without an expiratory pause — the patient's neural inspiration outlasts the ventilator's Ti. Results in stacked tidal volumes (up to 2× Vt). Dangerous in ARDS. Fix: lengthen Ti, switch to ACPC, or deepen sedation.
+        <span class="source-badge dp">Deranged Physiology</span>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<footer style="padding: 20px 32px; color: #546e7a; font-size: 11px; text-align: center; background: #0d1520;">
+  Images sourced from <a href="https://derangedphysiology.com" style="color:#80cbc4;">Deranged Physiology</a> and <a href="https://litfl.com" style="color:#90caf9;">LITFL</a> for clinical education purposes. UTHealth Houston HVI · Ventilator Waveform Analysis Review
+</footer>
+
+<!-- Modal -->
+<div class="modal" id="modal" onclick="closeModal()">
+  <div class="modal-close" onclick="closeModal()">✕</div>
+  <img id="modal-img" src="" alt="">
+  <div class="modal-caption" id="modal-cap"></div>
+</div>
+
+<script>
+  function openModal(card) {
+    const img = card.querySelector('img');
+    const cap = card.querySelector('.caption strong');
+    document.getElementById('modal-img').src = img.src;
+    document.getElementById('modal-cap').textContent = cap ? cap.textContent : '';
+    document.getElementById('modal').classList.add('open');
+  }
+  function closeModal() {
+    document.getElementById('modal').classList.remove('open');
+  }
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
+</script>
+
+</body>
+</html>

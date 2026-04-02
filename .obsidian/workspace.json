@@ -11,14 +11,12 @@
             "id": "83b46fbe9ee26c04",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "01 - Vault/Cardiology/protocols-valvular-heart-disease-icu.md",
-                "mode": "source",
-                "source": false
+                "file": "99 - Meta/Assets/Images/Vent Waveforms/Online/15-PV-loops-summary.jpg"
               },
-              "icon": "lucide-file",
-              "title": "protocols-valvular-heart-disease-icu"
+              "icon": "lucide-image",
+              "title": "15-PV-loops-summary"
             }
           }
         ]
@@ -196,7 +194,21 @@
   },
   "active": "83b46fbe9ee26c04",
   "lastOpenFiles": [
+    "99 - Meta/Assets/Images/Vent Waveforms/Online/16-PV-loops-disease-states.jpg",
+    "99 - Meta/Assets/Images/Vent Waveforms/Online/17-FV-loops.jpg",
+    "99 - Meta/Assets/Images/Vent Waveforms/Online/ventilator-waveform-image-review.html",
+    "99 - Meta/Assets/Images/Vent Waveforms/Online/18-dyssynchrony-wasted-effort-mandatory-mode.jpg",
+    "99 - Meta/Assets/Images/Vent Waveforms/Online/19-dyssynchrony-trigger-too-high.jpg",
+    "99 - Meta/Assets/Images/Vent Waveforms/Online/20-dyssynchrony-flow-starvation-scalloping.jpg",
+    "99 - Meta/Assets/Images/Vent Waveforms/Online/21-dyssynchrony-auto-PEEP-effort.jpg",
+    "99 - Meta/Assets/Images/Vent Waveforms/Online/22-dyssynchrony-cardiac-oscillations.jpg",
+    "99 - Meta/Assets/Images/Vent Waveforms/Online/23-dyssynchrony-double-triggering-premature-termination.jpg",
+    "99 - Meta/Assets/Images/Vent Waveforms/Online/24-LITFL-PV-loop-1.jpg",
+    "99 - Meta/Assets/Images/Vent Waveforms/Online/25-LITFL-PV-loop-2.jpg",
+    "99 - Meta/Assets/Images/Vent Waveforms/Online/26-LITFL-FV-loop.jpg",
+    "99 - Meta/Assets/Images/Vent Waveforms/Online",
     "APP_Critical_Care_Exam_Specifications.md",
+    "99 - Meta/Assets/Images/Vent Waveforms",
     "01 - Vault/Cardiology/protocols-valvular-heart-disease-icu.md",
     "01 - Vault/Cardiology/protocols-icu-cardiac-calculations.md",
     "01 - Vault/Critical Care/protocols-pain-management-sedation.md",
@@ -226,21 +238,7 @@
     "03 - Onboarding/HR & Benefits/onboarding-fmla-leave.md",
     "03 - Onboarding/HR & Benefits/onboarding-hr-portal.md",
     "resources.json",
-    "protocols.json",
-    "onboarding.json",
-    "link-status.json",
     "03 - Onboarding/Clinical Access/onboarding-credentialing.md",
-    "03 - Onboarding/Clinical Access/onboarding-hospital-policies.md",
-    "03 - Onboarding/Clinical Access/onboarding-medical-staff-roster.md",
-    "99 - Meta/Assets/Images/ptoinput4.webp",
-    "99 - Meta/Assets/Images/ptoinput3.webp",
-    "99 - Meta/Assets/Images/ptoinput2.webp",
-    "99 - Meta/Assets/Images/ptoinput1.webp",
-    "99 - Meta/Assets/Images/cxr_images/page-79-optimized.webp",
-    "99 - Meta/Assets/Images/cxr_images/page-77-optimized.webp",
-    "99 - Meta/Assets/Images/cxr_images/page-76-optimized.webp",
-    "99 - Meta/Assets/Images/cxr_images/page-71-optimized.webp",
-    "99 - Meta/Assets/Images/cxr_images/page-70-optimized.webp",
-    "99 - Meta/Assets/Images/cxr_images/page-67-optimized.webp"
+    "03 - Onboarding/Clinical Access/onboarding-hospital-policies.md"
   ]
 }
