@@ -326,6 +326,13 @@
       "subtitle": "Pulmonic Stenosis & Regurgitation",
       "category": "cardiology",
       "contentFile": "01 - Vault/Cardiology/protocols-pulmonic-valve-disease.md"
+    },
+    {
+      "id": "autoimmune-rheumatology",
+      "title": "Autoimmune & Rheumatology Reference",
+      "subtitle": "Clinical Quick Reference for APPs",
+      "category": "rheumatology",
+      "contentFile": "01 - Vault/Rheumatology/protocols-autoimmune-rheumatology.md"
     }
   ]
 }

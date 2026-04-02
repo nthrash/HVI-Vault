@@ -1,4 +1,17 @@
-# Rheumatology Cheat Sheet for APPs
+---
+title: "Autoimmune & Rheumatology Reference"
+subtitle: "Clinical Quick Reference for APPs"
+category: "rheumatology"
+audience: "APP/Physician"
+created: "2026-04-02"
+updated: "2026-04-02"
+tags:
+  - rheumatology
+  - autoimmune
+  - quick-reference
+---
+
+# Autoimmune & Rheumatology Reference
 
 ---
 
