@@ -1,7 +1,7 @@
 ### Diaphragm Ultrasound Assessment: A Clinical Reference Guide for Respiratory Failure and Post-Cardiac Intervention Patients
 
 ## Overview  
-Diaphragm ultrasound is a noninvasive, reproducible bedside tool for assessing diaphragmatic function in critically ill patients with respiratory failure. It provides real-time assessment of diaphragm thickness, thickening fraction, and excursion, enabling clinicians to diagnose diaphragm dysfunction, predict weaning outcomes, and monitor recovery.[[
+Diaphragm ultrasound is a noninvasive, reproducible bedside tool for assessing diaphragmatic function in critically ill patients with respiratory failure. It provides real-time assessment of diaphragm thickness, thickening fraction, and excursion, enabling clinicians to diagnose diaphragm dysfunction, predict weaning outcomes, and monitor recovery.
   
 ---  
 ## Measurement Technique
