@@ -63,7 +63,7 @@
 
 **Characteristics**
 | Feature | Detail |
-|---|---|
+	|---|---|
 | Gram Stain | Positive |
 | Metabolism | Facultative anaerobe |
 | Arrangement | Clusters ("bunch of grapes") |
