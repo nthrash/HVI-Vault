@@ -102,6 +102,7 @@ $$\text{Transmural Pressure} = \text{Intraluminal Pressure} - \text{Intrathoraci
 
 
 > *Greim CA et al. (2003). Acta Anaesthesiol Scand. doi:10.1034/j.1399-6576.2003.00135.x*
+> https://derangedphysiology.com/main/cicm-primary-exam/respiratory-system/Chapter-523/effects-positive-pressure-ventilation-cardiovascular-physiology
 
 ---
 
