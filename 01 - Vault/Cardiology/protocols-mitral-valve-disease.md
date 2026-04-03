@@ -108,6 +108,9 @@ tags:
 - Acute atrial fibrillation with RVR
 - Positive pressure ventilation (increases LV afterload initially)
 
+## Anatomy 
+![Mitral Valve Anatomy|500x500](https://www.mitralvalverepair.org/sites/mitralvalverepair.org/files/mitral_valve_leaflets.jpg)
+
 ---
 
 ## Pathophysiology
