@@ -4,7 +4,7 @@ category: "Cardiology"
 subcategory: "Valvular Heart Disease & Structural Heart"
 audience: "Advanced Practice Providers and Physicians - Cardiac ICU and Structural Heart Program"
 created: "2026-04-02"
-updated: "2026-04-02"
+updated: "2026-04-03"
 tags:
   - pulmonic-stenosis
   - pulmonic-regurgitation
@@ -13,6 +13,7 @@ tags:
   - transcatheter-valve-replacement
   - congenital-heart-disease
   - tetralogy-of-fallot
+  - 2025-ACHD-guideline
   - ICU-management
 ---
 
@@ -266,7 +267,8 @@ In patients with carcinoid syndrome (neuroendocrine tumors, typically ileal):
 - **Hepatic vein flow** — assesses RA pressure non-invasively (hepatic vein S/D ratio reversal indicates elevated RA pressure)
 
 **Pulmonic Regurgitation:**
-- **Regurgitant jet width and density on color Doppler** — qualitative assessment (mild, moderate, severe) should be correlated with quantitative data
+- **Regurgitant jet width and density on color Doppler** — qualitative assessment (mild, moderate, severe); should always be correlated with quantitative data
+- **Quantitative PR assessment** — regurgitant volume (mL/beat) and regurgitant fraction (%) by pulsed Doppler or cardiac output comparison method; regurgitant fraction >40% suggests significant PR; CMR is superior to echo for precise quantification (see CMR section)
 - **Regurgitant volume and fraction** (by pulsed Doppler or cardiac output calculation) — useful for serial assessment
 - **RV end-diastolic volume (RVEDV)** — typically indexed to body surface area (RVEDVI); severe PR often shows RVEDVI >120–160 mL/m²
 - **RV systolic function** — RVEF, FAC; critical for timing intervention
@@ -357,17 +359,20 @@ In patients with carcinoid syndrome (neuroendocrine tumors, typically ileal):
   - Example: metoprolol 25–50 mg BID or atenolol 25–50 mg daily
   - Caution: negative inotropic effects may worsen RV function if patient has impending RV failure
 - **Avoid NSAIDs and excessive sodium** — maintain euvolemia
-- **Antibiotic prophylaxis** — **NOT recommended** for native valve PS (per AHA guidelines); only for complex cyanotic disease with prosthetic material
+- **Antibiotic prophylaxis** — NOT recommended for isolated, uncomplicated native valve PS. Prophylaxis IS reasonable (Class IIa, ACC/AHA 2020; reaffirmed 2025 ACHD guideline) for dental procedures in patients with PS who have: (a) prosthetic valves or prosthetic material, (b) prior endocarditis, (c) unrepaired cyanotic CHD, or (d) repaired CHD with residual shunts/regurgitation adjacent to prosthetic sites
 
 #### Interventional Management
 
 **Balloon Pulmonary Valvuloplasty (BPV)**
 
-**Indications:**
-- **Symptomatic PS** with peak-to-peak gradient ≥40 mmHg (some guidelines use ≥50 mmHg) or RV systolic pressure ≥60 mmHg
-- **Asymptomatic severe PS** (gradient >64 mmHg) due to RV hypertrophy burden and risk of sudden cardiac death with exertion
-- **Pregnancy planning** in women with PS (reduce RV burden before pregnancy)
+**Indications (2025 ACC/AHA ACHD Guideline):**
+- **Symptomatic moderate or severe PS** (peak gradient >36 mmHg or peak velocity >3 m/s) — **Class I**
+- **Asymptomatic severe PS** (peak gradient >64 mmHg or peak velocity >4 m/s) — **Class IIa**
+- **Symptomatic patients with cyanosis** from right-to-left shunt (e.g., PFO/ASD with PS) or significant exercise intolerance — regardless of gradient threshold
+- **Pregnancy planning** in women with moderate-severe PS (reduce RV burden before conception)
 - **Neonates/infants with critical PS** — bridge to definitive surgery if anatomy unsuitable for BPV
+
+*Note: The ≥40–50 mmHg threshold in older literature reflects pediatric/surgical era norms. The 2025 guideline uses 36 mmHg (moderate) and 64 mmHg (severe) as standardized adult thresholds consistent with echocardiographic severity classification.*
 
 **Procedure:**
 - Percutaneous balloon catheterization over guide wire across stenotic valve
@@ -575,7 +580,7 @@ According to PubMed evidence:
 **Complications (5–25% depending on series):**
 - **Valve insufficiency (early)** — malposition or incomplete coaptation; may require valve-in-valve
 - **Stent fracture** — Melody: 5–10% at 5 years (less common with Harmony/Venus)
-- **Endocarditis** — 2–5% incidence; requires long-term antibacterial surveillance, repeat echo annually
+- **Endocarditis** — **significantly higher with TPVR (5.8%) vs. surgical PVR (2.7%); OR 3.1** (Chongmelaxme et al. *PLoS One* 2025; Ribeiro et al. *Ann Thorac Surg* 2020). This is the major long-term concern driving need for indefinite prophylaxis and annual surveillance. TPVR endocarditis is associated with ~75% 1-year mortality.
 - **Tricuspid regurgitation worsening** — from right ventricular remodeling (usually mild, improves with RV reverse remodeling)
 - **Left main coronary artery compression** — rare but catastrophic; prevented by careful pre-procedural imaging and anatomy assessment
 - **Pulmonary artery perforation** — rare; managed conservatively (pericardial effusion) or surgically
@@ -584,8 +589,8 @@ According to PubMed evidence:
 - **Valve thrombosis** — rare; preventable with appropriate anticoagulation perioperatively
 
 **Antibiotic prophylaxis post-TPVR:**
-- **Recommended** for dental, GI, GU procedures for **at least 6 months** post-implant (per ACC/AHA)
-- Lifetime prophylaxis for high-risk patients or if endocarditis history
+- **Recommended** for dental, GI, GU procedures for **at least 6 months** post-implant (per ACC/AHA/2025 ACHD guideline); many experts recommend **indefinite prophylaxis** given demonstrated 3-fold higher endocarditis risk with TPVR vs. surgical PVR (Chongmelaxme et al. 2025; Ribeiro et al. 2020)
+- Annual surveillance echo recommended given endocarditis risk (TPVR endocarditis associated with ~75% 1-year mortality)
 
 #### Surgical Pulmonary Valve Replacement
 
@@ -611,18 +616,47 @@ According to PubMed evidence:
 - Excellent long-term RV reverse remodeling post-surgery
 - Reoperation rates: bioprosthetic 20–30% at 15–20 years; mechanical valve rarely requires replacement
 
+**TPVR vs. Surgical PVR: Comparative Durability (2024–2025 Evidence)**
+
+| Outcome | TPVR | Surgical PVR | Notes |
+|---|---|---|---|
+| **Perioperative mortality** | ~0.5–2% | ~0.5–2% | Similar |
+| **Hospital stay** | Shorter | Longer | TPVR advantage |
+| **Mid-term reintervention** | Similar | Similar | No significant difference at mid-term |
+| **Endocarditis** | 5.8% | 2.7% (OR 3.1) | **Major TPVR liability** |
+| **Long-term survival** | Similar | Similar | No mortality difference |
+| **RV reverse remodeling** | Favorable in some studies | Standard | Egbe et al. *JACC Cardiovasc Interv* 2024 |
+| **Anatomic eligibility** | ~60–70% of candidates | Broader | RVOT size/morphology limits TPVR |
+
+*Clinical implication: TPVR and surgical PVR should be viewed as **complementary strategies throughout a patient's lifetime**, not competing options. Multidisciplinary decision-making should incorporate anatomy, prior surgeries, comorbidities, endocarditis risk tolerance, and institutional expertise (Geva T et al., AHA Scientific Statement 2024).*
+
 #### Timing of Intervention in PR
 
-**Current consensus (from recent guidelines and expert opinion):**
-- **Asymptomatic with normal RV function:** observation with serial imaging every 2–3 years
-- **Asymptomatic with RV dilation but normal/near-normal function:** begin more frequent surveillance (annually)
-  - Consider intervention if:
-    - RVEDVI progresses to >160 mL/m² (or RVESVI >80 mL/m²)
-    - RVEF declines to 45–50% or below
-    - Maximal sustained arrhythmia develops (indicator of electrical instability)
-- **Symptomatic moderate-to-severe PR:** intervention strongly recommended
+**Updated 2024–2025 Recommendations: Multiparametric Approach**
+
+Current consensus (2025 ACC/AHA ACHD Guideline; 2024 AHA Scientific Statement on TOF — Geva T et al., *Circulation* 2024) emphasizes a **multiparametric decision framework** rather than reliance on a single volume or function threshold. The 160 mL/m² threshold predicts normalization of RV volumes post-PVR but has **not been shown to improve survival** in isolation.
+
+**Class I (Strongly Recommended):**
+- Symptomatic moderate-to-severe PR with RV dilation or dysfunction
   - TPVR preferred over surgery if anatomy suitable
-  - Surgical replacement if TPVR not possible
+  - Surgical replacement if TPVR not feasible
+
+**Class IIa (Reasonable):**
+- Asymptomatic moderate-to-severe PR with **any** of the following:
+  - Severe RV dilation: RVEDVI ≥160 mL/m² **or** RVESVI ≥80 mL/m² **or** RVEDV ≥2× LVEDV
+  - Progressive RV or LV systolic dysfunction
+  - Objective decline in exercise capacity on serial testing
+  - Sustained atrial or ventricular arrhythmia
+
+**Class IIb (May Be Reasonable):**
+- Asymptomatic with ≥2 of the following criteria:
+  - Mild-moderate RV or LV dysfunction
+  - Severe RV dilation (as above)
+  - RV systolic pressure ≥2/3 systemic (if RVOT obstruction also present)
+  - Progressive reduction in exercise tolerance on serial testing
+
+> [!tip] **Multiparametric Timing Caveat**
+> The RVEDVI >160 mL/m² threshold alone predicts RV volume normalization post-PVR but has not demonstrated a survival benefit in isolation. No single parameter should drive the decision — integrate symptoms, RV volumes, biventricular function, arrhythmia burden, and exercise capacity. The **INDICATOR risk calculator** (incorporating age, BMI, repair type, RVESVI, and biventricular global function index) may help individualize timing at experienced centers (Geva T et al., AHA Scientific Statement 2024).
 
 > [!warning] **Intervention Timing Pearl**
 > The goal is to intervene **before irreversible RV systolic dysfunction develops**. Once RVEF drops below 35–40%, recovery of function post-valve replacement is unpredictable and often incomplete. This is the "window of opportunity" — catch it too late and you've saved the patient from hemodynamic decompensation but not from chronic RV failure.
@@ -651,10 +685,10 @@ According to PubMed evidence:
 > 2. **The "Silent Killer" of ACHD:** Severe PR is often missed — patients compensate for years. Always ask ACHD patients about exercise capacity, maintain regular echo surveillance even if asymptomatic, and don't miss the window to intervene before RV dysfunction becomes irreversible.
 > 3. **AF in PS is an emergency:** New-onset AF in severe PS can cause rapid deterioration — loss of atrial kick deprives the hypertrophied RV of its critical preload boost. Restore sinus rhythm urgently; consider synchronized cardioversion if hemodynamically unstable.
 > 4. **Preload is sacred in RV disease:** Whether PS or PR, the RV is preload-dependent. Avoid aggressive diuresis, maintain adequate CVP, and be cautious with vasodilators. Apparent "pulmonary edema" may actually be RV failure with elevated RA pressure — not left heart failure.
-> 5. **TPVR is a bridge, not a cure:** Durability is limited — half of Melody valve recipients need reintervention by 10 years. Counsel patients that TPVR buys time and quality of life, but another procedure will likely be needed.
+> 5. **TPVR is a bridge, not a cure:** Durability is limited — ~54% of Melody valve recipients need reintervention by 10 years. However, freedom from explantation at 10 years is ~78%, supporting TPVR as a meaningful bridge strategy that delays, rather than avoids, surgical replacement. Counsel patients accordingly.
 > 6. **Syndromic PS is different:** Noonan syndrome and other syndromic forms often have dysplastic valves refractory to BPV. Success rates are lower; surgical valvotomy or early valve replacement may be needed. Know the underlying syndrome.
 > 7. **Check the septal wall:** Rightward septal bowing during systole (PS) or leftward bowing during diastole (PR) signals significant chamber burden on echo and may influence intervention timing.
-> 8. **Endocarditis risk post-TPVR:** Antibiotic prophylaxis for dental/GI procedures is recommended for at least 6 months post-implant, preferably indefinitely. Arrange annual echo surveillance for early detection.
+> 8. **Endocarditis risk post-TPVR:** TPVR carries a 3-fold higher endocarditis risk than surgical PVR (5.8% vs. 2.7%). Prophylaxis for dental/GI procedures is recommended for at least 6 months post-implant; many experts advocate indefinite prophylaxis given this risk. Annual echo surveillance is essential — TPVR endocarditis has ~75% 1-year mortality.
 
 ---
 
@@ -715,7 +749,7 @@ According to PubMed evidence:
 
 ## 9. Key Guidelines
 
-### AHA/ACC Guidelines on Valvular Heart Disease (2020 Edition)
+### AHA/ACC Guidelines on Valvular Heart Disease (2020 Edition — VHD-Specific)
 
 **Pulmonic Stenosis:**
 - **Mild PS (peak gradient <36 mmHg):** Observation; periodic echo surveillance; no activity restriction
@@ -726,12 +760,15 @@ According to PubMed evidence:
 
 **Pulmonic Regurgitation:**
 - **Asymptomatic, normal RV function:** Observation with regular echo follow-up
-- **Asymptomatic with progressive RV dilation (RVEDVI >160 mL/m²) or declining ejection fraction:** Consider intervention
-- **Symptomatic or RV ejection fraction <45–50%:** Intervention strongly recommended
+- **Asymptomatic with progressive RV dilation (RVEDVI ≥160 mL/m², RVESVI ≥80 mL/m²) or declining RVEF:** Consider intervention — 2025 ACHD guideline classifies as Class IIa if any one major criterion met; Class IIb if ≥2 minor criteria
+- **Symptomatic or RVEF <45–50%:** Intervention strongly recommended (Class I, 2025 guideline)
   - TPVR preferred over surgery in suitable anatomy
   - Surgical valve replacement if TPVR not feasible
 
-### Specific ACHD Guidelines (AHA/ACC 2018, ESC 2010)
+### ACHD Guidelines (2025 ACC/AHA/HRS/ISACHD/SCAI and 2018 AHA/ACC)
+
+> [!warning] **Guideline Update (December 2025)**
+> The **2025 ACC/AHA/HRS/ISACHD/SCAI Guideline for the Management of Adults With Congenital Heart Disease** (Gurvitz M, Krieger EV, et al. *JACC*. 2025. doi:10.1016/j.jacc.2025.09.006) supersedes the 2018 AHA/ACC ACHD guideline for adult CHD management. Intervention thresholds and classification criteria referenced throughout this document reflect the updated 2025 recommendations where applicable.
 
 - **Serial imaging strategy for ACHD with prior TOF repair:**
   - Annual or biennial TTE initially
@@ -769,9 +806,21 @@ According to PubMed evidence:
 
 ### Major Society Guidelines
 
-8. Nishimura RA, Otto CM, Bonow RO, et al. 2020 AHA/ACC focused update of the 2017 ACC/AHA/AATS focused update of the guideline for the management of patients with valvular heart disease. *J Am Coll Cardiol*. 2021;77(4):450–500.
+8. Gurvitz M, Krieger EV, Fuller S, et al. 2025 ACC/AHA/HRS/ISACHD/SCAI Guideline for the Management of Adults With Congenital Heart Disease. *J Am Coll Cardiol*. 2025;S0735-1097(25)07763-0. doi:10.1016/j.jacc.2025.09.006 *(supersedes 2018 ACHD guideline)*
 
-9. Baumgartner H, Bonhoeffer P, De Backer TL, et al. ESC guidelines for the management of grown-up congenital heart disease (new version 2010). *Eur Heart J*. 2010;31(23):2915–2957.
+9. Stout KK, Daniels CJ, Aboulhosn JA, et al. 2018 AHA/ACC Guideline for the Management of Adults With Congenital Heart Disease. *J Am Coll Cardiol*. 2019;73(12):e81–e192. doi:10.1016/j.jacc.2018.08.1029
+
+10. Nishimura RA, Otto CM, Bonow RO, et al. 2020 AHA/ACC Guideline for the Management of Patients With Valvular Heart Disease. *J Am Coll Cardiol*. 2021;77(4):e25–e197.
+
+11. Baumgartner H, Bonhoeffer P, De Backer TL, et al. ESC guidelines for the management of grown-up congenital heart disease (new version 2010). *Eur Heart J*. 2010;31(23):2915–2957.
+
+12. Geva T, Wald RM, Bucholz E, et al. Long-Term Management of Right Ventricular Outflow Tract Dysfunction in Repaired Tetralogy of Fallot: A Scientific Statement From the American Heart Association. *Circulation*. 2024;150(25):e689–e707. doi:10.1161/CIR.0000000000001291 *(2024 AHA Scientific Statement — multiparametric PVR timing)*
+
+13. Chongmelaxme B, Kua KP, Amornvetchayakul C, et al. Comparative Effects of Transcatheter Versus Surgical Pulmonary Valve Replacement: A Systematic Review and Meta-Analysis. *PLoS One*. 2025;20(5):e0322041. doi:10.1371/journal.pone.0322041
+
+14. Ribeiro JM, Teixeira R, Lopes J, et al. Transcatheter Versus Surgical Pulmonary Valve Replacement: A Systematic Review and Meta-Analysis. *Ann Thorac Surg*. 2020;110(5):1751–1761. doi:10.1016/j.athoracsur.2020.03.007
+
+15. Egbe AC, Salama AA, Miranda WR, et al. Right Heart Reverse Remodeling and Prosthetic Valve Function After Transcatheter vs Surgical Pulmonary Valve Replacement. *JACC Cardiovasc Interv*. 2024;17(2):248–258. doi:10.1016/j.jcin.2023.11.030
 
 10. Silversides CK, Salehian O, Oechslin E, et al. Congenital heart disease in the general population: Changing prevalence and natural history. *Circulation*. 2008;117(19):2554–2562.
 
