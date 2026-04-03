@@ -16,6 +16,54 @@ tags:
 
 # Spontaneous Intracerebral Hemorrhage (ICH)
 
+
+## Table of Contents
+
+1. [Overview](#overview)
+   - [ICH vs. Other Intracranial Hemorrhage Types](#ich-vs-other-intracranial-hemorrhage-types)
+2. [Etiology & Risk Factors](#etiology-risk-factors)
+   - [Small Vessel Disease ("Primary ICH")](#small-vessel-disease-primary-ich)
+   - [Macrovascular Etiologies](#macrovascular-etiologies)
+   - [Other Etiologies](#other-etiologies)
+3. [Pathophysiology](#pathophysiology)
+   - [Hematoma Expansion](#hematoma-expansion)
+   - [Perihematomal Edema (Cytotoxic Edema)](#perihematomal-edema-cytotoxic-edema)
+   - [Intracranial Pressure (ICP) Elevation](#intracranial-pressure-icp-elevation)
+   - [Terminology Note](#terminology-note)
+4. [Clinical Presentation](#clinical-presentation)
+   - [Signs & Symptoms](#signs-symptoms)
+   - [Key History Points](#key-history-points)
+   - [Physical Exam Pearls](#physical-exam-pearls)
+5. [Diagnostic Workup](#diagnostic-workup)
+   - [Initial Evaluation](#initial-evaluation)
+   - [Imaging Strategy](#imaging-strategy)
+6. [Management](#management)
+   - [Approach Overview](#approach-overview)
+   - [[1] Coagulation Optimization](#1-coagulation-optimization)
+   - [[2] Blood Pressure Management](#2-blood-pressure-management)
+   - [[3] Surgical Management](#3-surgical-management)
+   - [[4] Seizure Management](#4-seizure-management)
+   - [[5] ICP and Sodium Management](#5-icp-and-sodium-management)
+   - [[6] Fever and Temperature Management](#6-fever-and-temperature-management)
+   - [[7] DVT Prophylaxis](#7-dvt-prophylaxis)
+7. [Prognostication](#prognostication)
+   - [Overall Prognosis](#overall-prognosis)
+   - [Predictors of Poor Outcome](#predictors-of-poor-outcome)
+   - [ICH Score](#ich-score)
+   - [FUNC Score](#func-score)
+8. [Special Topics](#special-topics)
+   - [Primary Intraventricular Hemorrhage](#primary-intraventricular-hemorrhage)
+   - [Cerebral Amyloid Angiopathy (CAA)](#cerebral-amyloid-angiopathy-caa)
+   - [Differential Diagnosis of Multiple Microhemorrhages on MRI](#differential-diagnosis-of-multiple-microhemorrhages-on-mri)
+9. [Clinical Pearls](#clinical-pearls)
+10. [Evidence & Landmark Trials](#evidence-landmark-trials)
+   - [Foundational Trials](#foundational-trials)
+   - [Recent Evidence](#recent-evidence)
+11. [Key Guidelines](#key-guidelines)
+12. [References](#references)
+
+---
+
 ## Overview
 
 **Spontaneous intracerebral hemorrhage (ICH)** is non-traumatic bleeding directly into the brain parenchyma. It accounts for roughly 10–15% of all strokes, yet is disproportionately lethal — only half of patients survive to one year, and only ~20% achieve functional independence at one year. ICH is distinct from subarachnoid hemorrhage and hemorrhagic conversion of ischemic stroke; the term "hemorrhagic stroke" should be avoided because it lumps these very different entities together.

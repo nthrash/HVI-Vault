@@ -1,5 +1,61 @@
 # Pulmonary Embolism: Diagnosis & Management
 
+
+## Table of Contents
+
+1. [1. Overview & Classification](#1-overview-classification)
+   - [Temporal Pattern](#temporal-pattern)
+   - [Hemodynamic Stratification (IBCC Framework)](#hemodynamic-stratification-ibcc-framework)
+   - [Anatomical Location](#anatomical-location)
+2. [2. Pathophysiology & Etiology](#2-pathophysiology-etiology)
+   - [Virchow's Triad](#virchows-triad)
+   - [Source of Emboli](#source-of-emboli)
+   - [Genetic Risk Factors](#genetic-risk-factors)
+3. [3. Diagnosis](#3-diagnosis)
+   - [Clinical Presentation](#clinical-presentation)
+   - [Diagnostic Workup](#diagnostic-workup)
+   - [CT Findings Suggesting RV Strain/Failure](#ct-findings-suggesting-rv-strainfailure)
+   - [Echo Findings](#echo-findings)
+4. [4. Risk Stratification](#4-risk-stratification)
+   - [sPESI Score (Simplified PESI) — Preferred for ICU Triage](#spesi-score-simplified-pesi-preferred-for-icu-triage)
+   - [BOVA Score — Best for Submassive PE Risk Stratification](#bova-score-best-for-submassive-pe-risk-stratification)
+   - [Geneva Score](#geneva-score)
+5. [5. RV Strain vs. RV Failure — Key Distinction](#5-rv-strain-vs-rv-failure-key-distinction)
+6. [6. Hemodynamic Management](#6-hemodynamic-management)
+   - [Vasopressors — Order of Preference](#vasopressors-order-of-preference)
+   - [Fluid Resuscitation](#fluid-resuscitation)
+   - [Inhaled Pulmonary Vasodilators](#inhaled-pulmonary-vasodilators)
+7. [7. Respiratory Management](#7-respiratory-management)
+   - [Avoid Intubation if at All Possible](#avoid-intubation-if-at-all-possible)
+   - [If Intubation is Unavoidable](#if-intubation-is-unavoidable)
+8. [8. Treatment by Risk Stratification](#8-treatment-by-risk-stratification)
+   - [Low-Risk PE](#low-risk-pe)
+   - [Submassive PE (High-Risk)](#submassive-pe-high-risk)
+   - [Massive PE](#massive-pe)
+9. [9. Anticoagulation](#9-anticoagulation)
+   - [Agent Selection](#agent-selection)
+   - [Dosing](#dosing)
+10. [10. Advanced Therapies](#10-advanced-therapies)
+   - [Systemic Thrombolysis (tPA)](#systemic-thrombolysis-tpa)
+   - [Catheter-Directed Thrombolysis (CDT) / EKOS](#catheter-directed-thrombolysis-cdt-ekos)
+   - [Mechanical Thrombectomy](#mechanical-thrombectomy)
+   - [Surgical Pulmonary Embolectomy](#surgical-pulmonary-embolectomy)
+   - [VA-ECMO](#va-ecmo)
+   - [PE Response Team (PERT)](#pe-response-team-pert)
+11. [11. PE in Heart Failure Patients](#11-pe-in-heart-failure-patients)
+   - [Why This Matters](#why-this-matters)
+   - [Risk Factors Specific to HF](#risk-factors-specific-to-hf)
+   - [Diagnostic Challenges in HF](#diagnostic-challenges-in-hf)
+   - [Management Considerations in HF + PE](#management-considerations-in-hf-pe)
+12. [12. LVAD Patients with PE](#12-lvad-patients-with-pe)
+   - [Unique Challenges](#unique-challenges)
+   - [Key Management Questions](#key-management-questions)
+   - [Clinical Pearls for HF/LVAD PE](#clinical-pearls-for-hflvad-pe)
+13. [13. Summary Algorithm](#13-summary-algorithm)
+14. [14. References](#14-references)
+
+---
+
 ## 1. Overview & Classification
 
 ### Temporal Pattern

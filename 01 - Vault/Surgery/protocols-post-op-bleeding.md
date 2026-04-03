@@ -1,5 +1,46 @@
 # Post-Operative Bleeding: CV Surgery Protocol
 
+
+## Table of Contents
+
+1. [1. Overview](#1-overview)
+2. [2. Definitions: What Constitutes Excessive Bleeding](#2-definitions-what-constitutes-excessive-bleeding)
+   - [Chest Tube Output Thresholds](#chest-tube-output-thresholds)
+3. [3. Initial Assessment](#3-initial-assessment)
+   - [Step 1 — Stabilize and Assess](#step-1-stabilize-and-assess)
+   - [Step 2 — Immediate Labs](#step-2-immediate-labs)
+   - [Step 3 — Correct Reversible Causes First](#step-3-correct-reversible-causes-first)
+4. [4. Heparin and Protamine Management](#4-heparin-and-protamine-management)
+   - [Protamine Dosing](#protamine-dosing)
+   - [Heparin Rebound](#heparin-rebound)
+5. [5. Targeted Blood Product Therapy](#5-targeted-blood-product-therapy)
+   - [5a. Red Blood Cell Transfusion](#5a-red-blood-cell-transfusion)
+   - [5b. Fibrinogen / Cryoprecipitate](#5b-fibrinogen-cryoprecipitate)
+   - [5c. Fresh Frozen Plasma (FFP)](#5c-fresh-frozen-plasma-ffp)
+   - [5d. Platelet Transfusion](#5d-platelet-transfusion)
+   - [5e. Factor XIII](#5e-factor-xiii)
+   - [5f. Prothrombin Complex Concentrate (PCC)](#5f-prothrombin-complex-concentrate-pcc)
+6. [6. Antifibrinolytics](#6-antifibrinolytics)
+   - [Tranexamic Acid (TXA) — Preferred Agent](#tranexamic-acid-txa-preferred-agent)
+   - [Aminocaproic Acid (EACA / Amicar) — Alternative](#aminocaproic-acid-eaca-amicar-alternative)
+7. [7. Massive Transfusion Protocol (MTP)](#7-massive-transfusion-protocol-mtp)
+   - [Activation Criteria](#activation-criteria)
+   - [MTP Component Ratios](#mtp-component-ratios)
+   - [MTP De-Escalation](#mtp-de-escalation)
+8. [8. Surgical Re-Exploration](#8-surgical-re-exploration)
+   - [Indications](#indications)
+   - [Pre-Re-Exploration Checklist](#pre-re-exploration-checklist)
+   - [Delayed Sternal Closure (DSC)](#delayed-sternal-closure-dsc)
+9. [9. Monitoring and Reassessment](#9-monitoring-and-reassessment)
+10. [10. Special Populations](#10-special-populations)
+   - [Preoperative Anticoagulation](#preoperative-anticoagulation)
+   - [Dual Antiplatelet Therapy (DAPT)](#dual-antiplatelet-therapy-dapt)
+   - [Minimally Invasive Cardiac Surgery](#minimally-invasive-cardiac-surgery)
+11. [11. Algorithm Summary](#11-algorithm-summary)
+12. [12. References](#12-references)
+
+---
+
 ## 1. Overview
 
 Post-operative bleeding is one of the most common and serious complications following cardiac surgery, occurring in approximately 5% of patients and requiring surgical re-exploration in a significant proportion. Bleeding after cardiopulmonary bypass (CPB) is multifactorial — resulting from residual heparin, platelet dysfunction, consumption of coagulation factors, fibrinolysis, hypothermia, and surgical causes. Effective management requires rapid identification, targeted laboratory-guided therapy, and timely escalation to surgical re-exploration when indicated.

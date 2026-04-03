@@ -1,5 +1,51 @@
 # ICU Cardiac & Critical Care Calculations
 
+
+## Table of Contents
+
+1. [1. Hemodynamic Calculations](#1-hemodynamic-calculations)
+   - [Systemic Vascular Resistance (SVR)](#systemic-vascular-resistance-svr)
+   - [Pulmonary Vascular Resistance (PVR)](#pulmonary-vascular-resistance-pvr)
+   - [Coronary Perfusion Pressure (CPP)](#coronary-perfusion-pressure-cpp)
+   - [Cardiac Power Output (CPO) & Cardiac Power Index (CPI)](#cardiac-power-output-cpo-cardiac-power-index-cpi)
+   - [Pulmonary Artery Pulsatility Index (PAPi)](#pulmonary-artery-pulsatility-index-papi)
+2. [2. Oxygenation Calculations](#2-oxygenation-calculations)
+   - [Alveolar-arterial (A-a) Gradient](#alveolar-arterial-a-a-gradient)
+   - [Oxygen Content (CaO2, CvO2)](#oxygen-content-cao2-cvo2)
+   - [Oxygen Delivery (DO2)](#oxygen-delivery-do2)
+   - [Oxygen Consumption (VO2)](#oxygen-consumption-vo2)
+   - [Oxygen Extraction Ratio (O2ER)](#oxygen-extraction-ratio-o2er)
+   - [Intrapulmonary Shunt Fraction (Qs/Qt)](#intrapulmonary-shunt-fraction-qsqt)
+3. [3. Fluid & Electrolyte Calculations](#3-fluid-electrolyte-calculations)
+   - [Anion Gap (AG)](#anion-gap-ag)
+   - [Serum Osmolality](#serum-osmolality)
+   - [Free Water Deficit](#free-water-deficit)
+4. [4. Cardiac-Specific Calculations](#4-cardiac-specific-calculations)
+   - [QTc Interval](#qtc-interval)
+   - [Fick Cardiac Output](#fick-cardiac-output)
+   - [Thermodilution Cardiac Output](#thermodilution-cardiac-output)
+5. [5. Ventilation Calculations](#5-ventilation-calculations)
+   - [Static Compliance (Cstat)](#static-compliance-cstat)
+   - [Dynamic Compliance (Cdyn)](#dynamic-compliance-cdyn)
+   - [Dead Space Ventilation (Vd/Vt) - Bohr Equation](#dead-space-ventilation-vdvt-bohr-equation)
+   - [Driving Pressure](#driving-pressure)
+   - [Mechanical Power](#mechanical-power)
+   - [Desired Minute Ventilation](#desired-minute-ventilation)
+   - [Henderson-Hasselbalch Equation](#henderson-hasselbalch-equation)
+   - [PaCO2 Equation](#paco2-equation)
+   - [Base Excess (BE)](#base-excess-be)
+6. [6. Renal Calculations](#6-renal-calculations)
+   - [Creatinine Clearance (Cockcroft-Gault)](#creatinine-clearance-cockcroft-gault)
+7. [7. Heart Failure-Specific Metrics](#7-heart-failure-specific-metrics)
+   - [SCAI Shock Stage Classification (Updated 2022, Endorsed in ACC 2025 Guidance)](#scai-shock-stage-classification-updated-2022-endorsed-in-acc-2025-guidance)
+   - [INTERMACS Profiles (for Advanced HF / MCS Candidacy)](#intermacs-profiles-for-advanced-hf-mcs-candidacy)
+   - [SOFA-2 Cardiovascular Component (Published October 2025, JAMA)](#sofa-2-cardiovascular-component-published-october-2025-jama)
+   - [Extended Cardiovascular SOFA (CE-SOFA) - Proposed 2025](#extended-cardiovascular-sofa-ce-sofa-proposed-2025)
+   - [Cardiac Recovery Metrics (2025 Practice)](#cardiac-recovery-metrics-2025-practice)
+8. [Guideline References (2024-2026)](#guideline-references-2024-2026)
+
+---
+
 > Comprehensive evidence-based formulas for hemodynamic assessment, oxygenation, fluid management, and organ function monitoring in the cardiac ICU. Aligned with AHA/ACC 2024-2026 guidelines, ESICM 2025 hemodynamic monitoring recommendations, and SOFA-2 (2025) scoring.
 
 ---

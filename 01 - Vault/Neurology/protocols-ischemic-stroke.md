@@ -19,6 +19,59 @@ tags:
 
 # Ischemic Stroke
 
+
+## Table of Contents
+
+1. [Overview](#overview)
+2. [Etiology & Risk Factors](#etiology-risk-factors)
+   - [Etiologic Classification (TOAST Criteria)](#etiologic-classification-toast-criteria)
+   - [Non-Modifiable Risk Factors](#non-modifiable-risk-factors)
+   - [Modifiable Risk Factors](#modifiable-risk-factors)
+   - [Etiologic Workup Considerations by Age](#etiologic-workup-considerations-by-age)
+3. [Pathophysiology](#pathophysiology)
+   - [Core Infarct vs. Ischemic Penumbra](#core-infarct-vs-ischemic-penumbra)
+   - [CBF Thresholds](#cbf-thresholds)
+   - [Rapid Progressors vs. Slow Progressors (IBCC)](#rapid-progressors-vs-slow-progressors-ibcc)
+   - [Sequence of Cellular Injury](#sequence-of-cellular-injury)
+4. [Clinical Presentation](#clinical-presentation)
+   - [Detailed Stroke Syndromes by Vascular Territory](#detailed-stroke-syndromes-by-vascular-territory)
+   - [History Pearls](#history-pearls)
+   - [Physical Exam — NIHSS](#physical-exam-nihss)
+5. [Diagnostic Workup](#diagnostic-workup)
+   - [Immediate (Do Not Delay Treatment)](#immediate-do-not-delay-treatment)
+   - [Admission Lab Panel](#admission-lab-panel)
+   - [NCCT Interpretation](#ncct-interpretation)
+   - [Advanced Imaging](#advanced-imaging)
+   - [Etiologic Workup (Post-Acute)](#etiologic-workup-post-acute)
+6. [Management](#management)
+   - [Acute Management — Intravenous Thrombolysis](#acute-management-intravenous-thrombolysis)
+   - [Acute Management — Endovascular Thrombectomy (EVT)](#acute-management-endovascular-thrombectomy-evt)
+   - [Blood Pressure Management](#blood-pressure-management)
+   - [Antiplatelet & Anticoagulant Therapy](#antiplatelet-anticoagulant-therapy)
+   - [Supportive ICU Care — The 7 Core Topics](#supportive-icu-care-the-7-core-topics)
+7. [Specific ICU Management Situations](#specific-icu-management-situations)
+   - [Neuroworsening in AIS](#neuroworsening-in-ais)
+   - [Thrombolytic-Induced Angioedema](#thrombolytic-induced-angioedema)
+   - [Hemorrhagic Transformation](#hemorrhagic-transformation)
+   - [Malignant MCA Syndrome](#malignant-mca-syndrome)
+   - [Cerebellar Stroke & Posterior Fossa Syndrome](#cerebellar-stroke-posterior-fossa-syndrome)
+   - [Basilar Artery Thrombosis](#basilar-artery-thrombosis)
+   - [Moyamoya Disease](#moyamoya-disease)
+8. [Clinical Pearls](#clinical-pearls)
+9. [Evidence & Landmark Trials](#evidence-landmark-trials)
+   - [Foundational Thrombolysis Trials](#foundational-thrombolysis-trials)
+   - [Foundational Thrombectomy Trials](#foundational-thrombectomy-trials)
+   - [Large Core Thrombectomy Trials (2023–2024)](#large-core-thrombectomy-trials-20232024)
+   - [Other Key Trials](#other-key-trials)
+   - [Recent Evidence (2023–2026)](#recent-evidence-20232026)
+10. [Key Guidelines](#key-guidelines)
+   - [AHA/ASA 2026 Guideline for the Early Management of Acute Ischemic Stroke](#ahaasa-2026-guideline-for-the-early-management-of-acute-ischemic-stroke)
+   - [AHA/ASA 2024 Guideline for Primary Prevention of Stroke](#ahaasa-2024-guideline-for-primary-prevention-of-stroke)
+   - [Additional Guidelines](#additional-guidelines)
+11. [References](#references)
+
+---
+
 ## Overview
 
 Ischemic stroke accounts for approximately 87% of all strokes and results from occlusion of a cerebral artery by thrombus or embolus, leading to downstream tissue ischemia and infarction. It remains the fifth leading cause of death in the United States and a leading cause of long-term disability worldwide. The clinical imperative in ischemic stroke is **time** — the concept of "time is brain" reflects the estimated loss of 1.9 million neurons per minute of untreated large vessel occlusion. Early recognition, rapid triage, and timely reperfusion therapy (intravenous thrombolysis and/or endovascular thrombectomy) are the cornerstones of acute management and the primary determinants of functional outcome.

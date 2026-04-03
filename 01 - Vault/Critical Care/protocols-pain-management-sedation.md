@@ -1,5 +1,57 @@
 # Pain Management & Sedation in the Critically Ill
 
+
+## Table of Contents
+
+1. [1. General Schema for the Intubated Patient](#1-general-schema-for-the-intubated-patient)
+   - [Core Sedation: Propofol and/or Dexmedetomidine](#core-sedation-propofol-andor-dexmedetomidine)
+   - [Remainder of the Regimen](#remainder-of-the-regimen)
+2. [2. Pure Analgesics](#2-pure-analgesics)
+   - [Acetaminophen](#acetaminophen)
+   - [Ketamine (Pain-Dose)](#ketamine-pain-dose)
+   - [Methocarbamol](#methocarbamol)
+   - [NSAIDs — General Principles](#nsaids-general-principles)
+   - [Lidocaine (IV)](#lidocaine-iv)
+3. [3. Opioids](#3-opioids)
+   - [Selection of IV Opioid — Intubated Patients](#selection-of-iv-opioid-intubated-patients)
+   - [Selection of IV Opioid — Non-Intubated Patients](#selection-of-iv-opioid-non-intubated-patients)
+   - [Selection of Oral Opioid](#selection-of-oral-opioid)
+   - [Equianalgesic Conversion Table](#equianalgesic-conversion-table)
+   - [Opioid Dosing Quick Reference](#opioid-dosing-quick-reference)
+   - [Avoiding Opioid Infusions — Key Principles](#avoiding-opioid-infusions-key-principles)
+   - [Opioid Side Effects — ICU Concerns](#opioid-side-effects-icu-concerns)
+   - [Nalbuphine — Special Considerations](#nalbuphine-special-considerations)
+   - [Patient-Controlled Analgesia (PCA) — Key Points](#patient-controlled-analgesia-pca-key-points)
+4. [4. Gabapentinoids](#4-gabapentinoids)
+   - [General Indications](#general-indications)
+5. [5. Alpha-2 Agonists](#5-alpha-2-agonists)
+   - [Dexmedetomidine](#dexmedetomidine)
+   - [Oral Alpha-2 Agonists](#oral-alpha-2-agonists)
+6. [6. Propofol](#6-propofol)
+7. [7. Antipsychotics & Anti-Agitation Agents](#7-antipsychotics-anti-agitation-agents)
+   - [Anti-D2 Predominant ("Typical")](#anti-d2-predominant-typical)
+   - [Anti-5HT2A Predominant ("Atypical")](#anti-5ht2a-predominant-atypical)
+   - [Olanzapine (Zyprexa) — Detailed Reference](#olanzapine-zyprexa-detailed-reference)
+   - [Valproic Acid](#valproic-acid)
+8. [8. Benzodiazepines](#8-benzodiazepines)
+   - [Acceptable Uses](#acceptable-uses)
+   - [Quick Reference](#quick-reference)
+9. [9. Melatonin](#9-melatonin)
+10. [10. Multimodal Therapy — Core Concepts](#10-multimodal-therapy-core-concepts)
+   - [Foundational Principles](#foundational-principles)
+   - [Targeted Treatment](#targeted-treatment)
+   - [Daily Sedation Re-Assessment](#daily-sedation-re-assessment)
+11. [11. Reversal Agents](#11-reversal-agents)
+   - [Flumazenil (Benzodiazepine Reversal)](#flumazenil-benzodiazepine-reversal)
+   - [Naloxone (Opioid Reversal)](#naloxone-opioid-reversal)
+12. [12. Special Populations](#12-special-populations)
+   - [Renal Failure](#renal-failure)
+   - [Hepatic Dysfunction](#hepatic-dysfunction)
+   - [Chronic Buprenorphine Patients](#chronic-buprenorphine-patients)
+13. [13. Etomidate (Procedural Sedation)](#13-etomidate-procedural-sedation)
+
+---
+
 ---
 
 ## 1. General Schema for the Intubated Patient
