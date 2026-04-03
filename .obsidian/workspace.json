@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Vault/Cardiology/protocols-mitral-valve-disease.md",
+                "file": "01 - Vault/Cardiology/protocols-afterload-intrathoracic-pressure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "protocols-mitral-valve-disease"
+              "title": "protocols-afterload-intrathoracic-pressure"
             }
           }
         ]
@@ -196,9 +196,10 @@
   },
   "active": "83b46fbe9ee26c04",
   "lastOpenFiles": [
-    "01 - Vault/Cardiology/protocols-antiarrhythmic-drugs.md",
     "01 - Vault/Pulmonary/NEEDS COMPLETION-ventilator-waveform-analysis.md",
+    "01 - Vault/Pulmonary/protocols-vent-management-advanced.md",
     "01 - Vault/Cardiology/protocols-mitral-valve-disease.md",
+    "01 - Vault/Cardiology/protocols-antiarrhythmic-drugs.md",
     "01 - Vault/Critical Care/protocols-pain-management-sedation.md",
     "01 - Vault/Cardiology/protocols-afterload-intrathoracic-pressure.md",
     "01 - Vault/Cardiology/protocols-aortic-valve-disease.md",
@@ -212,7 +213,6 @@
     "01 - Vault/Surgery/protocols-vasoplegia.md",
     "01 - Vault/Surgery/protocols-scip.md",
     "01 - Vault/Surgery/protocols-post-op-bleeding.md",
-    "01 - Vault/Pulmonary/protocols-vent-management-advanced.md",
     "01 - Vault/Rheumatology/Autoimmune Cheat Sheet.md",
     "01 - Vault/Rheumatology/protocols-autoimmune-rheumatology.md",
     "01 - Vault/Pulmonary/protocols-vent-management.md",

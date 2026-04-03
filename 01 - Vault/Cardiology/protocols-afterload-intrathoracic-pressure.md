@@ -2,6 +2,22 @@
 
 ---
 
+## Table of Contents
+
+1. [What Is Afterload?](#1-what-is-afterload)
+2. [Components of Afterload](#2-components-of-afterload)
+3. [RV vs LV Afterload Determinants](#3-rv-vs-lv-afterload-determinants)
+4. [Transmural Pressure: The True Afterload](#4-transmural-pressure-the-true-afterload)
+5. [The Mueller Maneuver](#5-the-mueller-maneuver-what-happens-when-itp-becomes-severely-negative)
+6. [Positive Pressure Ventilation: Afterload Reduction by Physiology](#6-positive-pressure-ventilation-afterload-reduction-by-physiology)
+7. [CPAP & BiPAP in Acute Heart Failure (SCAPE)](#7-cpap--bipap-in-acute-heart-failure-scape)
+8. [Pulsus Paradoxus](#8-pulsus-paradoxus)
+9. [Afterload and Mechanical Ventilation](#9-afterload-and-mechanical-ventilation-putting-it-together)
+10. [Afterload Reduction: Pharmacologic Options](#10-afterload-reduction-pharmacologic-options)
+11. [Quick Reference: Afterload in the HF ICU](#11-quick-reference-afterload-in-the-hf-icu)
+
+---
+
 ## 1. What Is Afterload?
 
 Afterload is the **resistance the ventricle must overcome to eject blood** during systole. It is most precisely defined as **ventricular wall stress during ejection** — not simply blood pressure.
@@ -38,7 +54,33 @@ Afterload is not simply SVR. It includes both **steady-state** and **pulsatile**
 
 ---
 
-## 3. Transmural Pressure: The True Afterload
+## 3. RV vs LV Afterload Determinants
+
+The right and left ventricles operate in fundamentally different pressure and resistance environments. Understanding how each determinant applies differently to each ventricle is critical for managing biventricular pathology in the ICU.
+
+| Factor | Right Ventricle | Left Ventricle |
+|---|---|---|
+| **Afterload overall** | Much lower than LV — pulmonary circulation has low resistance | Much higher — systemic vascular resistance is the dominant load |
+| **Transmural pressure** | ↑ Transmural pressure increases RV afterload | ↑ Transmural pressure increases LV afterload |
+| **Intrathoracic pressure (ITP)** | Negative ITP → ↓ RV afterload; Positive ITP → ↑ RV afterload | Negative ITP → ↑ LV afterload; Positive ITP → ↓ LV afterload |
+| **Ventricular radius** | Dilation of the RV increases wall stress (LaPlace) | Dilation of the LV increases wall stress (LaPlace) |
+| **Wall thickness** | RV wall is thin → less sharing of wall stress across sarcomeres → more sensitive to acute pressure overload | LV wall is thicker → stress shared across more sarcomeres → greater tolerance of chronic pressure overload |
+| **Arterial compliance** | Pulmonary circulation is highly compliant → minimizes pulsatile RV afterload | Aortic compliance is good (elastic capacitance vessel) → decreases LV afterload; aortic stiffening with age ↑ LV afterload |
+| **Arterial resistance** | Pulmonary arteries: very low resistance | Systemic arteries: high resistance — primary determinant of LV afterload |
+| **Outflow tract resistance** | Pulmonic stenosis or RVOT obstruction can increase RV afterload | Aortic stenosis or HOCM increases LV afterload |
+| **Blood viscosity** | RV more affected — pulmonary system has low shear stress; higher viscosity has proportionally greater effect | LV less affected — high shear stress in systemic circulation lowers effective blood viscosity (non-Newtonian behaviour) |
+| **Inertia of blood** | Increases afterload early in systole; decreases in late systole — affects both ventricles equally | Same as RV |
+| **Vessel radius** | Small vessel radius affects RV afterload equally | Same as RV |
+
+> [!tip] Key ICU Implication: Opposite Effects of ITP
+> Positive pressure ventilation (↑ ITP) has **opposite effects** on each ventricle: it **reduces LV afterload** (beneficial in LV failure and SCAPE) while simultaneously **increasing RV afterload** (harmful in RV failure and pulmonary hypertension). In patients with biventricular disease — common in the cardiac ICU — every ventilator change requires considering both effects simultaneously. There is no free lunch with PEEP.
+
+> [!warning] The Thin RV Wall
+> Unlike the LV, the RV is not built to handle acute pressure overload. Its thin free wall tolerates chronic volume load reasonably well but decompensates rapidly when acute pressure rises (e.g., massive PE, acute PH crisis, hypoxic vasoconstriction). Once the RV dilates acutely, interventricular septal shift reduces LV filling — creating a vicious cycle of biventricular failure.
+
+---
+
+## 4. Transmural Pressure: The True Afterload
 
 The **most physiologically accurate measure of afterload** is **transmural pressure** — the pressure difference across the ventricular wall.
 
@@ -52,11 +94,18 @@ $$\text{Transmural Pressure} = \text{Intraluminal Pressure} - \text{Intrathoraci
 
 **Key Concept:** Blood pressure alone does not tell the full story. A patient with systolic BP of 130 mmHg breathing spontaneously against severe obstruction (ITP −40 cmH₂O) has a **much higher** effective LV afterload than a patient with the same BP on positive pressure ventilation.
 
+### Negative Pressure
+![Negative Pressure|750](https://www.derangedphysiology.com/main/sites/default/files/sites/default/files/old%20image%20pile/Respiratory-failure-and-mechanical-ventilation/images/LV%20transmural%20pressure%20without%20PEEP.JPG)
+
+### Positive Pressure
+![](https://derangedphysiology.com/main/sites/default/files/sites/default/files/CICM%20Primary/F%20Respiratory%20system/LV%20transmurral%20pressure%20change%20with%20positive%20pressure%20breath.jpg)
+
+
 > *Greim CA et al. (2003). Acta Anaesthesiol Scand. doi:10.1034/j.1399-6576.2003.00135.x*
 
 ---
 
-## 4. The Mueller Maneuver: What Happens When ITP Becomes Severely Negative
+## 5. The Mueller Maneuver: What Happens When ITP Becomes Severely Negative
 
 The **Mueller maneuver** simulates forceful inspiratory effort against a closed airway (analogous to severe bronchospasm, upper airway obstruction, or severe respiratory distress).
 
@@ -80,7 +129,7 @@ The **Mueller maneuver** simulates forceful inspiratory effort against a closed 
 
 ---
 
-## 5. Positive Pressure Ventilation: Afterload Reduction by Physiology
+## 6. Positive Pressure Ventilation: Afterload Reduction by Physiology
 
 When ITP is raised (via CPAP, BiPAP, or mechanical ventilation), transmural LV wall stress is reduced → **afterload decreases**.
 
@@ -108,7 +157,7 @@ When ITP is raised (via CPAP, BiPAP, or mechanical ventilation), transmural LV w
 
 ---
 
-## 6. CPAP & BiPAP in Acute Heart Failure (SCAPE)
+## 7. CPAP & BiPAP in Acute Heart Failure (SCAPE)
 
 **SCAPE** (Sympathetic Crashing Acute Pulmonary Edema) represents the clinical extreme of afterload excess: severe hypertension, massive catecholamine surge, acute pulmonary edema with preserved or near-normal EF.
 
@@ -140,7 +189,7 @@ Further ↑ Transmural LV afterload → Decompensation spiral
 
 ---
 
-## 7. Pulsus Paradoxus
+## 8. Pulsus Paradoxus
 
 **Pulsus paradoxus** is an exaggeration of the normal inspiratory decline in systolic blood pressure — defined as a drop of **>10 mmHg** during spontaneous inspiration.
 
@@ -170,7 +219,7 @@ During spontaneous inspiration (normal or exaggerated):
 
 ---
 
-## 8. Afterload and Mechanical Ventilation: Putting It Together
+## 9. Afterload and Mechanical Ventilation: Putting It Together
 
 ### PEEP Effects on Biventricular Afterload
 
@@ -191,7 +240,7 @@ During spontaneous inspiration (normal or exaggerated):
 
 ---
 
-## 9. Afterload Reduction: Pharmacologic Options
+## 10. Afterload Reduction: Pharmacologic Options
 
 | Drug Class | Examples | Primary Mechanism | Best Use |
 |------------|---------|------------------|----------|
@@ -203,7 +252,7 @@ During spontaneous inspiration (normal or exaggerated):
 
 ---
 
-## 10. Quick Reference: Afterload in the HF ICU
+## 11. Quick Reference: Afterload in the HF ICU
 
 | Clinical Sign | Interpretation | Action |
 |--------------|---------------|--------|
