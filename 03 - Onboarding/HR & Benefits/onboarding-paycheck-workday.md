@@ -27,3 +27,6 @@ description: How to access pay stubs and navigate Workday
 
 ---
 _Last updated: March 2026 · HVI ICU APP Team
+---
+
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

@@ -672,3 +672,6 @@ One of the most practical applications of waveform analysis is **assessing real-
 ---
 
 *This document is a standalone reference for ventilator waveform interpretation. For mode-specific management protocols, see protocols-vent-management.md and protocols-vent-management-advanced.md.*
+---
+
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

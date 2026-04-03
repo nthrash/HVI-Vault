@@ -196,7 +196,6 @@ Start low-dose ACEi or ARB as bridge:
 | 1–2 months | BNP/NT-proBNP for response stratification |
 | Every 1–2 weeks (ongoing) | GDMT dose escalation via clinic or telehealth until guideline-max doses reached |
 | ~3 months post-GDMT optimization | Repeat echocardiogram to reassess EF and evaluate device candidacy (ICD/CRT) if EF remains ≤35% |
-
 ---
 
-_Last updated: March 2026 · HVI ICU APP Team_
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

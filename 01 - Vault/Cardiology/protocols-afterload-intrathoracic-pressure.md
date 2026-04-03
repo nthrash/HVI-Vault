@@ -262,7 +262,6 @@ During spontaneous inspiration (normal or exaggerated):
 | Pulsus paradoxus >20 mmHg | Tamponade or severe obstructive physiology | Echo stat; pericardiocentesis if tamponade |
 | Post-intubation hypotension in PE patient | Loss of compensatory negative ITP + RV afterload increase with PPV | Push-dose epi; avoid high PEEP |
 | Worsening LV function on pressure support weaning | Flash pulm edema from ↑ afterload during weaning | Optimize afterload reduction before extubation; consider CPAP bridge |
-
 ---
 
-_Last updated: March 2026 · HVI ICU APP Team_
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

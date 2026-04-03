@@ -30,3 +30,6 @@ The HFICU signout title has a changing date that you must manually update each d
 This keeps a running record so we can reference previous signouts if needed.
 
 > The **Morning Text.docx** file is also located in the Heart Failure folder. For details on who receives it and when to send it, see [Signout](../Unit%20Operations/onboarding-signout.md).
+---
+
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

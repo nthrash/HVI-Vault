@@ -371,7 +371,6 @@ Notify CV Surgery → Prep OR → Re-explore
 13. Delayed sternal closure systematic review. *J Cardiovasc Surg.* 2025. PMID 39435488.
 14. Re-exploration rates in minimally invasive cardiac surgery. *J Card Surg.* 2022. PMID 36229944.
 15. DAPT cessation timing and surgical bleeding in CABG. Systematic review. PMID 37838696.
-
 ---
 
-_Last updated: March 2026 · HVI ICU APP Team_
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

@@ -501,7 +501,6 @@ Standard reversal agent for opioid intoxication. Titrate carefully to avoid prec
 | **Advantages** | Hemodynamic stability; relatively short duration |
 | **Side effects** | Adrenal suppression (6–8 hr after 0.3 mg/kg); myoclonus; nausea during recovery |
 | **Primary ICU use** | Cardioversion |
-
 ---
 
-*Last updated: March 2026 · HVI ICU APP Team*
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

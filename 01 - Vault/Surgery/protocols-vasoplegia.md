@@ -111,7 +111,6 @@ Before attributing distributive shock to vasoplegia, exclude:
 - **Hydroxocobalamin** is preferred alternative to MB in serotonergic patients; interferes with colorimetric lab assays (creatinine, bilirubin) for ~24h
 - **Angiotensin II (Giapreza):** Currently FDA-approved for high-output distributive shock; data strongest in ATHOS-3; expensive — typically reserved for refractory cases
 - **Vasopressin + NE synergy:** Target NE sparing; vasopressin has additional benefit in CPB-associated AVP depletion
-
 ---
 
-_Last updated: March 2026 · HVI ICU APP Team_
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

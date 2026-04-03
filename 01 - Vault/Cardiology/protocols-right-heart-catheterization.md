@@ -192,7 +192,6 @@ $$\text{LV Transmural Filling Pressure} = PCWP - RAP$$
 | RAP/PCWP | RAP / PCWP | < 0.54 |
 | TPG | mPAP − PCWP | < 12 mmHg |
 | DPG | dPAP − PCWP | < 7 mmHg |
-
 ---
 
-*Last updated: April 2026 · HVI ICU APP Team*
+_Created: 2026-04-02 · Last updated: 2026-04-02 · HVI ICU APP Team_

@@ -107,7 +107,6 @@ Additional roles: MILS provider, scribe, cricoid pressure (if used).
 - Hemodynamic support if post-intubation hypotension (push-dose epinephrine 10–20 mcg or phenylephrine 100–200 mcg)
 - Set ventilator: initial settings per clinical context (ARDS protocol, COPD protocol, or standard)
 - Document tube depth at teeth/lip
-
 ---
 
-_Last updated: March 2026 · HVI ICU APP Team_
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

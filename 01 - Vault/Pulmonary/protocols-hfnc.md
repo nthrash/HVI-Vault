@@ -87,7 +87,6 @@ ROX <4.88 at 12h → consider early intubation
 - All patients: Consider HFNC 60 LPM immediately post-extubation
 - High-risk patients (obese, prolonged intubation, COPD, CHF): HFNC superior to standard O₂
 - Low-risk patients (simple weaning, <65 yo, no CHF/COPD): HFNC for ≥24h reduces reintubation
-
 ---
 
-_Last updated: March 2026 · HVI ICU APP Team_
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

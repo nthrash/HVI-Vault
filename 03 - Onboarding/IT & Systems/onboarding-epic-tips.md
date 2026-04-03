@@ -78,7 +78,6 @@ Located at the **top right** of the Epic screen, and also **two tabs to the righ
 ### Work Excuse Letters
 
 Click the **down arrow** to access More Activities > **Communications**. Choose the note type, fill it out, and print.
-
-
 ---
-_Last updated: March 2026 · HVI ICU APP Team_
+
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

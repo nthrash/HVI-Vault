@@ -102,7 +102,6 @@ Multicenter, international, randomized, open-label, controlled trial conducted a
 - **PubMed:** [PMID 38587239](https://pubmed.ncbi.nlm.nih.gov/38587239/)
 - **ClinicalTrials.gov:** [NCT01633502](https://clinicaltrials.gov/study/NCT01633502)
 - **Full Text:** [NEJM — DOI: 10.1056/NEJMoa2312572](https://www.nejm.org/doi/full/10.1056/NEJMoa2312572)
-
 ---
 
-_Last updated: March 2026 · HVI ICU APP Team_
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

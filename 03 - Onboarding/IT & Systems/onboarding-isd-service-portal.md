@@ -28,6 +28,6 @@ Access it through **OneSource** under the **ESSO Apps** or **Favorites** tab (lo
 - Include your **employee ID**, **department**, and **location** when submitting a request — it speeds up routing
 - For urgent issues (e.g., cannot access Epic during a shift), call the **ISD Help Desk** directly rather than submitting a portal ticket
 - Check with your preceptor or charge nurse first — some common issues have quick local fixes
-
 ---
-_Last updated: March 2026 · HVI ICU APP Team_
+
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

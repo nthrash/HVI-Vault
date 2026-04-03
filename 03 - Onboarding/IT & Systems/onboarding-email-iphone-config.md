@@ -56,7 +56,6 @@ Tap **Done** when finished.
 ### Step 5 — Verify
 
 Once added, your hospital email and calendar should begin syncing automatically. You'll see **MHHS** listed under your Mail Accounts.
-
-
 ---
-_Last updated: March 2026 · HVI ICU APP Team_
+
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

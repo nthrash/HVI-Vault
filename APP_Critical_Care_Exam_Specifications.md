@@ -243,3 +243,6 @@
 14. Recognize situations that may lead to potentially non-beneficial care
 
 15. Incorporate processes that support ethical conduct in practice and scholarship
+---
+
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

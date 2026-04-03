@@ -44,6 +44,6 @@ Memorial Hermann provides institutional access to **UpToDate**, the clinical dec
 | **HCPCS Code Checker** | Verify inpatient procedure billing codes | OneSource Favorites |
 | **Medical Staff Roster** | Provider lookup and privilege verification | See [Medical Staff Roster](onboarding-medical-staff-roster.md) |
 | **PolicyTech** | Hospital policies and procedures | See [Hospital Policies](onboarding-hospital-policies.md) |
-
 ---
-_Last updated: March 2026 · HVI ICU APP Team_
+
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

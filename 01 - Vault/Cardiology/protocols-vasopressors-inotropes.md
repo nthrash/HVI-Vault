@@ -356,7 +356,6 @@ Hemodynamic Profile Assessment (Echo or PAC)
 | Vasopressin            | 0.03 units/min   | **Fixed**            | 0.04–0.06 | Do not titrate               |
 | Dobutamine             | 2–5 mcg/kg/min   | 5–15                 | 20        | Needs concurrent vasopressor |
 | Milrinone              | **No load**      | 0.125–0.5 mcg/kg/min | 1.13      | No load; reduce in AKI       |
-
 ---
 
-_Last updated: March 2026 · HVI ICU APP Team_
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

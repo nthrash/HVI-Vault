@@ -133,7 +133,6 @@ Before diagnosing CLAD, exclude:
 Trials ongoing for: belumosudil, belatacept, plasmapheresis, antifibrotic agents (nintedanib, pirfenidone in RAS).
 
 Emerging biomarkers under study: donor-derived cell-free DNA, exhaled nitric oxide, BAL neutrophilia with IL-12/IL-17, circulating fibrocytes.
-
 ---
 
-_Last updated: March 2026 · HVI ICU APP Team_
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

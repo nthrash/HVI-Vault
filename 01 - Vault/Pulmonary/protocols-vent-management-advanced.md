@@ -1007,3 +1007,6 @@ This protocol is informed by the following landmark trials, guidelines, and syst
 ---
 _Last updated: March 2026 · HVI ICU APP Team · Evidence review current through March 2026_
 _Key guideline sources: ATS 2024, ESICM 2023, ELSO Guidelines_
+---
+
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

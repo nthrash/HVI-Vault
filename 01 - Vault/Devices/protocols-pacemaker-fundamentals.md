@@ -137,7 +137,6 @@ Sensitivity is **inversely proportional** to the number on the dial:
 | Spike fires on T-wave | Failure to sense (undersensing) | ↓ mV (↑ sensitivity) |
 | High threshold over days | Epicardial wire aging, fibrosis | ↑ Output; consider transvenous placement |
 | Hemodynamic instability | Loss of AV synchrony, inappropriate rate | Adjust mode/rate; assess for underlying rhythm |
-
 ---
 
-_Last updated: March 2026 · HVI ICU APP Team_
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

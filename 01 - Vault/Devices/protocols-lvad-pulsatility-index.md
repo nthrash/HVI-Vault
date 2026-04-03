@@ -265,6 +265,6 @@ So the pattern you might see:
 - It also **increases PI**, because minimum (diastolic) flow/power falls more than maximum (systolic), widening the power swing relative to the average.
 - In a weak, “nonpulsatile” LV, this can push a baseline PI in the 3–4 range into 6–10, even without a palpable arterial pulse—and, in the presence of low preload, can strongly predispose to suction.
 - Higher gradient -> lower flow. Lower gradient -> higher flow
-
 ---
-_Last updated: March 2026 · HVI ICU APP Team_
+
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

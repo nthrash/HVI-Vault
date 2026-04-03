@@ -116,7 +116,6 @@ Quick reference for perioperative care measures in cardiac and vascular surgical
 - [ ] Clippers used (no razor) for hair removal
 - [ ] Patient normothermic perioperatively
 - [ ] Foley removed by POD 1–2
-
 ---
 
-_Last updated: March 2026 · HVI ICU APP Team_
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

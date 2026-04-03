@@ -35,7 +35,6 @@ All disciplinary actions for violations of this policy must be entered into **Wo
 ### Late Arrival Without Calling In
 
 If you do not call in before the start of your shift but arrive late, you are subject to discipline under the **Attendance and Punctuality Policy** (not this policy). Only one disciplinary action will result from any single incident — whichever policy results in the higher level of discipline applies.
-
-
 ---
-_Last updated: March 2026 · HVI ICU APP Team_
+
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

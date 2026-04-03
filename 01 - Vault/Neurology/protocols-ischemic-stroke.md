@@ -695,3 +695,6 @@ Most current comprehensive guideline (published 2026, based on literature throug
 28. Li S, et al. Clinical and Neuroimaging Findings in Thalamic Territory Infarctions: A Review. *J Neuroimaging*. 2018;28(4):343–349. PMID: 29460331.
 ---
 *Last updated: March 2026 · HVI ICU APP Team*
+---
+
+_Created: 2026-04-01 · Last updated: 2026-04-01 · HVI ICU APP Team_

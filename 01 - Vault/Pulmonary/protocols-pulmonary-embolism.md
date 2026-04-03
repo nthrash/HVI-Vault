@@ -481,7 +481,6 @@ Decision (PERT):             BOVA ≥5 → High-risk
 8. Konstantinides SV, et al. 2019 ESC Guidelines for diagnosis and management of acute PE. *Eur Heart J.* 2020;41:543–603.
 9. Stevens SM, et al. Antithrombotic therapy for VTE disease: CHEST Guideline. *Chest.* 2021;160:e545–608.
 10. Rosenbaum L. Transitioning PE care — the PERT concept. *Circ Cardiovasc Qual Outcomes.* 2018;11:e004393.
-
 ---
 
-_Last updated: March 2026 · HVI ICU APP Team_
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

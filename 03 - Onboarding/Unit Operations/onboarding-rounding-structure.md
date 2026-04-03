@@ -111,7 +111,6 @@ Bedside RNs are expected to document significant clinical events or changes in a
 4. **Nursing interventions** initiated in response
 5. **Patient response** to those interventions
 6. **Communication** — time physician team was notified and their recommendations/plan
-
-
 ---
-_Last updated: March 2026 · HVI ICU APP Team_
+
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

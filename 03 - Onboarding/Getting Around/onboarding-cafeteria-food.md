@@ -47,3 +47,6 @@ Serves limited menu.
 - **Hours:** 5:00 a.m. - 7:00 p.m., Monday through Friday; 5:30 a.m. - 4:00 p.m., Saturday
 
 _Last updated: March 2026 · HVI ICU APP Team_
+---
+
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

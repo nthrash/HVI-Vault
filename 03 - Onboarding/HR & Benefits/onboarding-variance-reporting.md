@@ -51,6 +51,6 @@ After selecting the appropriate category:
 - Stick to objective facts — avoid assigning blame or speculation
 - Anonymous submissions are accepted, but logging in allows follow-up if needed
 - If you are unsure which category to select, choose the closest match — the Quality team will reroute if necessary
-
 ---
-_Last updated: March 2026 · HVI ICU APP Team_
+
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

@@ -37,7 +37,6 @@ description: Night shift HFICU APP responsibilities, rounding workflow, and morn
 - **Surgery rounds (~0600-0630)** — Present 1-2 lines of overnight events plus pertinent daytime events
   - Dr. Salas requests coagulation panel review, specifically PTT for heparin drip patients
 - **Morning conference call (0700)** — Report overnight events
-
-
 ---
-_Last updated: March 2026 · HVI ICU APP Team_
+
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

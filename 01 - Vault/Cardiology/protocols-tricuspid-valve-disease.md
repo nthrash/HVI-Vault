@@ -691,11 +691,4 @@ For stable or subacute TR management, the 2025 ACC Expert Consensus recommends a
 
 ---
 
-**Document Version**: 1.0
-**Last Updated**: April 3, 2026
-**Intended Users**: Advanced Practice Providers, Physicians (HVI Cardiac ICU, UTHealth Houston)
-**Feedback/Updates**: Contact Cardiology Education Team
-
----
-
-*Last updated: April 2026 · HVI ICU APP Team*
+_Created: 2026-04-02 · Last updated: 2026-04-03 · HVI ICU APP Team_

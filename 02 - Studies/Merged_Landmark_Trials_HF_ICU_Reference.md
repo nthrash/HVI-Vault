@@ -737,9 +737,6 @@
 | Elderly >65 | <130 (if tolerated) | SPRINT |
 | Acute ICH | <140 mmHg | INTERACT-2 |
 | HF (chronic) | Individualize; avoid <90 | Guidelines |
-
 ---
 
-*Compiled March 2026 for HF ICU APP reference.*
-*268 entries encompassing both lists — MCS/critical care granularity merged with broad cardiovascular trial literacy.*
-*Sources: NEJM, Lancet, JACC, Circulation, Eur Heart J, JAMA, ICM, CCM, and specialty society guidelines.*
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

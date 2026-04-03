@@ -200,6 +200,6 @@ Bulky hila + widened mediastinum. DDx: lymphoma, TB, sarcoidosis.
 3. **Know the emergencies** — tension pneumothorax, aortic dissection, pneumoperitoneum
 4. **Tracheal position** is your best friend for whiteouts
 5. **AP films exaggerate heart size** — don't call cardiomegaly on a portable
-
 ---
-_Last updated: March 2026 · HVI ICU APP Team_
+
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

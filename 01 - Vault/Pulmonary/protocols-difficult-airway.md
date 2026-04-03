@@ -121,7 +121,6 @@
 - [ ] Hemodynamic support agent drawn up (push-dose epinephrine or phenylephrine)
 - [ ] Post-intubation sedation ready
 - [ ] Surgical cric kit — confirmed location
-
 ---
 
-_Last updated: March 2026 · HVI ICU APP Team_
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

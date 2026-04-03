@@ -14,7 +14,6 @@ This should be selected as your **Default printer** on any HFICU workstation.
 ## Sarofim ICU/IMU
 
 <!-- TODO: Sarofim printer name(s) -->
-
-
 ---
-_Last updated: March 2026 · HVI ICU APP Team_
+
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

@@ -954,7 +954,6 @@ The most common cause of **atypical ("walking") pneumonia** in children and youn
 3. IDSA/ATS Guidelines for HAP/VAP. *Clin Infect Dis.* 2016;63(5).
 4. IDSA Guidelines for CDI. *Clin Infect Dis.* 2021;73(5).
 5. CDC Antibiotic Resistance Threats in the United States, 2019.
-
 ---
 
-_Last updated: March 2026 · HVI ICU APP Team_
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

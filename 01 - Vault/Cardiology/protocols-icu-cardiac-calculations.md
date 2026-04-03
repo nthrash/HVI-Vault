@@ -566,7 +566,6 @@ Pv-aCO2 = PvCO2 - PaCO2
 6. **SCAI SHOCK Stage Classification Update** (JACC 2022, reaffirmed in ACC 2025 guidance) - Five-stage classification with hemodynamic, biochemical, and physical exam domains.
 
 7. **CKD-EPI 2021 Race-Free eGFR Equation** (NKF/ASN 2021) - Standard GFR estimation without race coefficient.
-
 ---
 
-_Last updated: March 2026 · HVI ICU APP Team_
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

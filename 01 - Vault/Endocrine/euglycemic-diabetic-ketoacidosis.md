@@ -118,6 +118,6 @@
 - Muneer M, Akbar I. Acute metabolic emergencies in diabetes: DKA, HHS and EDKA. *Adv Exp Med Biol*. 2021;1307:85-114.
 - Nasa P, Chaudhary S, Shrivastava PK, Singh A. Euglycemic diabetic ketoacidosis: a missed diagnosis. *World J Diabetes*. 2021;12(5):514-523.
 - Mathew DS, Ng KE, Jacob EC. Management of euglycemic diabetic ketoacidosis. *US Pharm*. 2021;46(11):HS1-HS6.
-
 ---
-_Last updated: March 2026 · HVI ICU APP Team_
+
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

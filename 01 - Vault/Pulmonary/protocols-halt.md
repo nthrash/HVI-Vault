@@ -208,6 +208,6 @@ Rare but often fatal complication: elevated serum ammonia → encephalopathy, ce
 |-------|-------------|----------------|
 | IV Ammonul® | ~$50,000–75,000 | Only if NPO / no enteral access |
 | Oral sodium phenylbutyrate | ~$3,000–5,000 | **Preferred** if enteral access available |
-
 ---
-_Last updated: March 2026 · HVI ICU APP Team_
+
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

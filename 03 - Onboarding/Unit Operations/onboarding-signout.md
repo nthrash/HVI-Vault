@@ -76,7 +76,6 @@ You may leave once a **cardiology fellow or heart failure fellow** is physically
 ## PCCM APP (Sarofim ICU)
 
 <!-- TODO: Pulmonary critical care APP signout workflow -->
-
-
 ---
-_Last updated: March 2026 · HVI ICU APP Team_
+
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

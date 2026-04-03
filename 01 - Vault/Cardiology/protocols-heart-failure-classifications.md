@@ -189,7 +189,6 @@ Comprehensive heart failure classifications and etiologies for clinical referenc
 | Ischemic HF | HF due to CAD/MI | Prior MI, multivessel CAD, ischemic scar |
 | Nonischemic HF | HF not due to CAD | Dilated, hypertrophic, restrictive, valvular, endocrine, toxins, myocarditis |
 | Restrictive cardiomyopathy | Small, stiff ventricles with diastolic dysfunction | Amyloidosis, hemochromatosis, sarcoidosis, endomyocardial fibrosis |
-
 ---
 
-_Last updated: March 2026 · HVI ICU APP Team_
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

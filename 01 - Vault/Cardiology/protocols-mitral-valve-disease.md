@@ -756,18 +756,4 @@ According to PubMed, recent literature on acute mitral regurgitation and transca
 
 ---
 
-## Document Metadata
-
-**Last Updated:** April 2, 2026
-**Audience Level:** Advanced Practice Providers (NPs, PAs) and Attending Physicians in Cardiac ICU
-**Organization:** UTHealth Houston HVI
-**Recommended Reading Level:** Advanced
-**Target Use:** Bedside reference, clinical decision support, teaching rounds
-
----
-
-**Document prepared for the UTHealth Houston HVI Clinical Knowledge Vault**
-
----
-
-*Last updated: April 2026 · HVI ICU APP Team*
+_Created: 2026-04-02 · Last updated: 2026-04-02 · HVI ICU APP Team_

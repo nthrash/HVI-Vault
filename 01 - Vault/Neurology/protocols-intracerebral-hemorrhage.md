@@ -667,8 +667,6 @@ The following recent publications reinforce or refine current practice:
 24. Louis ED, Mayer SA, Noble JM. *Merritt's Neurology*, 14th edition. LWW; 2021.
 
 25. Torbey MT. *Neurocritical Care*, 2nd edition. Cambridge University Press; 2019.
-
 ---
 
-*Last updated: March 2026 · HVI ICU APP Team*
-
+_Created: 2026-04-01 · Last updated: 2026-04-01 · HVI ICU APP Team_

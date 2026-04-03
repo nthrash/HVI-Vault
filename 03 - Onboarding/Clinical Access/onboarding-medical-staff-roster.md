@@ -53,6 +53,6 @@ For an APP (Nurse Practitioner), you will see:
 ## Why This Matters
 
 Before asking a colleague to perform a procedure or co-sign an order at a specific facility, you can verify they actually hold privileges there. This is especially useful when working with covering providers, moonlighters, or consulting teams you are not familiar with.
-
 ---
-_Last updated: March 2026 · HVI ICU APP Team_
+
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

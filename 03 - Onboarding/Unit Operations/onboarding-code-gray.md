@@ -135,6 +135,6 @@ Contact your leader immediately.
 ## Pay Practices
 
 Disaster pay practices are detailed in the **Memorial Hermann Health System Pay Practice — Employee Compensation During Disaster Conditions**, accessible through allHR > My Money > Special Pay Practices.
-
 ---
-_Last updated: March 2026 · HVI ICU APP Team_
+
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

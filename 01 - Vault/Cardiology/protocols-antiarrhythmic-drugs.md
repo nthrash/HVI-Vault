@@ -161,7 +161,6 @@ Dofetilide requires a structured, monitored inpatient initiation due to its proa
 - Do not combine Class 1C drugs without an AV nodal blocker — risk of 1:1 atrial flutter conduction
 - Amiodarone requires baseline and annual monitoring of **TFTs, LFTs, PFTs, and ophthalmology**
 - Understand drug interactions: amiodarone significantly increases warfarin effect and raises digoxin levels
-
 ---
 
-_Last updated: March 2026 · HVI ICU APP Team_
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

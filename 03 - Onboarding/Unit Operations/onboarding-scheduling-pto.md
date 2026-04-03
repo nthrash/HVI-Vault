@@ -85,7 +85,6 @@ Click **Save** when finished. Repeat for each day you are requesting off.
 - **Summer holidays** (MLK Day, Memorial Day, Independence Day, Labor Day) are grouped and divided among the team
 - **Winter holidays** (Thanksgiving, New Year's Day, Christmas) are grouped and divided separately
 - The goal is to distribute holiday coverage fairly so no one is working all of one group
-
-
 ---
-_Last updated: March 2026 · HVI ICU APP Team_
+
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

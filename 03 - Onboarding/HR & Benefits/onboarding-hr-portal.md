@@ -45,6 +45,6 @@ The HR Portal is your one-stop hub for employment-related information. The top n
 ### Ask a Question
 
 - Submit HR questions directly through the portal
-
 ---
-_Last updated: March 2026 · HVI ICU APP Team_
+
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

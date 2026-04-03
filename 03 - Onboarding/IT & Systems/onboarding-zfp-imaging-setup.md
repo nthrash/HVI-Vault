@@ -53,7 +53,6 @@ Click **Search** to pull up results. Click **Reset** to clear all fields and sta
 - If a study isn't showing up, try expanding the **Exam Date** to "All" or "Last 7 days"
 - You can search by **Accession #** if radiology gives you a specific study number
 - The **Referring Physician** field can help narrow results if a patient has a common name
-
-
 ---
-_Last updated: March 2026 · HVI ICU APP Team_
+
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

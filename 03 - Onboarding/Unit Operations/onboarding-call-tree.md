@@ -88,7 +88,6 @@ Notify the in house HF Fellow (45156) for:
 - ≤72hr post-op → call the **operating surgeon**
 - .>.72hr post-op → call **on-call surgeon (1st call)**
 - MCS present or suspected → call **on-call surgeon**
-
 ---
 
-_Last updated: March 2026 · HVI ICU APP Team_
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

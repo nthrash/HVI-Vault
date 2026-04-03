@@ -409,7 +409,6 @@ Assess **daily** for all intubated patients:
 8. [Effect of a Protective-Ventilation Strategy on Mortality in the Acute Respiratory Distress Syndrome](https://pubmed.ncbi.nlm.nih.gov/9449727). Amato MB, Barbas CS, Medeiros DM, et al. The New England Journal of Medicine. 1998;338(6):347-54. doi:10.1056/NEJM199802053380602.
 9. [Postoperative Pulmonary Complications After Lung-Protective Ventilation in Thoracic Surgery: A Prospective Observational Study](https://pubmed.ncbi.nlm.nih.gov/29337724). Blank RS, Colquhoun DA, Durieux ME, et al. Anesthesia and Analgesia. 2018;126(4):1258-1267. doi:10.1213/ANE.0000000000002659.
 10. [Official Clinical Practice Guidelines of the European Respiratory Society/American Thoracic Society on Noninvasive Ventilation for Acute Respiratory Failure](https://pubmed.ncbi.nlm.nih.gov/28860265). Rochwerg B, Brochard L, Elliott MW, et al. European Respiratory Journal. 2017;50(2):1602426. doi:10.1183/13993003.02426-2016.
-
-
 ---
-_Last updated: March 2026 · HVI ICU APP Team_
+
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

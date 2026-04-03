@@ -52,6 +52,6 @@ A **nursing communication order** must be placed to stop the device. This applie
 
 - **Life Gift** discussions and interventions are handled by **nursing**
 - APPs do not need to initiate these conversations — nursing coordinates with the OPO
-
 ---
-_Last updated: March 2026 · HVI ICU APP Team_
+
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

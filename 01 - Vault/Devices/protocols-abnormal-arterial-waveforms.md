@@ -44,6 +44,6 @@ One must consider that there might be a distinct dicrotic notch distally, and th
 Speaking of bisferiens pulse. HOCM is supposed to produce this characteristic arterial waveform, or so it is repeated throughout the textbooks. On closer inspection, there is little data in support of this, apart from an ancient case report by Goodwin et al (1959). The case report is written in a beautiful manner, characteristic of the times. It also appears to be the first time anybody suggested the term "obstructive cardiomyopathy" to describe this pathology. The authors marveled at the thickness of the myocardium. "In order to obtain a left ventricular pressure curve a 4-inch (10-cm.) needle had to be thrust in up to the hilt and even then good complexes were intermittent, the systolic peak being cut off on many."
 
 To cut a long story short, the authors found that these patients had a bisferiens-like pulse. There was a sudden midsystolic pressure drop, as the LVOT collapsed on itself and systolic flow ceased.
-
 ---
-_Last updated: March 2026 · HVI ICU APP Team_
+
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

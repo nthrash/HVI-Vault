@@ -95,7 +95,6 @@ The orientee must demonstrate bedside competency for:
 2.  **Echo Basics:** 1-pager on TTE views for RV function & Cannula position.
 3.  **Hemodynamics Calc:** Fick vs. Thermodilution.
 4.  **ISHLT Guidelines:** Transplant/MCS standards.
-
-
 ---
-_Last updated: March 2026 · HVI ICU APP Team_
+
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

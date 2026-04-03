@@ -191,3 +191,6 @@ Diaphragm ultrasound is a noninvasive, reproducible bedside tool for assessing d
 25. [Intraoperative Phrenic Nerve Monitoring in Cardiac Surgery](https://pubmed.ncbi.nlm.nih.gov/8769493). Mazzoni M, Solinas C, Sisillo E, Bortone F, Susini G. Chest. 1996;109(6):1455-60. doi:10.1378/chest.109.6.1455.
 26. [Prognosis of Phrenic Nerve Injury Following Thoracic Interventions: Four New Cases and a Review](https://pubmed.ncbi.nlm.nih.gov/22221740). Ostrowska M, de Carvalho M. Clinical Neurology and Neurosurgery. 2012;114(3):199-204. doi:10.1016/j.clineuro.2011.12.016.
 27. [Course, Predictors of Diaphragm Recovery After Phrenic Nerve Injury During Pediatric Cardiac Surgery](https://pubmed.ncbi.nlm.nih.gov/23932321). Smith BM, Ezeokoli NJ, Kipps AK, Azakie A, Meadows JJ. The Annals of Thoracic Surgery. 2013;96(3):938-42. doi:10.1016/j.athoracsur.2013.05.057.
+---
+
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

@@ -71,6 +71,6 @@ Per the [call tree](onboarding-call-tree.md), **all ICU admissions** require not
 - Communicate the discharge plan to nursing
 - For transfers to the floor, provide a verbal handoff to the accepting team
 - Patient automatically falls off the HFICU list after discharge
-
 ---
-_Last updated: March 2026 · HVI ICU APP Team_
+
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

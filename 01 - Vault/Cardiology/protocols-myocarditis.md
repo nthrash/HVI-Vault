@@ -212,7 +212,6 @@ Reserved for **biopsy-proven** or strongly suspected autoimmune myocarditis (vir
 1. Cooper LT. Myocarditis. *N Engl J Med.* 2009;360:1526–38. [Link](https://www.nejm.org/doi/full/10.1056/NEJMra0800028)
 2. Caforio ALP, et al. Current state of knowledge on aetiology, diagnosis, management, and therapy of myocarditis: a position statement of the ESC. *Eur Heart J.* 2013;34:2636–48.
 3. AHA Scientific Statement: Diagnosis and Management of Myocarditis in Children and Adults, 2021. [Link](https://www.ahajournals.org/doi/10.1161/CIR.0000000000000945)
-
 ---
 
-_Last updated: March 2026 · HVI ICU APP Team_
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

@@ -77,6 +77,6 @@ The following steps must be completed as part of your onboarding with Memorial H
 | New Hire Services Email | newhireservices@memorialhermann.org |
 | New Hire Services Phone | 713-456-4050 |
 | Benefits Portal | [yourmhbenefits.com](https://yourmhbenefits.com/) |
-
 ---
-_Last updated: March 2026 · HVI ICU APP Team_
+
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

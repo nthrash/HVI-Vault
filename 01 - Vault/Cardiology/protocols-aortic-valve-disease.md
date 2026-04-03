@@ -856,9 +856,6 @@ Patients with chronic AR may present with:
 | **Drug strategy** | AS: vasopressors first (phenylephrine/NE); inotropes **not first-line** — fixed obstruction limits benefit; use only for concomitant reduced EF as bridge. AR: norepinephrine preferred vasopressor; afterload reduction cornerstone |
 
 ---
-
-**Created:** 2026-04-02 | **Audience:** Cardiac ICU APPs & Physicians | **Institution:** UTHealth Houston HVI
-
 ---
 
-*Last updated: April 2026 · HVI ICU APP Team*
+_Created: 2026-04-02 · Last updated: 2026-04-02 · HVI ICU APP Team_

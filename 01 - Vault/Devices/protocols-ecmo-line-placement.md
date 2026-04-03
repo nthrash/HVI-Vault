@@ -95,6 +95,6 @@ Understanding the femoral vascular anatomy is essential for safe arterial cannul
 7. Kim DJ, et al. Near-Infrared Spectroscopy Monitoring for Early Detection of Limb Ischemia in Patients on VA-ECMO. *ASAIO J*. 2017;63(5):613-617. [DOI](https://doi.org/10.1097/MAT.0000000000000532)
 8. Patton-Rivera K, et al. Using NIRS to assess distal-limb perfusion on VA-ECMO patients with femoral cannulation. *Perfusion*. 2018;33(8):618-623. [DOI](https://doi.org/10.1177/0267659118777670)
 9. Chanan EL, et al. Early Detection, Prevention, and Management of Acute Limb Ischemia in Adults Supported With VA-ECMO. *J Cardiothorac Vasc Anesth*. 2020;34(11):3125-3132. [DOI](https://doi.org/10.1053/j.jvca.2020.02.020)
-
 ---
-_Last updated: March 2026 · HVI ICU APP Team_
+
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

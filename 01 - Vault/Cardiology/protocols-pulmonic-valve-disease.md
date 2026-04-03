@@ -867,18 +867,4 @@ Current consensus (2025 ACC/AHA ACHD Guideline; 2024 AHA Scientific Statement on
 
 ---
 
-## Document Metadata
-
-**Document Type:** Clinical Learning Topic
-**Audience:** Advanced Practice Providers and Physicians — Cardiac ICU and Structural Heart Program
-**Institution:** UTHealth Houston Heart, Vascular & Thoracic Institute
-**Last Updated:** 2026-04-02
-**Recommended Review Cycle:** Annual (reflect on new evidence, device approvals, guideline updates)
-
----
-
-*This learning topic integrates current evidence from peer-reviewed literature, major society guidelines (AHA/ACC, ESC), and clinical expertise in ACHD and structural heart disease. It is intended as a decision-support resource and should be used in conjunction with clinical judgment and patient-specific factors.*
-
----
-
-*Last updated: April 2026 · HVI ICU APP Team*
+_Created: 2026-04-02 · Last updated: 2026-04-03 · HVI ICU APP Team_

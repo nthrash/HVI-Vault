@@ -242,7 +242,6 @@ Emergency surgical MV repair/replacement for post-MI papillary muscle rupture. M
 9. Tarantini G et al. Acute Decompensated Valvular Disease in the Intensive Care Unit. *JACC: Advances.* 2024;3:101402.
 10. Sá MP et al. Emergency transcatheter aortic valve implantation for acute heart failure due to severe aortic stenosis in critically ill patients with or without cardiogenic shock. *EuroIntervention.* 2022. PMID 36210517.
 11. Estévez-Loureiro R et al. Management of Severe Mitral Regurgitation in Patients With Acute Myocardial Infarction: JACC Focus Seminar 2/5. *JACC.* 2024;83(22). PMID 38692830.
-
 ---
 
-*Last updated: April 2026 · HVI ICU APP Team*
+_Created: 2026-04-02 · Last updated: 2026-04-02 · HVI ICU APP Team_

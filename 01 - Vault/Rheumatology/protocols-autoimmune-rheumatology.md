@@ -139,7 +139,6 @@ Poorer prognosis in diffuse disease, males, anti-Scl-70+, African descent — wi
 ## General Lab Notes
 
 - **ANA** — Titers >1:160 are typically seen as clinically relevant
-
 ---
 
-_Last updated: March 2026 · HVI ICU APP Team_
+_Created: 2026-04-02 · Last updated: 2026-04-02 · HVI ICU APP Team_

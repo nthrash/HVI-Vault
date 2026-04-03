@@ -164,7 +164,6 @@ AutoPEEP occurs when expiratory flow does not return to zero before the next bre
 - Add vancomycin until MRSA PCR returns if gram-positive coverage needed
 - BiPAP if hypercapnic or significant distress; RSI if failing
 - Once stable: start Brovana + Pulmicort + Duonebs; continue IV solumedrol 40 mg q12h
-
 ---
 
-_Last updated: March 2026 · HVI ICU APP Team_
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_

@@ -65,6 +65,6 @@ Most licensing boards allow renewal **60–90 days** before expiration. Don't wa
 ## Reimbursement
 
 Memorial Hermann may reimburse some or all of your licensing renewal costs. Submit reimbursements through **Infor XM Expense Management** on MHOne — see the [Infor XM Expense Request Guide](onboarding-Infor-XM-Expense-Request-Guide.pdf) for a step-by-step walkthrough.
-
 ---
-_Last updated: March 2026 · HVI ICU APP Team_
+
+_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_
