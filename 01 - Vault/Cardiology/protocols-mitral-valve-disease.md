@@ -415,6 +415,37 @@ Papillary muscle infarction (PapMI) without complete rupture is distinct from pa
 
 *Terminology note: TEER (transcatheter edge-to-edge repair) is the procedure class; M-TEER specifically denotes mitral TEER. MitraClip (Abbott) is the most widely used device. These terms are used interchangeably in the literature.*
 
+#### The Alfieri Stitch: Surgical Edge-to-Edge Repair
+
+The **Alfieri stitch** (also called surgical edge-to-edge repair or bow-tie repair) is the **surgical precursor to transcatheter TEER** and remains in use at select high-volume centers including the HVI.
+
+**Technique**
+- The anterior and posterior mitral leaflet free edges are sutured together at their midpoints (typically at the A2–P2 coaptation zone), creating a **double-orifice mitral valve**
+- Can be performed with or without concomitant annuloplasty; ring annuloplasty is standard at most centers to reinforce the repair and prevent recurrence
+- First described by Ottavio Alfieri in 1991 for degenerative MR; later extended to functional/secondary MR
+
+**Current Role at HVI**
+- Used as a **surgical alternative to transcatheter TEER** in patients undergoing open surgery with complex anatomy (e.g., bileaflet prolapse, failed primary repair, anterior leaflet pathology)
+- Can be applied in patients who are **too unstable for a full ring annuloplasty** but require definitive valve repair under CPB
+- May be performed in conjunction with CABG, valve replacement, or other cardiac procedures
+- Particularly useful for **anterior leaflet prolapse** — anatomy that is more challenging for transcatheter TEER
+
+**Alfieri vs. Transcatheter TEER**
+
+| Feature | Alfieri Stitch (Surgical) | Transcatheter TEER (MitraClip) |
+|---|---|---|
+| **Access** | Sternotomy or minimally invasive thoracotomy; CPB required | Percutaneous (transseptal); no CPB |
+| **Anesthesia** | General (open surgery) | General or MAC with TEE |
+| **Anatomy** | Can address anterior leaflet, complex bileaflet pathology | Best for A2–P2 posterior prolapse; anterior leaflet less ideal |
+| **Annuloplasty** | Typically performed concomitantly | Not performed (separate annuloplasty catheter devices in trials) |
+| **Recovery** | Surgical recovery (1–2 weeks ICU/hospital stay) | Catheterization recovery (1–2 days) |
+| **Hemodynamic instability** | Higher risk in shocked patients | Preferred in prohibitive surgical risk or hemodynamic fragility |
+| **Long-term durability** | Excellent when combined with ring annuloplasty | Dependent on leaflet anatomy and residual MR grade |
+| **Conceptual basis** | Both create double-orifice valve by joining leaflet free edges | ← same mechanism |
+
+> [!tip] **Alfieri → MitraClip: Same Concept, Different Access**
+> The transcatheter TEER (MitraClip/TEER) replicates the Alfieri stitch percutaneously — both create a double-orifice valve by approximating the free edges of the anterior and posterior leaflets. Understanding the surgical Alfieri stitch is key to understanding why TEER works and where its anatomic limitations lie. At HVI, the Alfieri stitch is reserved for surgical cases where direct leaflet repair is needed but primary repair with ring alone is insufficient or anatomically unfeasible.
+
 **Current Evidence & Limitations**
 - Evidence for acute MR is **limited to case series and registries**—no RCTs
 - **Largest published series** (post-MI papillary muscle rupture, all deemed at "prohibitive surgical risk"):
@@ -527,6 +558,9 @@ Papillary muscle infarction (PapMI) without complete rupture is distinct from pa
 - Residual MR grade ≥2 is not uncommon (20–30% of cases); may require additional clips
 - AF-related outcomes: no increase in de novo AF; symptom control often improves even if AF persists
 - Antithrombotic strategy: **SAPT (aspirin monotherapy) superior to DAPT at 12 months** post-TEER (Muscoli et al., 2026 MitraSafe study); lower mortality (94% vs. 78.7% freedom from all-cause death) and reduced bleeding in SAPT cohort
+
+**Emerging Transcatheter Mitral Valve Replacement (TMVR)**
+A separate category of devices — transcatheter mitral valve *replacement* rather than repair — is in active development and early clinical use. The **Tendyne** (Abbott) and **Intrepid** (Medtronic) are the furthest along, with the **AltaValve** (4C Medical) also in trials; these are transseptal or transapical implants designed for patients with anatomy unsuitable for repair (e.g., heavily calcified annulus, failed surgical rings, complex bileaflet disease). Outside of specific structural heart programs, these remain investigational or rarely used, and are not part of routine ICU decision-making — but may appear in consult notes or operative reports at HVI.
 
 ---
 
