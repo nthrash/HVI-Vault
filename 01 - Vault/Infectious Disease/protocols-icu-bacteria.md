@@ -4,23 +4,23 @@
 
 ### Gram-Positive Organisms
 
-| Organism | Metabolism | Arrangement | First-Line Antibiotic(s) |
-|---|---|---|---|
-| *S. aureus* (MSSA) | Facultative anaerobe | Clusters | Nafcillin / Oxacillin |
-| *S. aureus* (MRSA) | Facultative anaerobe | Clusters | Vancomycin |
-| *S. epidermidis* | Facultative anaerobe | Clusters | Vancomycin |
-| *S. lugdunensis* | Facultative anaerobe | Clusters | Penicillin / Nafcillin |
-| *S. pneumoniae* | Facultative anaerobe | Diplococci / chains | Penicillin G / Amoxicillin |
-| *S. anginosus* group | Facultative anaerobe | Chains | Penicillin G / Amoxicillin |
-| Group A *Streptococcus* | Facultative anaerobe | Chains | Penicillin G |
-| Group B *Streptococcus* | Facultative anaerobe | Chains | Penicillin G |
-| *E. faecalis* | Facultative anaerobe | Pairs / chains | Ampicillin ± Gentamicin |
-| *E. faecium* | Facultative anaerobe | Pairs / chains | Vancomycin; VRE: Linezolid / Daptomycin |
-| *Lactobacillus* spp. | Facultative anaerobe | Rods / chains | Penicillin / Amoxicillin |
-| *Listeria monocytogenes* | Facultative anaerobe | Short rods | Ampicillin ± Gentamicin |
-| *C. difficile* | Obligate anaerobe | Rods (spores) | Vancomycin PO / Fidaxomicin |
-| *C. botulinum* | Obligate anaerobe | Rods (spores) | Antitoxin (BAT); supportive |
-| *M. tuberculosis* *(acid-fast)* | Obligate aerobe | Rods | RIPE therapy |
+| Organism                        | Metabolism           | Arrangement         | First-Line Antibiotic(s)                |
+| ------------------------------- | -------------------- | ------------------- | --------------------------------------- |
+| *S. aureus* (MSSA)              | Facultative anaerobe | Clusters            | Nafcillin / Oxacillin                   |
+| *S. aureus* (MRSA)              | Facultative anaerobe | Clusters            | Vancomycin                              |
+| *S. epidermidis*                | Facultative anaerobe | Clusters            | Vancomycin                              |
+| *S. lugdunensis*                | Facultative anaerobe | Clusters            | Penicillin / Nafcillin                  |
+| *S. pneumoniae*                 | Facultative anaerobe | Diplococci / chains | Penicillin G / Amoxicillin              |
+| *S. anginosus* group            | Facultative anaerobe | Chains              | Penicillin G / Amoxicillin              |
+| Group A *Streptococcus*         | Facultative anaerobe | Chains              | Penicillin G                            |
+| Group B *Streptococcus*         | Facultative anaerobe | Chains              | Penicillin G                            |
+| *E. faecalis*                   | Facultative anaerobe | Pairs / chains      | Ampicillin ± Gentamicin                 |
+| *E. faecium*                    | Facultative anaerobe | Pairs / chains      | Vancomycin; VRE: Linezolid / Daptomycin |
+| *Lactobacillus* spp.            | Facultative anaerobe | Rods / chains       | Penicillin / Amoxicillin                |
+| *Listeria monocytogenes*        | Facultative anaerobe | Short rods          | Ampicillin ± Gentamicin                 |
+| *C. difficile*                  | Obligate anaerobe    | Rods (spores)       | Vancomycin PO / Fidaxomicin             |
+| *C. botulinum*                  | Obligate anaerobe    | Rods (spores)       | Antitoxin (BAT); supportive             |
+| *M. tuberculosis* *(acid-fast)* | Obligate aerobe      | Rods                | RIPE therapy                            |
 
 ### Gram-Negative Organisms
 
@@ -56,19 +56,21 @@
 
 ---
 
-### Staphylococcus aureus (MSSA)
+## **Staphylococcus aureus (MSSA)**
 
 **Overview**
-*S. aureus* (methicillin-susceptible) is one of the most common and virulent pathogens in the ICU. It produces numerous toxins and enzymes that facilitate tissue invasion and immune evasion. MSSA is fully susceptible to beta-lactam antibiotics, making nafcillin or oxacillin the preferred agents when susceptibility is confirmed.
+
+_S. aureus_ (methicillin-susceptible) is one of the most common and virulent pathogens in the ICU. It produces numerous toxins and enzymes that facilitate tissue invasion and immune evasion. MSSA is fully susceptible to beta-lactam antibiotics.
 
 **Characteristics**
-| Feature | Detail |
-	|---|---|
-| Gram Stain | Positive |
-| Metabolism | Facultative anaerobe |
-| Arrangement | Clusters ("bunch of grapes") |
-| First-Line Antibiotics | Nafcillin or Oxacillin |
-| Second-Line Antibiotics | Cefazolin, Vancomycin (if beta-lactam intolerant) |
+
+| Feature                    | Detail                                                                                                                 |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Gram Stain                 | Positive                                                                                                               |
+| Metabolism                 | Facultative anaerobe                                                                                                   |
+| Arrangement                | Clusters ("bunch of grapes")                                                                                           |
+| First-Line Antibiotics     | **Cefazolin (preferred)** or Nafcillin/Oxacillin                                                                       |
+| Second-Line Antibiotics    | Vancomycin (if beta-lactam intolerant), Daptomycin                                                                     |
 | Typical Sites of Infection | Skin/soft tissue, bloodstream (bacteremia), endocarditis, pneumonia, osteomyelitis, septic arthritis, epidural abscess |
 
 **Pathogenicity**
@@ -78,29 +80,45 @@
 - Right-sided endocarditis classically seen in IV drug users; septic pulmonary emboli common
 - Source control is critical — bacteremia without a removable source requires prolonged IV therapy (≥4–6 weeks for endocarditis/osteomyelitis)
 
+**Antibiotic Selection**
+- **Cefazolin is now preferred over antistaphylococcal penicillins** for MSSA bacteremia based on recent evidence showing lower 30-day mortality (RR 0.70) and significantly less nephrotoxicity (RR 0.36) compared to nafcillin/oxacillin [1-4]
+- Standard dosing: Cefazolin 2 g IV every 8 hours; increase to 2 g every 6 hours for critically ill patients or endocarditis [1]
+- Nafcillin/oxacillin remain acceptable alternatives when cefazolin is unavailable or contraindicated
+- Vancomycin should be reserved for severe beta-lactam allergies; it is inferior to beta-lactams for MSSA
+
+
+
 ---
 
-### Staphylococcus aureus (MRSA)
+## **Staphylococcus aureus (MRSA)**
 
 **Overview**
-Methicillin-resistant *S. aureus* carries the *mecA* gene encoding PBP2a, conferring resistance to all beta-lactams except ceftaroline. MRSA is a leading cause of healthcare-associated infections and carries significant morbidity and mortality in the ICU.
+Methicillin-resistant _S. aureus_ carries the _mecA_ gene encoding PBP2a, conferring resistance to all beta-lactams except ceftaroline and ceftobiprole. MRSA is a leading cause of healthcare-associated infections and carries significant morbidity and mortality in the ICU.
 
 **Characteristics**
-| Feature | Detail |
+
+|Feature|Detail|
 |---|---|
-| Gram Stain | Positive |
-| Metabolism | Facultative anaerobe |
-| Arrangement | Clusters |
-| First-Line Antibiotics | Vancomycin (target AUC/MIC 400–600); Daptomycin (non-pulmonary) |
-| Second-Line Antibiotics | Linezolid, Ceftaroline, Trimethoprim-sulfamethoxazole (skin/soft tissue) |
-| Typical Sites of Infection | Bloodstream, skin/soft tissue, pneumonia (especially post-influenza), endocarditis, osteomyelitis, prosthetic device infections |
+|Gram Stain|Positive|
+|Metabolism|Facultative anaerobe|
+|Arrangement|Clusters|
+|First-Line Antibiotics|Vancomycin (AUC-guided dosing, target AUC 400–600); Daptomycin 8–10 mg/kg (non-pulmonary)|
+|Second-Line Antibiotics|Linezolid, Ceftaroline, Ceftobiprole, Trimethoprim-sulfamethoxazole (skin/soft tissue)|
+|Typical Sites of Infection|Bloodstream, skin/soft tissue, pneumonia (especially post-influenza), endocarditis, osteomyelitis, prosthetic device infections|
 
 **Pathogenicity**
 - Same virulence factors as MSSA plus intrinsic beta-lactam resistance
 - **HA-MRSA** (healthcare-associated): typically multidrug resistant; associated with indwelling lines and post-surgical infections
 - **CA-MRSA** (community-acquired): often carries PVL; aggressive necrotizing skin infections and necrotizing pneumonia
 - **Daptomycin** is inactivated by pulmonary surfactant — do NOT use for MRSA pneumonia; use Vancomycin or Linezolid
-- Monitor Vancomycin AUC (target 400–600 mg·h/L); avoid trough-only dosing
+- For bacteremia/endocarditis, higher daptomycin doses (8–10 mg/kg) are preferred over the FDA-approved 6 mg/kg due to concentration-dependent killing [1]
+
+**Vancomycin Dosing and Monitoring**
+- **AUC-guided dosing is now the standard of care** — target AUC/MIC 400–600 mg·h/L (assuming MIC ≤1 mg/L) [5-6]
+- **Trough-only monitoring (15–20 mg/L) is NO LONGER RECOMMENDED** due to association with increased nephrotoxicity without improved efficacy [5][7]
+- AUC monitoring requires either: (1) two-level PK sampling (peak at 1–2 hours post-infusion + trough), or (2) Bayesian software with at least one trough level (preferred method) [5]
+- Loading dose: 20–35 mg/kg (max 3 g), then maintenance 15–20 mg/kg every 12 hours based on renal function [1][5]
+- Target AUC should be achieved within 24–48 hours of therapy initiation [5]
 
 ---
 
@@ -242,26 +260,34 @@ The leading cause of neonatal sepsis and meningitis. In adults, causes invasive 
 
 ---
 
-### Enterococcus faecalis
+### ## **Enterococcus faecalis**
 
 **Overview**
-Normal GI flora that has emerged as a major nosocomial pathogen. Intrinsically resistant to many antibiotics. *E. faecalis* accounts for ~80–90% of enterococcal infections and is generally more susceptible than *E. faecium*.
+Normal GI flora that has emerged as a major nosocomial pathogen. Intrinsically resistant to many antibiotics. _E. faecalis_ accounts for ~80–90% of enterococcal infections and is generally more susceptible than _E. faecium_.
 
 **Characteristics**
-| Feature | Detail |
+
+|Feature|Detail|
 |---|---|
-| Gram Stain | Positive |
-| Metabolism | Facultative anaerobe |
-| Arrangement | Pairs and short chains |
-| First-Line Antibiotics | Ampicillin ± Gentamicin (synergy for endocarditis); Ampicillin alone for UTI |
-| Second-Line Antibiotics | Vancomycin, Linezolid, Daptomycin |
-| Typical Sites of Infection | UTI, bacteremia, endocarditis, intra-abdominal infections, wound infections, biliary infections |
+|Gram Stain|Positive|
+|Metabolism|Facultative anaerobe|
+|Arrangement|Pairs and short chains|
+|First-Line Antibiotics|Ampicillin (UTI, uncomplicated infections); **Ampicillin + Ceftriaxone (preferred for endocarditis)**|
+|Second-Line Antibiotics|Ampicillin + Gentamicin (endocarditis, if ceftriaxone unavailable); Vancomycin, Linezolid, Daptomycin|
+|Typical Sites of Infection|UTI, bacteremia, endocarditis, intra-abdominal infections, wound infections, biliary infections|
 
 **Pathogenicity**
 - Intrinsically resistant to cephalosporins, clindamycin, and low-level aminoglycosides
-- **Endocarditis** requires synergistic bactericidal therapy — Ampicillin + Ceftriaxone (preferred for *E. faecalis*) or Ampicillin + Gentamicin
+- **Endocarditis** requires synergistic bactericidal therapy
 - Gelatinase and cytolysin contribute to virulence
-- Can acquire VRE resistance (less common in *E. faecalis* than *E. faecium*)
+- Can acquire VRE resistance (less common in _E. faecalis_ than _E. faecium_)
+
+**Endocarditis Treatment**
+- **Ampicillin + Ceftriaxone is now preferred over Ampicillin + Gentamicin** for _E. faecalis_ endocarditis (both native and prosthetic valve) [8-9]
+- Ampicillin 2 g IV every 4 hours + Ceftriaxone 2 g IV every 12 hours × 6 weeks [9]
+- Advantages: Non-inferior efficacy, significantly lower nephrotoxicity (OR 0.45), fewer drug withdrawals due to adverse events (OR 0.11), no need for aminoglycoside level monitoring [9-10]
+- **Ampicillin + Gentamicin remains acceptable** when ceftriaxone is unavailable or for aminoglycoside-susceptible, high-level gentamicin-resistant strains that are streptomycin-susceptible [9]
+- For high-level aminoglycoside resistance: Ampicillin + Ceftriaxone is the regimen of choice
 
 ---
 
@@ -333,51 +359,75 @@ A foodborne pathogen causing serious invasive disease in pregnant women, neonate
 
 ---
 
-### Clostridium difficile
+### ## **Clostridium difficile** _(Clostridioides difficile)_
 
 **Overview**
 The leading cause of antibiotic-associated diarrhea and colitis in healthcare settings. Spore-forming organism that survives on environmental surfaces and is not killed by alcohol-based hand sanitizers. Produces toxins A and B causing mucosal inflammation and pseudomembranous colitis.
 
 **Characteristics**
-| Feature | Detail |
+
+|Feature|Detail|
 |---|---|
-| Gram Stain | Positive |
-| Metabolism | Obligate anaerobe |
-| Arrangement | Rods (spore-forming) |
-| First-Line Antibiotics | Oral Vancomycin 125 mg QID × 10 days (non-severe); Fidaxomicin (reduces recurrence) |
-| Second-Line Antibiotics | Bezlotoxumab (mAb for recurrence prevention); Fecal Microbiota Transplant (FMT) for recurrent CDI |
-| Typical Sites of Infection | Colon (pseudomembranous colitis), fulminant colitis, toxic megacolon |
+|Gram Stain|Positive|
+|Metabolism|Obligate anaerobe|
+|Arrangement|Rods (spore-forming)|
+|First-Line Antibiotics|**Fidaxomicin 200 mg PO BID × 10 days (preferred)**; Vancomycin 125 mg PO QID × 10 days (acceptable alternative)|
+|Second-Line Antibiotics|Bezlotoxumab (mAb for recurrence prevention — **currently unavailable due to drug shortage**); Fecal Microbiota Transplant (FMT) for recurrent CDI|
+|Typical Sites of Infection|Colon (pseudomembranous colitis), fulminant colitis, toxic megacolon|
 
 **Pathogenicity**
 - **Toxin A** (enterotoxin) — mucosal disruption, fluid secretion
 - **Toxin B** (cytotoxin) — more potent; cytoskeletal disruption; primary driver of disease
 - **Binary toxin (CDT)** — produced by hypervirulent NAP1/BI/027 strain; associated with more severe disease
-- IV Metronidazole is no longer recommended for primary CDI; oral Vancomycin is standard
-- Fulminant CDI (hypotension, ileus, megacolon): oral Vancomycin 500 mg QID + IV Metronidazole; surgical consultation
+- Spores resist alcohol-based hand sanitizers — **hand washing with soap and water required**
+
+**Treatment Recommendations**
+- **Fidaxomicin is now preferred over vancomycin** for initial CDI episodes due to similar cure rates but significantly lower recurrence rates (13% vs 27%, p=0.02) [11-12]
+- Fidaxomicin increases sustained clinical response (RR 1.16) without increasing adverse events [12]
+- Vancomycin remains an acceptable alternative, particularly when cost is a limiting factor [11-12]
+- **Metronidazole is NO LONGER RECOMMENDED** for initial CDI treatment (inferior to vancomycin) [11]
+- **Fulminant CDI** (hypotension, ileus, megacolon, WBC >35,000, lactate >5): Vancomycin 500 mg PO/NG QID + Metronidazole 500 mg IV every 8 hours; early surgical consultation [11]
+- **Bezlotoxumab** (monoclonal antibody against toxin B) is currently experiencing a drug shortage and is unavailable in the United States
 
 ---
 
-### Clostridium botulinum
+---
+
+### ## **Clostridium botulinum**
 
 **Overview**
-Produces botulinum toxin, the most potent biological toxin known. Causes botulism — a descending flaccid paralysis — through foodborne, wound, or infant intestinal mechanisms. An ICU condition requiring mechanical ventilation in severe cases.
+Produces botulinum toxin, the most potent biological toxin known. Causes [botulism](https://www.openevidence.com/rare-disease/botulism) — a descending flaccid paralysis — through foodborne, wound, or infant intestinal mechanisms. An ICU condition requiring mechanical ventilation in severe cases.
 
 **Characteristics**
-| Feature | Detail |
+
+|Feature|Detail|
 |---|---|
-| Gram Stain | Positive |
-| Metabolism | Obligate anaerobe |
-| Arrangement | Rods (spore-forming) |
-| First-Line Treatment | Heptavalent Botulinum Antitoxin (HBAT) — call CDC (770-488-7100); supportive care / mechanical ventilation |
-| Second-Line | Penicillin G or Metronidazole (wound botulism — to eradicate organism) |
-| Typical Sites of Infection | GI (foodborne), wounds (wound botulism — especially IV drug use), infant intestinal colonization |
+|Gram Stain|Positive|
+|Metabolism|Obligate anaerobe|
+|Arrangement|Rods (spore-forming)|
+|First-Line Treatment|**Heptavalent Botulinum Antitoxin (HBAT/BAT)** — call CDC (770-488-7100) or state health department 24/7; supportive care / mechanical ventilation|
+|Second-Line|Penicillin G or Metronidazole (wound botulism — to eradicate organism); **Surgical debridement (wound botulism — essential for source control)**|
+|Typical Sites of Infection|GI (foodborne), wounds (wound botulism — especially IV drug use), infant intestinal colonization|
 
 **Pathogenicity**
 - **Botulinum neurotoxin (BoNT)** — cleaves SNARE proteins at the neuromuscular junction, preventing acetylcholine release → flaccid paralysis
 - Descending paralysis: cranial nerve palsies (diplopia, dysarthria, dysphagia) → descending limb/trunk weakness → respiratory failure
 - Antitoxin must be given **early** — neutralizes only unbound toxin; does not reverse established paralysis
 - Recovery occurs over weeks to months via sprouting of new nerve terminals
-- Wound botulism: administer antitoxin **before** wound debridement whenever feasible — debridement/manipulation can release additional toxin into circulation; however, surgical source control remains necessary and should follow antitoxin administration
+
+**Treatment Timing and Priorities**
+- **Antitoxin should be administered as soon as botulism is suspected** — do NOT wait for laboratory confirmation [13-15]
+- **Early treatment (≤2 days of symptom onset) is associated with:**
+    - Shorter hospital stay (15 vs 25 days, p<0.01) [14]
+    - Shorter ICU stay (10 vs 17 days, p=0.04) [14]
+    - Shorter duration of mechanical ventilation (6 vs 14.5 days) [15]
+    - Reduced mortality [16]
+- **[Wound botulism](https://www.openevidence.com/rare-disease/wound-botulism) management:**
+    - Antitoxin administration is the **highest priority** and should be given immediately upon clinical suspicion [13-14][17]
+    - **Surgical debridement is essential** for source control and should NOT be delayed [13][17-18]
+    - Ideally, antitoxin is given before debridement when immediately available, but **do not delay necessary surgical debridement** waiting for antitoxin [13]
+    - Antibiotics (Penicillin G or Metronidazole) should be administered to eradicate _C. botulinum_ from the wound [13][17]
+- Antitoxin is available 24/7 through state health departments in coordination with CDC
 
 ---
 
@@ -392,7 +442,7 @@ The causative agent of tuberculosis (TB), one of the leading infectious causes o
 | Gram Stain | Not applicable — acid-fast bacillus (Ziehl-Neelsen or auramine-rhodamine stain) |
 | Metabolism | Obligate aerobe |
 | Arrangement | Slender rods; may form cords ("serpentine cords") |
-| First-Line Antibiotics | RIPE: Rifampin + Isoniazid + Pyrazinamide + Ethambutol × 2 months, then Rifampin + Isoniazid × 4 months |
+| First-Line Antibiotics | **Standard 6-month:** RIPE (2HRZE/4HR) — Rifampin + Isoniazid + Pyrazinamide + Ethambutol × 2 months, then Rifampin + Isoniazid × 4 months. **New 4-month option:** 2HPZM/2HPM (rifapentine-moxifloxacin regimen, conditionally recommended ≥12 years, drug-susceptible pulmonary TB) |
 | Second-Line Antibiotics | Fluoroquinolones (Levofloxacin/Moxifloxacin), Linezolid, Bedaquiline (MDR/XDR-TB) |
 | Typical Sites of Infection | Pulmonary (primary), miliary (hematogenous spread), lymph nodes (scrofula), meningitis, vertebral (Pott's disease), pericarditis, peritonitis |
 
@@ -402,6 +452,14 @@ The causative agent of tuberculosis (TB), one of the leading infectious causes o
 - **Latent TB** — contained by granuloma formation; reactivation risk with immunosuppression (steroids, TNF-alpha inhibitors, HIV)
 - Pyridoxine (B6) supplementation required with Isoniazid to prevent peripheral neuropathy
 - Airborne transmission — sputum AFB smear and culture required for diagnosis; GeneXpert MTB/RIF for rapid detection and rifampin resistance
+
+**Treatment Regimens:**
+| Regimen | Drugs | Duration | Indication |
+|---|---|---|---|
+| **Standard RIPE (2HRZE/4HR)** | Rifampin + Isoniazid + Pyrazinamide + Ethambutol → Rifampin + Isoniazid | 6 months (extend to 9 months if cavitation on CXR AND positive culture at 2 months) | Drug-susceptible pulmonary TB; all ages |
+| **4-month rifapentine-moxifloxacin (2HPZM/2HPM)** | Rifapentine + Isoniazid + Pyrazinamide + Moxifloxacin → Rifapentine + Isoniazid + Moxifloxacin | 4 months | Drug-susceptible pulmonary TB; age ≥12 years; conditionally recommended (WHO/ATS 2022; moderate certainty) |
+| **Pediatric 4-month (2HRZE/2HR)** | Rifampin + Isoniazid + Pyrazinamide + Ethambutol → Rifampin + Isoniazid | 4 months | Nonsevere TB; ages 3 months–16 years; **strongly recommended** (replaces 6-month standard for nonsevere disease) |
+| **MDR-TB** | Bedaquiline + Linezolid + Levofloxacin/Moxifloxacin ± other agents | 6–18 months (WHO 2022 BPaL regimens) | RIF or INH resistance confirmed |
 
 ---
 
@@ -467,8 +525,8 @@ An obligate aerobe and major opportunistic pathogen with intrinsic resistance to
 | Gram Stain | Negative |
 | Metabolism | Obligate aerobe |
 | Arrangement | Rods |
-| First-Line Antibiotics | Piperacillin-tazobactam or Cefepime (empiric); Meropenem (severe or resistant) |
-| Second-Line Antibiotics | Ceftazidime, Aztreonam, Ciprofloxacin (combination therapy for severe disease); Ceftolozane-tazobactam (MDR) |
+| First-Line Antibiotics | **Empiric:** Piperacillin-tazobactam 4.5g IV q6h (extended infusion preferred) **OR** Cefepime 2g IV q8h (extended infusion preferred) **OR** Meropenem 1–2g IV q8h (high local resistance or prior antipseudomonal exposure) |
+| Second-Line Antibiotics | Ceftazidime, Aztreonam, Ciprofloxacin; **MDR/DTR strains:** Ceftolozane-tazobactam, Ceftazidime-avibactam, Imipenem-cilastatin-relebactam |
 | Typical Sites of Infection | VAP, HAP, bacteremia, UTI (catheter-associated), wound infections (burn patients), external otitis malignant, ecthyma gangrenosum |
 
 **Pathogenicity**
@@ -479,6 +537,17 @@ An obligate aerobe and major opportunistic pathogen with intrinsic resistance to
 - Characteristic blue-green pus and sweet/grape-like odor
 - **Ecthyma gangrenosum** — pathognomonic skin lesion (necrotic black ulcer) in bacteremic patients
 - Rapidly develops resistance on therapy — avoid monotherapy with fluoroquinolones; combination debated but often used for severe infection
+- **Aminoglycoside monotherapy is CONTRAINDICATED** for Pseudomonas pneumonia/VAP — poor lung penetration makes monotherapy inadequate; aminoglycosides may be used as part of combination therapy only (IDSA/ATS HAP/VAP Guidelines 2016; PMID 31823149)
+- Extended-infusion beta-lactams (e.g., cefepime 2g over 3–4 hours q8h) optimize pharmacodynamic target attainment for susceptible strains
+- Repeat susceptibility testing recommended — resistance can develop rapidly on therapy
+
+**Definitive Therapy by Susceptibility:**
+| Phenotype | Preferred Agent(s) | Notes |
+|---|---|---|
+| Susceptible | Pip-tazo, ceftazidime, cefepime, or meropenem (monotherapy acceptable) | Prefer traditional beta-lactams over carbapenems when susceptible to preserve carbapenem spectrum |
+| Carbapenem-resistant, traditional BL-susceptible | Cefepime or pip-tazo extended infusion | PK/PD optimization over 3–4 hour infusions |
+| MDR (resistant to ≥3 drug classes) | Ceftolozane-tazobactam, ceftazidime-avibactam | Check for MBL (metallo-beta-lactamase) — ceftazidime-avibactam inactive vs. MBL |
+| DTR (difficult-to-treat resistant) | Imipenem-cilastatin-relebactam, cefiderocol | Last-resort agents; ID consult mandatory |
 
 ---
 
@@ -583,15 +652,24 @@ A small gram-negative coccobacillus that is a major cause of respiratory infecti
 | Gram Stain | Negative |
 | Metabolism | Facultative anaerobe |
 | Arrangement | Coccobacilli (pleomorphic) |
-| First-Line Antibiotics | Amoxicillin-clavulanate (outpatient); Ceftriaxone (IV/meningitis) |
-| Second-Line Antibiotics | Azithromycin, TMP-SMX, Fluoroquinolone |
+| First-Line Antibiotics | Amoxicillin-clavulanate (outpatient); **Ceftriaxone 2g IV q12h** (IV/meningitis — empiric regardless of beta-lactamase status) |
+| Second-Line Antibiotics | Azithromycin, TMP-SMX, Fluoroquinolone; Meropenem (BLNAR meningitis) |
 | Typical Sites of Infection | COPD exacerbations, pneumonia, sinusitis, otitis media, meningitis (Hib in unvaccinated), epiglottitis (Hib) |
 
 **Pathogenicity**
 - **Requires X (hemin) and V (NAD) factors** — only grows on blood agar with satellite colonies near *S. aureus*
 - ~30–40% produce **beta-lactamase** — test susceptibility; amoxicillin alone may fail
+- **BLNAR (beta-lactamase negative, ampicillin-resistant)** strains — mediated by PBP3 mutations; require meropenem at high doses for CNS infections; prevalence rising in some regions
 - Type b capsule (Hib) — antiphagocytic; Hib vaccine dramatically reduced invasive disease
 - Non-typeable *H. influenzae* (NTHi) — most common cause of adult respiratory infections; colonizes COPD airways
+
+**Treatment by Scenario:**
+| Scenario | Treatment | Notes |
+|---|---|---|
+| Non-CNS infection, beta-lactamase negative | Amoxicillin or ampicillin (once susceptibility confirmed) | Only after susceptibility testing |
+| Non-CNS infection, beta-lactamase positive | Ceftriaxone, cefotaxime, or fluoroquinolone | Empiric choice |
+| Meningitis (any strain) | **Ceftriaxone 2g IV q12h** empirically | Always use ceftriaxone — do not use ampicillin empirically even if beta-lactamase negative due to BLNAR risk |
+| BLNAR meningitis (confirmed) | Meropenem (high dose) | Ceftriaxone resistance in BLNAR; meropenem monotherapy preferred |
 
 ---
 
@@ -628,8 +706,8 @@ The causative agent of gonorrhea, the second most common bacterial sexually tran
 | Gram Stain | Negative |
 | Metabolism | Obligate aerobe |
 | Arrangement | Diplococci (intracellular within PMNs on Gram stain of urethral discharge) |
-| First-Line Antibiotics | Ceftriaxone 500 mg IM/IV single dose (uncomplicated); Ceftriaxone 1g IV q24h (DGI/arthritis) |
-| Second-Line Antibiotics | Gentamicin + Azithromycin (cephalosporin allergy); no reliable oral alternatives currently |
+| First-Line Antibiotics | **Ceftriaxone 500 mg IM × 1** (uncomplicated urogenital/rectal/pharyngeal); **Ceftriaxone 1g IV/IM q24h** (DGI/arthritis-dermatitis); **Ceftriaxone 1–2g IV q24h** (meningitis/endocarditis) |
+| Second-Line Antibiotics | Gentamicin 240 mg IM × 1 + Azithromycin 2g PO × 1 (cephalosporin allergy only); no reliable fluoroquinolone alternatives |
 | Typical Sites of Infection | Urethritis, cervicitis, proctitis, pharyngitis, DGI (arthritis-dermatitis syndrome, septic arthritis, rarely endocarditis/meningitis) |
 
 **Pathogenicity**
@@ -638,6 +716,17 @@ The causative agent of gonorrhea, the second most common bacterial sexually tran
 - **Opa proteins** — mediate invasion of epithelial and phagocytic cells
 - **Complement deficiency** (C5–C9) predisposes to recurrent DGI — screen with CH50
 - Fluoroquinolone and penicillin resistance now widespread — ceftriaxone remains first-line
+- **Azithromycin is NO LONGER recommended** as routine dual therapy — removed from CDC 2021 STI Treatment Guidelines due to rapidly rising resistance (nearly 5% of isolates with elevated MIC by 2018; PMID 35416971); ceftriaxone monotherapy is now standard of care
+
+**Treatment by Scenario (CDC 2021 STI Guidelines):**
+| Infection Type | Treatment | Duration |
+|---|---|---|
+| Uncomplicated urogenital / rectal | Ceftriaxone 500 mg IM × 1 dose | Single dose |
+| Uncomplicated pharyngeal | Ceftriaxone 500 mg IM × 1 dose | Single dose; test-of-cure recommended at 7–14 days |
+| DGI — arthritis-dermatitis syndrome | Ceftriaxone 1g IV/IM q24h | Until 24–48h after clinical improvement, then guided oral therapy; total >7 days |
+| Gonococcal meningitis | Ceftriaxone 1–2g IV q24h | 10–14 days |
+| Gonococcal endocarditis | Ceftriaxone 1–2g IV q24h | ≥4 weeks |
+| Cephalosporin allergy | Gentamicin 240 mg IM × 1 + Azithromycin 2g PO × 1 | Single dose (only if true cephalosporin allergy) |
 
 ---
 
@@ -676,40 +765,61 @@ A microaerophilic gram-negative spiral rod that colonizes the gastric mucosa and
 | Gram Stain | Negative |
 | Metabolism | Microaerophile |
 | Arrangement | Curved/spiral rods with flagella |
-| First-Line Antibiotics | Clarithromycin-based triple therapy (PPI + Clarithromycin + Amoxicillin × 14 days) or Bismuth quadruple therapy (PPI + Bismuth + Tetracycline + Metronidazole) |
-| Second-Line Antibiotics | Levofloxacin-based triple therapy; Rifabutin-based therapy (salvage) |
+| First-Line Antibiotics | **Bismuth quadruple therapy (BQT)** (PPI + Bismuth + Tetracycline + Metronidazole × 14 days) — preferred due to rising clarithromycin resistance; **OR Vonoprazan-amoxicillin dual therapy** (FDA-approved 2024); Clarithromycin triple therapy only if local resistance <15% and no prior macrolide exposure |
+| Second-Line Antibiotics | Levofloxacin-based triple therapy; Concomitant therapy (PPI + Clarithromycin + Amoxicillin + Metronidazole); Rifabutin-based therapy (salvage, multiple failures) |
 | Typical Sites of Infection | Gastric/duodenal ulcers, gastric adenocarcinoma (long-term), MALT lymphoma |
 
 **Pathogenicity**
 - **Urease** — converts urea to ammonia; neutralizes gastric acid, enabling survival in the stomach; basis for urea breath test
 - **CagA (cytotoxin-associated gene A)** — injected into gastric epithelium via Type IV secretion system; promotes inflammation and carcinogenesis
 - **VacA (vacuolating cytotoxin)** — forms channels in epithelial cells; causes vacuolization and apoptosis
-- Clarithromycin resistance increasing (~20–30% in many regions) — check local resistance patterns; bismuth quadruple therapy preferred in high-resistance areas
+- Clarithromycin resistance now **≥25–30% in the US** (pediatric cohort data: 24.5%; regional/global data: 29–34%) — clarithromycin triple therapy should NOT be used as routine first-line in the US
 - Test and treat recommended in all patients with documented peptic ulcer disease
+
+**Treatment Regimens (Updated 2024–2026 Guidelines):**
+| Regimen | Drugs & Doses | Duration | Eradication Rate | Notes |
+|---|---|---|---|---|
+| **Bismuth quadruple therapy (BQT)** *(preferred)* | PPI BID + Bismuth subcitrate 300 mg QID (or subsalicylate 525 mg QID) + Tetracycline 500 mg QID + Metronidazole 500 mg QID | 14 days | 85–90% | Not affected by clarithromycin resistance; preferred in US |
+| **Vonoprazan-amoxicillin dual therapy** *(FDA-approved 2024)* | Vonoprazan 20 mg BID + Amoxicillin 1000 mg TID | 14 days | ~77% overall; 70% in clarithromycin-resistant strains | Superior acid suppression vs PPI; approved for treatment-naive adults |
+| **Concomitant therapy** *(non-bismuth quadruple)* | PPI BID + Clarithromycin 500 mg BID + Amoxicillin 1000 mg BID + Metronidazole 500 mg BID | 10–14 days | ~91% | Acceptable if BQT unavailable and local clarithromycin resistance <15% |
+| **Clarithromycin triple therapy** *(avoid in US)* | PPI BID + Clarithromycin 500 mg BID + Amoxicillin 1000 mg BID | 14 days | 70–85% (lower with resistance) | Only if local clarithromycin resistance <15% AND no prior macrolide exposure |
+| **Salvage — levofloxacin triple** | PPI BID + Levofloxacin 500 mg daily + Amoxicillin 1000 mg BID | 14 days | 75–80% | If first-line fails |
+| **Salvage — rifabutin triple** | PPI BID + Rifabutin 150 mg BID + Amoxicillin 1000 mg BID | 10 days | ~70% | Reserved for multiple treatment failures |
 
 ---
 
-### Legionella pneumophila
+### ## **Legionella pneumophila**
 
 **Overview**
-An intracellular gram-negative rod that causes Legionnaires' disease — an atypical pneumonia that can progress to severe respiratory failure requiring ICU admission. Transmitted via aerosolized contaminated water (cooling towers, hospital water systems, hot tubs). No person-to-person transmission.
+An intracellular gram-negative rod that causes [Legionnaires' disease](https://www.openevidence.com/rare-disease/legionnaires-disease) — an atypical pneumonia that can progress to severe respiratory failure requiring ICU admission. Transmitted via aerosolized contaminated water (cooling towers, hospital water systems, hot tubs). No person-to-person transmission.
 
 **Characteristics**
-| Feature | Detail |
+
+|Feature|Detail|
 |---|---|
-| Gram Stain | Negative (stains poorly; better visualized with silver stain or DFA) |
-| Metabolism | Obligate aerobe |
-| Arrangement | Rods |
-| First-Line Antibiotics | Azithromycin or Levofloxacin (fluoroquinolones preferred for severe/ICU disease) |
-| Second-Line Antibiotics | Doxycycline, Rifampin (adjunct in severe cases) |
-| Typical Sites of Infection | Pneumonia (Legionnaires' disease), Pontiac fever (self-limited flu-like illness without pneumonia) |
+|Gram Stain|Negative (stains poorly; better visualized with silver stain or DFA)|
+|Metabolism|Obligate aerobe|
+|Arrangement|Rods|
+|First-Line Antibiotics|**Levofloxacin 750 mg IV daily (preferred for severe/ICU disease)**; Azithromycin 500 mg IV/PO daily (acceptable alternative)|
+|Second-Line Antibiotics|Moxifloxacin, Doxycycline; Rifampin (adjunct in severe cases — not monotherapy)|
+|Typical Sites of Infection|Pneumonia (Legionnaires' disease), Pontiac fever (self-limited flu-like illness without pneumonia)|
 
 **Pathogenicity**
-- Survives and replicates **intracellularly within alveolar macrophages** by creating a specialized vacuole (LCV — *Legionella*-containing vacuole)
+- Survives and replicates **intracellularly within alveolar macrophages** by creating a specialized vacuole (LCV — _Legionella_-containing vacuole)
 - **Dot/Icm Type IV secretion system** — injects >300 effector proteins into host cell to subvert intracellular trafficking
 - Beta-lactams and aminoglycosides are not effective (poor intracellular penetration); use agents with intracellular activity (macrolides, fluoroquinolones)
-- **Urine antigen test** — rapid, highly sensitive/specific for **serogroup 1** (most common, ~80–90% of cases); gold standard for acute diagnosis; note poor sensitivity for non-serogroup 1 strains — PCR or culture needed if clinical suspicion persists despite negative UAT
+- **Urine antigen test** — rapid, highly sensitive/specific for **serogroup 1** (most common, ~80–90% of cases); gold standard for acute diagnosis
+- **Note:** Urine antigen has poor sensitivity for non-serogroup 1 strains — PCR or culture needed if clinical suspicion persists despite negative UAT
 - Hyponatremia, elevated LFTs, and diarrhea are classic extrapulmonary features — triad should raise suspicion
+
+**Treatment Recommendations**
+- **For severe/ICU Legionnaires' disease, fluoroquinolones (levofloxacin) are preferred** over macrolides based on observational data [19-20]
+- Levofloxacin 750 mg IV daily is recommended for optimal outcomes in severe disease [19]
+- Azithromycin and levofloxacin have similar efficacy overall, but fluoroquinolones are bactericidal while macrolides are bacteriostatic [19-20]
+- Meta-analysis shows no significant difference in mortality between fluoroquinolones and macrolides (OR 0.94, p=0.661), but fluoroquinolones may be preferred in critically ill patients [21-22]
+- Duration: 5–10 days for levofloxacin; 3–5 days for azithromycin [19]
+- Extended courses recommended for immunosuppressed patients, severe disease, or extrapulmonary infection [19]
+- Combination therapy (fluoroquinolone + macrolide) has no proven benefit and is not routinely recommended
 
 ---
 

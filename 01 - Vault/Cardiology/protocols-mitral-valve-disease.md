@@ -342,17 +342,21 @@ tags:
 | **Vasodilators (IV Nicardipine)** | ↓ systemic vascular resistance → ↓ LV afterload → ↓ regurgitant volume, improves forward CO | 0.5–2.0 mg/hr IV, titrate by 0.5 mg/hr q5–15min to SBP goal (95–120 mmHg); max 15 mg/hr | **First-line if hypertensive.** Rapid, titratable onset/offset. Avoid excessive drop in SBP (worsens forward CO). Goal is to reduce afterload while maintaining adequate perfusion pressure. |
 | **Vasodilators (IV Nitroprusside)** | ↓ preload + ↓ afterload (balanced effect) | 0.5–10 µg/kg/min IV infusion; titrate by 0.5 µg/kg/min q5–10min | **Second-line** (risk of cyanide toxicity with prolonged use >4 h or high-dose). Potent but less selective than nicardipine. Use if hypertensive crisis. |
 | **Diuretics (IV Furosemide)** | ↓ intravascular volume → ↓ LA pressure, mitigates pulmonary edema | 10–40 mg IV bolus; repeat q2–4h or continuous infusion 5–20 mg/hr; titrate to UOP goal | **Essential.** Reduces PCWP and alleviates congestion. Avoid over-diuresis (reduces preload excessively → ↓ forward CO in some patients). Monitor K⁺, Cr. |
-| **Intra-Aortic Balloon Pump (IABP)** | ↓ systemic vascular resistance, improves diastolic coronary perfusion → ↓ regurgitant fraction, ↑ forward CO | Timing 1:1 with cardiac cycle; Helium or CO₂ inflated balloons | **Physiologically sound; evidence is observational.** Multiple case series report dramatic hemodynamic improvement; MR patients identified as "super-responders." No RCT in acute MR population. **Limitations:** Contraindicated in aortic regurgitation; requires stable rhythm; vascular access complications. Consider if medical therapy plateauing and awaiting surgery. |
+| **Intra-Aortic Balloon Pump (IABP)** | ↓ aortic impedance → ↓ regurgitant fraction, ↑ forward CO; improves diastolic coronary perfusion | Timing 1:1 with cardiac cycle; 1:2 if hemodynamically marginal | **Observational data supports use:** Kettner et al. 2013 (n=26 acute MR-CS): IABP reduced preoperative mortality (11% vs 88%, p<0.001) and 30-day mortality (61% vs 100%, p=0.04) in patients bridged to surgery. Mechanism: reduction in aortic impedance decreases regurgitant volume while increasing forward flow. No RCT exists. **Limitations:** Contraindicated in AR; requires stable rhythm; vascular access complications. Use as bridge to definitive surgery. |
 | **Percutaneous Mechanical Support (Impella, VA-ECMO)** | Impella: ↓ LV afterload via active unloading; VA-ECMO: systemic support + oxygenation | Impella CP: 2.5–3.5 L/min; VA-ECMO: 3.5–4.5 L/min, FiO₂/sweep gas titrated | **Bridge to surgery or decision-making tool.** VA-ECMO allows time for full stabilization, cardiopulmonary recovery, ICU optimization before definitive intervention. **References:** Recent case series (VV-ECMO + M-TEER in acute post-MI papillary muscle rupture) show feasibility. |
 
-> [!tip] **Positive Pressure Ventilation: Dual Benefit in Acute MR**
-> PPV reduces work of breathing AND reduces LV afterload via PEEP, thereby reducing the regurgitant fraction and improving forward cardiac output. This is not merely "supportive"—it is a therapeutic intervention. Apply PEEP deliberately (10–15 cm H₂O on invasive ventilation) and watch hemodynamics improve in many patients with acute MR.
+> [!tip] **Positive Pressure Ventilation: Dual Benefit in Acute MR — Mechanism**
+> PEEP reduces MR severity via two complementary mechanisms:
+> 1. **Hemodynamic:** Increased intrathoracic pressure → reduced transmural LV pressure → decreased LV afterload → reduced regurgitant fraction (Alviar et al., JACC 2018)
+> 2. **Mechanical:** PEEP reduces LV diameter → decreases mitral annular diameter → increases leaflet coaptation length, physically reducing MR (Patzelt et al., JACC Cardiovasc Interv 2015; PMID 26723764 — coaptation length increased 3.0 mm → 5.4 mm as PEEP increased)
+>
+> Clinical data: CPAP at 8 cmH₂O reduced MR jet area fraction 0.37 → 0.30 within minutes (Kato et al., Front Physiol 2017; PMID 29218014). Apply PEEP deliberately (10–15 cmH₂O on invasive ventilation). This is hemodynamic therapy, not just respiratory support.
 
 > [!warning] **Vasopressor Warning**
 > Avoid pure alpha-agonists (phenylephrine, norepinephrine at high doses). Increasing afterload worsens MR by increasing LV end-systolic volume and regurgitant fraction. If inotropic support is needed, use **low-dose dobutamine** (2–5 µg/kg/min, not exceeding 5) to reduce afterload while maintaining contractility—but only as a bridge. Definitive therapy is always surgery for acute papillary muscle rupture MR.
 
-> [!warning] **IABP Evidence Caveat**
-> IABP improves hemodynamics in acute MR, but evidence is based on observational data, translational models, and case series. MR patients are identified as "super-responders." However, no RCT of IABP in acute post-MI MR exists. Use IABP judiciously as a temporizing measure while preparing for emergency surgery.
+> [!tip] **IABP in Acute MR — Evidence Summary**
+> IABP is physiologically sound in acute MR (reduces aortic impedance → decreases regurgitant fraction, increases forward CO). Kettner et al. 2013 (PMID 24035169) found IABP reduced preoperative mortality from 88% to 11% and 30-day mortality from 100% to 61% in acute MR-cardiogenic shock patients bridged to surgery. Evidence is observational (retrospective, n=26) — no RCT exists. MR patients are identified as "super-responders" in multiple case series. Use as bridge to surgery, not definitive therapy. Contraindicated in concurrent severe AR.
 
 ---
 
@@ -389,7 +393,24 @@ tags:
 
 ---
 
-#### Transcatheter Edge-to-Edge Repair (TEER/MitraClip): Role in Acute MR
+#### Papillary Muscle Infarction (Without Rupture)
+
+Papillary muscle infarction (PapMI) without complete rupture is distinct from papillary muscle rupture but clinically important:
+
+- Occurs in approximately **13–20% of STEMI patients** detectable on cardiac MRI
+- Does not always cause acute severe MR but significantly increases risk of chronic functional MR and LV remodeling
+- Associated with **significantly higher long-term cardiovascular mortality and arrhythmic events** compared to STEMI without PapMI (Lei et al., J Thorac Dis 2021; PMID 33569213)
+- **Clinical implication:** Post-MI patients with new murmur, unexplained heart failure symptoms, or echocardiographic functional MR should be considered for cardiac MRI to assess for papillary muscle infarction — even if papillary muscle rupture is excluded
+- The posteromedial papillary muscle (single blood supply from PDA) is far more susceptible than the anterolateral (dual supply from LAD and LCx)
+
+> [!tip] **Papillary Muscle Infarction vs. Rupture**
+> Papillary muscle **rupture** → acute severe MR, hemodynamic collapse, surgical emergency. Papillary muscle **infarction** (without rupture) → often subclinical acutely, but predicts chronic functional MR and long-term adverse outcomes. Both warrant close echocardiographic follow-up and early cardiology involvement post-MI.
+
+---
+
+#### Transcatheter Edge-to-Edge Repair (TEER / M-TEER / MitraClip): Role in Acute MR
+
+*Terminology note: TEER (transcatheter edge-to-edge repair) is the procedure class; M-TEER specifically denotes mitral TEER. MitraClip (Abbott) is the most widely used device. These terms are used interchangeably in the literature.*
 
 **Current Evidence & Limitations**
 - Evidence for acute MR is **limited to case series and registries**—no RCTs
@@ -400,7 +421,7 @@ tags:
 - **Other recent series** (Putti et al., 2026; Liu et al., 2026) report successful M-TEER as emergency bail-out after surgical repair failure and in conjunction with mechanical support (VA-ECMO)
 
 **Candidacy for Acute MR TEER**
-- **Guideline-directed practice:** TEER is indicated for **prohibitive surgical risk only**
+- **Current guidelines:** TEER indicated for **prohibitive surgical risk** in acute MR; however, observational data suggests expanding role at experienced centers even in operable high-risk patients — shared decision-making with Heart Team is essential
 - Patients who refuse surgery, are too frail, have contraindications (severe liver disease, respiratory failure dependent on vasopressors, etc.)
 - Bridge to surgical decision-making if patient stabilizes on ECMO
 - **NOT a substitute for surgery** in operable acute papillary muscle rupture; defer to cardiothoracic surgery first
@@ -422,8 +443,8 @@ tags:
 2. **Prohibitive surgical risk** (patient refuses, extreme age/frailty, uncorrectable coagulopathy, etc.) → consider TEER if high-volume center available; can be done while on IABP or VA-ECMO.
 3. **Hemodynamically deteriorating despite ECMO support** → TEER may buy time; dual decision with surgery/ECMO team.
 
-> [!warning] **Acute MR TEER: Evidence Caveat**
-> Do not use TEER as first-line therapy for acute post-MI papillary muscle rupture. Operative mortality for acute MR surgery (~25–30%) is not prohibitive, and surgery is the standard of care. Reserve TEER for patients with truly prohibitive surgical risk. The largest acute MR TEER series (87% procedural success, 30% mortality) involved patients explicitly deemed unsuitable for surgery—not representative of all-comers with acute MR.
+> [!warning] **Acute MR TEER: Evolving Evidence — Use Caution**
+> Surgery remains the guideline-recommended standard of care for operable acute post-MI papillary muscle rupture. However, observational data increasingly suggests TEER may offer a survival advantage over surgery in selected patients, particularly older patients with significant comorbidities (Estévez-Loureiro R et al., JACC 2024). This is registry-level evidence — no RCT comparing TEER vs surgery in acute MR exists. The largest acute MR TEER series (87% procedural success, 30% in-hospital mortality) involved patients deemed unsuitable for surgery — not representative of all-comers. At experienced centers, TEER is increasingly considered for high-risk but technically operable patients as part of a multidisciplinary Heart Team decision. Do not substitute TEER for surgery without Heart Team involvement.
 
 ---
 
@@ -487,9 +508,15 @@ tags:
   - **"Proportionate" secondary MR** (MITRA-FR phenotype: severe LV dilation with MR proportionate to degree of remodeling) → **MitraClip not recommended** (MITRA-FR trial showed no benefit)
   - Key distinction: degree of MR relative to LV dysfunction and LA size
 
-**COAPT vs. MITRA-FR Trials** (2019–2020)
-- **COAPT:** 614 patients with moderate-severe/severe MR, LVEF 26–55%, PCWP >18 mmHg despite optimal HFrEF therapy. MitraClip reduced hospitalizations and improved symptoms vs. medical therapy alone. Predominantly disproportionate MR phenotype.
-- **MITRA-FR:** 372 patients with severe MR, LVEF ≤40%, mostly proportionate MR (large LA and dilated LV). No benefit of MitraClip on primary endpoint.
+**COAPT vs. MITRA-FR vs. RESHAPE-HF2 — Trial Comparison**
+
+| Trial | EROA (cm²) | LVEDV (mL) | MR Phenotype | Primary Outcome | Key Finding |
+|---|---|---|---|---|---|
+| **COAPT** (2018) | 0.40 | ~192 | Disproportionate — severe MR, modest LV dilation | HF hospitalizations + mortality | ↓ HF hosp 46%, ↓ mortality trend; Class IIa indication |
+| **MITRA-FR** (2018) | 0.31 | ~252 | Proportionate — severe LV dilation, MR proportionate | Death or HF hospitalization | No benefit; MitraClip not recommended |
+| **RESHAPE-HF2** (2024) | ~0.25 | ~205 | Moderate-to-severe MR, modest LV dilation | HF hospitalizations + CV death | ↓ HF hospitalizations (HR 0.64); **no significant mortality benefit**; benefit even with EROA ~0.20–0.23 cm² |
+
+*RESHAPE-HF2 (Ponikowski et al., JACC 2024; PMID 39217574): Extended the COAPT phenotype to include moderate FMR (mean EROA 0.25 cm²); 23% had EROA <0.20 cm². Showed reduction in HF hospitalizations but NOT all-cause mortality (HR 0.76, 95% CI 0.57–1.01). This suggests TEER benefit extends to moderate FMR in appropriate LV size context, though mortality benefit is not yet established.*
 - **Clinical pearls:** Predict response by assessing LA size, regurgitant volume, and degree of LV remodeling; multidisciplinary team discussion (cardiology, cardiothoracic surgery, structural heart) recommended.
 
 **MitraClip Technical Considerations**
@@ -511,7 +538,7 @@ tags:
 
 | Intervention | Dosing | Mechanism | Notes |
 |--------------|--------|-----------|-------|
-| **Beta-blocker: Metoprolol** | 25–100 mg daily (div. BID); IV 5 mg bolus x 3 (q5min) | ↓ HR → ↑ diastolic filling time, ↓ LA pressure gradient | First-line for rate control. Target HR 60–70 bpm. Achieves effect within minutes (IV) to hours (PO). |
+| **Beta-blocker: Metoprolol** | 25–100 mg daily (div. BID); IV 5 mg bolus x 3 (q5min) | ↓ HR → ↑ diastolic filling time, ↓ LA pressure gradient | First-line for rate control. **Target HR 60–80 bpm** (lower end for severe MS; higher end acceptable for mild-moderate). In AF with RVR: emergent rate control to <100 bpm first, then titrate to 60–80 bpm. Avoid bradycardia <50 bpm (worsens CO despite improved filling). Achieves effect within minutes (IV) to hours (PO). |
 | **Non-DHP CCB: Diltiazem** | 30–120 mg daily (div. BID–TID); IV 0.25 mg/kg bolus over 2 min, then 5–15 mg/hr infusion | ↓ HR + negative inotropy; ↓ contractility may worsen CO initially but ↓ LA pressure | Alternative if beta-blocker contraindicated. IV onset ~2–5 min. Watch for hypotension, bradycardia. |
 | **Digoxin** | Loading: 0.5–1.0 mg PO div. (0.25 mg q6h x 4–5 doses); maintenance 0.125–0.375 mg daily | Positive inotrope + AV nodal slowing; ↓ HR in AF | Slower onset (hours). Use if AF + reduced LV function (HF). Narrow therapeutic window; monitor levels, renal function. |
 | **IV Furosemide** | 10–40 mg bolus; repeat q2–4h or continuous 5–20 mg/hr | ↓ intravascular volume → ↓ LA pressure | Essential for pulmonary edema. **Caution:** over-diuresis → ↓ preload → ↓ CO, worsens symptoms. Target euvolemia. |
@@ -609,10 +636,20 @@ According to PubMed, recent literature on acute mitral regurgitation and transca
 3. **Sharma A, et al. (2026).** Navigating the Diagnosis and Management of Papillary Muscle Rupture Following Inferior Myocardial Infarction. *Cureus.* 18(2):e103928. [DOI: 10.7759/cureus.103928](https://doi.org/10.7759/cureus.103928)
    - Contemporary case discussion emphasizing diagnostic approach and management strategies for acute papillary muscle rupture in the ICU. Highlights the importance of early recognition and coordinated cardiac surgery consultation.
 
-4. **Muscoli S, et al. (2025).** Antithrombotic Strategies After Transcatheter Edge-to-Edge Repair: Clinical Implications From the MitraSafe Study. *Journal of Cardiovascular Medicine.* 27(1):4–12. [DOI: 10.2459/JCM.0000000000001792](https://doi.org/10.2459/JCM.0000000000001792)
+4. **Ponikowski P, et al. (2024).** RESHAPE-HF2: Transcatheter mitral valve repair in patients with heart failure and functional mitral regurgitation. *JACC.* 2024;84(17):1681–1693. PMID 39217574.
+5. **Muscoli S, et al. (2025).** Antithrombotic Strategies After Transcatheter Edge-to-Edge Repair: Clinical Implications From the MitraSafe Study. *Journal of Cardiovascular Medicine.* 27(1):4–12. [DOI: 10.2459/JCM.0000000000001792](https://doi.org/10.2459/JCM.0000000000001792)
    - Real-world outcome data from 114 MitraClip patients comparing single antiplatelet therapy (SAPT) vs. dual antiplatelet therapy (DAPT). SAPT associated with improved 12-month survival (94% vs. 78.7% freedom from all-cause mortality) and lower bleeding burden; supports SAPT as preferred post-TEER strategy.
 
-5. **Putti M, et al. (2026).** Emergency Transcatheter Edge-to-Edge Mitral Valve Repair as a Bail-Out Strategy After Failed NeoChord Surgical Repair in Acute Degenerative Mitral Regurgitation. *American Journal of Cardiology.* 266:4–9. [DOI: 10.1016/j.amjcard.2026.02.004](https://doi.org/10.1016/j.amjcard.2026.02.004)
+6. **Kettner J, et al. (2013).** Intra-aortic balloon pump in acute severe mitral regurgitation with cardiogenic shock — a pilot study. *Am J Cardiol.* 2013;112(11):1706–1711. PMID 24035169.
+   - Retrospective analysis (n=26); IABP reduced preoperative mortality 88% → 11% (p<0.001) and 30-day mortality 100% → 61% (p=0.04) in acute MR-cardiogenic shock bridged to surgery. Key mechanism: reduction in aortic impedance.
+
+7. **Patzelt J, et al. (2015).** Effects of positive end-expiratory pressure on mitral valve geometry and functional mitral regurgitation in patients with left ventricular dysfunction. *JACC Cardiovasc Interv.* 2015;8(14):1828–1837. PMID 26723764.
+   - PEEP increase from 3 to 20 cmH₂O: mitral coaptation length increased 3.0 → 5.4 mm (p<0.001); annulus AP diameter decreased 32.4 → 30.5 mm (p<0.001). Mechanistic proof of PEEP reducing functional MR.
+
+8. **Kato TS, et al. (2017).** Effects of positive airway pressure therapy on mitral regurgitation: insights from adaptive servo-ventilation. *Front Physiol.* 2017;8:921. PMID 29218014.
+   - CPAP at 8 cmH₂O reduced MR jet area fraction 0.37 → 0.30 (p<0.001) in functional MR patients; supports deliberate PEEP application as hemodynamic therapy.
+
+9. **Putti M, et al. (2026).** Emergency Transcatheter Edge-to-Edge Mitral Valve Repair as a Bail-Out Strategy After Failed NeoChord Surgical Repair in Acute Degenerative Mitral Regurgitation. *American Journal of Cardiology.* 266:4–9. [DOI: 10.1016/j.amjcard.2026.02.004](https://doi.org/10.1016/j.amjcard.2026.02.004)
    - Case of emergency M-TEER on VA-ECMO for post-operative acute MR after failed surgical repair. Demonstrates TEER utility as rescue intervention when surgical redo is prohibitively risky.
 
 ---
