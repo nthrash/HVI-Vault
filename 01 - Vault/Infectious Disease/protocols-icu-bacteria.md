@@ -795,14 +795,14 @@ An intracellular gram-negative rod that causes [Legionnaires' disease](https://w
 
 **Characteristics**
 
-|Feature|Detail|
-|---|---|
-|Gram Stain|Negative (stains poorly; better visualized with silver stain or DFA)|
-|Metabolism|Obligate aerobe|
-|Arrangement|Rods|
-|First-Line Antibiotics|**Levofloxacin 750 mg IV daily (preferred for severe/ICU disease)**; Azithromycin 500 mg IV/PO daily (acceptable alternative)|
-|Second-Line Antibiotics|Moxifloxacin, Doxycycline; Rifampin (adjunct in severe cases — not monotherapy)|
-|Typical Sites of Infection|Pneumonia (Legionnaires' disease), Pontiac fever (self-limited flu-like illness without pneumonia)|
+| Feature                    | Detail                                                                                                                        |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| Gram Stain                 | Negative (stains poorly; better visualized with silver stain or DFA)                                                          |
+| Metabolism                 | Obligate aerobe                                                                                                               |
+| Arrangement                | Rods                                                                                                                          |
+| First-Line Antibiotics     | **Levofloxacin 750 mg IV daily (preferred for severe/ICU disease)**; Azithromycin 500 mg IV/PO daily (acceptable alternative) |
+| Second-Line Antibiotics    | Moxifloxacin, Doxycycline; Rifampin (adjunct in severe cases — not monotherapy)                                               |
+| Typical Sites of Infection | Pneumonia (Legionnaires' disease), Pontiac fever (self-limited flu-like illness without pneumonia)                            |
 
 **Pathogenicity**
 - Survives and replicates **intracellularly within alveolar macrophages** by creating a specialized vacuole (LCV — _Legionella_-containing vacuole)
