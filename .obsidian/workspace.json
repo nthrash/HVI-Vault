@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Vault/Hematology/protocols-teg-rotem.md",
+                "file": "01 - Vault/Surgery/protocols-post-op-bleeding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "protocols-teg-rotem"
+              "title": "protocols-post-op-bleeding"
             }
           }
         ]
@@ -196,6 +196,9 @@
   },
   "active": "83b46fbe9ee26c04",
   "lastOpenFiles": [
+    "01 - Vault/Devices/protocols-ecmo-troubleshooting.md",
+    "01 - Vault/Surgery/protocols-post-op-bleeding.md",
+    "01 - Vault/Hematology/protocols-teg-rotem.md",
     "01 - Vault/Pulmonary/NEEDS COMPLETION-ventilator-waveform-analysis.md",
     "01 - Vault/Cardiology/protocols-valvular-heart-disease-overview.md",
     "01 - Vault/Cardiology/protocols-right-heart-catheterization.md",
@@ -203,8 +206,6 @@
     "01 - Vault/Cardiology/protocols-icu-cardiac-calculations.md",
     "01 - Vault/Cardiology/protocols-mitral-valve-disease.md",
     "01 - Vault/Surgery/protocols-vasoplegia.md",
-    "01 - Vault/Hematology/protocols-teg-rotem.md",
-    "01 - Vault/Surgery/protocols-post-op-bleeding.md",
     "TEG_ROTEM_Interpreting_Viscoelastic_Assays.md",
     "01 - Vault/Cardiology/protocols-gdmt-hfref.md",
     "01 - Vault/Cardiology/protocols-afterload-intrathoracic-pressure.md",
@@ -221,7 +222,6 @@
     "01 - Vault/Rheumatology/Autoimmune Cheat Sheet.md",
     "01 - Vault/Rheumatology/protocols-autoimmune-rheumatology.md",
     "01 - Vault/Pulmonary/protocols-vent-management.md",
-    "01 - Vault/Pulmonary/protocols-rsi.md",
     "01 - Vault/Cardiology/protocols-right-heart-catheterization.pdf",
     "~$ntilator-Waveform-Analysis.docx",
     "99 - Meta/Assets/Images/Vent Waveforms/Online/15-PV-loops-summary.jpg",

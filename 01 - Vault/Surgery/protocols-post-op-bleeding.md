@@ -89,6 +89,7 @@ Order simultaneously:
 - Temperature (correct hypothermia — target >36°C)
 
 > **TEG/ROTEM-guided transfusion algorithms** reduce mortality (RR 0.76, 95% CI 0.63–0.92), FFP use (RR 0.52), platelet use (RR 0.69), and reoperation rates (RR 0.63) compared to conventional coagulation testing alone. (Meta-analysis of 35 RCTs, PMID 41004381)
+> [[protocols-teg-rotem]]
 
 ### Step 3 — Correct Reversible Causes First
 
