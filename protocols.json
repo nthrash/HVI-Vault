@@ -333,6 +333,13 @@
       "subtitle": "Clinical Quick Reference for APPs",
       "category": "rheumatology",
       "contentFile": "01 - Vault/Rheumatology/protocols-autoimmune-rheumatology.md"
+    },
+    {
+      "id": "teg-rotem",
+      "title": "TEG & ROTEM Interpretation",
+      "subtitle": "Viscoelastic Hemostatic Assays",
+      "category": "hematology",
+      "contentFile": "01 - Vault/Hematology/protocols-teg-rotem.md"
     }
   ]
 }

@@ -53,12 +53,12 @@ Post-operative bleeding is one of the most common and serious complications foll
 
 ### Chest Tube Output Thresholds
 
-| Time Frame | Threshold Warranting Urgent Workup |
-|---|---|
-| Any single hour | >200–300 mL/hr |
-| First 4 hours total | >500–1,000 mL cumulative |
-| Sudden increase | Abrupt rise after period of low output (consider tamponade or clot dislodgement) |
-| Cessation of output | No output with hemodynamic deterioration — consider clot obstruction/tamponade |
+| Time Frame          | Threshold Warranting Urgent Workup                                               |
+| ------------------- | -------------------------------------------------------------------------------- |
+| Any single hour     | >100-200 mL/hr from 1 single tube or 200+ from total                             |
+| First 4 hours total | >500–1,000 mL cumulative                                                         |
+| Sudden increase     | Abrupt rise after period of low output (consider tamponade or clot dislodgement) |
+| Cessation of output | No output with hemodynamic deterioration — consider clot obstruction/tamponade   |
 
 > Thresholds should trigger immediate coagulation assessment and initiation of the algorithm below — not reflexive blood product administration.
 
