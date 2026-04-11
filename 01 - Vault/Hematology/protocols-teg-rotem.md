@@ -36,6 +36,9 @@ Both TEG and ROTEM exploit the same principle: a small whole-blood sample (~0.36
 The graphical output looks the same — a symmetric spindle — and the parameters measured are conceptually equivalent, though the names differ between systems.
 
 ---
+![Rotem|800](https://images.squarespace-cdn.com/content/v1/53c1a2cce4b0e88e61f99b70/1439379700371-H6FCRSQQ1H55RHPIRNHR/image-asset.png)
+
+---
 
 ## Parameters: TEG vs. ROTEM Side-by-Side
 
