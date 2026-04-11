@@ -350,3 +350,7 @@ The following were identified via PubMed search (search terms: "TEG ROTEM thromb
 9. Curry NS, Davenport R, Fox EE, et al. Transfusion Strategies for Traumatic Coagulopathy. *Blood.* 2021;137(17):2342–2350.
 
 10. LITFL (Life in the Fast Lane). Thromboelastogram (TEG). Available at: https://litfl.com/thromboelastogram-teg/ (accessed April 2026).
+
+---
+
+_Created: 2026-04-11 · Last updated: 2026-04-11 · HVI ICU APP Team_
