@@ -89,15 +89,15 @@
       "id": "lung-transplant-icu",
       "title": "Lung Transplant ICU Care",
       "subtitle": "Post-Transplant Protocol",
-      "category": "pulmonary",
-      "contentFile": "01 - Vault/Pulmonary/protocols-lung-transplant-icu.md"
+      "category": "transplant",
+      "contentFile": "01 - Vault/Transplant/protocols-lung-transplant-icu.md"
     },
     {
       "id": "halt",
       "title": "Hyperammonemia After Lung Transplant",
       "subtitle": "HALT",
-      "category": "pulmonary",
-      "contentFile": "01 - Vault/Pulmonary/protocols-halt.md"
+      "category": "transplant",
+      "contentFile": "01 - Vault/Transplant/protocols-halt.md"
     },
     {
       "id": "antiarrhythmic-drugs",
@@ -205,8 +205,8 @@
       "id": "clad",
       "title": "Chronic Lung Allograft Dysfunction",
       "subtitle": "CLAD — BOS & RAS",
-      "category": "pulmonary",
-      "contentFile": "01 - Vault/Pulmonary/protocols-clad.md"
+      "category": "transplant",
+      "contentFile": "01 - Vault/Transplant/protocols-clad.md"
     },
     {
       "id": "hfnc",
