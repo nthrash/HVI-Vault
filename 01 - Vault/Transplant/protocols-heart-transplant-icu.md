@@ -173,13 +173,13 @@ Ischemia-reperfusion injury causes myocardial edema and reduced ventricular comp
 
 ### Inotropic Support
 
-| Agent | Mechanism | Dose | Key Notes |
-|-------|-----------|------|-----------|
-| **Dobutamine** | β1/β2 agonist | 2–10 mcg/kg/min | First-line inotrope; also reduces PVR |
-| **Milrinone** | PDE-3 inhibitor | 0.125–0.5 mcg/kg/min | Inotropy + pulmonary vasodilation; avoid loading dose; reduce in AKI |
-| **Isoproterenol** | Non-selective β agonist | 0.5–2 mcg/min | Chronotropy + inotropy; pulmonary vasodilator; first-line for bradycardia/AV block |
-| **Epinephrine** | α1/β1/β2 agonist | 0.01–0.1 mcg/kg/min | High-output shock; use cautiously — increases PVR at high doses |
-| **Levosimendan** | Calcium sensitizer | 0.05–0.2 mcg/kg/min | Limited US availability; evidence in refractory PGD; also vasodilates |
+| Agent             | Mechanism               | Dose                 | Key Notes                                                                          |
+| ----------------- | ----------------------- | -------------------- | ---------------------------------------------------------------------------------- |
+| **Dobutamine**    | β1/β2 agonist           | 2–10 mcg/kg/min      | First-line inotrope; also reduces PVR                                              |
+| **Milrinone**     | PDE-3 inhibitor         | 0.125–0.5 mcg/kg/min | Inotropy + pulmonary vasodilation; avoid loading dose; reduce in AKI               |
+| **Isoproterenol** | Non-selective β agonist | 0.5–4 mcg/min        | Chronotropy + inotropy; pulmonary vasodilator; first-line for bradycardia/AV block |
+| **Epinephrine**   | α1/β1/β2 agonist        | 0.01–0.1 mcg/kg/min  | High-output shock; use cautiously — increases PVR at high doses                    |
+| **Levosimendan**  | Calcium sensitizer      | 0.05–0.2 mcg/kg/min  | Limited US availability; evidence in refractory PGD; also vasodilates              |
 
 ### Vasopressor Support
 
