@@ -150,14 +150,18 @@ All OHT recipients require a **pulmonary artery catheter (Swan-Ganz)** in the im
 
 **Serial bedside echocardiography** (every 4–8 hours initially, then daily) is the primary tool for assessing biventricular function, RV dilation, pericardial effusion, and response to interventions.
 
+### Early Restrictive Physiology
+
+Ischemia-reperfusion injury causes myocardial edema and reduced ventricular compliance from the moment of reperfusion, peaking in the first 24 hours and gradually resolving over weeks. This makes the allograft stiffer than a normal heart — it requires higher filling pressures to generate adequate stroke volume, and cardiac output is critically preload-dependent (especially with a fixed denervated heart rate). Ensure adequate filling early; a volume-depleted, stiff allograft is harder to rescue than one that is appropriately filled. The PA catheter is essential for navigating this — do not rely on CVP alone.
+
 ### Hemodynamic Targets
 
 | Parameter          | Target                       |
 | ------------------ | ---------------------------- |
 | Heart Rate         | 100–120 bpm (sinus or paced) |
 | MAP                | 65–80 mmHg                   |
-| CVP (RAP)          | 8–12 mmHg                    |
-| PCWP               | 10–18 mmHg                   |
+| CVP (RAP)          | 8–15 mmHg                    |
+| PCWP               | 15–20 mmHg                   |
 | Cardiac Index (CI) | ≥ 2.2 L·min⁻¹·m⁻²            |
 | SvO₂               | > 60%                        |
 | Urine Output       | > 0.5 mL·kg⁻¹·hr⁻¹           |
