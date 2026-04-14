@@ -12,6 +12,8 @@ tags:
   - right-ventricular-failure
   - hemodynamics
   - critical-care
+  - arrhythmia
+  - rejection
 ---
 
 ## Table of Contents
@@ -55,7 +57,7 @@ The intensivist and APP caring for the heart transplant recipient must fluently 
 
 ## Immediate Post-Op Arrival: Whiteboard Protocol
 
-On patient arrival from the OR, the APP should rapidly document the following on the bedside whiteboard, which serves as the team's operational reference:
+On patient arrival from the OR, the APP should rapidly document the following for their post OP note, which serves as the team's operational reference:
 
 ### Operative Data
 - **Patient arrival time** from OR
@@ -90,7 +92,6 @@ On patient arrival from the OR, the APP should rapidly document the following on
 - **Portable CXR** — confirm line placement, assess cardiac silhouette, bilateral pleural effusions, pulmonary edema
 - **ABG** — confirm ventilation, pH, lactate
 - **Labs**: CBC, BMP, ionized calcium, magnesium, phosphorus, coagulation (PT/INR, PTT, fibrinogen), TEG/ROTEM, tacrolimus level (once initiated)
-- **Bedside echo (TTE or TEE)** — assess biventricular function, pericardial effusion, valvular competence
 
 ---
 
@@ -284,35 +285,115 @@ Target early extubation (median 6–12 hours post-transplant in uncomplicated ca
 
 ## Arrhythmia Management
 
-Arrhythmias are extremely common in the early post-transplant period, occurring in up to 50% of recipients.
+Arrhythmias occur in up to 50% of OHT recipients and carry very different clinical implications depending on **type** and **timing**. This is not standard post-cardiotomy arrhythmia management — in the transplanted heart, the arrhythmia itself may be the presenting sign of acute rejection, and failing to recognize this distinction can be fatal.
 
 ### Key Points About the Denervated Heart
-- **Atropine has NO effect** on the transplanted heart (no vagal tone)
-- **Digoxin has NO chronotropic effect** (indirect effect via vagus is absent)
-- **Isoproterenol and dobutamine** are the agents of choice for bradycardia
-- **Direct-acting agents** (e.g., catecholamines, adenosine) still work because the effector receptors are intact
+- **Atropine has NO effect** on the transplanted heart — there is no vagal innervation to block
+- **Digoxin has NO chronotropic effect** — its indirect mechanism via the vagus nerve is absent; it retains mild inotropy but is rarely used
+- **Isoproterenol and temporary epicardial pacing** are the agents of choice for bradycardia
+- **Direct-acting agents** (catecholamines, adenosine) retain their effect because the effector receptors on the myocardium are intact
+- **Reinnervation** is partial and occurs over months to years — not clinically relevant in the ICU phase
 
-### Common Arrhythmias
+### Timing Is Everything: Early vs. Late Arrhythmias
 
-**Sinus Bradycardia / Junctional Rhythm (common immediately post-op):**
-- Expected from residual preservation injury and denervation
-- Manage with isoproterenol infusion 0.5–2 mcg/min or temporary epicardial pacing (usually placed intraoperatively)
-- Target HR 90–100 bpm in the early period
+The cause and clinical significance of arrhythmias shift dramatically with time from transplant:
 
-**Atrial Fibrillation / Flutter (20–40% of recipients):**
-- Common due to surgical trauma, pericardial inflammation, elevated LA pressures
-- Rate control: beta-blockers (carefully, may drop CO), amiodarone IV
-- Rhythm control: amiodarone preferred (team discussion required)
-- DC cardioversion if hemodynamically unstable (coordinate with team)
-- Anticoagulation decisions complex — team-based
+| Timing | Primary Cause | Rejection Concern? |
+|--------|--------------|-------------------|
+| **< 2–3 weeks post-op** | Surgical trauma, suture line inflammation, ischemia-reperfusion, pericarditis, electrolytes | Low — but do not ignore |
+| **> 3 weeks post-op** | **Rejection until proven otherwise** | **High — biopsy indicated** |
+| **Late (months–years)** | Cardiac allograft vasculopathy (CAV), chronic rejection, reinnervation | High for ventricular arrhythmias |
 
-**Complete Heart Block / AV Block:**
-- May occur from surgical injury to AV node
-- Temporary epicardial pacing is first-line
-- Permanent pacemaker required in ~5–10% of OHT recipients
+> [!warning] Arrhythmia = Rejection Until Proven Otherwise (Beyond 3 Weeks)
+> In the late post-transplant period, new-onset atrial flutter or atrial tachycardia should be treated as a potential sign of acute allograft rejection and is an indication for urgent endomyocardial biopsy. Multiple studies confirm 69–75% of post-transplant atrial flutter episodes beyond the early post-op period are temporally associated with acute rejection.
+
+---
+
+### Sinus Bradycardia / Junctional Rhythm
+
+**Timing:** Immediate post-op (first 24–72 hours). Very common.
+
+**Cause:** Denervation, SA node preservation injury, residual cardioplegia effect.
+
+**Management:**
+- Isoproterenol infusion 0.5–2 mcg/min — first-line; increases HR and has mild pulmonary vasodilatory effect
+- Temporary epicardial pacing (atrial or AV sequential) — use if isoproterenol insufficient or not tolerated
+- Target HR 90–110 bpm in the early period — every beat per minute matters when CO is borderline
+- Does **not** respond to atropine
 
 > [!tip] Epicardial Pacing Leads
-> Nearly all heart transplant recipients arrive from the OR with temporary epicardial pacing wires. Keep these accessible and functional for the first 5–7 days. Check capture and sensing thresholds daily.
+> Nearly all OHT recipients arrive from the OR with temporary epicardial pacing wires. Confirm capture and sensing thresholds on arrival and check daily. Keep accessible for the first 5–7 days — loss of pacing capability in a bradycardic denervated heart is a preventable emergency.
+
+---
+
+### Atrial Flutter
+
+**The most important arrhythmia in the post-transplant patient.**
+
+**Early (< 3 weeks):** May be related to surgical inflammation, suture line irritation at the bicaval or biatrial anastomosis, or atrial distension. Treat hemodynamic instability first; consider rejection if clinically borderline.
+
+**Late (> 3 weeks) or Recurrent:** **Strongly associated with acute rejection.** In multiple studies, atrial flutter occurring beyond the early post-op period was associated with biopsy-proven acute rejection in 69–75% of episodes, most of which were moderate-to-severe (ISHLT Grade 2R or 3R). Atrial flutter is the single arrhythmia most closely linked to rejection in heart transplant recipients.
+
+> [!warning] Atrial Flutter Beyond 3 Weeks = Biopsy Indication
+> Any new episode of atrial flutter after the first 3 weeks post-transplant should prompt urgent endomyocardial biopsy. Do not simply rate-control and discharge. If there is hemodynamic compromise, initiate empiric pulse steroids (methylprednisolone 500–1000 mg IV) while awaiting biopsy — do not wait for pathology to treat if the patient is deteriorating.
+
+**Acute Management:**
+- If hemodynamically unstable: DC cardioversion (synchronized)
+- Amiodarone IV for rate/rhythm control (consult team before initiating)
+- Atrial overdrive pacing (via epicardial wires) can terminate typical isthmus-dependent flutter — effective and avoids antiarrhythmic drug toxicity in the early post-op period
+- Treat underlying rejection if confirmed — rhythm often resolves with successful rejection treatment
+
+---
+
+### Atrial Fibrillation
+
+**Timing:** Can occur early or late; incidence 20–40% of OHT recipients.
+
+**Early (< 3 weeks):** Primarily driven by surgical trauma, pericardial inflammation, atrial distension, catecholamine excess, and electrolyte disturbances. Less strongly associated with rejection than atrial flutter in this phase.
+
+**Late or Recurrent:** Still warrants evaluation for rejection, particularly if new-onset or refractory. Less specific than atrial flutter but should not be dismissed.
+
+**Management:**
+- Correct precipitants: electrolytes (K⁺ > 4.0, Mg²⁺ > 2.0), volume status, pain, fever
+- Rate control: amiodarone IV preferred in hemodynamically compromised patients; metoprolol cautiously if CO adequate
+- Rhythm control: amiodarone (discuss with team); electrical cardioversion if hemodynamically unstable
+- Anticoagulation: individualized — high bleeding risk early post-op; team decision
+- If late or unexplained → evaluate for rejection (biopsy) and CAV
+
+---
+
+### Atrial Tachycardia (Non-Flutter, Non-Fibrillation)
+
+Focal atrial tachycardia occurs in 9–15% of OHT recipients and is **highly associated with acute rejection**, particularly in the weeks to months following transplant. Case reports and series document resolution of atrial tachycardia with pulse steroid treatment for confirmed rejection.
+
+**Management:**
+- Any new atrial tachycardia beyond the immediate post-op period: evaluate for rejection (biopsy)
+- Amiodarone for acute rate/rhythm control
+- Treat underlying rejection if confirmed — arrhythmia frequently resolves
+
+---
+
+### Complete Heart Block / AV Block
+
+**Cause:** Surgical injury to the AV node or conduction system at the time of transplant; more common with bicaval technique disruption.
+
+**Management:**
+- Temporary epicardial AV sequential pacing first-line
+- Permanent pacemaker (PPM) required in approximately 5–10% of OHT recipients
+- PPM implantation typically deferred 5–7 days to allow for potential recovery of conduction
+
+---
+
+### Ventricular Arrhythmias
+
+**Early post-op:** Ventricular ectopy and non-sustained VT are common and usually benign — often related to electrolyte disturbances, ischemia-reperfusion injury, or inotrope use. Correct reversible causes.
+
+**Late (months–years post-transplant):** New or sustained ventricular arrhythmias are more strongly associated with **cardiac allograft vasculopathy (CAV)** than acute cellular rejection — CAV causes diffuse ischemia that creates the substrate for re-entrant VT and increases sudden cardiac death risk. VT/VF in a late post-transplant patient should prompt urgent evaluation for CAV (coronary angiography ± IVUS) in addition to rejection (biopsy).
+
+**Sustained VT/VF:** ACLS applies — defibrillate, amiodarone, assess for reversible causes. Note that the denervated heart may not exhibit the normal autonomic responses to VF/VT (no diaphoresis, no chest pain angina equivalent).
+
+> [!warning] No Anginal Equivalent in the Denervated Heart
+> Patients with CAV-related ischemia will not experience chest pain usually. Ventricular arrhythmias, unexplained dyspnea, or hemodynamic deterioration may be the only presentation of significant ischemia or infarction in the transplanted heart.
 
 ---
 
@@ -440,13 +521,13 @@ Delirium incidence is high (30–50%) in the early post-transplant period due to
 
 ### Escalation Ladder in PGD / RV Failure
 
-| Severity | Device | Indication |
-|----------|--------|-----------|
-| Moderate PGD | **IABP** | LV support, augments coronary perfusion; simple to place; limited RV benefit |
-| Severe PGD — LV | **Impella CP/5.0** | Direct LV unloading; bridges to recovery or more durable support |
-| Severe RV failure | **Impella RP / Protek Duo** | Percutaneous RVAD; high flow PA-to-RA bypass |
-| Biventricular PGD | **VA-ECMO** | Complete cardiopulmonary support; highest-acuity device; standard of care for severe biventricular PGD |
-| Bridge to transplant retransplantation | **BiVAD / Total Artificial Heart** | Rare; for irreversible PGD with no recovery |
+| Severity                               | Device                             | Indication                                                                                             |
+| -------------------------------------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Moderate PGD                           | **IABP**                           | LV support, augments coronary perfusion; simple to place; limited RV benefit                           |
+| Severe PGD — LV                        | **Impella CP/5.5**                 | Direct LV unloading; bridges to recovery or more durable support                                       |
+| Severe RV failure                      | **Impella RP / Protek Duo**        | Percutaneous RVAD; high flow PA-to-RA bypass                                                           |
+| Biventricular PGD                      | **VA-ECMO**                        | Complete cardiopulmonary support; highest-acuity device; standard of care for severe biventricular PGD |
+| Bridge to transplant retransplantation | **BiVAD / Total Artificial Heart** | Rare; for irreversible PGD with no recovery                                                            |
 
 ### VA-ECMO in PGD
 
