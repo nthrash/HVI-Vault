@@ -340,6 +340,20 @@
       "subtitle": "Viscoelastic Hemostatic Assays",
       "category": "hematology",
       "contentFile": "01 - Vault/Hematology/protocols-teg-rotem.md"
+    },
+    {
+      "id": "heart-transplant-icu",
+      "title": "Heart Transplant ICU Management",
+      "subtitle": "Post-Op Care: OR Arrival to ICU Discharge",
+      "category": "transplant",
+      "contentFile": "01 - Vault/Transplant/protocols-heart-transplant-icu.md"
+    },
+    {
+      "id": "heart-transplant-immunosuppression",
+      "title": "Heart Transplant Immunosuppression & Antimicrobial Regimens",
+      "subtitle": "Post-Transplant Immunosuppression & Prophylaxis Protocol",
+      "category": "transplant",
+      "contentFile": "01 - Vault/Transplant/protocols-heart-transplant-immunosuppression.md"
     }
   ]
 }
