@@ -56,7 +56,6 @@ description: Quick-reference directory of HFICU team members by department — f
 | ---------------------------- | --------------------------- |
 | Igor D. Gregoric, MD         | Professor, Department Chair |
 | Juan Marcano, MD             | Assistant Professor         |
-| Jayeshkumar Patel, MD        | Assistant Professor         |
 | Manish Patel, MD             | Associate Professor         |
 | Ismael A. Salas de Armas, MD | Associate Professor         |
 | Cristian Sorin Sarateanu, MD | Assistant Professor         |
@@ -122,15 +121,15 @@ description: Quick-reference directory of HFICU team members by department — f
 
 ### Heart Failure
 
-| Name              | Title                            |
-| ----------------- | -------------------------------- |
-| Nicholas Thrash   | Heart Failure Nurse Practitioner |
-| Anita Pandey      | Heart Failure Nurse Practitioner |
-| Crystal Park      | Heart Failure Nurse Practitioner |
-| Fidel Gonzales    | Heart Failure Nurse Practitioner |
-| Amanda Bergeron   | Heart Failure Nurse Practitioner |
-| Rachel Singultary | Heart Failure Nurse Practitioner |
-| Jessica Kolesar   | Heart Failure Nurse Practitioner |
+| Name              |
+| ----------------- |
+| Nicholas Thrash   |
+| Anita Pandey      |
+| Crystal Park      |
+| Fidel Gonzales    |
+| Amanda Bergeron   |
+| Rachel Singultary |
+| Jessica Kolesar   |
 
 
 ---
@@ -149,6 +148,9 @@ description: Quick-reference directory of HFICU team members by department — f
 ---
 ## 🧠 Neurology
 
+| Name           |
+| -------------- |
+| Bruce Levy, MD |
 
 ---
 
