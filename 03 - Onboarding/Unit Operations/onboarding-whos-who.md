@@ -127,6 +127,7 @@ description: Quick-reference directory of HFICU team members by department — f
 | Amanda Bergeron   |
 | Rachel Singultary |
 | Jessica Kolesar   |
+| Christa George    |
 
 
 ---
