@@ -57,7 +57,7 @@ Post-operative bleeding is one of the most common and serious complications foll
 Order simultaneously:
 
 - **Viscoelastic testing (TEG or ROTEM)** — primary guide to targeted therapy
-	- [[protocols-teg-rotem]]
+	- [protocols-teg-rotem](protocols-teg-rotem.md)
 - CBC with platelets
 - PT / INR, aPTT
 - Fibrinogen level
