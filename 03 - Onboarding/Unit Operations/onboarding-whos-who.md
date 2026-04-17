@@ -74,9 +74,6 @@ description: Quick-reference directory of HFICU team members by department — f
 
 ---
 ## 🫁 Pulmonary Critical Care Medicine (PCCM)
-
-> All PCCM faculty are with McGovern Medical School at UTHealth Houston.
-
 **Division Director**
 
 | Name                      | Title                        |
