@@ -105,7 +105,7 @@ description: Quick-reference directory of HFICU team members by department — f
 | Y   | Farah Kazzaz, MD                | Assistant Professor      |
 |     | Ali Khawaja, MD                 | Assistant Professor      |
 |     | Pascal L. Kingah, MD, MPH       | Associate Professor      |
-|     | Mahnoor Mir, MD                 | Assistant Professor      |
+| Y   | Mahnoor Mir, MD                 | Assistant Professor      |
 |     | Gabriel Patarroyo-Aponte, MD    | Associate Professor      |
 | Y   | Maulin Patel, MD                | Assistant Professor      |
 |     | Devon W. Paul, MD               | Assistant Professor      |

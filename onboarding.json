@@ -192,6 +192,13 @@
       "contentFile": "03 - Onboarding/Unit Operations/onboarding-icu-np-orientation.md"
     },
     {
+      "id": "whos-who",
+      "title": "HFICU Who's Who",
+      "subtitle": "Quick-reference directory of team members by department",
+      "category": "unit-operations",
+      "contentFile": "03 - Onboarding/Unit Operations/onboarding-whos-who.md"
+    },
+    {
       "id": "rounding-structure",
       "title": "Rounding Structure",
       "subtitle": "Multidisciplinary rounding workflow and team roles",
