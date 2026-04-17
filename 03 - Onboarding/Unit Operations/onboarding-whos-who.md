@@ -120,74 +120,35 @@ description: Quick-reference directory of HFICU team members by department — f
 ---
 ## 👩‍⚕️ Advanced Practice Providers (APPs)
 
-| Name | Title |
-| ---- | ----- |
-|      |       |
-|      |       |
-|      |       |
+### Heart Failure
+
+| Name              | Title                            |
+| ----------------- | -------------------------------- |
+| Nicholas Thrash   | Heart Failure Nurse Practitioner |
+| Anita Pandey      | Heart Failure Nurse Practitioner |
+| Crystal Park      | Heart Failure Nurse Practitioner |
+| Fidel Gonzales    | Heart Failure Nurse Practitioner |
+| Amanda Bergeron   | Heart Failure Nurse Practitioner |
+| Rachel Singultary | Heart Failure Nurse Practitioner |
+| Jessica Kolesar   | Heart Failure Nurse Practitioner |
+
 
 ---
-## 🎓 Fellows
+## 🫘 Nephrology
 
-| Name | Title |
-| ---- | ----- |
-|      |       |
-|      |       |
-|      |       |
+#### Kidney & Hypertension Consults of Houston Group
 
----
-## 🩺 Nursing Leadership
-
-| Name | Title |
-| ---- | ----- |
-|      |       |
-|      |       |
-|      |       |
+| Name                 |
+| -------------------- |
+| Asadullah Khan, MD   |
+| Navneet Singh, MD    |
+| Michael Campbell, MD |
+| Maryam Saeed, MD     |
+| Fatima Khalid, MD    |
 
 ---
-## 💊 Pharmacy
+## 🧠 Neurology
 
-| Name | Title |
-| ---- | ----- |
-|      |       |
-|      |       |
-|      |       |
-
----
-## 🧪 Perfusion / MCS
-
-| Name | Title |
-| ---- | ----- |
-|      |       |
-|      |       |
-|      |       |
-
----
-## 🫧 Respiratory Therapy
-
-| Name | Title |
-| ---- | ----- |
-|      |       |
-|      |       |
-|      |       |
-
----
-## 🏥 Case Management / Social Work
-
-| Name | Title |
-| ---- | ----- |
-|      |       |
-|      |       |
-|      |       |
-
----
-## 📋 Administration / Unit Leadership
-
-| Name | Title |
-| ---- | ----- |
-|      |       |
-|      |       |
-|      |       |
 
 ---
 
