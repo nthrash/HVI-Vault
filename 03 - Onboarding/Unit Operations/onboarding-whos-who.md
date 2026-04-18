@@ -128,6 +128,7 @@ description: Quick-reference directory of HFICU team members by department — f
 | Rachel Singultary |
 | Jessica Kolesar   |
 | Christa George    |
+| Paul Dao          |
 
 
 ---
