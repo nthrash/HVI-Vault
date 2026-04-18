@@ -1,0 +1,96 @@
+#separator:tab
+#html:false
+#tags column:3
+#deck:HVI ICU::Heart Transplant
+What cell types mediate Acute Cellular Rejection (ACR) after heart transplant?	CD4+ and CD8+ T lymphocytes that recognize donor MHC antigens on APCs	rejection pathophysiology
+What is the peak risk window for Acute Cellular Rejection (ACR) after OHT?	Weeks 2–8 post-transplant (highest risk in the first 3–6 months overall)	rejection pathophysiology
+What three findings are required to diagnose Antibody-Mediated Rejection (AMR)?	(1) Histopathology showing capillary injury / macrophage infiltrates, (2) C4d deposition, (3) circulating donor-specific antibodies (DSA)	rejection pathophysiology
+What is the leading cause of death beyond 5 years post-heart transplant?	Cardiac allograft vasculopathy (CAV)	rejection pathophysiology
+What is the mechanism of CAV?	Diffuse concentric intimal proliferation throughout the coronary tree driven by both immune and non-immune mechanisms	rejection pathophysiology
+How is hyperacute rejection prevented in modern transplant practice?	Pre-transplant crossmatch to identify preformed antibodies; exceedingly rare if crossmatch is negative	rejection pathophysiology
+What is the standard induction agent for heart transplant at most centers?	Basiliximab (Simulect) — IL-2 receptor antagonist (anti-CD25); 20 mg IV pre-op, repeat day 4	induction immunosuppression
+What is the mechanism of basiliximab?	Blocks IL-2 mediated T-cell clonal expansion by antagonizing the CD25 (IL-2 receptor alpha) subunit	induction immunosuppression
+When is rATG (Thymoglobulin) preferred over basiliximab for induction?	High PRA / sensitized recipients, hemodynamic instability preventing early CNI, renal failure at transplant; more potent but carries greater infection risk	induction immunosuppression
+What is the dose of rATG for induction in heart transplant?	1.5 mg/kg/day IV × 3–5 days	induction immunosuppression
+What intraoperative steroid is given universally at time of heart transplant?	Methylprednisolone 500–1000 mg IV at time of reperfusion	induction immunosuppression
+At what creatinine threshold do most centers delay tacrolimus initiation post-OHT?	Cr > 2.5–3.0 mg/dL (institution-dependent)	induction immunosuppression
+What are the three components of standard maintenance triple therapy after OHT?	(1) Calcineurin inhibitor (tacrolimus or cyclosporine), (2) Antiproliferative (MMF or MPA), (3) Corticosteroid (prednisone)	maintenance immunosuppression
+What is the mechanism of tacrolimus?	Binds FK-binding protein → inhibits calcineurin phosphatase → prevents NFAT dephosphorylation → blocks IL-2 transcription → inhibits T-cell clonal expansion	maintenance immunosuppression
+What is the tacrolimus trough target in the first 3 months post-OHT?	10–15 ng/mL	maintenance immunosuppression tacrolimus
+What is the tacrolimus trough target from 3–12 months post-OHT?	8–12 ng/mL	maintenance immunosuppression tacrolimus
+What is the tacrolimus trough target beyond 12 months post-OHT?	5–10 ng/mL	maintenance immunosuppression tacrolimus
+When should tacrolimus levels be rechecked after starting an interacting medication?	Within 48–72 hours	maintenance immunosuppression tacrolimus
+What is the IV-to-oral dose conversion ratio for tacrolimus?	IV dose = 1/3 to 1/4 of the oral dose	maintenance immunosuppression tacrolimus
+Name four key toxicities of tacrolimus	Nephrotoxicity, neurotoxicity (tremors, PRES), hyperglycemia (PTDM), hypomagnesemia	maintenance immunosuppression tacrolimus
+Why is cyclosporine now rarely used instead of tacrolimus?	Tacrolimus shows superior acute rejection prevention (30–40% relative reduction) in meta-analyses	maintenance immunosuppression
+What is the early trough target for cyclosporine?	200–350 ng/mL	maintenance immunosuppression
+What toxicities distinguish cyclosporine from tacrolimus?	Hirsutism and gingival hyperplasia (cyclosporine-specific); less diabetogenic than tacrolimus	maintenance immunosuppression
+What is the mechanism of mycophenolate mofetil (MMF)?	MMF is converted to mycophenolic acid (MPA), which inhibits IMPDH — the rate-limiting enzyme in de novo purine synthesis — selectively blocking T and B cell proliferation	maintenance immunosuppression MMF
+What is the standard MMF dose for heart transplant maintenance?	1,000–1,500 mg PO BID (total 2–3 g/day)	maintenance immunosuppression MMF
+At what WBC should MMF be dose-reduced?	WBC < 2,500/µL or ANC < 1,300/µL	maintenance immunosuppression MMF
+What should be done for significant GI intolerance to MMF before reducing the dose?	Switch to enteric-coated mycophenolic acid (EC-MPA / Myfortic) — significantly reduces GI side effects	maintenance immunosuppression MMF
+What test should be checked before starting azathioprine?	TPMT enzyme activity — severe myelosuppression risk in poor metabolizers	maintenance immunosuppression
+What is the mechanism of mTOR inhibitors (sirolimus, everolimus)?	Inhibits mTOR kinase → blocks T and B cell proliferation AND vascular smooth muscle cell proliferation	maintenance immunosuppression mTOR
+Name four indications to switch from MMF to an mTOR inhibitor after OHT	(1) Progressive CAV, (2) CNI nephrotoxicity, (3) CMV disease, (4) Post-transplant malignancy / PTLD	maintenance immunosuppression mTOR
+Why should mTOR inhibitors not be started within 4–6 weeks of OHT?	They significantly impair wound healing — risk of sternal dehiscence, wound breakdown	maintenance immunosuppression mTOR
+What is the trough target for everolimus?	3–8 ng/mL	maintenance immunosuppression mTOR
+What is the trough target for sirolimus?	5–10 ng/mL (early); 4–8 ng/mL (late)	maintenance immunosuppression mTOR
+What is the maintenance prednisone dose goal long-term after OHT?	5–10 mg/day	maintenance immunosuppression steroids
+Which patients may be considered for steroid withdrawal after OHT?	Low-risk patients (no prior rejection, low PRA, excellent graft function) at ≥ 12–24 months — not universally attempted	maintenance immunosuppression steroids
+Name five toxicities of long-term corticosteroids in transplant recipients	Hyperglycemia (PTDM), hypertension, dyslipidemia, osteoporosis, adrenal suppression	maintenance immunosuppression steroids
+How often is tacrolimus checked in the first month post-OHT?	Weekly	monitoring
+When is a tacrolimus trough drawn?	12 hours after the last dose (pre-dose / trough)	monitoring
+What labs are checked weekly for the first month post-OHT?	Tacrolimus level, CBC, BMP, LFTs	monitoring
+What ISHLT ACR grade requires treatment?	Grade 2R (moderate) and above	rejection ACR
+What is the treatment for ACR Grade 2R or 3R?	Methylprednisolone 500–1000 mg IV q24h × 3 days, followed by prednisone 1 mg/kg/day with taper; repeat biopsy in 4–6 weeks	rejection ACR
+What is the endomyocardial biopsy frequency in weeks 1–6 post-OHT?	Weekly	rejection biopsy surveillance
+What is the biopsy frequency from months 3–6 post-OHT?	Monthly	rejection biopsy surveillance
+What is the biopsy frequency after year 2 post-OHT?	Annually	rejection biopsy surveillance
+What is added to pulse steroids for hemodynamically compromising rejection?	rATG (1.5 mg/kg/day × 3–5 days) ± plasmapheresis/IVIG if AMR suspected	rejection ACR
+What is the primary initial treatment for AMR to rapidly reduce DSA levels?	Plasmapheresis	rejection AMR
+What agent is used for B-cell depletion in AMR treatment?	Rituximab 375 mg/m² × 1–4 doses (anti-CD20)	rejection AMR
+What agents are used for plasma cell depletion in AMR?	Bortezomib (1.3 mg/m² × 4 doses) or carfilzomib	rejection AMR
+What complement inhibitor is used off-label in severe AMR?	Eculizumab (anti-C5)	rejection AMR
+Which immunosuppressive drug is contraindicated in pregnancy post-transplant?	MMF/MPA — teratogenic (Category D); must switch to azathioprine at least 3–6 months before planned conception	special situations pregnancy
+How should immunosuppression be modified for PTLD?	Reduce CNI by 25–50%, reduce/hold MMF, switch antiproliferative to mTOR inhibitor (sirolimus/everolimus)	special situations PTLD
+What is the first-line perioperative antibiotic for heart transplant surgery?	Cefazolin 2 g IV (3 g if > 120 kg) within 60 minutes before incision, repeated every 4 hours intraoperatively	antimicrobial bacterial
+How long should perioperative antibiotic prophylaxis be continued post-OHT?	24 hours post-operatively (no benefit beyond 24–48h per STS guidelines)	antimicrobial bacterial
+When can a heart from a bacteremic donor be transplanted?	After the donor has received ≥ 24–48 hours of targeted antimicrobial therapy against the identified organism	antimicrobial bacterial
+How long should the recipient of a bacteremic donor heart receive targeted antimicrobials?	Typically 7–14 days targeting the donor isolate	antimicrobial bacterial
+What is the highest-risk CMV serostatus combination after OHT?	D+/R– (seropositive donor, seronegative recipient)	CMV prophylaxis
+What is the recommended CMV prophylaxis duration for D+/R– recipients per ISHLT 2023?	12 months of valganciclovir	CMV prophylaxis
+What is the recommended CMV prophylaxis duration for D+/R+ or D–/R+ recipients?	6 months of valganciclovir	CMV prophylaxis
+What is the drug of choice for CMV prophylaxis in heart transplant recipients?	Valganciclovir (Valcyte) 900 mg PO daily (renally adjusted)	CMV prophylaxis
+What is the valganciclovir dose when CrCl is 40–59 mL/min?	450 mg daily	CMV prophylaxis renal dosing
+What is the valganciclovir dose when CrCl is 25–39 mL/min?	450 mg every 2 days	CMV prophylaxis renal dosing
+What CBC abnormality does valganciclovir commonly cause?	Leukopenia (dose-dependent myelosuppression — also anemia, thrombocytopenia)	CMV prophylaxis
+What is the treatment for mild-moderate CMV disease post-transplant?	Valganciclovir 900 mg PO BID × 3–6 weeks	CMV treatment
+What is the treatment for severe/organ-invasive CMV disease?	IV ganciclovir 5 mg/kg BID × minimum 2–3 weeks	CMV treatment
+What mutation causes ganciclovir resistance in CMV, and what agents are used instead?	UL97 mutation → foscarnet or cidofovir (consult ID)	CMV treatment
+Are separate HSV/VZV prophylaxis agents needed if a patient is already on valganciclovir?	No — valganciclovir provides incidental coverage for HSV and VZV	HSV VZV prophylaxis
+What is the highest-risk EBV serostatus combination for PTLD after OHT?	EBV D+/R– (donor seropositive, recipient seronegative)	EBV PTLD
+What is the primary monitoring strategy for EBV post-OHT in D+/R– recipients?	Monthly EBV viral load (PCR) for the first year; reduce immunosuppression at first sign of rising viral load	EBV PTLD
+What is the primary management strategy for BK virus in heart transplant recipients?	Reduction of immunosuppression (CNI reduction is the primary strategy)	BKV
+What is the preferred agent for PCP prophylaxis after OHT, and how long is it continued?	TMP-SMX (Bactrim) — SS tablet daily or DS tablet 3×/week; lifelong at most centers	PCP prophylaxis
+What additional organisms does TMP-SMX cover beyond PCP?	Toxoplasma gondii, Nocardia, Listeria	PCP prophylaxis
+Why is heart transplant uniquely high risk for Toxoplasma compared to other solid organ transplants?	The donor myocardium contains Toxoplasma cysts that can reactivate in the immunosuppressed seronegative recipient (D+/R–)	toxoplasma prophylaxis
+What is the alternative prophylaxis for Toxoplasma D+/R– recipients who cannot tolerate TMP-SMX?	Pyrimethamine 25 mg PO daily + leucovorin 5 mg PO weekly × 6 months	toxoplasma prophylaxis
+Which PCP alternative does NOT cover Toxoplasma?	Dapsone and aerosolized pentamidine — only atovaquone provides dual PCP + Toxoplasma coverage	PCP prophylaxis alternatives
+What effect does TMP-SMX have on serum creatinine, and why?	Causes an apparent rise of 0.1–0.3 mg/dL by inhibiting tubular secretion of creatinine — NOT true nephrotoxicity; GFR is unchanged	TMP-SMX creatinine
+What is the strongest risk factor for invasive Candida infection post-OHT?	Multi-site Candida colonization	antifungal prophylaxis
+What is the first-line antifungal prophylaxis for low-risk OHT recipients?	Fluconazole 100–200 mg PO/IV daily × 4–6 weeks	antifungal prophylaxis
+What antifungal is preferred for high-risk OHT recipients (e.g., Candida colonization, re-exploration)?	Micafungin 150 mg IV daily (echinocandin; no CNI interaction)	antifungal prophylaxis
+What antifungal is preferred for Aspergillus prophylaxis/treatment post-OHT?	Voriconazole 200 mg PO BID	antifungal prophylaxis
+What is the recommended prophylaxis for coccidioidomycosis in endemic areas (SW US) post-OHT?	Fluconazole 400 mg PO daily during the first year post-transplant	antifungal prophylaxis endemic
+What happens to tacrolimus levels when an azole antifungal is started, and what action is required?	Levels roughly double (fluconazole) to triple/quadruple (voriconazole) — reduce tacrolimus dose by 50–75% preemptively and recheck trough in 48–72h	drug interactions
+What drug dramatically decreases tacrolimus levels and why?	Rifampin — potent CYP3A4 inducer; dramatically increases tacrolimus metabolism; check levels daily if unavoidable	drug interactions
+Which macrolide antibiotic is preferred in transplant patients to avoid CNI interactions?	Azithromycin (clarithromycin and erythromycin significantly increase CNI levels via CYP3A4 inhibition)	drug interactions
+Why should lovastatin and simvastatin be avoided in heart transplant recipients?	Both are heavily CYP3A4 metabolized — CNI co-administration markedly increases statin levels, raising myopathy/rhabdomyolysis risk	drug interactions
+Which statins are preferred in heart transplant recipients?	Pravastatin (preferred), rosuvastatin, or fluvastatin — less CYP3A4 dependent	drug interactions
+What OTC supplement is a potent CYP3A4 inducer that can drop tacrolimus levels dangerously?	St. John's Wort	drug interactions
+What effect does diltiazem have on CNI levels, and how can this be used clinically?	Increases CNI levels via CYP3A4 inhibition — can be used intentionally to allow lower tacrolimus doses (cost-saving strategy)	drug interactions
+Before adjusting a tacrolimus dose, what must always be done first?	Check a tacrolimus trough level — empiric adjustments without levels risk over- or under-immunosuppression	clinical pearl
+A heart transplant patient on valganciclovir develops leukopenia. What should be considered before holding MMF?	Valganciclovir-induced myelosuppression — check ANC; if ANC < 1,000 reduce valganciclovir or add G-CSF first	clinical pearl
+A patient's creatinine rises by 0.2 mg/dL after starting TMP-SMX. What should you do?	Nothing — this is a tubular secretion effect, not nephrotoxicity; GFR is unchanged; do not stop TMP-SMX	clinical pearl
+A Toxoplasma D+/R– heart transplant patient cannot tolerate TMP-SMX. What is the alternative?	Pyrimethamine 25 mg PO daily + leucovorin 5 mg PO weekly × 6 months (or atovaquone 1500 mg daily)	clinical pearl
+What is the ISHLT 2023 Class IIa recommendation for managing progressive CAV?	Switch antiproliferative from MMF to sirolimus or everolimus (mTOR inhibitor) with reduced-dose CNI	clinical pearl
