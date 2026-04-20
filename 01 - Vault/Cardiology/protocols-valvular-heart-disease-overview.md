@@ -38,7 +38,7 @@ tags:
 
 ## Individual Valve Documents
 
-- [[protocols-aortic-valve-disease]] — Aortic stenosis, aortic regurgitation (acute & chronic), TAVR/SAVR, low-flow low-gradient AS
+ - [Aortic Valve Diseases](protocols-aortic-valve-disease.md) — Aortic stenosis, aortic regurgitation (acute & chronic), TAVR/SAVR, low-flow low-gradient AS
 - [[protocols-mitral-valve-disease]] — Mitral stenosis, primary MR, secondary/functional MR, acute MR, TEER/MitraClip
 - [[protocols-tricuspid-valve-disease]] — Tricuspid regurgitation (primary & functional), tricuspid stenosis, RV failure management
 - [[protocols-pulmonic-valve-disease]] — Pulmonic stenosis, pulmonic regurgitation, post-TOF repair, transcatheter pulmonary valve
