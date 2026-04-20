@@ -106,4 +106,3 @@
 
 ---
 
-*Placeholder index — replace each LITFL link with a link to your in-vault learning topic as lessons are built out.*
