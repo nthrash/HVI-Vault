@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Vault/Transplant/protocols-heart-transplant-immunosuppression.md",
+                "file": "01 - Vault/Cardiology/protocols-ekg-curriculum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "protocols-heart-transplant-immunosuppression"
+              "title": "protocols-ekg-curriculum"
             }
           }
         ]
@@ -196,6 +196,7 @@
   },
   "active": "0ae10a350c207f94",
   "lastOpenFiles": [
+    "01 - Vault/Transplant/protocols-heart-transplant-immunosuppression.md",
     "99 - Meta/Anki/heart-transplant-immunosuppression-clean.txt",
     "99 - Meta/Anki/heart-transplant-immunosuppression.txt",
     "99 - Meta/Anki",
@@ -208,7 +209,6 @@
     "01 - Vault/Surgery/protocols-post-op-bleeding.md",
     "contacts.json",
     "protocols.json",
-    "01 - Vault/Transplant/protocols-heart-transplant-immunosuppression.md",
     "01 - Vault/Transplant/protocols-lung-transplant-icu.md",
     "01 - Vault/Transplant/protocols-clad.md",
     "01 - Vault/Critical Care/protocols-pain-management-sedation.md",
@@ -240,7 +240,6 @@
     "99 - Meta/Assets/Images/Vent Waveforms/Online/22-dyssynchrony-cardiac-oscillations.jpg",
     "99 - Meta/Assets/Images/Vent Waveforms/Online/23-dyssynchrony-double-triggering-premature-termination.jpg",
     "99 - Meta/Assets/Images/Vent Waveforms/Online/24-LITFL-PV-loop-1.jpg",
-    "99 - Meta/Assets/Images/Vent Waveforms/Online",
-    "99 - Meta/Assets/Images/Vent Waveforms"
+    "99 - Meta/Assets/Images/Vent Waveforms/Online"
   ]
 }

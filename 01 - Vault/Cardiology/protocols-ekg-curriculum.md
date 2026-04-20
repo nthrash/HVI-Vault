@@ -106,14 +106,4 @@
 
 ---
 
-## Suggested Teaching Series
-
-- **"OMI-ology" series** (topics 1–10) — Highest-impact content for reducing missed cath activations.
-- **"Wide-complex Wednesdays"** (11–16) — Recurring rapid-response scenarios.
-- **"Post-op rhythms"** (17–22) — Tailored onboarding for new CVICU APPs.
-- **"The mimics"** (30, 34–37, 42) — Case-based differential diagnosis series.
-- **"Tox pearls"** (43–45) — Rare but high-stakes.
-
----
-
 *Placeholder index — replace each LITFL link with a link to your in-vault learning topic as lessons are built out.*
