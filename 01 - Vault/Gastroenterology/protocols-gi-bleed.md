@@ -24,7 +24,7 @@
 
 ## 1. Overview
 
-**Acute gastrointestinal hemorrhage** is one of the most common life-threatening emergencies encountered in the ICU, accounting for ~300,000 hospital admissions and an overall mortality of 2–10% (higher in variceal hemorrhage and in patients with major comorbidity). GI bleeding is conventionally divided by anatomic origin:
+**Acute gastrointestinal hemorrhage** is one of the most common life-threatening emergencies encountered in the ICU, accounting for ~500,000 hospital admissions and an overall mortality of 2–10% (higher in variceal hemorrhage and in patients with major comorbidity). GI bleeding is conventionally divided by anatomic origin:
 
 - **Upper GI bleed (UGIB, ~75%)** — proximal to the ligament of Treitz
 - **Small bowel bleed (~4%)** — between ligament of Treitz and ileocecal valve ("middle GI")
@@ -39,15 +39,16 @@
 
 ### Upper GI Bleed (proximal to ligament of Treitz)
 
-| Category | Common Causes |
-|---|---|
-| **Mucosal/ulcerative** | Peptic ulcer disease (most common), esophagitis, gastritis, duodenitis |
-| **Mechanical** | Mallory-Weiss tear, hiatal hernia/Cameron lesions, NG tube irritation |
-| **Portal hypertension** | Esophageal varices, gastric varices, portal hypertensive gastropathy |
-| **Vascular** | Dieulafoy lesion, AVMs, GAVE (gastric antral vascular ectasia) |
-| **Neoplastic** | Upper GI malignancy |
-| **Fistulous** | Aortoenteric fistula (history of AAA repair!) |
-| **Pancreaticobiliary** | Hemobilia (liver trauma/biopsy/abscess), hemosuccus pancreaticus |
+| Category                | Common Causes                                                          |
+| ----------------------- | ---------------------------------------------------------------------- |
+| **Mucosal/ulcerative**  | Peptic ulcer disease (most common), esophagitis, gastritis, duodenitis |
+| **Mechanical**          | Mallory-Weiss tear, hiatal hernia/Cameron lesions, NG tube irritation  |
+| **Portal hypertension** | Esophageal varices, gastric varices, portal hypertensive gastropathy   |
+| **Vascular**            | Dieulafoy lesion, AVMs, GAVE (gastric antral vascular ectasia)         |
+| **Neoplastic**          | Upper GI malignancy                                                    |
+| **Fistulous**           | Aortoenteric fistula (history of AAA repair!)                          |
+| **Pancreaticobiliary**  | Hemobilia (liver trauma/biopsy/abscess), hemosuccus pancreaticus       |
+| **Medication**          | SSRI, NSAID                                                            |
 
 ### Small Bowel Bleed (by age)
 
@@ -93,13 +94,13 @@ The clinical syndrome of GI bleeding is the product of three interlocking mechan
 
 ### Manifestations & What They Mean
 
-| Finding | Most Likely Source | Notes |
-|---|---|---|
-| **Hematemesis** (bright red) | UGIB — active | Nearly 100% specific; most worrisome finding |
-| **Coffee-ground emesis** | UGIB — slower | Blood congealed in stomach; less active |
-| **Melena** (black/tarry, foul) | UGIB (90%) | Slow right-colon bleed also possible; iron/bismuth mimic |
-| **Hematochezia** (BRBPR) | LGIB (~85%) | ~10–15% are massive UGIB w/ rapid transit → usually shocked |
-| **Clots per rectum** | LGIB (very strongly) | LR ~20 for lower source |
+| Finding                        | Most Likely Source   | Notes                                                       |
+| ------------------------------ | -------------------- | ----------------------------------------------------------- |
+| **Hematemesis** (bright red)   | UGIB — active        | Nearly 100% specific; most worrisome finding                |
+| **Coffee-ground emesis**       | UGIB — slower        | Blood congealed in stomach; less active                     |
+| **Melena** (black/tarry, foul) | UGIB (90%)           | Slow right-colon bleed also possible; iron/bismuth mimic    |
+| **Hematochezia** (BRBPR)       | LGIB (~85%)          | ~10–15% are massive UGIB w/ rapid transit → usually shocked |
+| **Clots per rectum**           | LGIB (very strongly) | LR ~20 for lower source                                     |
 
 ### History Pearls
 
