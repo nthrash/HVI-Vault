@@ -184,7 +184,7 @@ The clinical syndrome of GI bleeding is the product of three interlocking mechan
 | Active extravasation on CTA | → **Interventional radiology** for embolization |
 | Obscure/intermittent bleed | Capsule endoscopy, deep enteroscopy, provocative angiography |
 
-**NG lavage**: sensitivity ~50% (does not exclude UGIB), specificity very high when bloody. Useful to triage EGD vs CTA in hematochezia patient — **not** routine in every bleed.
+**NG lavage**: sensitivity ~28-44% (does not exclude UGIB), specificity very high when bloody. Useful to triage EGD vs CTA in hematochezia patient — **not** routine in every bleed.
 
 **Tagged RBC scan**: slightly more sensitive than CTA but *non-specific* and does not guide IR or surgery. Largely supplanted by multi-detector CT angiography.
 
@@ -259,7 +259,7 @@ The clinical syndrome of GI bleeding is the product of three interlocking mechan
 - **Octreotide**: 50 mcg IV bolus, then 50 mcg/hr infusion × 2–5 days if cirrhosis/varices suspected.
 - **Ceftriaxone 1 g IV daily**: standard of care in cirrhotic UGIB (guidelines); recent meta-analyses suggest no mortality benefit, but continues to be recommended.
 - **Erythromycin 250 mg IV**: prokinetic to clear stomach before EGD (contraindicated in QTc prolongation).
-- **Tranexamic acid**: **NOT recommended** — HALT-IT trial showed no benefit and increased thromboembolism.
+- **Tranexamic acid**: **NOT recommended** — HALT-IT trial showed no benefit and increased venous thromboembolism and increased seizures (did not affect arterial).
 
 ### Medications to Stop
 
@@ -291,14 +291,18 @@ The clinical syndrome of GI bleeding is the product of three interlocking mechan
 
 ### Forrest Classification & Rebleed Risk
 
-| Class | Lesion | Rebleed Risk | Management |
-|---|---|---|---|
-| **Ia** | Active spurting | 90% | Endoscopic Rx + PPI drip, ICU |
-| **Ib** | Active oozing | 10–20% | Endoscopic Rx + PPI drip |
-| **IIa** | Non-bleeding visible vessel | 50% | Endoscopic Rx + PPI drip |
-| **IIb** | Adherent clot | 25–30% | Consider dislodgement + Rx |
-| **IIc** | Flat pigmented spot | 7–10% | PO PPI, ward/home |
-| **III** | Clean ulcer base | 3–5% | PO PPI, early discharge |
+Rebleed rates depend heavily on whether hemostasis was successfully achieved. Older literature quoted untreated rates; modern management uses *post-hemostasis* rates. Both are shown below for context.
+
+| Class | Lesion | Untreated Rebleed | Post-Hemostasis Rebleed (Jensen 2017) | Management |
+|---|---|---|---|---|
+| **Ia** | Active spurting | ~55% (up to ~59% at 30 d per de Groot 2014) | ~22.5% (highest single category) | Endoscopic Rx + PPI, ICU |
+| **Ib** | Active oozing | Historically grouped with Ia (combined ~22–55%; older pooled 81% for Forrest I) | ~4.9% (questionably "high-risk") | Endoscopic Rx + PPI |
+| **IIa** | Non-bleeding visible vessel | ~43% (older untreated estimates as high as 50%) | ~11.3% | Endoscopic Rx + PPI |
+| **IIb** | Adherent clot | ~22% | ~17.6% | Consider dislodgement + Rx |
+| **IIc** | Flat pigmented spot | ~7–10% | Low | PO PPI, ward/home |
+| **III** | Clean ulcer base | ~3–5% | Very low | PO PPI, early discharge |
+
+> [!tip] The commonly cited "90% rebleed for Ia" and "50% for IIa" figures come from heterogeneous older data and conflate treated and untreated cohorts. Jensen 2017 post-hemostasis data and the de Groot 2014 reassessment give a more accurate modern picture. Forrest Ia remains the highest-risk lesion; Forrest Ib post-hemostasis behaves more like an intermediate-risk lesion.
 
 ### PPI Strategy Post-EGD
 
@@ -320,8 +324,8 @@ The clinical syndrome of GI bleeding is the product of three interlocking mechan
 
 1. **Octreotide** 50 mcg IV bolus → 50 mcg/hr infusion × 2–5 days
 2. **PPI** (pantoprazole 40 mg IV q12hr)
-3. **Ceftriaxone 1 g IV daily** × 7 days (or until stable and afebrile ≥48 hr)
-   - Current guidelines recommend it; recent meta-analysis (Prosty 2025) shows *no* mortality benefit. Still reasonable to give, but be willing to *stop at 48–72 hr* if no infection identified.
+3. **Ceftriaxone 1 g IV daily — up to 5 days** (AASLD 2024 portal hypertension guidance). Discontinue once bleeding is controlled and no active infection is identified. Older AASLD 2021 ascites guidance allowed up to 7 days.
+   - Recent meta-analysis (Prosty 2025) shows *no* mortality benefit; still recommended by current guidelines, but be willing to stop at 48–72 hr if no infection identified.
 4. **Lactulose** (± rifaximin) early if AMS or high risk — UGIB is a major precipitant of hepatic encephalopathy.
 
 ### Transfusion & Fluid Strategy
@@ -342,7 +346,7 @@ The clinical syndrome of GI bleeding is the product of three interlocking mechan
 
 | Varix Type | First Line | Second Line |
 |---|---|---|
-| **Esophageal** | Endoscopic band ligation | **TIPS** (early TIPS < 72 hr for Child B with active bleed or Child C up to 13) |
+| **Esophageal** | Endoscopic band ligation | **TIPS** — early TIPS <72 hr for **CTP class B with score >7 (i.e., 8–9) and active bleeding on endoscopy** *or* **CTP class C with score 10–13** (AASLD 2024) |
 | **Gastric** | Glue (cyanoacrylate) injection | **TIPS** or **BRTO** (if gastrorenal shunt) |
 | **Refractory** | Blakemore/Minnesota tube as bridge | TIPS emergent |
 
@@ -385,7 +389,7 @@ The clinical syndrome of GI bleeding is the product of three interlocking mechan
 3. **NG lavage**: bloody → EGD; bilious without blood → likely lower source (but does not exclude UGIB).
 4. **CT angiography** if actively bleeding — guides IR and excludes aortoenteric fistula, ischemic colitis, etc.
 5. **Colonoscopy** within 24 hr if stable and bleeding has stopped (urgent colonoscopy in active bleed rarely useful — buried in blood and stool).
-6. **IR embolization** for active extravasation on CTA — success rate ~98%, complications rare.
+6. **IR embolization** for active extravasation on CTA — technical success ~85–95% (series-dependent); complications (bowel ischemia, ulcer formation) rare.
 7. **Surgery** reserved for refractory bleeding with well-localized source.
 
 ### CT Angiography Notes
@@ -487,9 +491,16 @@ Based on **2024 SCCM/ASHP guidelines**.
 
 ### Preferred Agent
 
-- **PPI first-line** — more effective than H2RAs (PEPTIC trial), safe (SUP-ICU, REVISE), no renal adjustment, less delirium than famotidine.
-- Pantoprazole/esomeprazole/omeprazole **40 mg IV or PO daily** (lansoprazole 30 mg PO daily).
-- H2RAs acceptable alternative.
+- **2024 SCCM/ASHP guideline (Recommendation 8)** suggests using **either a PPI *or* an H2RA as first-line** — the two classes are treated as equivalent first-line options.
+- Network meta-analysis: PPIs reduce clinically important upper GI bleeding more than H2RAs (RR 0.53), but are associated with a *possible* small increase in mortality (RR 1.05, 95% CI 1.00–1.10) — hence the guideline's neutrality.
+- A 2026 retrospective septic-shock cohort (n=15,102) found PPIs associated with lower UGIB (OR 0.78) without mortality difference, but this is observational only.
+- Dosing:
+   - Pantoprazole / esomeprazole / omeprazole **40 mg IV or PO daily** (lansoprazole 30 mg PO daily)
+   - Famotidine **20 mg IV/PO q12hr** (renal-adjusted — see §12)
+- Practical considerations that may still favor a PPI at the bedside:
+   - No renal adjustment required
+   - No tachyphylaxis
+   - Famotidine is on the **Beers list** in the elderly (delirium, confusion) — this is an independent concern, not a guideline-cited reason for PPI preference.
 
 ### Documentation & Cessation
 
@@ -517,7 +528,7 @@ Based on **2024 SCCM/ASHP guidelines**.
 > 9. **Ceftriaxone in cirrhotic UGIB**: current guidelines still recommend it, but recent evidence (Prosty 2025) questions a mortality benefit. Give it, but **stop at 48–72 hr** if no infection.
 > 10. **Intubation for GI bleed is high-risk.** Pre-load with vasopressor, decompress the stomach, and use erythromycin/metoclopramide to reduce aspiration.
 > 11. **Restrictive transfusion (Hb >7) is standard** — the Villanueva trial (NEJM 2013) showed lower mortality vs liberal strategy in acute UGIB.
-> 12. **Early TIPS (<72 hr)** in high-risk variceal bleeders (Child-B with active bleed, Child-C up to 13) reduces rebleeding and mortality (García-Pagán 2010).
+> 12. **Early TIPS (<72 hr)** in high-risk variceal bleeders — **CTP class B score >7 (8–9) with active bleeding on endoscopy** or **CTP class C 10–13** (AASLD 2024) — reduces rebleeding and mortality (García-Pagán 2010).
 
 ---
 
@@ -547,8 +558,8 @@ Based on **2024 SCCM/ASHP guidelines**.
 
 **PEPTIC 2020 — JAMA PPI vs H2RA for SUP**
 - Cluster-randomized crossover trial, 26,828 ventilated ICU patients.
-- PPI associated with lower GI bleeding rate vs H2RA (1.3% vs 1.8%); hospital mortality similar.
-- **Supports PPI preference for SUP.**
+- PPI associated with lower GI bleeding rate vs H2RA (1.3% vs 1.8%); hospital mortality similar (signal toward slightly higher 90-day mortality with PPI did not reach significance).
+- Informs — but does not definitively establish — PPI preference; the 2024 SCCM/ASHP guideline ultimately classed PPIs and H2RAs as equivalent first-line options.
 
 **REVISE 2024 — NEJM Pantoprazole in Mechanically Ventilated Adults**
 - 4821 ventilated ICU patients; pantoprazole vs placebo.
@@ -593,8 +604,8 @@ Based on **2024 SCCM/ASHP guidelines**.
 | **ACG** | Upper GI & Ulcer Bleeding (Laine et al.) | 2021 | Restrictive transfusion, EGD <24 hr, erythromycin pre-EGD, intermittent PPI |
 | **ACG** | Acute Lower GI Bleeding (Strate & Gralnek) | 2016 | Risk stratification, colonoscopy within 24 hr if stable, CTA/IR for active bleeding |
 | **Baveno VII** | Portal Hypertension Consensus | 2022 | Early TIPS, NSBB, variceal management |
-| **AASLD** | Portal Hypertensive Bleeding | 2024 | Updated cirrhotic bleeding algorithm |
-| **SCCM/ASHP** | Stress Ulcer Prophylaxis | 2024 | Restrict SUP to truly critically ill + risk factor; PPI preferred |
+| **AASLD** | Portal Hypertension Practice Guidance | 2024 | Ceftriaxone up to 5 days; early TIPS for CTP-B (score 8–9) with active bleed or CTP-C 10–13 |
+| **SCCM/ASHP** | Stress Ulcer Prophylaxis | 2024 | Restrict SUP to truly critically ill + risk factor; **PPI *or* H2RA as equivalent first-line** |
 | **British Society of Gastroenterology** | Acute Lower GI Bleeding | 2019 | Oakland score, embolization pathway |
 | **European Society of Gastrointestinal Endoscopy (ESGE)** | Nonvariceal UGIB | 2021 | Pre-endoscopy risk scoring, EGD within 24 hr |
 
@@ -628,7 +639,14 @@ Based on **2024 SCCM/ASHP guidelines**.
 24. Jamplis RP, Friedman L, Adhikari S. Point of care ultrasound diagnosis of upper GI bleeding. *Cureus.* 2017;9:e1956. [PMID 29487770]
 25. Bandali MF, et al. Portal hypertension: Imaging of portosystemic collateral pathways. *World J Gastroenterol.* 2017;23:1735–1746. [PMID 28348478]
 26. Fernández J, et al. Norfloxacin vs ceftriaxone in prophylaxis of infections in advanced cirrhosis and hemorrhage. *Gastroenterology.* 2006;131:1049–1056. [PMID 17030175]
-27. Internet Book of Critical Care (IBCC) — GI Bleeding chapter. emcrit.org/ibcc
+27. Jensen DM, Kovacs TOG, Ohning GV, et al. Doppler Endoscopic Probe Monitoring of Blood Flow Improves Risk Stratification and Outcomes of Patients with Severe Nonvariceal Upper Gastrointestinal Hemorrhage. *Gastroenterology.* 2017;152:1310–1318 — post-hemostasis Forrest rebleed rates.
+28. de Groot NL, et al. Reassessment of the predictive value of the Forrest classification for peptic ulcer rebleeding and mortality: can classification be simplified? *Endoscopy.* 2014;46:46–52 — 30-day rebleed data.
+29. Lau JYW, Sung J, Hill C, et al. Systematic review of the epidemiology of complicated peptic ulcer disease. *Digestion.* 2011;84:102–113.
+30. Kaplan GG, et al. ACG quality indicators for the management of upper GI bleeding. *Am J Gastroenterol.* 2023.
+31. Kaplan DE, et al. AASLD Practice Guidance on risk stratification and management of portal hypertension and varices in cirrhosis. *Hepatology.* 2024 (AASLD 2024 portal hypertension guidance — ceftriaxone ≤5 days; early TIPS for CTP-B score 8–9 w/ active bleed or CTP-C 10–13).
+32. Biggins SW, et al. Diagnosis, Evaluation, and Management of Ascites, Spontaneous Bacterial Peritonitis, and Hepatorenal Syndrome: 2021 AASLD Practice Guidance. *Hepatology.* 2021;74:1014–1048 (ceftriaxone up to 7 days — legacy guidance).
+33. Boike JR, et al. AASLD Practice Guidance on TIPS. *Hepatology.* 2024.
+34. Internet Book of Critical Care (IBCC) — GI Bleeding chapter. emcrit.org/ibcc
 
 ---
 
