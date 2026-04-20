@@ -170,7 +170,7 @@ The clinical syndrome of GI bleeding is the product of three interlocking mechan
 | Iron studies | Chronic vs. acute blood loss |
 | VBG | Rapid Hb, acid-base |
 
-> [!tip] **BUN:Cr ratio >30** (or urea:Cr >100 in SI units) has a positive LR of ~7.5 for upper GI source — digested blood = protein load absorbed in small bowel.
+> [!tip] **BUN:Cr >30** has a positive LR of ~7.5 for UGIB (high specificity ~89%), but **sensitivity is only ~39%** — a normal ratio does not exclude an upper source. A lower threshold of ≥22 may optimize overall diagnostic performance (sensitivity 66%, specificity 71%). Digested blood = protein load absorbed in small bowel → disproportionate BUN rise
 
 ### Imaging / Procedures by Scenario
 
