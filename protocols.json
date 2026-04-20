@@ -86,6 +86,13 @@
       "contentFile": "01 - Vault/Gastroenterology/protocols-acute-cholangitis.md"
     },
     {
+      "id": "gi-bleed",
+      "title": "Gastrointestinal Hemorrhage",
+      "subtitle": "Upper & Lower GI Bleed",
+      "category": "gastroenterology",
+      "contentFile": "01 - Vault/Gastroenterology/protocols-gi-bleed.md"
+    },
+    {
       "id": "lung-transplant-icu",
       "title": "Lung Transplant ICU Care",
       "subtitle": "Post-Transplant Protocol",
