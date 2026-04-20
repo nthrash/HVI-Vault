@@ -354,6 +354,13 @@
       "subtitle": "Post-Transplant Immunosuppression & Prophylaxis Protocol",
       "category": "transplant",
       "contentFile": "01 - Vault/Transplant/protocols-heart-transplant-immunosuppression.md"
+    },
+    {
+      "id": "ekg-curriculum",
+      "title": "EKG Curriculum",
+      "subtitle": "CVICU Provider Education — Advanced Topics Index",
+      "category": "cardiology",
+      "contentFile": "01 - Vault/Cardiology/protocols-ekg-curriculum.md"
     }
   ]
 }
