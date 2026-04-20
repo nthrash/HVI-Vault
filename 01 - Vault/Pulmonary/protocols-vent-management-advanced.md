@@ -930,18 +930,18 @@ Any acute hemodynamic deterioration temporally linked to a vent change should be
 
 ## 9.3 Vent Settings at a Glance by Patient Context
 
-| Patient Context | Mode | Vt | ΔP Target | PEEP | MP Target | Key Special Consideration |
-|-----------------|------|-----|-----------|------|-----------|--------------------------|
-| Standard ARDS, no HF | ACVC | 6 mL/kg IBW | <15 cmH2O | Per ARDSNet table | <17 J/min | Prone if P/F <150; dexamethasone per ATS 2024; iNO if RV strain |
-| Cardiogenic pulmonary edema | ACVC | 6–8 mL/kg IBW | <15 cmH2O | 10–14 cmH2O (therapeutic) | <17 J/min | PEEP = afterload reduction; watch for RV compromise if PHT present |
-| Cardiogenic shock, MCS pending | ACVC | 6–7 mL/kg IBW | <15 cmH2O | 8–10 cmH2O | <17 J/min | Pre-intubation vasopressor mandatory; NMB post-intubation if needed |
-| Post-CABG, uncomplicated | ACVC → PSV | 6–8 mL/kg IBW | N/A | 5–8 cmH2O | N/A | Fast-track; SBT at 4–6 hr; diaphragm US if weaning difficulty |
-| Post-LVAD implant | ACVC / ACPC | 6–7 mL/kg IBW | <15 cmH2O | 8–10 cmH2O | <17 J/min | RV failure risk; minimize PEEP if CVP rising; iNO if RV support needed |
-| VV-ECMO, lung rest | ACVC or ACPC | 2–4 mL/kg IBW | ≤10 cmH2O | 10–15 cmH2O | <10 J/min | Ultra-protective; FiO2 0.40; watch for VIDD; consider awake ECMO early |
-| VA-ECMO, cardiogenic shock | ACPC | 4–6 mL/kg IBW | ≤10 cmH2O | 8–12 cmH2O | <10 J/min | LV distension → ECMELLA; North-South → circuit reconfiguration |
-| Status asthmaticus | ACVC | 5–6 mL/kg IBW | <15 cmH2O | 80% of auto-PEEP | <17 J/min | Permissive hypercapnia pH >7.20; disconnect if tension hyperinflation |
-| COPD exacerbation | ACVC | 6–8 mL/kg IBW | <15 cmH2O | 5–8 cmH2O (match auto-PEEP) | <17 J/min | Long Ti forbidden; I:E 1:4 minimum; NAVA if trigger failure |
-| Post-transplant early | ACVC | 6 mL/kg IBW | <15 cmH2O | 8–10 cmH2O | <17 J/min | Denervated heart; volume-sensitive; early diuresis; watch for rejection-induced pulm edema |
+| Patient Context                | Mode         | Vt            | ΔP Target | PEEP                        | MP Target | Key Special Consideration                                                                  |
+| ------------------------------ | ------------ | ------------- | --------- | --------------------------- | --------- | ------------------------------------------------------------------------------------------ |
+| Standard ARDS, no HF           | ACVC         | 6 mL/kg IBW   | <15 cmH2O | Per ARDSNet table           | <17 J/min | Prone if P/F <150; dexamethasone per ATS 2024; iNO if RV strain                            |
+| Cardiogenic pulmonary edema    | ACVC         | 6–8 mL/kg IBW | <15 cmH2O | 10–14 cmH2O (therapeutic)   | <17 J/min | PEEP = afterload reduction; watch for RV compromise if PHT present                         |
+| Cardiogenic shock, MCS pending | ACVC         | 6–7 mL/kg IBW | <15 cmH2O | 8–10 cmH2O                  | <17 J/min | Pre-intubation vasopressor mandatory; NMB post-intubation if needed                        |
+| Post-CABG, uncomplicated       | ACVC → PSV   | 6–8 mL/kg IBW | N/A       | 5–8 cmH2O                   | N/A       | Fast-track; SBT at 4–6 hr; diaphragm US if weaning difficulty                              |
+| Post-LVAD implant              | ACVC / ACPC  | 6–7 mL/kg IBW | <15 cmH2O | 8–10 cmH2O                  | <17 J/min | RV failure risk; minimize PEEP if CVP rising; iNO if RV support needed                     |
+| VV-ECMO, lung rest             | ACVC or ACPC | 2–4 mL/kg IBW | ≤10 cmH2O | 10–15 cmH2O                 | <10 J/min | Ultra-protective; FiO2 0.40; watch for VIDD; consider awake ECMO early                     |
+| VA-ECMO, cardiogenic shock     | ACPC         | 4–6 mL/kg IBW | ≤10 cmH2O | 8–12 cmH2O                  | <10 J/min | LV distension → ECPELLA; North-South → circuit reconfiguration                             |
+| Status asthmaticus             | ACVC         | 5–6 mL/kg IBW | <15 cmH2O | 80% of auto-PEEP            | <17 J/min | Permissive hypercapnia pH >7.20; disconnect if tension hyperinflation                      |
+| COPD exacerbation              | ACVC         | 6–8 mL/kg IBW | <15 cmH2O | 5–8 cmH2O (match auto-PEEP) | <17 J/min | Long Ti forbidden; I:E 1:4 minimum; NAVA if trigger failure                                |
+| Post-transplant early          | ACVC         | 6 mL/kg IBW   | <15 cmH2O | 8–10 cmH2O                  | <17 J/min | Denervated heart; volume-sensitive; early diuresis; watch for rejection-induced pulm edema |
 
 
 ---

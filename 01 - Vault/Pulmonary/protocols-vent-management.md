@@ -12,14 +12,15 @@
 7. [Ventilator Modes](#ventilator-modes)
 8. [Quick Reference — Ventilator Modes](#quick-reference-ventilator-modes)
 9. [Initial Ventilator Settings](#initial-ventilator-settings)
-10. [Lung-Protective Ventilation Strategy](#lung-protective-ventilation-strategy)
-11. [ARDS Management](#ards-management)
-12. [Oxygenation and Ventilation Targets](#oxygenation-and-ventilation-targets)
-13. [Ventilator Alarms and Troubleshooting](#ventilator-alarms-and-troubleshooting)
-14. [Ventilator-Associated Events Prevention Bundle](#ventilator-associated-events-prevention-bundle)
-15. [Liberation from Mechanical Ventilation](#liberation-from-mechanical-ventilation)
-16. [Special Considerations for Cardiac ICU](#special-considerations-for-cardiac-icu)
-17. [Key Takeaways](#key-takeaways)
+10. [Ventilator Settings — Button by Button](#ventilator-settings--button-by-button)
+11. [Lung-Protective Ventilation Strategy](#lung-protective-ventilation-strategy)
+12. [ARDS Management](#ards-management)
+13. [Oxygenation and Ventilation Targets](#oxygenation-and-ventilation-targets)
+14. [Ventilator Alarms and Troubleshooting](#ventilator-alarms-and-troubleshooting)
+15. [Ventilator-Associated Events Prevention Bundle](#ventilator-associated-events-prevention-bundle)
+16. [Liberation from Mechanical Ventilation](#liberation-from-mechanical-ventilation)
+17. [Special Considerations for Cardiac ICU](#special-considerations-for-cardiac-icu)
+18. [Key Takeaways](#key-takeaways)
 
 ---
 
@@ -244,6 +245,173 @@ Each mode has three features:
 - **Women:** IBW (kg) = 45.5 + 2.3 × (height in inches − 60)
 
 ---
+
+## Ventilator Settings — Button by Button
+
+A walkthrough of every knob and button you see on a standard adult ICU ventilator screen (Hamilton, Puritan Bennett, Servo, Dräger, Maquet). Each setting is framed by **what it does** and **what it does to the patient** — specifically **lung mechanics**, **oxygenation**, and **ventilation**. Quick-reference depth; for deeper rescue physiology see [Advanced Ventilator Management](protocols-vent-management-advanced.md).
+
+> **Mental model:** Oxygenation is driven primarily by **FiO2** and **mean airway pressure** (PEEP, Ti, IP). Ventilation (CO2 removal) is driven by **minute ventilation** (RR × Vt) minus dead space.
+
+---
+
+### Oxygenation Knobs
+
+#### FiO2 (Fraction of Inspired Oxygen)
+- **What it is:** Percentage of oxygen in delivered gas (21–100%).
+- **Typical range:** Start 100%, wean to lowest FiO2 that achieves SpO2 92–96%.
+- **Lungs:** Prolonged FiO2 >0.6 causes absorption atelectasis and oxygen toxicity (reactive oxygen species, diffuse alveolar damage after ~24–48 h).
+- **Oxygenation:** Direct, linear effect on PaO2 when shunt fraction is low. In high-shunt physiology (ARDS, pulmonary edema), FiO2 changes have diminishing returns — that's when you reach for PEEP.
+- **Ventilation:** No direct effect on CO2.
+- **Adjust when:** SpO2 off target. If FiO2 >0.6 is needed to maintain SpO2 ≥92%, recruit with PEEP before climbing higher.
+
+#### PEEP (Positive End-Expiratory Pressure)
+- **What it is:** Pressure maintained in the airway at end-exhalation (cmH2O).
+- **Typical range:** 5–8 baseline; 10–24 in ARDS per PEEP/FiO2 tables; lower (3–5) in isolated RV failure.
+- **Lungs:** Recruits collapsed alveoli, prevents cyclic atelectrauma, increases FRC, shifts lung onto better compliance portion of P/V curve. Too much PEEP overdistends open alveoli, increases dead space, and increases driving pressure.
+- **Oxygenation:** Major lever — raises mean airway pressure and recruits shunt units. Improves PaO2/FiO2.
+- **Ventilation:** Generally neutral; excess PEEP can worsen CO2 clearance by increasing dead space and reducing Vt in pressure modes.
+- **Hemodynamic cost:** Increases intrathoracic pressure → decreases RV preload, increases RV afterload (via West zone 1 physiology), decreases LV preload, decreases LV afterload. **The RV hates PEEP; the failing LV often loves it.**
+- **Adjust when:** Refractory hypoxemia (go up), new hypotension after increase (come down or give volume), RV failure (minimize).
+
+---
+
+### Ventilation Knobs
+
+#### Respiratory Rate (RR / f)
+- **What it is:** Set mandatory breaths per minute.
+- **Typical range:** 12–20; up to 35 in ARDS with low Vt; 8–12 in obstructive physiology to allow expiration.
+- **Lungs:** Higher rates shorten expiratory time — risk of **auto-PEEP** in COPD/asthma. Watch the expiratory flow waveform return to zero.
+- **Oxygenation:** Minor effect unless rate is so high it worsens auto-PEEP (paradoxically worsens gas exchange).
+- **Ventilation:** Direct lever on minute ventilation (MV = RR × Vt). Primary knob for pH management.
+- **Adjust when:** pH/PaCO2 out of range. Increase to blow off CO2, decrease to permit hypercapnia or reduce auto-PEEP.
+
+#### Tidal Volume (Vt) — volume modes
+- **What it is:** Set volume delivered per breath (mL or mL/kg IBW).
+- **Typical range:** 6–8 mL/kg IBW; 4–6 mL/kg in ARDS; 2–4 mL/kg on ECMO "lung rest."
+- **Lungs:** Excess Vt = volutrauma and stress on alveoli. Low Vt protects lungs but can cause atelectasis if PEEP is inadequate.
+- **Oxygenation:** Moderate — larger Vt briefly recruits, but sustained high Vt causes VILI and worsens oxygenation over time.
+- **Ventilation:** Direct effect on minute ventilation. Doubling Vt has a larger impact on CO2 clearance than doubling RR because it proportionally reduces dead space ventilation.
+- **Adjust when:** Pplat >30, driving pressure >15, or CO2 off target. Always dose by **ideal** body weight.
+
+#### Inspiratory Pressure (IP / Pinsp / Pcontrol) — pressure modes
+- **What it is:** Pressure target **above PEEP** delivered during inspiration (cmH2O). PIP = PEEP + IP.
+- **Typical range:** 10–25 cmH2O above PEEP; titrate to achieve target Vt.
+- **Lungs:** Directly sets driving pressure (ΔP = Pplat − PEEP). ΔP >15 associated with increased mortality in ARDS.
+- **Oxygenation:** Raises mean airway pressure — modest oxygenation benefit.
+- **Ventilation:** Sets Vt (which is the dependent variable in PC). Vt and therefore MV will drift as compliance changes — set a **low Vt alarm**.
+- **Adjust when:** Vt off target, Pplat creeping up, or driving pressure high.
+
+---
+
+### Timing & Waveform Knobs — Where Synchrony Lives
+
+#### Inspiratory Time (Ti) / I:E Ratio
+- **What it is:** Duration of the inspiratory phase, usually 0.7–1.2 sec. I:E is Ti relative to expiratory time.
+- **Typical range:** Ti 0.8–1.0 sec; I:E 1:2 to 1:3 in normal lungs; 1:4 or 1:5 in obstructive disease; 1:1 or inverse (2:1, 3:1) in APRV or refractory ARDS.
+- **Lungs:** Longer Ti increases mean airway pressure (good for recruitment) but shortens expiration (risk of auto-PEEP, especially in obstructive disease). Short Ti may not allow full alveolar filling.
+- **Oxygenation:** Major lever via mean airway pressure. Inverse ratio ventilation (Ti > Te) recruits stubborn atelectasis but is uncomfortable without deep sedation/NMB.
+- **Ventilation:** Short Te causes air trapping → hyperinflation → reduced Vt → CO2 retention. In obstructive physiology **longer expiration > shorter inspiration**.
+- **Adjust when:**
+  - Refractory hypoxemia in ARDS → lengthen Ti (consider APRV).
+  - Air trapping in COPD/asthma → shorten Ti, increase I:E ratio (more expiratory time).
+  - Patient fighting the vent on inspiration → Ti may be too long for their neural inspiratory time.
+
+#### Rise Time (Ramp / Pressure Slope)
+- **What it is:** How quickly the ventilator reaches set inspiratory pressure or flow target. Expressed as seconds (0–0.4 s) or % of Ti, depending on vendor.
+- **Typical range:** 0.1–0.2 sec for most patients; faster (0.05 sec) for high demand; slower (0.3+) for comfort in sedated patients.
+- **Lungs:** Too-fast rise → spike in peak pressure, possible barotrauma at the central airways. Too-slow rise → flow starvation, dyssynchrony, increased work of breathing.
+- **Oxygenation/ventilation:** Indirect — if patient is dyssynchronous, effective Vt and gas exchange suffer.
+- **Adjust when:** Flow-starvation signs (patient scooping down the inspiratory pressure curve, accessory muscle use) → shorten rise time. Pressure overshoot on the curve → lengthen rise time.
+
+#### Peak Flow Rate (volume modes only)
+- **What it is:** Rate at which set Vt is delivered (L/min). Separately, **flow pattern** (constant/square vs decelerating/ramp) shapes the waveform.
+- **Typical range:** 40–60 L/min passive; 60–100 L/min in awake, demanding patients.
+- **Lungs:** Higher flow = higher peak pressure but shorter inspiratory time (more expiratory time = less air trapping). Decelerating waveform mimics pressure-control physiology and may distribute gas more evenly.
+- **Oxygenation:** Indirect.
+- **Ventilation:** Indirect via Ti and auto-PEEP.
+- **Adjust when:**
+  - Patient air-hunger / flow starvation in ACVC → increase peak flow to 80–100 L/min.
+  - Severe obstructive disease needing long expiration → increase peak flow so inspiration finishes quickly.
+  - High peak pressures → decrease flow or switch to decelerating pattern.
+
+---
+
+### Trigger & Cycle — How the Vent Detects the Patient
+
+#### Trigger Sensitivity (Flow Trigger / Pressure Trigger)
+- **What it is:** Effort threshold at which the ventilator delivers a breath. **Flow trigger** (1–3 L/min) is standard; **pressure trigger** (−1 to −2 cmH2O) is older.
+- **Typical range:** Flow trigger 2 L/min.
+- **Lungs:** Too insensitive (e.g., −5 cmH2O) → patient works hard to trigger, increased WOB, dyspnea. Too sensitive → **auto-triggering** from cardiac oscillations, water in tubing, circuit leaks → hyperventilation, respiratory alkalosis.
+- **Oxygenation/ventilation:** Both suffer when trigger is wrong — hypoventilation if effort is wasted, hyperventilation if auto-triggered.
+- **Adjust when:** Missed triggers (patient contractions without ventilator response) → make more sensitive. Auto-triggering (vent cycles without patient effort) → less sensitive, check for leaks/water.
+
+#### Expiratory Sensitivity / Cycle-Off (Esens / ETS) — Pressure Support
+- **What it is:** % of peak inspiratory flow at which the ventilator cycles from inspiration to expiration in PS mode. Default 25%.
+- **Typical range:** 25–30% for normal lungs; **higher (40–60%) for obstructive disease** (shortens Ti, fixes premature cycling); **lower (10–15%) for restrictive disease** (lengthens Ti, allows fuller inspiration).
+- **Lungs:** Mis-set Esens is a major dyssynchrony cause. In COPD, a 25% default makes the vent keep inspiring well after the patient wants to exhale → double-triggering, air trapping. In pulmonary fibrosis, the flow drops off fast → vent cycles too early → shallow breaths, tachypnea.
+- **Oxygenation/ventilation:** Indirect but meaningful when dyssynchrony is driving a patient toward failing an SBT.
+- **Adjust when:** PS mode with tachypnea, double-triggering, or patient "fighting" the cycle-off.
+
+---
+
+### Pressure Support, Pressure Limits, and Safety Knobs
+
+#### Pressure Support (PS / PSV)
+- **What it is:** Inspiratory pressure boost above PEEP for patient-triggered breaths. Does not guarantee a rate or Vt.
+- **Typical range:** 5–15 cmH2O above PEEP; 5–8 during SBT.
+- **Lungs:** Reduces WOB by offloading diaphragm. Excessive PS (>15) can cause diaphragm atrophy and mask respiratory fatigue.
+- **Oxygenation:** Minor — mean airway pressure rises slightly.
+- **Ventilation:** Higher PS = larger patient Vt = more CO2 removal, but the patient's rate is still their own.
+- **Adjust when:** Weaning (decrease gradually), increased WOB (increase temporarily), assessing readiness for extubation (trial at 5/5).
+
+#### Pressure Max / Pressure Limit (Pmax, Plimit) — PRVC
+- **What it is:** Upper ceiling for delivered inspiratory pressure in PRVC. If Pmax is reached before target Vt is delivered, the vent cuts off the breath and alarms.
+- **Typical range:** 5 cmH2O below the high-pressure alarm; often 30–35.
+- **Lungs:** Prevents barotrauma, but if set too low, patient gets alarms and inadequate Vt.
+- **Oxygenation/ventilation:** Direct — if capped below target Vt, MV drops, CO2 rises.
+- **Adjust when:** PRVC alarms "volume not delivered" — reassess compliance, troubleshoot the airway first, then consider raising Pmax if clinically appropriate.
+
+#### High/Low Alarms (Vt, MV, P, RR, Apnea)
+- **What it is:** Safety limits, not treatment settings — but they change how you catch deterioration.
+- **Critical defaults:**
+  - High Vt: 8–10 mL/kg IBW.
+  - **Low Vt: 5 mL/kg IBW** (crucial in pressure modes).
+  - High P: 35 cmH2O.
+  - Low MV: ~70% of target MV.
+  - Apnea backup: 15–20 sec before time-triggered mandatory breath.
+- **Adjust when:** Never silence, always optimize. In PC/PS modes, **low Vt alarm is your lifeline** — compliance can drop silently.
+
+#### Sigh / Periodic Breath
+- **What it is:** Occasional (1–3/min) larger breath delivered at ~150% of set Vt, mimicking natural physiologic sighing.
+- **Typical range:** Off by default on most modern vents; occasionally used in PSV for prolonged weans.
+- **Lungs:** May prevent micro-atelectasis in spontaneously breathing patients on low PS.
+- **Oxygenation:** Small, transient recruitment effect.
+- **Ventilation:** Negligible.
+- **Adjust when:** Rarely. Not a substitute for adequate PEEP.
+
+---
+
+### Putting It Together — How Each Setting Moves the Three Dials
+
+| Setting | Lung Mechanics | Oxygenation | Ventilation |
+|---------|---------------|-------------|-------------|
+| FiO2 | Atelectasis if >0.6 | ↑↑↑ direct | — |
+| PEEP | Recruits / overdistends | ↑↑↑ via mean Paw | slight ↓ (dead space) |
+| RR | Auto-PEEP risk if ↑ | — | ↑↑↑ direct (MV) |
+| Vt (VC) | Volutrauma risk if ↑ | ↑ via recruitment | ↑↑ direct (MV) |
+| IP (PC) | Sets driving pressure | ↑ via mean Paw | ↑↑ via Vt |
+| Ti / I:E | Long Ti → auto-PEEP | ↑↑ via mean Paw | ↓ if air trapping |
+| Rise time | Comfort / dyssynchrony | Indirect | Indirect |
+| Peak flow | Peak pressure trade-off | Indirect | Indirect |
+| Trigger sens | WOB / auto-trigger | Indirect | ↑↓ if mis-set |
+| Esens (PSV) | Synchrony on cycle-off | Indirect | Indirect |
+| PS | ↓ WOB, risk of atrophy | Slight ↑ | ↑↑ patient-driven |
+| Pmax (PRVC) | Safety ceiling | — | ↓ if capped |
+| Alarms | Detects deterioration | — | — |
+
+> **Three-dial shortcut:** If **oxygenation** is the problem → reach for FiO2 and PEEP (and Ti for refractory cases). If **ventilation** is the problem → reach for RR and Vt (and dead space reduction). If **synchrony** is the problem → reach for rise time, trigger sensitivity, peak flow, and Esens.
+
+---
 ## Lung-Protective Ventilation Strategy
 Lung-protective ventilation should be applied to **all** mechanically ventilated patients, not just those with ARDS.
 
@@ -434,4 +602,4 @@ Assess **daily** for all intubated patients:
 10. [Official Clinical Practice Guidelines of the European Respiratory Society/American Thoracic Society on Noninvasive Ventilation for Acute Respiratory Failure](https://pubmed.ncbi.nlm.nih.gov/28860265). Rochwerg B, Brochard L, Elliott MW, et al. European Respiratory Journal. 2017;50(2):1602426. doi:10.1183/13993003.02426-2016.
 ---
 
-_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_
+_Created: 2026-03-01 · Last updated: 2026-04-20 · HVI ICU APP Team_
