@@ -36,6 +36,30 @@ This protocol covers ventilator modes, initial setup, lung-protective strategies
 3. **Patient comfort** — vent synchrony, minimize sedation
 4. **Facilitate weaning** — minimize muscle loss, promote readiness to wean from support
 
+### The Three Therapeutic Benefits of a Ventilator**
+A ventilator is not therapy in the way an antibiotic or a diuretic is — it buys time. It does exactly three things for the patient:
+
+1. **Delivers a high FiO2** — beyond what a face mask can reliably provide.
+2. **Applies positive pressure** — recruits collapsed alveoli, redistributes pulmonary edema, and corrects shunt physiology.
+3. **Takes over the work of breathing** — offloads the diaphragm and accessory muscles when the patient is in shock, sepsis, or fatigue.
+
+> **Clinical implication:** If the patient does not need any of those three things today, the patient probably does not need the ventilator today. This framing drives daily liberation decisions.
+
+### The Eleven Commandments of Mechanical Ventilation**
+These are the high-yield rules that should never be forgotten at the bedside:
+
+1. **The ventilator is not therapeutic** — it supports while the underlying disease is treated.
+2. **Always use lung-protective settings** — 6 mL/kg IBW, Pplat ≤30, ΔP <15 — for *every* ventilated patient, not just ARDS.
+3. **PEEP is your friend in the lungs and the LV; PEEP is the enemy of the RV** — titrate with heart-lung interactions in mind.
+4. **The patient and the ventilator must agree** — dyssynchrony is harmful and is a clinical sign, not a nuisance alarm.
+5. **Treat the patient, not the numbers** — a "perfect" ABG on a fighting patient is worse than permissive hypercapnia on a comfortable one.
+6. **Look at the waveforms** — flow, pressure, and volume curves tell you more than any single number.
+7. **Auto-PEEP is everywhere in obstruction** — always look for it before adding PEEP or sedation.
+8. **The plateau pressure is the truth** — peak pressure is half airway, half alveolus; only the Pplat reflects what the alveolus actually feels.
+9. **Daily SBT, daily SAT** — pair them, every day, unless there is a specific reason not to.
+10. **Get them up, get them off** — early mobility, early extubation, early decannulation.
+11. **When the patient deteriorates, disconnect and bag** — rule out the vent, the circuit, and the tube before you blame the patient.
+
 ---
 
 ## Indications for Mechanical Ventilation
@@ -334,6 +358,8 @@ A walkthrough of every knob and button you see on a standard adult ICU ventilato
   - Severe obstructive disease needing long expiration → increase peak flow so inspiration finishes quickly.
   - High peak pressures → decrease flow or switch to decelerating pattern.
 
+> **Teaching analogy:** Constant flow is like **drinking from a fire hose** — the gas hits the airways at a steady, fast rate; comfortable in the air-hungry COPD patient but generates higher peak pressures. Decelerating flow is like **filling a glass of lemonade from a pitcher** — fast at first, then slowing as the glass fills, which fills the alveolar "nooks and crannies" more evenly. Most patients tolerate decelerating flow better; *most* COPD/asthma patients prefer constant flow because they want air *now*.
+
 ---
 
 ### Trigger & Cycle — How the Vent Detects the Patient
@@ -344,6 +370,8 @@ A walkthrough of every knob and button you see on a standard adult ICU ventilato
 - **Lungs:** Too insensitive (e.g., −5 cmH2O) → patient works hard to trigger, increased WOB, dyspnea. Too sensitive → **auto-triggering** from cardiac oscillations, water in tubing, circuit leaks → hyperventilation, respiratory alkalosis.
 - **Oxygenation/ventilation:** Both suffer when trigger is wrong — hypoventilation if effort is wasted, hyperventilation if auto-triggered.
 - **Adjust when:** Missed triggers (patient contractions without ventilator response) → make more sensitive. Auto-triggering (vent cycles without patient effort) → less sensitive, check for leaks/water.
+
+> **The auto-PEEP trigger trap:** A COPD/asthma patient with a *set* PEEP of 5 and *intrinsic* (auto-) PEEP of 12 has to drop end-expiratory pressure by 9 cmH2O just to reach the trigger threshold of 2 cmH2O — exhausting work. The patient looks like they are "working hard against the vent" but the vent never gives them a breath. **Diagnosis at the bedside:** put your hand on the chest. If you feel inspiratory effort that is not followed by a delivered breath, triggering is ineffective. **Fix:** add applied PEEP (75–85% of the measured auto-PEEP) and switch from pressure to flow trigger.
 
 #### Expiratory Sensitivity / Cycle-Off (Esens / ETS) — Pressure Support
 - **What it is:** % of peak inspiratory flow at which the ventilator cycles from inspiration to expiration in PS mode. Default 25%.
@@ -476,6 +504,32 @@ Lung-protective ventilation should be applied to **all** mechanically ventilated
 ---
 ## Ventilator Alarms and Troubleshooting
 
+### "Fighting the Vent" — The TSS Approach
+
+When a patient suddenly deteriorates on the vent — desats, alarms, hypotension, agitation — **disconnect from the vent and bag with 100% FiO2** while you work the algorithm. If the patient improves with bagging, the problem is the vent or the circuit; if not, the problem is the patient.
+
+Then run the **TSS** mnemonic at the bedside:
+
+| Letter | Check | What you're looking for |
+|---|---|---|
+| **T**ube | Position, kinks, biting, cuff, suction for occlusion | Right mainstem, mucus plug, cuff leak, mainstem migration |
+| **S**ounds | Auscultation bilaterally | Asymmetry → pneumothorax or mainstem; wheeze → bronchospasm; crackles → edema/PNA |
+| **S**ats | Pulse oximetry trend, ETCO2 waveform | Sudden drop → PE/PTX/disconnect; rising ETCO2 → hypoventilation; loss of waveform → ETT dislodgement or arrest |
+
+> **Rule of thumb:** Until proven otherwise, the alarm is the *tube* or the *circuit*, not the patient. Spend 30 seconds ruling those out before reaching for a sedative or paralytic.
+
+### Peak vs Plateau — The Pressure Algorithm
+
+A high peak pressure alarm is meaningless without a plateau check. Press the **inspiratory hold** for 0.5–1 sec to get the Pplat:
+
+| Pattern | Interpretation | Examples |
+|---|---|---|
+| **High Peak / Normal Plateau** (gap >5) | **Airway resistance** problem | Bronchospasm, mucus plug, ETT kink/biting, secretions, ETT too small |
+| **High Peak / High Plateau** (gap <5) | **Compliance** problem (alveolar/chest wall) | Pneumothorax, ARDS progression, pulmonary edema, atelectasis, abdominal distension, chest wall edema, mainstem intubation |
+| **Low Peak** | **Leak or disconnect** | Circuit, ETT cuff, large bronchopleural fistula |
+
+> **Mental model:** Peak pressure is half airway, half alveolus. Only the **plateau** tells you what the alveolus actually feels — and it's the plateau (not the peak) that drives barotrauma and matters for lung-protective ventilation.
+
 ### High Peak Pressure Alarm
 
 | Cause | Assessment | Intervention |
@@ -517,6 +571,10 @@ Lung-protective ventilation should be applied to **all** mechanically ventilated
 
 ---
 ## Liberation from Mechanical Ventilation
+
+> **Owens' framing:** *"There are two types of days for patients on the ventilator — vent days and get-off-the-vent days. The daily SBT tells you which kind of day it is."* The ventilator is not therapeutic; the patient comes off when ready. Our job is to recognize that day, not to "wean" by titrating support down over hours. **Daily SBT > SIMV/PSV stepwise weaning.** *(Esteban et al., NEJM 1995)*
+
+> **Why we don't "work them out":** There is no benefit to finding the level of support just above the fatigue point and parking the patient there. Either they pass the SBT and get extubated, or they go back to full assist-control and rest until tomorrow.
 
 ### Daily Readiness Screen
 Assess **daily** for all intubated patients:
@@ -600,6 +658,7 @@ Assess **daily** for all intubated patients:
 8. [Effect of a Protective-Ventilation Strategy on Mortality in the Acute Respiratory Distress Syndrome](https://pubmed.ncbi.nlm.nih.gov/9449727). Amato MB, Barbas CS, Medeiros DM, et al. The New England Journal of Medicine. 1998;338(6):347-54. doi:10.1056/NEJM199802053380602.
 9. [Postoperative Pulmonary Complications After Lung-Protective Ventilation in Thoracic Surgery: A Prospective Observational Study](https://pubmed.ncbi.nlm.nih.gov/29337724). Blank RS, Colquhoun DA, Durieux ME, et al. Anesthesia and Analgesia. 2018;126(4):1258-1267. doi:10.1213/ANE.0000000000002659.
 10. [Official Clinical Practice Guidelines of the European Respiratory Society/American Thoracic Society on Noninvasive Ventilation for Acute Respiratory Failure](https://pubmed.ncbi.nlm.nih.gov/28860265). Rochwerg B, Brochard L, Elliott MW, et al. European Respiratory Journal. 2017;50(2):1602426. doi:10.1183/13993003.02426-2016.
+11. **Owens W.** *The Ventilator Book.* 2nd ed. First Draught Press; 2018. *(Eleven Commandments framework, TSS troubleshooting mnemonic, three therapeutic benefits model, fire-hose/lemonade flow analogies, "vent days vs get-off-the-vent days" liberation framing.)*
 ---
 
-_Created: 2026-03-01 · Last updated: 2026-04-20 · HVI ICU APP Team_
+_Created: 2026-03-01 · Last updated: 2026-04-21 · HVI ICU APP Team_

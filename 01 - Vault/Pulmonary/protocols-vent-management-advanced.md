@@ -191,6 +191,10 @@ A small RCT (Zou et al., *CHEST* 2025; PMID: 39299389; n=40) using EIT demonstra
 
 Dyssynchrony is underdiagnosed. Studies suggest **25–50% of mechanically ventilated patients** have significant dyssynchrony when waveforms are analyzed carefully. In the HFICU population with dynamic hemodynamics, dyssynchrony is both more common and more consequential.
 
+> **Bedside diagnostic pearl (Owens):** Before you call it "agitation" and ask for more sedation, **place your hand on the patient's chest for 30 seconds.** If you feel inspiratory effort that is *not* followed by a delivered breath, or you feel a clear delay between effort and the machine's response, the diagnosis is **ineffective triggering** — almost always from auto-PEEP, weak respiratory muscles, or trigger sensitivity set too low. Esophageal probes confirm what your hand can already tell you. *(Owens, The Ventilator Book, ch. 12)*
+
+> **Mental model:** Dyssynchrony is a *clinical sign*, not a nuisance alarm. The patient and the ventilator must agree, or one of them is doing harm to the other. Reaching for sedation before the waveforms have been analyzed is treating the alarm, not the problem.
+
 ---
 
 ## 2.1 Types of Dyssynchrony — A Waveform-Based Classification
@@ -501,6 +505,12 @@ Apply an expiratory pause (typically 0.5–2 seconds) at end-expiration. The air
 > 3. Establish auto-PEEP (expiratory hold) and set extrinsic PEEP at 80% of auto-PEEP
 > 4. Consider paralysis (cisatracurium) — active expiratory effort paradoxically worsens air trapping via dynamic airway closure
 > 5. Maximize bronchodilation: continuous albuterol, magnesium 2g IV, IV epinephrine if near-arrest, ketamine for bronchodilation and sedation
+
+### Why the 75–85% PEEP Rule Works — The Waterfall Analogy (Owens)
+
+> **Mental model:** In COPD, the loss of alveolar tethering means small airways collapse during exhalation when expiratory flow accelerates (Bernoulli effect — increased velocity, decreased pressure). Imagine a river running down a canyon toward a waterfall. The point at which water plunges over the falls is chaotic and turbulent — that is the patient's collapsing airway. If you could **raise the river level downstream just to the lip of the falls**, water could still flow over but without the turbulence and chaos.
+>
+> Applied PEEP at **75–85% of measured auto-PEEP** does exactly this — it splints the small airways open without raising alveolar pressure enough to push gas backward. Push PEEP *above* the alveolar pressure and you raise the river above the falls — flow reverses, hyperinflation worsens. 
 
 ### Permissive Hypercapnia in Obstructive Disease
 
@@ -1004,9 +1014,10 @@ This protocol is informed by the following landmark trials, guidelines, and syst
 23. **FLORALI:** Frat JP, Thille AW, Mercat A, et al. High-flow oxygen through nasal cannula in acute hypoxemic respiratory failure. *NEJM* 2015;372:2185-2196.
 24. **SBT Weaning:** Esteban A, et al. A comparison of four methods of weaning patients from mechanical ventilation. *NEJM* 1995;332:345-350.
 
----
-_Last updated: March 2026 · HVI ICU APP Team · Evidence review current through March 2026_
-_Key guideline sources: ATS 2024, ESICM 2023, ELSO Guidelines_
+## Mental Models & Bedside Pearls
+
+25. **Owens W.** *The Ventilator Book.* 2nd ed. First Draught Press; 2018. *(Source for the hand-on-the-chest dyssynchrony exam, the waterfall analogy for auto-PEEP titration in COPD, and the framing that dyssynchrony is a clinical sign rather than a nuisance alarm.)*
+
 ---
 
-_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_
+_Created: 2026-03-01 · Last updated: 2026-04-21 · HVI ICU APP Team_

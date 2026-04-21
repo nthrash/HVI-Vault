@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Vault/Pulmonary/protocols-vent-management.md",
+                "file": "01 - Vault/Pulmonary/protocols-vent-management-advanced.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "protocols-vent-management"
+              "title": "protocols-vent-management-advanced"
             }
           }
         ]
@@ -196,8 +196,10 @@
   },
   "active": "0ae10a350c207f94",
   "lastOpenFiles": [
-    "01 - Vault/Pulmonary/protocols-vent-management-advanced.md",
     "01 - Vault/Pulmonary/protocols-vent-management.md",
+    "01 - Vault/Pulmonary/protocols-rsi.md",
+    "01 - Vault/Pulmonary/protocols-vent-management-advanced.md",
+    "01 - Vault/Pulmonary/protocols-vent-management.md.tmp.6583.1776749332351",
     "01 - Vault/Gastroenterology/protocols-gi-bleed.md",
     "01 - Vault/Cardiology/protocols-ekg-curriculum.md",
     "01 - Vault/Cardiology/protocols-gdmt-hfref.md",
@@ -227,7 +229,6 @@
     "01 - Vault/Cardiology/protocols-aortic-valve-disease.md",
     "01 - Vault/Cardiology/protocols-icu-cardiac-calculations.md",
     "01 - Vault/Surgery/protocols-vasoplegia.md",
-    "TEG_ROTEM_Interpreting_Viscoelastic_Assays.md",
     "01 - Vault/Cardiology/protocols-right-heart-catheterization.pdf",
     "~$ntilator-Waveform-Analysis.docx",
     "99 - Meta/Assets/Images/Vent Waveforms/Online/15-PV-loops-summary.jpg",
@@ -240,7 +241,6 @@
     "99 - Meta/Assets/Images/Vent Waveforms/Online/21-dyssynchrony-auto-PEEP-effort.jpg",
     "99 - Meta/Assets/Images/Vent Waveforms/Online/22-dyssynchrony-cardiac-oscillations.jpg",
     "99 - Meta/Assets/Images/Vent Waveforms/Online/23-dyssynchrony-double-triggering-premature-termination.jpg",
-    "99 - Meta/Assets/Images/Vent Waveforms/Online/24-LITFL-PV-loop-1.jpg",
-    "99 - Meta/Assets/Images/Vent Waveforms/Online"
+    "99 - Meta/Assets/Images/Vent Waveforms/Online/24-LITFL-PV-loop-1.jpg"
   ]
 }
