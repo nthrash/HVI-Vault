@@ -1,6 +1,6 @@
 # Ventilator Waveform Analysis
 ## A Comprehensive Guide
-*Standalone Reference — UTHealth Houston HVI*
+*Standalone Reference
 
 Understanding ventilator waveforms is one of the most powerful clinical skills an APP can develop. Waveforms give you **real-time, breath-by-breath insight** into what is happening inside the patient's lungs — long before lab values, imaging, or clinical deterioration make the problem obvious. This document covers scalar waveforms, loops, dyssynchrony recognition, and clinical troubleshooting using graphics.
 
@@ -74,7 +74,7 @@ With constant (square) flow delivery, the pressure waveform rises in a **linear 
 - **Plateau Pressure (Pplat)** — measured during an inspiratory hold; reflects ONLY alveolar pressure (elastic recoil of the lung)
 - **The PIP–Pplat gradient** — the difference between peak and plateau pressure reflects airway resistance alone
 
-> ![](https://www.derangedphysiology.com/main/sites/default/files/php/Respiratory-failure-and-mechanical-ventilation/images/ventilator%20pressure%20waveform.JPG)
+> ![750](https://www.derangedphysiology.com/main/sites/default/files/php/Respiratory-failure-and-mechanical-ventilation/images/ventilator%20pressure%20waveform.JPG)
 > *Normal Pressure-Time Scalar (ACVC) — Deranged Physiology* — Labeled PEEP baseline, linear rise, PIP, inspiratory hold/plateau, and return to PEEP. The PIP−Pplat gap = airway resistance; Pplat−PEEP = driving pressure (elastic recoil).
 
 > **Key Equation:**
@@ -88,19 +88,19 @@ In pressure control, the ventilator targets a set inspiratory pressure. The pres
 
 The square/flat pressure waveform in ACPC is the inverse of ACVC — here, pressure is controlled and constant, while flow is the dependent variable that decelerates.
 
-> ![](https://www.derangedphysiology.com/main/sites/default/files/php/Respiratory-failure-and-mechanical-ventilation/images/pressure%20ciurve%20high%20vs%20normal%20airway%20resistance.JPG)
+> ![|716x309](https://www.derangedphysiology.com/main/sites/default/files/php/Respiratory-failure-and-mechanical-ventilation/images/pressure%20ciurve%20high%20vs%20normal%20airway%20resistance.JPG)
 > *Pressure-Time Scalar: High vs Normal Airway Resistance — Deranged Physiology* — In ACPC the pressure plateau is flat (set value); contrast the rapid rise and flat top against ACVC's linear ramp. Also illustrates how PIP rises while Pplat stays stable when resistance increases.
 
 ### What the Pressure Waveform Tells You
 
-| Finding | What It Means | Action |
-|---------|--------------|--------|
-| Rising PIP with stable Pplat | Increased airway resistance (secretions, bronchospasm, kinked ETT) | Suction, bronchodilators, check ETT |
-| Rising PIP with rising Pplat | Decreased lung compliance (worsening ARDS, pneumothorax, pulmonary edema, abdominal distension) | Chest imaging, reduce Vt, increase PEEP |
-| Concave "scooped" pressure during inspiration (ACVC) | Flow starvation — patient demand exceeds set flow | Increase flow rate or switch to ACPC |
-| Pressure spike at end of inspiration | Delayed cycling — vent still inflating after patient wants to exhale | Shorten Ti, increase cycle-off threshold |
-| Pressure not returning to set PEEP before next breath | Auto-PEEP / air trapping | Extend expiratory time, reduce RR |
-| Negative deflection before breath triggers | Patient effort (trigger work) — normal but should be minimal | Adjust trigger sensitivity |
+| Finding                                               | What It Means                                                                                   | Action                                   |
+| ----------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| Rising PIP with stable Pplat                          | Increased airway resistance (secretions, bronchospasm, kinked ETT)                              | Suction, bronchodilators, check ETT      |
+| Rising PIP with rising Pplat                          | Decreased lung compliance (worsening ARDS, pneumothorax, pulmonary edema, abdominal distension) | Chest imaging, reduce Vt, increase PEEP  |
+| Concave "scooped" pressure during inspiration (ACVC)  | Flow starvation — patient demand exceeds set flow                                               | Increase flow rate or switch to ACPC     |
+| Pressure spike at end of inspiration                  | Delayed cycling — vent still inflating after patient wants to exhale                            | Shorten Ti, increase cycle-off threshold |
+| Pressure not returning to set PEEP before next breath | Auto-PEEP / air trapping                                                                        | Extend expiratory time, reduce RR        |
+| Negative deflection before breath triggers            | Patient effort (trigger work) — normal but should be minimal                                    | Adjust trigger sensitivity               |
 
 ---
 
@@ -119,7 +119,7 @@ Some ventilators allow a decelerating inspiratory flow pattern in volume control
 **ACPC — Decelerating Flow:**
 Flow starts at maximum (determined by the pressure gradient between set pressure and alveolar pressure) and decelerates as the lung fills and the pressure gradient narrows. This is the natural flow pattern in all pressure-targeted modes.
 
-> ![](https://www.derangedphysiology.com/main/sites/default/files/php/Respiratory-failure-and-mechanical-ventilation/images/ventilator%20flow%20waveform.JPG)
+> ![1000](https://www.derangedphysiology.com/main/sites/default/files/php/Respiratory-failure-and-mechanical-ventilation/images/ventilator%20flow%20waveform.JPG)
 > *Normal Flow-Time Waveform — Deranged Physiology* — Square inspiratory flow (ACVC) above the baseline; passive exponential expiratory decay below. Inspiration is positive, expiration is negative.
 >
 > ![](https://www.derangedphysiology.com/main/sites/default/files/sites/default/files/CICM%20Primary/F%20Respiratory%20system/pressure%20control%20ventilation%20flow%20rate%20reaches%20zero.JPG)
@@ -136,10 +136,10 @@ Flow starts at maximum (determined by the pressure gradient between set pressure
 | Variable inspiratory flow breath-to-breath (ACPC) | Changing compliance or patient effort — monitor Vt closely | Assess for clinical change |
 | Small flow deflections that don't trigger a breath | Ineffective efforts — patient trying to breathe but not triggering | Reduce trigger threshold, address auto-PEEP |
 
-> ![](https://www.derangedphysiology.com/main/sites/default/files/php/Respiratory-failure-and-mechanical-ventilation/images/flow%20curves%20in%20increased%20airway%20resistance%20and%20gas%20trapping.JPG)
+> ![1000](https://www.derangedphysiology.com/main/sites/default/files/php/Respiratory-failure-and-mechanical-ventilation/images/flow%20curves%20in%20increased%20airway%20resistance%20and%20gas%20trapping.JPG)
 > *Flow Curves: Increased Airway Resistance & Air Trapping — Deranged Physiology* — Saw-tooth oscillations on the expiratory limb = secretions vibrating in the airway. Also shows expiratory flow not returning to zero (auto-PEEP). The next breath fires before the lung has fully emptied.
 >
-> ![](https://www.derangedphysiology.com/main/sites/default/files/php/Respiratory-failure-and-mechanical-ventilation/images/patient-ventilatory%20dyssynchrony%20%20auto-PEEP%20causing%20increased%20respiratory%20effort.JPG)
+> ![1000](https://www.derangedphysiology.com/main/sites/default/files/php/Respiratory-failure-and-mechanical-ventilation/images/patient-ventilatory%20dyssynchrony%20%20auto-PEEP%20causing%20increased%20respiratory%20effort.JPG)
 > *Auto-PEEP Causing Increased Respiratory Effort — Deranged Physiology* — Flow not reaching zero before the next triggered breath. Note the patient effort required to overcome intrinsic PEEP before triggering.
 
 ---
@@ -161,7 +161,7 @@ The inspiratory limb rises — its shape depends on the flow pattern (linear ris
 | Exhaled volume consistently less than inspired | Leak — quantify the difference | If ETT cuff: reinflate; if BPF: surgical consult |
 | Variable tidal volumes breath-to-breath (ACPC) | Changing compliance/resistance OR variable patient effort | Assess patient; set appropriate Vt alarms |
 
-> ![|1130x909](https://www.derangedphysiology.com/main/sites/default/files/php/Respiratory-failure-and-mechanical-ventilation/images/ventilator%20waveform.JPG)
+> ![1000](https://www.derangedphysiology.com/main/sites/default/files/php/Respiratory-failure-and-mechanical-ventilation/images/ventilator%20waveform.JPG)
 > *Ventilator Waveform Schematic — Deranged Physiology* — Review the volume-time scalar (bottom panel): a circuit leak is identified when the exhaled volume tracing does not return fully to baseline — the gap between inspired and expired volume represents the leak volume.
 
 ---
@@ -174,7 +174,7 @@ The inspiratory limb rises — its shape depends on the flow pattern (linear ris
 **Flow:** Square (constant) during inspiration → exponential decay during expiration
 **Volume:** Linear rise → exponential fall
 
-> ![](https://www.derangedphysiology.com/main/sites/default/files/sites/default/files/CICM%20Primary/F%20Respiratory%20system/ventilator%20graphics.JPG)
+> ![1000](https://www.derangedphysiology.com/main/sites/default/files/sites/default/files/CICM%20Primary/F%20Respiratory%20system/ventilator%20graphics.JPG)
 > *Ventilator Graphics Overview — Deranged Physiology* — All three scalars (pressure, flow, volume) stacked and time-aligned as seen on a real ventilator screen. Note the square flow pattern (ACVC), linear volume rise, and return to PEEP on the pressure tracing.
 
 ## 3.2 ACPC — Assist Control Pressure Control
@@ -192,14 +192,14 @@ The inspiratory limb rises — its shape depends on the flow pattern (linear ris
 **Flow:** Decelerating from peak → terminates when flow reaches cycle-off percentage (typically 25% of peak)
 **Volume:** Curved rise → fall (variable Vt depending on patient effort and mechanics)
 
-> ![](https://www.derangedphysiology.com/main/sites/default/files/php/Respiratory-failure-and-mechanical-ventilation/images/ventilator%20flow%20waveform.JPG)
+> ![1000](https://www.derangedphysiology.com/main/sites/default/files/php/Respiratory-failure-and-mechanical-ventilation/images/ventilator%20flow%20waveform.JPG)
 > *Normal Flow Waveform — Deranged Physiology* — In PSV, the inspiratory flow decelerates (like ACPC) and terminates when flow drops to the cycle-off threshold (typically 25% of peak). Tidal volume is entirely variable — driven by patient effort and lung mechanics.
 
 ## 3.4 SIMV (Synchronized Intermittent Mandatory Ventilation)
 
 SIMV delivers a set number of mandatory breaths (volume or pressure targeted) with spontaneous breaths in between. Waveform shows **two distinct breath patterns** alternating — larger mandatory breaths and smaller patient-triggered spontaneous breaths (supported by PS if set).
 
-> ![|1135x767](https://www.derangedphysiology.com/main/sites/default/files/php/Respiratory-failure-and-mechanical-ventilation/images/pressure%20volume%20loop%20in%20SIMV-PRVC.jpg)
+> ![1000](https://www.derangedphysiology.com/main/sites/default/files/php/Respiratory-failure-and-mechanical-ventilation/images/pressure%20volume%20loop%20in%20SIMV-PRVC.jpg)
 > *PV Loop — SIMV/PRVC — Deranged Physiology* — In SIMV the scalar alternates between larger mandatory breaths and smaller PS-supported spontaneous breaths; the two patterns look distinctly different on the pressure and flow scalars.
 
 ## 3.5 PRVC (Pressure Regulated Volume Control)
@@ -210,7 +210,7 @@ SIMV delivers a set number of mandatory breaths (volume or pressure targeted) wi
 
 > **Clinical Pearl:** In PRVC, watch the pressure trend over multiple breaths. If the ventilator is progressively increasing pressure to maintain Vt, compliance is worsening. If pressure is dropping, compliance is improving. This is free information that many people miss.
 
-> ![](https://www.derangedphysiology.com/main/sites/default/files/php/Respiratory-failure-and-mechanical-ventilation/images/pressure-volume%20loop%20of%20an%20ideal%20CMV%20patient.jpg)
+> ![1000](https://www.derangedphysiology.com/main/sites/default/files/php/Respiratory-failure-and-mechanical-ventilation/images/pressure-volume%20loop%20of%20an%20ideal%20CMV%20patient.jpg)
 > *PV Loop — Ideal CMV/ACVC — Deranged Physiology* — In PRVC, watch the *pressure* level change breath-to-breath on the scalar (not the loop): if pressure is rising to maintain Vt, compliance is worsening; if pressure is dropping, compliance is improving. Each breath's PV loop will be identical in shape but the pressure axis will shift.
 
 ---
@@ -223,11 +223,9 @@ The pressure-volume (PV) loop plots airway pressure (x-axis) against volume (y-a
 
 A normal PV loop is an elongated oval. The **slope of the loop** represents dynamic compliance — a steeper slope means more volume delivered per unit of pressure (more compliant lung). The width of the loop (the area between inspiratory and expiratory limbs) represents the **hysteresis** — energy lost to overcome resistance and tissue friction.
 
-> ![](https://www.derangedphysiology.com/main/sites/default/files/php/Respiratory-failure-and-mechanical-ventilation/images/anatomy%20of%20the%20pressure-volume%20loop.JPG)
+> ![1000](https://www.derangedphysiology.com/main/sites/default/files/php/Respiratory-failure-and-mechanical-ventilation/images/anatomy%20of%20the%20pressure-volume%20loop.JPG)
 > *Anatomy of the PV Loop — Deranged Physiology* — Labeled inspiratory and expiratory limbs, compliance slope, hysteresis area, and starting point at PEEP. The loop is traced counterclockwise.
->
-> ![](https://litfl.com/wp-content/uploads/2019/01/pressure-vol-loop-1.jpg)
-> *Normal PV Loop (LITFL — Part 1)* — LITFL's labeled diagram showing compliance slope, loop anatomy, and normal hysteresis.
+
 
 ## 4.2 Lower Inflection Point (LIP)
 
@@ -235,7 +233,7 @@ The lower inflection point is where there is a **sudden increase in compliance**
 
 > ⚠️ **Important:** The LIP is most visible in patients with ARDS and significant atelectasis. In patients with normal compliance, the LIP may not be identifiable. Modern PEEP titration strategies (ARDSNet tables, driving pressure optimization, EIT) have largely replaced LIP-based PEEP setting, but recognizing it on the PV loop remains a valuable skill.
 
-> ![](https://www.derangedphysiology.com/main/sites/default/files/sites/default/files/old%20image%20pile/CICM/Required-Reading/Revision-Notes-for-Respiratory-Problems/pressure%20volume%20loops%20in%20disease%20states.JPG)
+> ![1000](https://www.derangedphysiology.com/main/sites/default/files/sites/default/files/old%20image%20pile/CICM/Required-Reading/Revision-Notes-for-Respiratory-Problems/pressure%20volume%20loops%20in%20disease%20states.JPG)
 > *PV Loops in Disease States — Deranged Physiology* — Includes the ARDS pattern with a visible lower inflection point (LIP) where the slope steepens — below the LIP, lung is atelectatic and not recruiting. Setting PEEP at or just above the LIP promotes alveolar recruitment.
 
 ## 4.3 Upper Inflection Point (UIP) — "Beaking"
@@ -249,10 +247,10 @@ The upper inflection point is where the inspiratory limb **flattens out** at the
 > - Reduce inspiratory pressure (in ACPC)
 > - Reassess driving pressure (target <15 cmH₂O)
 
-> ![](https://litfl.com/wp-content/uploads/2019/01/pressure-vol-loop-2.jpg)
+> ![500|500x368](https://litfl.com/wp-content/uploads/2019/01/pressure-vol-loop-2.jpg)
 > *PV Loop — LITFL (Overdistension/Beaking)* — Shows the "beak" pattern at the upper inflection point — the inspiratory limb flattens and bends rightward at the top. This is overdistension: more pressure, less volume in return. Reduce Vt or inspiratory pressure immediately.
 >
-> ![](https://www.derangedphysiology.com/main/sites/default/files/sites/default/files/old%20image%20pile/CICM/Required-Reading/Revision-Notes-for-Respiratory-Problems/pressure%20volume%20loops%20in%20brief%20summary.JPG)
+> ![1000](https://www.derangedphysiology.com/main/sites/default/files/sites/default/files/old%20image%20pile/CICM/Required-Reading/Revision-Notes-for-Respiratory-Problems/pressure%20volume%20loops%20in%20brief%20summary.JPG)
 > *PV Loops Summary — Deranged Physiology* — Side-by-side comparison of normal vs beaking loop.
 
 ## 4.4 Compliance Changes on the PV Loop
@@ -264,9 +262,6 @@ The upper inflection point is where the inspiratory limb **flattens out** at the
 | **Increased resistance** | Loop widens — increased hysteresis (larger area between limbs) | Bronchospasm, secretions, small ETT |
 | **Air trapping** | Loop doesn't close — the expiratory limb doesn't return to the starting point | Auto-PEEP, inadequate expiratory time |
 
-> ![](https://www.derangedphysiology.com/main/sites/default/files/sites/default/files/old%20image%20pile/CICM/Required-Reading/Revision-Notes-for-Respiratory-Problems/pressure%20volume%20loops%20in%20disease%20states.JPG)
-> *PV Loops in Disease States — Deranged Physiology* — Overlaid loops showing decreased compliance (rightward shift, flatter slope), increased compliance (leftward shift, steeper slope), and increased resistance (wider loop with greater hysteresis).
-
 ## 4.5 Work of Breathing on the PV Loop
 
 The area to the left of the inspiratory limb of the PV loop represents the **work of breathing**. In a mechanically ventilated patient, this work is shared between the ventilator and the patient. Anything that increases the convexity of the inspiratory curve or shifts the entire loop to the right increases the total work of breathing.
@@ -275,7 +270,7 @@ In spontaneously breathing patients (PSV), the presence of a leftward deflection
 
 **Clinical application:** In severe asthma or COPD, the PV loop shifts dramatically rightward and the inspiratory limb becomes more convex, reflecting the enormous work of breathing against airway resistance. This is visible in real time and can guide the aggressiveness of bronchodilator therapy and ventilator support.
 
-> ![](https://www.derangedphysiology.com/main/sites/default/files/php/Respiratory-failure-and-mechanical-ventilation/images/pressure%20volume%20loop%20in%20a%20spontaneously%20breathing%20patient.JPG)
+> ![1000](https://www.derangedphysiology.com/main/sites/default/files/php/Respiratory-failure-and-mechanical-ventilation/images/pressure%20volume%20loop%20in%20a%20spontaneously%20breathing%20patient.JPG)
 > *PV Loop — Spontaneous Breathing (Work of Breathing) — Deranged Physiology* — In PSV and spontaneous breathing, the leftward deflection below the trigger point represents patient work. The larger this deflection, the more work the patient is doing. In severe asthma/COPD, the entire loop shifts rightward and widens dramatically.
 
 ## 4.6 Dyssynchrony on the PV Loop
@@ -287,14 +282,12 @@ PV loops can also reveal patient-ventilator dyssynchrony that may not be immedia
 - **Flow starvation:** The inspiratory limb becomes concave to the left rather than tracking smoothly — the patient is pulling harder than the vent is delivering
 - **Active exhalation against the vent:** The expiratory limb shows a rightward bulge — the patient's expiratory muscles are pushing against continued inspiratory flow (delayed cycling)
 
-> ![](https://litfl.com/wp-content/uploads/2019/01/pressure-vol-loop-2.jpg)
-> *PV Loop — LITFL (Dyssynchrony Features)* — Review the abnormal loop shapes: a concave (leftward) inspiratory limb = flow starvation; a rightward bulge on the expiratory limb = active exhalation against the vent (delayed cycling); a small loop-within-loop at the bottom = auto-triggering.
 
 ## 4.7 Air Leak on the PV Loop
 
 When there is a leak in the circuit (cuff leak, chest tube air leak, circuit disconnect), the PV loop **fails to close** — the expiratory limb does not return to the starting volume. The magnitude of the gap between where the loop starts and where it ends represents the volume of gas lost to the leak.
 
-> ![](https://www.derangedphysiology.com/main/sites/default/files/sites/default/files/old%20image%20pile/CICM/Required-Reading/Revision-Notes-for-Respiratory-Problems/pressure%20volume%20loops%20in%20brief%20summary.JPG)
+> ![1000](https://www.derangedphysiology.com/main/sites/default/files/sites/default/files/old%20image%20pile/CICM/Required-Reading/Revision-Notes-for-Respiratory-Problems/pressure%20volume%20loops%20in%20brief%20summary.JPG)
 > *PV Loops Summary — Deranged Physiology* — An air leak is identified when the expiratory limb of the PV loop does not return to the starting point — the gap at the bottom of the loop equals the volume lost to the leak. Also visible on the volume-time scalar as exhaled < inhaled.
 
 ---
@@ -438,7 +431,7 @@ Patient-ventilator dyssynchrony affects 25–50% of mechanically ventilated pati
 
 **Fix:** Shorten Ti, increase cycle-off threshold in PSV (to 40–50% of peak flow), check for leaks (leaks delay flow-based cycling)
 
-> ![](https://www.derangedphysiology.com/main/sites/default/files/php/Respiratory-failure-and-mechanical-ventilation/images/ventilator%20pressure%20waveform.JPG)
+> ![|1074x480](https://www.derangedphysiology.com/main/sites/default/files/php/Respiratory-failure-and-mechanical-ventilation/images/ventilator%20pressure%20waveform.JPG)
 > *Normal Pressure Waveform — Deranged Physiology* — Delayed cycling produces a **sharp pressure spike** at the very end of inspiration as the patient's expiratory muscles activate against the vent's continued inspiratory flow. Contrast this against the normal smooth descent from PIP to PEEP.
 
 ## 6.7 Reverse Triggering
@@ -565,7 +558,7 @@ One of the most practical applications of waveform analysis is **assessing real-
 - Beaking resolves if present
 - FV loop: expiratory flow may improve as small airway edema resolves
 
-> ![](https://www.derangedphysiology.com/main/sites/default/files/sites/default/files/old%20image%20pile/CICM/Required-Reading/Revision-Notes-for-Respiratory-Problems/pressure%20volume%20loops%20in%20disease%20states.JPG)
+> ![|829x628](https://www.derangedphysiology.com/main/sites/default/files/sites/default/files/old%20image%20pile/CICM/Required-Reading/Revision-Notes-for-Respiratory-Problems/pressure%20volume%20loops%20in%20disease%20states.JPG)
 > *PV Loops in Disease States — Deranged Physiology* — With effective diuresis, the PV loop should progressively shift leftward (steeper slope) as pulmonary edema clears and compliance improves. If the loop continues shifting right despite aggressive diuresis, investigate for additional pathology.
 
 ## 9.5 Paralytic Administration
