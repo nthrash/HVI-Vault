@@ -1,6 +1,6 @@
 # Advanced Ventilator Management
 ## Heart Failure & Critical Care ICU Protocol
-*For Advanced Practice Providers — UTHealth Houston HFICU*
+*For Advanced Practice Providers
 
 This protocol is designed for APPs with working ventilator knowledge who need to navigate **unconventional rescue strategies** when standard approaches fail — with special emphasis on heart failure physiology, RV-LV interdependence, cardiogenic shock, ECMO patients, and high-acuity MCS.
 
