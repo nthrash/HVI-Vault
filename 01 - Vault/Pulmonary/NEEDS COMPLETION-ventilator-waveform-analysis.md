@@ -124,7 +124,7 @@ Flow starts at maximum (determined by the pressure gradient between set pressure
 > ![1000](https://www.derangedphysiology.com/main/sites/default/files/php/Respiratory-failure-and-mechanical-ventilation/images/ventilator%20flow%20waveform.JPG)
 > *Normal Flow-Time Waveform (ACVC) — Deranged Physiology* — Canonical square-wave inspiratory flow above the zero line (set flow rate, constant across Ti), followed by the passive exponential expiratory decay below the zero line. Note that expiratory flow returns to zero before the next breath — no auto-PEEP. Use this as your "normal" reference.
 >
-> ![1000](https://www.derangedphysiology.com/main/sites/default/files/sites/default/files/CICM%20Primary/F%20Respiratory%20system/pressure%20control%20ventilation%20flow%20rate%20reaches%20zero.JPG)
+> ![500](https://www.derangedphysiology.com/main/sites/default/files/sites/default/files/CICM%20Primary/F%20Respiratory%20system/pressure%20control%20ventilation%20flow%20rate%20reaches%20zero.JPG)
 > *ACPC Flow: Decelerating to Zero — Deranged Physiology* — In pressure control, inspiratory flow starts at a high peak (driven by the initial gradient between set pressure and alveolar pressure) and decelerates to zero at end-Ti, indicating the lung has fully equilibrated with the set pressure. This is the visual signature of "adequate Ti" in ACPC.
 
 ### What the Flow Waveform Tells You
