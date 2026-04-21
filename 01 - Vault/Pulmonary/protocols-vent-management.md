@@ -340,7 +340,7 @@ A walkthrough of every knob and button you see on a standard adult ICU ventilato
 
 #### Trigger Sensitivity (Flow Trigger / Pressure Trigger)
 - **What it is:** Effort threshold at which the ventilator delivers a breath. **Flow trigger** (1–3 L/min) is standard; **pressure trigger** (−1 to −2 cmH2O) is older.
-- **Typical range:** Flow trigger 2 L/min.
+- **Typical range:** Flow trigger 1-5 L/min
 - **Lungs:** Too insensitive (e.g., −5 cmH2O) → patient works hard to trigger, increased WOB, dyspnea. Too sensitive → **auto-triggering** from cardiac oscillations, water in tubing, circuit leaks → hyperventilation, respiratory alkalosis.
 - **Oxygenation/ventilation:** Both suffer when trigger is wrong — hypoventilation if effort is wasted, hyperventilation if auto-triggered.
 - **Adjust when:** Missed triggers (patient contractions without ventilator response) → make more sensitive. Auto-triggering (vent cycles without patient effort) → less sensitive, check for leaks/water.
