@@ -1,14 +1,16 @@
 ---
-
-title: "Euglycemic Diabetic Ketoacidosis (euDKA)" category: "Endocrinology / Critical Care" audience: "APP/Physician" created: "2026-05-05" updated: "2026-05-05" tags:
-
-- endocrinology
-- metabolic-emergencies
-- SGLT2-inhibitors
-- DKA
-- critical-care
-- cardiology
-
+title: "Euglycemic Diabetic Ketoacidosis"
+category: "Endocrine"
+audience: "APP/Physician"
+created: "2026-05-05"
+updated: "2026-05-05"
+tags:
+  - endocrinology
+  - metabolic-emergencies
+  - SGLT2-inhibitors
+  - DKA
+  - critical-care
+  - cardiology
 ---
 
 # Euglycemic Diabetic Ketoacidosis
@@ -400,3 +402,7 @@ The major outcomes trials for SGLT-2 inhibitors — **EMPA-REG OUTCOME** (2015),
 22. Thompson A, Fleischmann KE, Smilowitz NR, et al. 2024 AHA/ACC Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery. _J Am Coll Cardiol._ 2024;84(19):1869–1969. doi:10.1016/j.jacc.2024.06.013
 23. Oprea AD, Mohamed B, Hepner DL, et al. Perioperative Management of Patients Taking Sodium-Glucose Cotransporter 2 Inhibitors: SPAQI Multidisciplinary Consensus Statement. _Br J Anaesth._ 2026. doi:10.1016/j.bja.2026.02.031
 24. Douros A, Lix LM, Fralick M, et al. Sodium-Glucose Cotransporter-2 Inhibitors and the Risk for Diabetic Ketoacidosis: A Multicenter Cohort Study. _Ann Intern Med._ 2020;173(6):417–425. doi:10.7326/M20-0289
+
+---
+
+_Created: 2026-05-05 · Last updated: 2026-05-05 · HVI ICU APP Team_
