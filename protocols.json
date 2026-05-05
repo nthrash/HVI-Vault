@@ -368,6 +368,13 @@
       "subtitle": "CVICU Provider Education — Advanced Topics Index",
       "category": "cardiology",
       "contentFile": "01 - Vault/Cardiology/protocols-ekg-curriculum.md"
+    },
+    {
+      "id": "crrt-ihd",
+      "title": "Renal Replacement Therapy in the ICU",
+      "subtitle": "CRRT & iHD — Modes, Dosing & Management",
+      "category": "nephrology",
+      "contentFile": "01 - Vault/Nephrology/protocols-crrt-ihd.md"
     }
   ]
 }
