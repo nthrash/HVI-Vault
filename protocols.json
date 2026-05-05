@@ -53,9 +53,9 @@
     {
       "id": "euglycemic-dka",
       "title": "Euglycemic Diabetic Ketoacidosis",
-      "subtitle": "EDKA — Diagnosis & Management",
+      "subtitle": "euDKA — Diagnosis & Management",
       "category": "endocrine",
-      "contentFile": "01 - Vault/Endocrine/euglycemic-diabetic-ketoacidosis.md"
+      "contentFile": "01 - Vault/Endocrine/protocols-euglycemic-diabetic-ketoacidosis.md"
     },
     {
       "id": "vent-management",
