@@ -11,10 +11,14 @@
             "id": "1819405fa0ffa27a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 - Vault/Cardiology/protocols-ekg-curriculum.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "protocols-ekg-curriculum"
             }
           }
         ]
@@ -190,7 +194,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "37148d93af0bc366",
+  "active": "1819405fa0ffa27a",
   "lastOpenFiles": [
     "01 - Vault/Pulmonary/protocols-copd.md",
     "01 - Vault/Pulmonary/NEEDS COMPLETION-ventilator-waveform-analysis.md",

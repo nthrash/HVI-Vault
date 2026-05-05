@@ -1,9 +1,5 @@
 # EKG Curriculum — CVICU Provider Education
 
-**Audience:** Mixed APP + MD learners (CVICU)
-**Purpose:** A curated index of advanced EKG topics beyond the basics — each with a one-line clinical hook and a link to the LITFL ECG Library article. Use this as a jumping-off point until each topic is built into its own full learning module.
-**Primary reference:** [LITFL ECG Library](https://litfl.com/ecg-library/)
-
 ---
 
 ## 0. Foundations (Brief Refresher)
