@@ -36,7 +36,7 @@ tags:
 
 ## Overview
 
-Renal replacement therapy (RRT) in the critically ill represents one of the most consequential and technically demanding interventions in ICU practice. Acute kidney injury (AKI) affects **50–70% of ICU patients** and requires RRT in approximately 5–10% of all ICU admissions — a number that climbs substantially in post-cardiac surgery, septic shock, and cardiogenic shock populations. The two dominant modalities are **continuous renal replacement therapy (CRRT)** and **intermittent hemodialysis (iHD)**, each with distinct physiologic profiles, indications, and operational demands.
+Renal replacement therapy (RRT) in the critically ill represents one of the most consequential and technically demanding interventions in ICU practice. Acute kidney injury (AKI) affects approximately **22% of ICU patients** by KDIGO creatinine criteria at admission, though this rises substantially when urine output criteria are included and may reach up to two-thirds of patients under broader RIFLE-era definitions (Ostermann et al., *Lancet* 2025). RRT is required in approximately 5–10% of all ICU admissions — a number that climbs substantially in post-cardiac surgery, septic shock, and cardiogenic shock populations. The two dominant modalities are **continuous renal replacement therapy (CRRT)** and **intermittent hemodialysis (iHD)**, each with distinct physiologic profiles, indications, and operational demands.
 
 The choice between CRRT and iHD is not simply a matter of preference — it is a clinical decision driven by hemodynamic stability, volume status, intracranial pressure, metabolic burden, and institutional resources. In a cardiac ICU where volume management, hemodynamic fragility, and drug clearance are daily concerns, proficiency with both modalities is essential.
 
@@ -52,7 +52,7 @@ These are absolute indications requiring urgent initiation regardless of modalit
 
 | Indication | Details |
 |---|---|
-| **A** — Acidosis | Severe metabolic acidosis pH < 7.1 refractory to medical management |
+| **A** — Acidosis | Severe metabolic acidosis pH < 7.1 refractory to medical management. Note: The BICAR-ICU trial (*Lancet* 2018) found that IV sodium bicarbonate infusion (targeting pH ≥ 7.3) in severe metabolic acidosis (pH ≤ 7.2, PaCO₂ ≤ 45) was associated with improved 28-day survival and decreased need for RRT in patients with AKI — consider bicarbonate as an adjunct or bridge in selected patients before defaulting to RRT for acidosis alone |
 | **E** — Electrolytes | Hyperkalemia K⁺ > 6.5 mEq/L or refractory to medical therapy; severe hyperphosphatemia |
 | **I** — Intoxication | Dialyzable toxins: lithium, methanol, ethylene glycol, salicylates, metformin (lactic acidosis) |
 | **O** — Overload | Volume overload refractory to diuretics — pulmonary edema, anasarca |
@@ -62,7 +62,7 @@ These are absolute indications requiring urgent initiation regardless of modalit
 
 ### Non-Emergent / Prophylactic Indications
 
-The decision to initiate RRT in non-emergent AKI (e.g., oliguric AKI with rising creatinine but without emergent criteria) is one of the most debated topics in critical care. The landmark **AKIKI** and **IDEAL-ICU** trials established that **watchful waiting with delayed initiation** is non-inferior to early initiation in terms of mortality, and avoids unnecessary RRT in patients who may recover spontaneously. However, there is no benefit to excessive delay when:
+The decision to initiate RRT in non-emergent AKI (e.g., oliguric AKI with rising creatinine but without emergent criteria) is one of the most debated topics in critical care. The landmark **AKIKI**, **IDEAL-ICU**, and **STARRT-AKI** trials established that **watchful waiting with delayed initiation** is non-inferior to early initiation in terms of mortality, and avoids unnecessary RRT in patients who may recover spontaneously. However, the **AKIKI-2** trial (Gaudry et al., *Lancet* 2021) defined the safety boundary of delay: a "more-delayed" strategy (BUN threshold 140 mg/dL, removing oliguria >72h as a trigger) was associated with higher 60-day mortality on multivariable analysis and no benefit in RRT-free days — excessive delay beyond emergent thresholds may cause harm. The **ELAIN** trial (Zarbock et al., *JAMA* 2016) is the notable outlier, showing a mortality benefit with early RRT (stage 2 vs. stage 3 AKI) in a single-center study, though its generalizability is debated. There is no benefit to excessive delay when:
 
 - Oliguria persists > 72 hours despite optimization
 - Solute clearance is inadequate for clinical stability
@@ -205,8 +205,10 @@ Anticoagulation is required in CRRT to prevent filter clotting and maintain circ
 **Advantages:**
 - Anticoagulation confined to the circuit — minimal systemic bleeding risk
 - Preferred in patients with active bleeding, post-operative state, thrombocytopenia, or HIT
-- Prolongs filter life (often > 72 hours vs. 24–36 hours with heparin)
-- Now the **KDIGO 2012/2024 preferred strategy** for patients without citrate contraindications
+- Prolongs filter life substantially — the RICH trial (Zarbock et al., *JAMA* 2020) demonstrated median filter life 46.5 vs. 26.0 hours (RCA vs. heparin); a 2025 meta-analysis of 72 studies found 36.7 vs. 16.4 hours
+- Significantly lower bleeding events: 5.1% vs. 16.9% (RICH trial); 2.4% vs. 12.6% (2025 meta-analysis)
+- **Trade-offs:** Higher rates of hypocalcemia (4.4% vs. 0.1%) and metabolic alkalosis (6.6% vs. 0.4%) with RCA — monitor iCa and bicarbonate closely
+- Now the **KDIGO preferred strategy** for patients without citrate contraindications
 
 **Contraindications:**
 - Severe hepatic failure (liver cannot metabolize citrate → citrate accumulation and toxicity)
@@ -303,7 +305,7 @@ Target filter life > 24 hours (ideally 48–72 hours with citrate). Factors that
 - Post-dilution only — hemoconcentrates blood in filter
 - Inadequate anticoagulation
 - High filtration fraction (FF) — target FF < 25%
-  - **FF = (Replacement Fluid Rate) / (Blood Flow Rate × (1 − Hematocrit))**
+  - **FF = Ultrafiltration Rate / Plasma Flow Rate**, where Plasma Flow Rate = Blood Flow Rate × (1 − Hematocrit)
 - Hyperlipidemia, high fibrinogen, sepsis-associated coagulopathy
 
 **Optimization strategies:**
@@ -430,24 +432,34 @@ CRRT significantly alters pharmacokinetics for many critical medications. Underd
 - Impact: Reinforced AKIKI — in septic shock AKI, **early initiation does not improve outcomes** and exposes patients to unnecessary catheter placement and RRT complications
 
 **STARRT-AKI Trial (STARRT-AKI Investigators, NEJM 2020)**
-- Population: 3,019 critically ill adults with AKI (largest RRT timing trial to date)
+- Population: 2,927 critically ill adults with AKI (modified ITT population: 1,465 accelerated, 1,462 standard)
 - Intervention: Accelerated vs. standard RRT initiation strategy
-- Result: No difference in 90-day survival; higher RRT dependence at 90 days in the accelerated group (10.4% vs. 6.0%)
+- Result: No difference in 90-day mortality (43.9% vs. 43.7%); higher RRT dependence at 90 days in the accelerated group (10.4% vs. 6.0%; RR 1.74, 95% CI 1.24–2.43)
 - Impact: **Accelerated initiation may cause harm** by preventing spontaneous recovery; standard/watchful strategy confirmed
+
+**ELAIN Trial (Zarbock et al., JAMA 2016)**
+- Population: 231 critically ill adults with KDIGO stage 2 AKI (single-center, Germany)
+- Intervention: Early RRT (within 8 hours of stage 2 AKI) vs. delayed (stage 3 AKI or emergent indication)
+- Result: Early RRT associated with lower 90-day mortality (39.3% vs. 54.7%, p=0.03) and higher rate of renal recovery
+- Impact: The notable **outlier among timing trials** — the only RCT to show a mortality benefit for early initiation. Single-center design and selected population (predominantly post-cardiac surgery) limits generalizability, but this trial is frequently cited as evidence that early initiation may benefit certain high-risk subgroups
+
+**AKIKI-2 Trial (Gaudry et al., Lancet 2021)**
+- Population: 278 critically ill adults with severe AKI already on delayed-strategy watchful waiting (extension of AKIKI)
+- Intervention: Moderately delayed (standard AKIKI criteria) vs. more-delayed (BUN ≥ 140 mg/dL as only trigger, removing oliguria)
+- Result: More-delayed strategy associated with higher 60-day mortality on multivariable analysis; no difference in RRT-free days; no benefit to extreme delay
+- Impact: **Defines the lower bound of safe delay** — watchful waiting is appropriate, but indefinite deferral beyond 72 hours of oliguria or BUN ≥ 140 mg/dL may be harmful. Complements AKIKI/STARRT-AKI by establishing that delay has a ceiling
+
+**RICH Trial (Zarbock et al., JAMA 2020)**
+- Population: 596 critically ill adults with AKI requiring CRRT
+- Intervention: Regional citrate anticoagulation (RCA) vs. systemic unfractionated heparin (UFH)
+- Result: RCA achieved significantly longer filter life (median 46.5 vs. 26.0 hours, p<0.001) and lower bleeding events (5.1% vs. 16.9%); no significant difference in 90-day mortality
+- Impact: The definitive RCT establishing **RCA as first-line anticoagulation for CRRT** — longer filter life, less bleeding, with manageable metabolic trade-offs (higher hypocalcemia 4.4% vs. 0.1% and alkalosis 6.6% vs. 0.4% with RCA)
 
 **HEMODIAFE Trial (Vinsonneau et al., Lancet 2006)**
 - Population: 360 ICU patients with AKI
 - Intervention: CRRT vs. iHD
 - Result: No difference in 60-day survival or renal recovery
-- Impact: One of the definitive trials showing **equivalent outcomes between CRRT and iHD** — modality choice should be driven by clinical factors (hemodynamics, volume management), not a belief in superiority of one modality
-
-### Current Evidence (PubMed Search — Recommended Terms)
-
-*Note: PubMed MCP was unavailable at time of authorship. Search the following terms for current evidence:*
-- `"CRRT" AND "AKI" AND "ICU" AND ("systematic review" OR "meta-analysis") 2022:2026`
-- `"regional citrate anticoagulation" AND "CRRT" AND "outcomes" 2022:2026`
-- `"fluid overload" AND "renal replacement therapy" AND "mortality" 2022:2026`
-- `"CRRT" AND "drug dosing" AND "antibiotic" AND "pharmacokinetics" 2022:2026`
+- Impact: One of the definitive trials showing **equivalent overall outcomes between CRRT and iHD** — modality choice should be driven by clinical factors. A secondary analysis of STARRT-AKI (Wald et al., *Intensive Care Med* 2023) found that initial CRRT was associated with lower composite of death or RRT dependence at 90 days (OR 0.81, 95% CI 0.66–0.99), driven primarily by lower RRT dependence — suggesting CRRT may preserve renal recovery even if overall mortality is equivalent. The 2021 Surviving Sepsis Campaign guidelines support this nuanced interpretation, finding no clear mortality difference between modalities but acknowledging CRRT may influence renal outcomes.
 
 **Key recent findings from literature:**
 
@@ -463,10 +475,10 @@ CRRT significantly alters pharmacokinetics for many critical medications. Underd
 
 ## Key Guidelines
 
-- **KDIGO Clinical Practice Guideline for Acute Kidney Injury (2012, updated 2024):** Foundational guideline; recommends CRRT dose 20–25 mL/kg/hr delivered; RCA as preferred anticoagulation; no dose escalation beyond 25 mL/kg/hr; timing of RRT based on clinical context rather than fixed thresholds.
+- **KDIGO Clinical Practice Guideline for Acute Kidney Injury (2012):** Foundational guideline; recommends CRRT dose 20–25 mL/kg/hr delivered; RCA as preferred anticoagulation; no dose escalation beyond 25 mL/kg/hr; timing of RRT based on clinical context rather than fixed thresholds. Updated controversies and emerging evidence addressed in the **KDIGO Controversies Conference (Ostermann et al., *Kidney Int* 2020)**.
 - **ADQI (Acute Dialysis Quality Initiative) Consensus Statements:** Provide operational guidance on CRRT dosing, anticoagulation strategies, and patient selection; periodically updated consensus from international nephrology/critical care experts.
-- **SCCM/ESICM Guidelines for AKI in the ICU:** Recommend against routine prophylactic RRT; support delayed initiation strategy in absence of emergent indications; recommend hemodynamic optimization before RRT initiation.
-- **ISTH Guidelines on Anticoagulation in CRRT (2021):** Support RCA as first-line when no contraindication; provide guidance on argatroban use in HIT; advise against routine high-dose systemic heparin.
+- **Surviving Sepsis Campaign 2021 Guidelines:** Recommend against routine prophylactic RRT; support delayed initiation strategy in absence of emergent indications; no preference between CRRT and iHD for mortality, but CRRT preferred for hemodynamically unstable patients.
+- **RICH Trial (Zarbock et al., JAMA 2020):** The definitive RCT establishing RCA as preferred anticoagulation strategy for CRRT; provides guidance on monitoring and management of citrate-related complications.
 - **AHA/ACC 2022 Heart Failure Guidelines:** Address cardiorenal syndrome; recommend RRT consideration in refractory volume overload not responsive to pharmacologic therapy (Class IIb).
 
 ---
@@ -488,7 +500,19 @@ CRRT significantly alters pharmacokinetics for many critical medications. Underd
 13. Patel DM, Connor MJ Jr. Intra-abdominal hypertension and abdominal compartment syndrome: an underappreciated cause of acute kidney injury. *Adv Chronic Kidney Dis.* 2016;23(3):160–166.
 14. Lewis SJ, Mueller BA. Antibiotic dosing in patients with acute kidney injury: "enough but not too much." *J Intensive Care Med.* 2016;31(3):164–176.
 15. Uchino S, Bellomo R, Morimatsu H, et al. Continuous renal replacement therapy: a worldwide practice survey. *Intensive Care Med.* 2007;33(9):1563–1570.
+16. Ostermann M, Lumlertgul N, Jeong R, et al. Acute kidney injury. *Lancet.* 2025;405(10474):241–256. doi:10.1016/S0140-6736(24)02385-7
+17. Hoste EA, Schurgers M. Epidemiology of acute kidney injury: how big is the problem? *Crit Care Med.* 2008;36(4 Suppl):S146–51. doi:10.1097/CCM.0b013e318168c590
+18. Gaudry S, Hajage D, Martin-Lefevre L, et al. (AKIKI-2 Investigators). Comparison of two delayed strategies for renal replacement therapy initiation for severe acute kidney injury. *Lancet.* 2021;397(10281):1293–1300. doi:10.1016/S0140-6736(21)00350-0
+19. Zarbock A, Kellum JA, Schmidt C, et al. (ELAIN Investigators). Effect of early vs delayed initiation of renal replacement therapy on mortality in critically ill patients with acute kidney injury. *JAMA.* 2016;315(20):2190–2199. doi:10.1001/jama.2016.5828
+20. Zarbock A, Küllmar M, Kindgen-Milles D, et al. (RICH Investigators). Effect of regional citrate anticoagulation vs systemic heparin anticoagulation during continuous kidney replacement therapy on dialysis filter life span and mortality. *JAMA.* 2020;324(16):1629–1639. doi:10.1001/jama.2020.18618
+21. Zhou Z, Liu C, Yang Y, et al. Anticoagulation options for continuous renal replacement therapy in critically ill patients: a systematic review and network meta-analysis of randomized controlled trials. *Crit Care.* 2023;27(1):222. doi:10.1186/s13054-023-04519-1
+22. Rognoni C, Pohlmeier R, Tarricone R. Regional citrate anticoagulation versus systemic heparin in continuous kidney replacement therapy: examining the role of evidence in health technology assessment. *Adv Ther.* 2025;42(6):2606–2638. doi:10.1007/s12325-025-03186-8
+23. Wald R, Gaudry S, da Costa BR, et al. Initiation of continuous renal replacement therapy versus intermittent hemodialysis in critically ill patients with severe acute kidney injury: a secondary analysis of STARRT-AKI trial. *Intensive Care Med.* 2023;49(11):1305–1316. doi:10.1007/s00134-023-07211-8
+24. Gaudry S, Grolleau F, Barbar S, et al. Continuous renal replacement therapy versus intermittent hemodialysis as first modality for renal replacement therapy in severe acute kidney injury: a secondary analysis of AKIKI and IDEAL-ICU studies. *Crit Care.* 2022;26(1):93. doi:10.1186/s13054-022-03955-9
+25. Evans L, Rhodes A, Alhazzani W, et al. Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2021. *Crit Care Med.* 2021;49(11):e1063–e1143. doi:10.1097/CCM.0000000000005337
+26. Gaudry S, Palevsky PM, Dreyfuss D. Extracorporeal kidney-replacement therapy for acute kidney injury. *N Engl J Med.* 2022;386(10):964–975. doi:10.1056/NEJMra2104090
+27. Ostermann M, Bellomo R, Burdmann EA, et al. Controversies in acute kidney injury: conclusions from a Kidney Disease: Improving Global Outcomes (KDIGO) conference. *Kidney Int.* 2020;98(2):294–309.
 
 ---
 
-_Created: 2026-05-05 · Last updated: 2026-05-05 · HVI ICU APP Team_
+_Created: 2026-05-05 · Last updated: 2026-05-05 (OpenEvidence review incorporated) · HVI ICU APP Team_
