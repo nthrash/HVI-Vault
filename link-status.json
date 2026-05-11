@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-05-10T08:03:32.417Z",
+  "lastChecked": "2026-05-11T09:32:54.563Z",
   "results": {
     "pocus-atlas": {
       "status": "ok",
@@ -43,27 +43,27 @@
     },
     "deranged-physiology": {
       "status": "ok",
-      "statusCode": 202
+      "statusCode": 403
     },
     "team-ip": {
-      "status": "ok",
-      "statusCode": 200
+      "status": "error",
+      "statusCode": 429
     },
     "amion": {
-      "status": "ok",
-      "statusCode": 200
+      "status": "error",
+      "statusCode": 429
     },
     "workday": {
-      "status": "ok",
-      "statusCode": 200
+      "status": "error",
+      "statusCode": 429
     },
     "powermic-mobile": {
-      "status": "ok",
-      "statusCode": 200
+      "status": "error",
+      "statusCode": 429
     },
     "epic-haiku": {
-      "status": "ok",
-      "statusCode": 200
+      "status": "error",
+      "statusCode": 429
     }
   }
 }
