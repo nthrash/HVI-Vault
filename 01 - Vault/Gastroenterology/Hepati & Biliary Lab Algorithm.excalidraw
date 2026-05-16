@@ -485,7 +485,8 @@
 			"autoResize": false,
 			"lineHeight": 1.25,
 			"hasTextLink": false,
-			"rawText": "HF-ICU causes:\n- Mechanical hemolysis\n  (LVAD, ECMO, valves)\n- DIC / MAHA\n- Hematoma resorption\n- Gilbert syndrome\n  (TBili rarely >6)\n- Drug effects\n\nWorkup:\n- CBC + peripheral smear\n- Reticulocyte count\n- LDH, haptoglobin\n- Direct Coombs (DAT)\n- Review LVAD/ECMO hemolysis parameters"
+			"rawText": "HF-ICU causes:\n- Mechanical hemolysis\n  (LVAD, ECMO, valves)\n- DIC / MAHA\n- Hematoma resorption\n- Gilbert syndrome\n  (TBili rarely >6)\n- Drug effects\n\nWorkup:\n- CBC + peripheral smear\n- Reticulocyte count\n- LDH, haptoglobin\n- Direct Coombs (DAT)\n- Review LVAD/ECMO hemolysis parameters",
+			"link": null
 		},
 		{
 			"id": "arr_s1_ind",
@@ -646,7 +647,8 @@
 			"autoResize": false,
 			"lineHeight": 1.25,
 			"hasTextLink": false,
-			"rawText": "R Ratio = (ALT/ULN)/(ALP/ULN)\n  R>5 = Hepatocellular\n  R 2-5 = Mixed\n  R<2 = Cholestatic\n\nRUQ Ultrasound:\n- Dilated ducts?\n  YES: Extrahepatic (stones, malignancy) -> MRCP or ERCP\n  NO: Intrahepatic\n  -> Hemodynamic assess\n  -> Medication review\n  -> Sepsis cholestasis\n  -> TPN >2 weeks"
+			"rawText": "R Ratio = (ALT/ULN)/(ALP/ULN)\n  R>5 = Hepatocellular\n  R 2-5 = Mixed\n  R<2 = Cholestatic\n\nRUQ Ultrasound:\n- Dilated ducts?\n  YES: Extrahepatic (stones, malignancy) -> MRCP or ERCP\n  NO: Intrahepatic\n  -> Hemodynamic assess\n  -> Medication review\n  -> Sepsis cholestasis\n  -> TPN >2 weeks",
+			"link": null
 		},
 		{
 			"id": "arr_s1_dir",
@@ -807,7 +809,8 @@
 			"autoResize": false,
 			"lineHeight": 1.25,
 			"hasTextLink": false,
-			"rawText": "Congestion (RAP, IVC, TR):  PVPI >0.5 = 81% Sn / 87% Sp for congestion-driven TBili\n  -> Rx: Aggressive diuresis; ultrafiltration if diuretic-resistant\nHypoperfusion (CI <2.2, shock) — 2-hit required (congestion + hypoperfusion):\n  -> ALT:LDH <1.5 = ischemic hepatitis (ACLI). Peak d1-3; normalize d5-10 if hemo improves\n  -> Rx: Inotropes, MCS escalation (Impella, VA-ECMO, IABP)"
+			"rawText": "Congestion (RAP, IVC, TR):  PVPI >0.5 = 81% Sn / 87% Sp for congestion-driven TBili\n  -> Rx: Aggressive diuresis; ultrafiltration if diuretic-resistant\nHypoperfusion (CI <2.2, shock) — 2-hit required (congestion + hypoperfusion):\n  -> ALT:LDH <1.5 = ischemic hepatitis (ACLI). Peak d1-3; normalize d5-10 if hemo improves\n  -> Rx: Inotropes, MCS escalation (Impella, VA-ECMO, IABP)",
+			"link": null
 		},
 		{
 			"id": "s1_prog",
@@ -1061,7 +1064,8 @@
 			"autoResize": false,
 			"lineHeight": 1.25,
 			"hasTextLink": false,
-			"rawText": "RUQ Ultrasound:\n- Dilated ducts -> Extrahepatic (stones/malignancy) -> MRCP or ERCP\n- No dilation -> Intrahepatic\n\nIntrahepatic differential:\n- Congestive hepatopathy (MOST COMMON in HF-ICU) Correlates with TR/RAP\n- Drug-induced: amiodarone, antibiotics, TPN\n- Infiltrative: amyloidosis, sarcoidosis, hepatic mets\n- PBC: check AMA, ANA\n- PSC: check pANCA\n- Sepsis-assoc cholestasis\n\nRx: Decongestion if cardiac"
+			"rawText": "RUQ Ultrasound:\n- Dilated ducts -> Extrahepatic (stones/malignancy) -> MRCP or ERCP\n- No dilation -> Intrahepatic\n\nIntrahepatic differential:\n- Congestive hepatopathy (MOST COMMON in HF-ICU) Correlates with TR/RAP\n- Drug-induced: amiodarone, antibiotics, TPN\n- Infiltrative: amyloidosis, sarcoidosis, hepatic mets\n- PBC: check AMA, ANA\n- PSC: check pANCA\n- Sepsis-assoc cholestasis\n\nRx: Decongestion if cardiac",
+			"link": null
 		},
 		{
 			"id": "arr_s2_hep",
@@ -1222,7 +1226,8 @@
 			"autoResize": false,
 			"lineHeight": 1.25,
 			"hasTextLink": false,
-			"rawText": "- Bone: Paget's, mets, healing fracture\n- Pregnancy\n- Growth (children)\n- Intestinal (post-meal)\n\nWorkup:\n- ALP isoenzymes\n- Bone scan if mets"
+			"rawText": "- Bone: Paget's, mets, healing fracture\n- Pregnancy\n- Growth (children)\n- Intestinal (post-meal)\n\nWorkup:\n- ALP isoenzymes\n- Bone scan if mets",
+			"link": null
 		},
 		{
 			"id": "arr_s2_bone",
@@ -1601,7 +1606,8 @@
 			"autoResize": false,
 			"lineHeight": 1.25,
 			"hasTextLink": false,
-			"rawText": "Primary utility: Confirms ALP is hepatic in origin\n(GGT is NOT present in bone — critical distinction)\n\nSTEP 1: HF-specific interpretation\n- GGT + ALP + TBili = cholestatic triad of congestive hepatopathy\n- Correlates with JVD, edema, TR grade, NYHA class, right-sided filling pressures\n- GGT inversely associated with survival in stable HF patients\n\nSTEP 2: Non-cardiac causes to exclude\n- Alcohol: GGT elevated in >50% of heavy drinkers even without overt liver disease (most sensitive marker of alcohol intake)\n- Medications: phenytoin, barbiturates, carbamazepine\n- Pancreatic disease, DM, renal failure\n- NAFLD / NASH\n- Biliary obstruction (same as ALP workup)\n\nSTEP 3: Management\n- GGT alone NOT a standalone screening test\n- In HF-ICU: elevated GGT -> assess right-sided hemodynamics -> decongestion\n\nNOTE: Low GGT is not a recognized clinical entity and does not require workup."
+			"rawText": "Primary utility: Confirms ALP is hepatic in origin\n(GGT is NOT present in bone — critical distinction)\n\nSTEP 1: HF-specific interpretation\n- GGT + ALP + TBili = cholestatic triad of congestive hepatopathy\n- Correlates with JVD, edema, TR grade, NYHA class, right-sided filling pressures\n- GGT inversely associated with survival in stable HF patients\n\nSTEP 2: Non-cardiac causes to exclude\n- Alcohol: GGT elevated in >50% of heavy drinkers even without overt liver disease (most sensitive marker of alcohol intake)\n- Medications: phenytoin, barbiturates, carbamazepine\n- Pancreatic disease, DM, renal failure\n- NAFLD / NASH\n- Biliary obstruction (same as ALP workup)\n\nSTEP 3: Management\n- GGT alone NOT a standalone screening test\n- In HF-ICU: elevated GGT -> assess right-sided hemodynamics -> decongestion\n\nNOTE: Low GGT is not a recognized clinical entity and does not require workup.",
+			"link": null
 		},
 		{
 			"id": "s4_hdr",
@@ -1794,7 +1800,8 @@
 			"autoResize": false,
 			"lineHeight": 1.25,
 			"hasTextLink": false,
-			"rawText": "ACLI / Ischemic\nHepatitis\n2-hit model: congestion + hypoperfusion\n\nDx clues:\n- ALT:LDH <1.5\n- Peak d1-3\n- 50% fall in 72h\n- Prothrombin drops 80-84% (vs viral)\n\nRx:\n- Restore CO\n- Inotropes, MCS\n- O2 if hypoxic"
+			"rawText": "ACLI / Ischemic\nHepatitis\n2-hit model: congestion + hypoperfusion\n\nDx clues:\n- ALT:LDH <1.5\n- Peak d1-3\n- 50% fall in 72h\n- Prothrombin drops 80-84% (vs viral)\n\nRx:\n- Restore CO\n- Inotropes, MCS\n- O2 if hypoxic",
+			"link": null
 		},
 		{
 			"id": "arr_s4_mas",
@@ -1957,7 +1964,8 @@
 			"autoResize": false,
 			"lineHeight": 1.25,
 			"hasTextLink": false,
-			"rawText": "Broader DDx:\n- DILI\n- Viral hepatitis ALT:LDH >1.5\n- Autoimmune hepatitis\n- Ischemic with partial recovery\n- Sepsis\n\nWorkup:\n- ALT:LDH ratio\n- Hepatitis panel\n- ANA, ASMA\n- Med review"
+			"rawText": "Broader DDx:\n- DILI\n- Viral hepatitis ALT:LDH >1.5\n- Autoimmune hepatitis\n- Ischemic with partial recovery\n- Sepsis\n\nWorkup:\n- ALT:LDH ratio\n- Hepatitis panel\n- ANA, ASMA\n- Med review",
+			"link": null
 		},
 		{
 			"id": "arr_s4_mod",
@@ -1979,11 +1987,11 @@
 			"index": "ap",
 			"roundness": null,
 			"seed": 2030041172,
-			"version": 67,
-			"versionNonce": 1620648024,
+			"version": 68,
+			"versionNonce": 1886779480,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1778902803984,
+			"updated": 1778907523668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2012,7 +2020,8 @@
 			"customData": {
 				"legacyTextWrap": true
 			},
-			"hasTextLink": false
+			"hasTextLink": false,
+			"moveMidPointsWithElement": false
 		},
 		{
 			"id": "s4_mild",
@@ -2125,7 +2134,8 @@
 			"autoResize": false,
 			"lineHeight": 1.25,
 			"hasTextLink": false,
-			"rawText": "Nonspecific:\n- Congestive hepatopathy\n- NAFLD/NASH\n- Thyroid disease\n- Celiac disease\n- Exercise\n\nIf isolated mild: -> Monitor\n\nIf persists or rises -> full workup"
+			"rawText": "Nonspecific:\n- Congestive hepatopathy\n- NAFLD/NASH\n- Thyroid disease\n- Celiac disease\n- Exercise\n\nIf isolated mild: -> Monitor\n\nIf persists or rises -> full workup",
+			"link": null
 		},
 		{
 			"id": "arr_s4_mild",
@@ -2288,7 +2298,8 @@
 			"autoResize": false,
 			"lineHeight": 1.25,
 			"hasTextLink": false,
-			"rawText": "ACLI: rapid rise d1-3 -> 50% fall within 72h of hemo stabilization -> normalization d7-10\nFailure to decline after hemodynamic stabilization -> reassess: ongoing ischemia, DILI, viral hepatitis, or primary liver disease\nLow AST/ALT: pyridoxine (B6) deficiency or advanced sarcopenia/cachexia"
+			"rawText": "ACLI: rapid rise d1-3 -> 50% fall within 72h of hemo stabilization -> normalization d7-10\nFailure to decline after hemodynamic stabilization -> reassess: ongoing ischemia, DILI, viral hepatitis, or primary liver disease\nLow AST/ALT: pyridoxine (B6) deficiency or advanced sarcopenia/cachexia",
+			"link": null
 		},
 		{
 			"id": "s4_prog",
@@ -2825,7 +2836,8 @@
 			"autoResize": true,
 			"lineHeight": 1.25,
 			"hasTextLink": false,
-			"rawText": "STEP 1: Degree of elevation?"
+			"rawText": "STEP 1: Degree of elevation?",
+			"link": null
 		},
 		{
 			"id": "s5_hdr",
@@ -2972,7 +2984,8 @@
 			"autoResize": false,
 			"lineHeight": 1.25,
 			"hasTextLink": false,
-			"rawText": "Context-first: ubiquitous enzyme — always correlate with clinical picture.\n\nSTEP 1: What is the scenario?\n\n1. ACLI / Ischemic Hepatitis:\n   - LDH rises 10-20x ULN in d1-3\n   - ALT:LDH <1.5 -> cardiogenic over viral\n   - Often precedes transaminase elevation\n\n2. Hemolysis (mechanical):\n   - LDH up + haptoglobin down\n   + indirect bili up + retics up\n   - LVAD, ECMO, valves, DIC\n\n3. Tissue ischemia / infarction:\n   - MI: LDH-1 > LDH-2 (flipped pattern)\n   - PE: LDH-3 predominance\n   - Mesenteric ischemia: LDH-5\n\nSTEP 2: LDH vs Serum Lactate — KEY DISTINCTION\n   LDH = enzyme (tissue injury marker)\n   Lactate = metabolite (hypoperfusion marker)\n   - Serial lactate trajectories (not single values) best predict shock outcomes\n   - Early clearance = reversible shock\n   - Persistent elevation = refractory shock OR impaired hepatic lactate clearance\n\nSTEP 3: Prognostic significance\n   GALACTIC-HF: Higher LDH independently predicts worse outcomes (Q4 vs Q1: HR 1.84 for HF event or CV death) Improves PREDICT-HF model accuracy\n\nLOW LDH: Rarely significant.\nLDH-A or LDH-B deficiency (rare genetic).\nNot actionable in the ICU setting."
+			"rawText": "Context-first: ubiquitous enzyme — always correlate with clinical picture.\n\nSTEP 1: What is the scenario?\n\n1. ACLI / Ischemic Hepatitis:\n   - LDH rises 10-20x ULN in d1-3\n   - ALT:LDH <1.5 -> cardiogenic over viral\n   - Often precedes transaminase elevation\n\n2. Hemolysis (mechanical):\n   - LDH up + haptoglobin down\n   + indirect bili up + retics up\n   - LVAD, ECMO, valves, DIC\n\n3. Tissue ischemia / infarction:\n   - MI: LDH-1 > LDH-2 (flipped pattern)\n   - PE: LDH-3 predominance\n   - Mesenteric ischemia: LDH-5\n\nSTEP 2: LDH vs Serum Lactate — KEY DISTINCTION\n   LDH = enzyme (tissue injury marker)\n   Lactate = metabolite (hypoperfusion marker)\n   - Serial lactate trajectories (not single values) best predict shock outcomes\n   - Early clearance = reversible shock\n   - Persistent elevation = refractory shock OR impaired hepatic lactate clearance\n\nSTEP 3: Prognostic significance\n   GALACTIC-HF: Higher LDH independently predicts worse outcomes (Q4 vs Q1: HR 1.84 for HF event or CV death) Improves PREDICT-HF model accuracy\n\nLOW LDH: Rarely significant.\nLDH-A or LDH-B deficiency (rare genetic).\nNot actionable in the ICU setting.",
+			"link": null
 		},
 		{
 			"id": "s6_hdr",
@@ -3158,7 +3171,8 @@
 			"autoResize": false,
 			"lineHeight": 1.25,
 			"hasTextLink": false,
-			"rawText": "STEP 1: Contributing mechanisms (multifactorial)\n- Hepatic congestion -> impaired synthesis\n- Systemic inflammation -> cytokine-mediated suppression of synthesis (primary driver, more important than malnutrition alone)\n- Malnutrition / cardiac cachexia\n- Hemodilution -> volume overload\n- Protein-losing enteropathy from elevated RAP\n- Nephrotic syndrome -> check urine protein\n\nSTEP 2: Workup\n- LFTs, INR (synthetic function panel)\n- Urine protein / albumin:creatinine ratio\n- CRP / ESR (inflammation burden)\n- Nutritional assessment (prealbumin)\n- Echo: IVC, RAP (dilution vs true impairment)\n\nSTEP 3: Management\n- Optimize decongestion (reduces congestion and hemodilution simultaneously)\n- Optimize oral nutrition (improved outcomes in malnourished HF patients)\n- IV albumin: controversial; routine use does NOT improve outcomes. Consider selectively for refractory edema/ascites + profound hypoalbuminemia on max diuretics\n\nELEVATED ALBUMIN: Almost always dehydration\nor hemoconcentration. Reassess volume status."
+			"rawText": "STEP 1: Contributing mechanisms (multifactorial)\n- Hepatic congestion -> impaired synthesis\n- Systemic inflammation -> cytokine-mediated suppression of synthesis (primary driver, more important than malnutrition alone)\n- Malnutrition / cardiac cachexia\n- Hemodilution -> volume overload\n- Protein-losing enteropathy from elevated RAP\n- Nephrotic syndrome -> check urine protein\n\nSTEP 2: Workup\n- LFTs, INR (synthetic function panel)\n- Urine protein / albumin:creatinine ratio\n- CRP / ESR (inflammation burden)\n- Nutritional assessment (prealbumin)\n- Echo: IVC, RAP (dilution vs true impairment)\n\nSTEP 3: Management\n- Optimize decongestion (reduces congestion and hemodilution simultaneously)\n- Optimize oral nutrition (improved outcomes in malnourished HF patients)\n- IV albumin: controversial; routine use does NOT improve outcomes. Consider selectively for refractory edema/ascites + profound hypoalbuminemia on max diuretics\n\nELEVATED ALBUMIN: Almost always dehydration\nor hemoconcentration. Reassess volume status.",
+			"link": null
 		},
 		{
 			"id": "s7_hdr",
@@ -3347,7 +3361,8 @@
 			"autoResize": false,
 			"lineHeight": 1.25,
 			"hasTextLink": false,
-			"rawText": "- Warfarin -> INR up\n- Anti-Xa DOACs may falsely elevate INR on some assays\n-> Interpret in context of therapeutic range"
+			"rawText": "- Warfarin -> INR up\n- Anti-Xa DOACs may falsely elevate INR on some assays\n-> Interpret in context of therapeutic range",
+			"link": null
 		},
 		{
 			"id": "arr_s7_yes",
@@ -3520,7 +3535,8 @@
 			"autoResize": false,
 			"lineHeight": 1.25,
 			"hasTextLink": false,
-			"rawText": "1. Vit K deficiency (39.6%)\n   Low FVII, FX, Prot C, Prot S -> Poor nutrition, antibiotics, biliary obstruction -> Rx: Vitamin K IV or PO; plasma generally avoidable\n\n2. Liver disease pattern (35.4%)\n    Low FV, low/normal fibrinogen, high FVIII -> Impaired hepatic synthesis -> In HF: correlates with TBili, GGT, IVC, TR severity -> Plasma NOT for routine INR correction in liver disease\n\n3. Occult DOAC effect (14.6%)\n   Anti-Xa DOAC on assay despite no reported anticoagulant use\n\nACLI: ~80-84% show >=50% drop in prothrombin activity (distinguishes from viral hepatitis)\n\nPersistent coagulopathy despite hemo optimization -> suggests progression to cardiac cirrhosis"
+			"rawText": "1. Vit K deficiency (39.6%)\n   Low FVII, FX, Prot C, Prot S -> Poor nutrition, antibiotics, biliary obstruction -> Rx: Vitamin K IV or PO; plasma generally avoidable\n\n2. Liver disease pattern (35.4%)\n    Low FV, low/normal fibrinogen, high FVIII -> Impaired hepatic synthesis -> In HF: correlates with TBili, GGT, IVC, TR severity -> Plasma NOT for routine INR correction in liver disease\n\n3. Occult DOAC effect (14.6%)\n   Anti-Xa DOAC on assay despite no reported anticoagulant use\n\nACLI: ~80-84% show >=50% drop in prothrombin activity (distinguishes from viral hepatitis)\n\nPersistent coagulopathy despite hemo optimization -> suggests progression to cardiac cirrhosis",
+			"link": null
 		},
 		{
 			"id": "arr_s7_no",
@@ -3797,7 +3813,8 @@
 			"autoResize": true,
 			"lineHeight": 1.25,
 			"hasTextLink": false,
-			"rawText": "INR (t1/2 hours-days): reflects ACUTE synthetic failure. INR >1.5 + encephalopathy = Acute Liver Failure (ALF) criteria -> hepatology +/- transplant consult depending on etiology"
+			"rawText": "INR (t1/2 hours-days): reflects ACUTE synthetic failure. INR >1.5 + encephalopathy = Acute Liver Failure (ALF) criteria -> hepatology +/- transplant consult depending on etiology",
+			"link": null
 		},
 		{
 			"id": "synth_c",
@@ -4761,8 +4778,8 @@
 		{
 			"id": "ixP9DaH9",
 			"type": "text",
-			"x": 1269.7040176391602,
-			"y": 1339.375,
+			"x": 1271.959695020722,
+			"y": 1595.4216009626753,
 			"width": 20.591964721679688,
 			"height": 16.25,
 			"angle": 0,
@@ -4800,8 +4817,8 @@
 		{
 			"id": "Xlq9RirB",
 			"type": "text",
-			"x": 1831.9920120239258,
-			"y": 1339.375,
+			"x": 1822.887936590927,
+			"y": 1592.522436689615,
 			"width": 16.015975952148438,
 			"height": 16.25,
 			"angle": 0,
@@ -5007,7 +5024,7 @@
 			"version": 845,
 			"versionNonce": 2131533096,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1778903799238,
 			"locked": false,
 			"text": "PROGNOSIS: In-hospital mortality 4x higher with hypoalbuminemia (OR 3.77). Predictive\naccuracy comparable to BNP (AUC 0.73). Independent predictor of outcomes post-LVAD. [El\nIskandarani 2021]",
@@ -5020,87 +5037,8 @@
 			"originalText": "PROGNOSIS: In-hospital mortality 4x higher with hypoalbuminemia (OR 3.77). Predictive accuracy comparable to BNP (AUC 0.73). Independent predictor of outcomes post-LVAD. [El Iskandarani 2021]",
 			"autoResize": false,
 			"lineHeight": 1.25,
-			"hasTextLink": false
-		},
-		{
-			"id": "p0K4CoB75Q9ByAJpTPTxz",
-			"type": "rectangle",
-			"x": 18.740652523339236,
-			"y": 1125.212650040083,
-			"width": 2481.259347476661,
-			"height": 297.5777397618725,
-			"angle": 0,
-			"strokeColor": "#6c757d",
-			"backgroundColor": "#f8f9fa",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [
-				"L07FWJX-uWMW25eQZFIUU"
-			],
-			"frameId": null,
-			"index": "b1L",
-			"roundness": {
-				"type": 3
-			},
-			"seed": 2083055144,
-			"version": 762,
-			"versionNonce": 340099160,
-			"isDeleted": false,
-			"boundElements": [],
-			"updated": 1778904786965,
-			"link": null,
-			"locked": false,
-			"hasTextLink": false
-		},
-		{
-			"id": "_P2IHcxnbVXlMqscRB4kZ",
-			"type": "line",
-			"x": 18.746021959973998,
-			"y": 1159.6937130889914,
-			"width": 2480.574648545798,
-			"height": 0.27229744564882025,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [
-				"L07FWJX-uWMW25eQZFIUU"
-			],
-			"frameId": null,
-			"index": "b1M",
-			"roundness": {
-				"type": 2
-			},
-			"seed": 336951336,
-			"version": 429,
-			"versionNonce": 761509208,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1778904786965,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2480.574648545798,
-					0.27229744564882025
-				]
-			],
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"polygon": false
+			"hasTextLink": false,
+			"link": null
 		}
 	],
 	"appState": {
@@ -5120,10 +5058,10 @@
 		"currentItemEndArrowhead": "arrow",
 		"currentItemArrowType": "round",
 		"currentItemFrameRole": null,
-		"scrollX": 190.67905197951472,
-		"scrollY": -421.82861118942145,
+		"scrollX": 1107.7384535793574,
+		"scrollY": 192.96356625832394,
 		"zoom": {
-			"value": 0.695627
+			"value": 0.377065
 		},
 		"currentItemRoundness": "round",
 		"gridSize": 20,

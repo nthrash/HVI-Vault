@@ -37,6 +37,22 @@ Equally important is the ability to distinguish between true hepatobiliary patho
 - Pure shock (low CI, preserved RAP) → unlikely to cause hepatobiliary injury alone
 - Two-hit (congestion + shock) → ACLI with mixed hepatocellular and cholestatic features
 
+**Normals**
+
+| Lab           | Normals | Unit  |
+| ------------- | ------- | ----- |
+| Amylase       | 30-110  | U/L   |
+| Lipase        | 0-160   | U/L   |
+| AST           | 10-40   | U/L   |
+| ALT           | 7-56    | U/L   |
+| Alp           | 44-147  | U/L   |
+| Tbili         | 0.1-1.2 | mg/dL |
+| Direct Bili   | 0-0.3   | mg/dL |
+| Indirect Bili | 0.1-0.8 | mg/dL |
+| LDH           | 140-280 | U/L   |
+| Haptoglobin   | 300-200 | mg/dL |
+
+
 ---
 
 ### Section 1: Total Bilirubin (TBili)
@@ -45,7 +61,6 @@ Equally important is the ability to distinguish between true hepatobiliary patho
 TBili is an independent predictor of cardiovascular death and HF hospitalization in HFrEF patients, even after adjustment for NT-proBNP. It also independently predicts RV failure post-LVAD, making it prognostically important beyond its diagnostic role.
 
 **Step 1: Fractionate — Direct vs. Indirect**
-
 **Indirect TBili elevation (unconjugated):**
 - Hemolysis: mechanical (LVAD, ECMO, prosthetic valves), DIC, MAHA (microangiopathic hemolytic anemia)
 - Gilbert syndrome: benign, TBili rarely >6 mg/dL
@@ -100,7 +115,6 @@ The SURVIVE trial found that elevated ALP in ADHF predicted 180-day mortality of
 ### Section 3: Gamma-Glutamyl Transferase (GGT)
 
 **Primary Role: Confirms ALP is Hepatic**
-
 GGT is NOT present in bone, making it the only reliable way to distinguish hepatic from bone-derived ALP elevation when ALP is high.
 
 **HF-Specific Interpretation:**
@@ -123,7 +137,6 @@ Not a recognized clinical entity. Requires no workup.
 ### Section 4: AST and ALT (Transaminases)
 
 **Stratified by Degree of Elevation:**
-
 **>20× ULN (Massive Elevation):**
 - Acute cardiogenic liver injury (ACLI) from two-hit mechanism (congestion + hypoperfusion)
 - Acetaminophen toxicity, acute viral hepatitis, Budd-Chiari syndrome
@@ -157,7 +170,6 @@ Pyridoxine (B6) deficiency (ALT is pyridoxal-phosphate dependent) or advanced sa
 ### Section 5: Lactate Dehydrogenase (LDH)
 
 **Context-First Interpretation — LDH is Ubiquitous:**
-
 LDH is released from any tissue undergoing ischemia, hemolysis, or inflammation. Always correlate with clinical picture.
 
 **Acute Cardiogenic Liver Injury (ACLI):**
@@ -197,13 +209,10 @@ Rare. LDH-A or LDH-B genetic deficiency (rare genetic conditions). Not actionabl
 ### Section 6: Albumin
 
 **Key Concept: Albumin Half-Life ~20 Days = Reflects Chronic Dysfunction**
-
 In contrast to INR (t½ hours–days, reflects acute synthetic failure), albumin reflects chronic hepatic synthetic impairment, malnutrition, inflammation, and hemodilution.
-
 Hypoalbuminemia is present in ~32% of HF patients.
 
 **Contributing Mechanisms (Multifactorial):**
-
 1. **Hepatic Congestion** → impaired synthesis
 2. **Systemic Inflammation** → cytokine-mediated suppression of synthesis (primary driver, more significant than malnutrition alone)
 3. **Malnutrition / Cardiac Cachexia** → inadequate substrate
@@ -234,12 +243,10 @@ In-hospital mortality is 4× higher with hypoalbuminemia in HF (OR 3.77). Predic
 ### Section 7: INR / Prothrombin Time
 
 **Step 1: Exclude Anticoagulation First**
-
 - Warfarin → INR elevation expected
 - Anti-Xa DOACs may falsely elevate INR on some assays
 
 **Step 2: Non-Anticoagulated Elevated INR — Three Most Common ICU Causes**
-
 **1. Vitamin K Deficiency (39.6%):**
 - Low FVII, FX, Protein C, Protein S
 - Causes: poor nutrition, antibiotics, biliary obstruction
@@ -283,7 +290,6 @@ Persistent hyperbilirubinemia + abnormal imaging → liver biopsy may be require
 ## Part 2: RUQ Ultrasound Interpretation in HF-ICU
 
 ### The Critical Challenge: Gallbladder Wall Thickening is Nonspecific
-
 Gallbladder wall thickening (≥3 mm) occurs in numerous non-cholecystitis conditions and is the most common source of diagnostic confusion in HF-ICU patients. The finding appears nearly expected in patients with CHF, hypoalbuminemia, and ascites, yet is often reflexively attributed to cholecystitis.
 
 **Nonspecific Causes of GB Wall Thickening:**
@@ -303,7 +309,6 @@ Gallbladder wall thickening (≥3 mm) occurs in numerous non-cholecystitis condi
 ### Section 1: Acute Calculous Cholecystitis
 
 **Sonographic Findings (Classic):**
-
 - **Gallstones** — echogenic foci with posterior acoustic shadowing (95–99% of cases)
 - **GB wall thickening ≥3–5 mm**
 - **Pericholecystic fluid** — anechoic fluid surrounding gallbladder
@@ -323,7 +328,6 @@ Gallbladder wall changes (thickening, pericholecystic fluid) may not be present 
 ### Section 2: Acalculous Cholecystitis (AAC)
 
 **The More Common Form in ICU (5–10% of cholecystitis, but disproportionately ICU):**
-
 AAC is the predominant form of cholecystitis in critically ill patients. The challenge: many sonographic features overlap with findings routinely present in ICU patients (volume overload, hypoalbuminemia, systemic illness).
 
 **SCCM Diagnostic Criteria:**
@@ -355,7 +359,6 @@ The SCCM guidelines emphasize that many sonographic features of AAC are routinel
 ### Section 3: Biliary Obstruction / Choledocholithiasis
 
 **Primary Finding: CBD Dilation**
-
 - **CBD diameter >6 mm** (or >8 mm post-cholecystectomy; add 1 mm per decade after age 60) suggests obstruction
 - **Intrahepatic biliary dilation** — "parallel channel" sign (dilated ducts running alongside portal veins)
 - **CBD stone visualization** — echogenic focus within duct ± shadowing
@@ -371,11 +374,9 @@ Ultrasound sensitivity for CBD stones only 50–75% (due to duodenal gas obscura
 ### Section 4: Acute Pancreatitis
 
 **Ultrasound as Initial Modality — Primarily to Identify Etiology**
-
 Ultrasound is recommended to identify the underlying cause (gallstones) rather than to diagnose pancreatitis itself. The pancreas may appear sonographically normal in up to 23–27% of cases.
 
 **When Abnormal:**
-
 - **Enlarged, hypoechoic (edematous) pancreas** — classic finding of interstitial edematous pancreatitis
 - **Peripancreatic edema/fluid** — most frequently identified (up to 63%)
 - **Pancreatic duct dilation** — cited as reliable but identified in only ~12–14%
@@ -391,9 +392,7 @@ Bowel gas frequently obscures pancreas; ultrasound may underestimate extrapancre
 ### Section 5: Congestive Hepatopathy (The Critical HF-ICU Mimic)
 
 **Most Important Entity to Distinguish from Primary Biliary/GB Disease:**
-
 This is the diagnosis most often mimicked in HF-ICU patients. Characteristic findings:
-
 - **Dilated IVC** with reduced or absent respiratory variation
 - **Dilated hepatic veins** (>1 cm)
 - **Loss of normal triphasic hepatic venous waveform** → monophasic or reversed flow on Doppler
@@ -413,23 +412,18 @@ Abnormal in CHF: monophasic or completely reversed (indicating elevated RAP tran
 ### Quick Decision Framework
 
 **When confronted with abnormal hepatic labs + GB wall thickening:**
-
 1. **Presence/absence of gallstones?** → Largest decision point
    - Stones present + Murphy's sign → calculous cholecystitis
    - No stones + wall thickening → consider AAC vs. congestive mimic
-
 2. **Hepatic vein and IVC Doppler pattern?**
    - Abnormal (monophasic/reversed) → congestion is likely explanation
    - Normal → primary biliary disease more likely
-
 3. **Clinical context?**
    - Fever, leukocytosis, RUQ pain → favor cholecystitis
    - No fever, no pain, stable WBC → favor congestive mimic
-
 4. **Synthetic function?**
    - Low albumin + high INR + high TBili → hepatic congestion pattern
    - Isolated transaminase elevation → ACLI if ALT:LDH <1.5
-
 5. **HIDA scan?**
    - Equivocal ultrasound + clinical uncertainty → hepatobiliary scintigraphy shows GB filling (rules out AAC)
    - Limited value in prolonged fasting or severe hepatic dysfunction
@@ -439,7 +433,6 @@ Abnormal in CHF: monophasic or completely reversed (indicating elevated RAP tran
 ## Evidence & Landmark Trials
 
 ### Cardiohepatic Interactions
-
 **Samsky MD et al. (JACC 2013):** Cardiohepatic Interactions in Heart Failure
 - Seminal framework establishing the pathophysiology of liver dysfunction in HF
 - Introduced the concept of congestive hepatopathy and its prognostic implications
@@ -453,7 +446,6 @@ Abnormal in CHF: monophasic or completely reversed (indicating elevated RAP tran
 - Validated echo-based hemodynamic assessment as prognostic tool
 
 ### Hepatic Markers in ADHF
-
 **Nikolaou M et al. (Eur Heart J 2013, SURVIVE Trial):** LFT Abnormalities in ADHF
 - Elevated ALP: 180-day mortality 34.9% vs 23.5% (p=0.001)
 - Elevated transaminases: 31-day mortality 17.6% vs 8.4%; 180-day mortality 31.6% vs 22.4%
@@ -476,7 +468,6 @@ Abnormal in CHF: monophasic or completely reversed (indicating elevated RAP tran
 - Suggests that improved neurohormonal biology reduces hepatic congestion
 
 ### RUQ Ultrasound in Cholecystitis
-
 **Strasberg SM (NEJM 2008):** Acute Calculous Cholecystitis
 - Classic review of sonographic findings and diagnostic accuracy
 - Stones + Murphy's sign: PPV 92%
@@ -492,7 +483,6 @@ Abnormal in CHF: monophasic or completely reversed (indicating elevated RAP tran
 ---
 
 ## Key Guidelines
-
 **ACC/AHA Guidelines for Heart Failure (2022):**
 - Recommend assessment of liver function at baseline and during optimization in all HF patients
 - Highlight prognostic importance of hepatic markers
@@ -508,21 +498,13 @@ Abnormal in CHF: monophasic or completely reversed (indicating elevated RAP tran
 ---
 
 ## Clinical Pearls
-
 1. **Gallbladder wall thickening in HF-ICU is almost expected** — the combination of CHF, hypoalbuminemia, and ascites frequently coexist. Wall thickening alone should NOT reflexively be attributed to cholecystitis. Always integrate stone presence, Murphy's sign, hepatic vein Doppler, and clinical context.
-
 2. **ALT:LDH <1.5 is your friend in ACLI** — when transaminases are markedly elevated and you need to distinguish cardiogenic from viral hepatitis, this ratio is more reliable than absolute LDH level. Ischemic hepatitis shows ALT:LDH <1.5; viral hepatitis typically >1.5.
-
 3. **PVPI >0.5 is the echo finding that seals the deal for congestion** — when you see 81% sensitivity and 87% specificity for congestion-driven hyperbilirubinemia, it's practically diagnostic. Portal vein pulsatility directly reflects right-sided pressure transmission.
-
 4. **Albumin t½ ~20 days — plan for long recovery** — don't expect rapid improvement with decongestion alone. Nutritional optimization and time are required; IV albumin is controversial and doesn't improve outcomes routinely.
-
 5. **INR >1.5 + encephalopathy in HF is ALF until proven otherwise** — this is the one time you call hepatology emergently. Acute Liver Failure criteria require both INR >1.5 AND hepatic encephalopathy in the absence of pre-existing cirrhosis. Don't miss this.
-
 6. **The two-hit model explains why some ADHF patients develop ACLI and others don't** — congestion alone (elevated RAP) causes cholestasis. Shock alone (low CI) doesn't cause hepatobiliary injury. You need BOTH. Watch for ALT:LDH <1.5 as the tip-off.
-
 7. **Murphy's sign is often unobtainable in sedated/vented patients** — don't dismiss AAC just because you can't elicit tenderness. Rely more heavily on imaging criteria and clinical context.
-
 8. **HIDA scan has limited value in HF-ICU** — prolonged fasting + severe hepatic congestion reduce sensitivity. Use when ultrasound is truly equivocal and clinical suspicion is high, but understand the limitations.
 
 ---
@@ -530,70 +512,39 @@ Abnormal in CHF: monophasic or completely reversed (indicating elevated RAP tran
 ## References
 
 ### Landmark Trials & Key Reviews
-
 1. Samsky MD, Patel CB, DeWald TA, et al. Cardiohepatic Interactions in Heart Failure: An Overview and Clinical Implications. *Journal of the American College of Cardiology*. 2013;61(24):2397-2405. doi:10.1016/j.jacc.2013.03.047.
-
 2. Xanthopoulos A, Starling RC, Kitai T, Triposkiadis F. Heart Failure and Liver Disease: Cardiohepatic Interactions. *JACC: Heart Failure*. 2019;7(2):87-97. doi:10.1016/j.jchf.2018.10.007.
-
 3. Styczynski G, Miglioranza MH, Badano LP, et al. Normal Reference Values for Left and Right Ventricular Strain Rate Imaging in Healthy Adults: Results from the EACVI Registry. *Journal of the American Society of Echocardiography*. 2016;29(2):126-132. doi:10.1016/j.echo.2015.11.003.
-
 4. Nikolaou M, Parissis J, Yilmaz MB, et al. Liver Function Abnormalities, Worsening Renal Function, and Outcomes in Acute Decompensated Heart Failure. *European Heart Journal*. 2013;34(10):742-749. doi:10.1093/eurheartj/ehs390.
-
 5. Okada A, Takada T, Yamamoto M, et al. Clinical Significance of Prothrombin Time in Acute Decompensated Heart Failure. *Circulation Journal*. 2016;80(4):913-920. doi:10.1253/circj.CJ-15-1160.
-
 6. Ono R, Yoshihisa A, Ishibashi S, et al. LDH and Adverse Outcomes in Heart Failure with Reduced Ejection Fraction. *JACC: Heart Failure*. 2026 (in press).
-
 7. El Iskandarani M, Shafiq MN, Farooq V, et al. Serum Albumin Levels and Outcomes in Heart Failure: A Systematic Review and Meta-Analysis. *Medicine (Baltimore)*. 2021;100(4):e24573. doi:10.1097/MD.0000000000024573.
-
 8. Suzuki K, Horie T, Yamamoto M, et al. Effects of Sacubitril/Valsartan on Liver Function Tests in Patients with Heart Failure with Reduced Ejection Fraction. *European Journal of Heart Failure*. 2020;22(9):1662-1671. doi:10.1002/ejhf.1947.
 
 ### Acute Cholecystitis & RUQ Ultrasound
-
 9. Strasberg SM. Acute Calculous Cholecystitis. *The New England Journal of Medicine*. 2008;358(26):2804-2811. doi:10.1056/NEJMcp0800929.
-
 10. Ivanov D, Cannata D, Chin KA, et al. Evolution of Secondary Findings in Acute Cholecystitis: A Temporal Analysis from Point-of-Care Ultrasound to Subsequent Imaging. *The Journal of Emergency Medicine*. 2025;78:266-274. doi:10.1016/j.jemermed.2025.03.020.
-
 11. Mariat G, Mahul P, Prévôt N, et al. Contribution of Ultrasonography and Cholescintigraphy to the Diagnosis of Acute Acalculous Cholecystitis in Intensive Care Unit Patients. *Intensive Care Medicine*. 2000;26(11):1658-1663. doi:10.1007/s001340000684.
-
 12. American College of Emergency Physicians (ACEP). Ultrasound Guidelines: Emergency, Point-of-Care and Clinical Ultrasound Guidelines in Medicine. *American College of Emergency Physicians*. 2023.
-
 13. Frankel HL, Kirkpatrick AW, Elbarbary M, et al. Guidelines for the Appropriate Use of Bedside General and Cardiac Ultrasonography in the Evaluation of Critically Ill Patients: Part I. Critical Care Medicine. 2015;43(11):2479-2502. doi:10.1097/CCM.0000000000001216.
 
 ### Congestive Hepatopathy & Imaging
-
 14. Wells ML, Fenstad ER, Poterucha JT, et al. Imaging Findings of Congestive Hepatopathy. *Radiographics*. 2016;36(4):1024-1037. doi:10.1148/rg.2016150207.
-
 15. Ohara H, Yoshihisa A, Ishibashi S, et al. Hepatic Venous Stasis Index Reflects Hepatic Congestion and Predicts Adverse Outcomes in Patients with Heart Failure. *Journal of the American Heart Association*. 2023;12(12):e029857. doi:10.1161/JAHA.122.029857.
-
 16. Stassen J, Falter M, Herbots L, et al. Assessment of Venous Congestion Using Vascular Ultrasound. *JACC: Cardiovascular Imaging*. 2023;16(3):426-431. doi:10.1016/j.jcmg.2022.12.028.
-
 17. Giangregorio F, Centenara E, Mazzocchi S, et al. Assessing Venous Congestion in Acute and Chronic Heart Failure: A Review of Splanchnic, Cardiac and Pulmonary Ultrasound: Part 1. *Journal of Clinical Medicine*. 2025;14(22):8147. doi:10.3390/jcm14228147.
 
 ### Gallbladder Wall Thickening — Nonspecific Causes
-
 18. Teefey SA, Baron RL, Bigler SA. Sonography of the Gallbladder: Significance of Striated (Layered) Thickening of the Gallbladder Wall. *AJR. American Journal of Roentgenology*. 1991;156(5):945-947. doi:10.2214/ajr.156.5.2017956.
-
 19. Shlaer WJ, Leopold GR, Scheible FW. Sonography of the Thickened Gallbladder Wall: A Nonspecific Finding. *AJR. American Journal of Roentgenology*. 1981;136(2):337-339. doi:10.2214/ajr.136.2.337.
-
 20. Wegener M, Börsch G, Schneider J, et al. Gallbladder Wall Thickening: A Frequent Finding in Various Nonbiliary Disorders. *Journal of Clinical Ultrasound*. 1987;15(5):307-312. doi:10.1002/jcu.1870150503.
-
 21. Gupta P, Marodia Y, Bansal A, et al. Imaging-Based Algorithmic Approach to Gallbladder Wall Thickening. *World Journal of Gastroenterology*. 2020;26(40):6163-6181. doi:10.3748/wjg.v26.i40.6163.
 
 ### Current Society Guidelines
-
 22. Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure. *Journal of the American College of Cardiology*. 2022;79(17):e263-e421. doi:10.1016/j.jacc.2021.12.011.
-
 23. Patel H, Jepsen J. Gallstone Disease: Common Questions and Answers. *American Family Physician*. 2024;109(6):518-524.
-
 24. Mederos MA, Reber HA, Girgis MD. Acute Pancreatitis. *JAMA*. 2021;325(4):382-390. doi:10.1001/jama.2020.20317.
 
 ---
 
-## About This Resource
-
-This learning topic integrates clinical decision-making at the bedside with current evidence on cardiohepatic interactions and biliary disease diagnosis in the HF-ICU. It is intended for advanced practice providers, physicians, and critical care teams managing complex HF patients with abnormal hepatic labs and equivocal imaging findings.
-
-For questions, updates, or feedback, please reach out through your institution's clinical education channels.
-
-**Last Updated:** May 2026  
-**Next Review:** May 2027
+Created: 2026-05-15 · Last updated: 2026-05-15 · HVI ICU APP Team
