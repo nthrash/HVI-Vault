@@ -29,9 +29,7 @@ Equally important is the ability to distinguish between true hepatobiliary patho
 ### Etiology & Pathophysiology of Cardiohepatic Interactions
 
 **Two-Hit Model of Acute Liver Injury in HF:**
-
 1. **Hit 1: Hepatic Congestion** — Elevated right atrial pressure (RAP) causes venous backup into the hepatic sinusoids. Histologically, this results in centrilobular congestion and hepatocyte compression. The **portal vein pulsatility index (PVPI) >0.5** has 81% sensitivity and 87% specificity for congestion-driven hyperbilirubinemia.
-
 2. **Hit 2: Hepatic Hypoperfusion** — Inadequate cardiac output (CI <2.2) reduces splanchnic perfusion, causing ischemic hepatitis. This is *not* hypotension alone — the two-hit mechanism requires both congestion AND hypoperfusion. Ischemic hepatitis (acute cardiogenic liver injury, or ACLI) is characterized by massive transaminase elevation (often >1000 U/L), rising over 1–3 days, with ALT:LDH ratio <1.5 (distinguishing it from viral hepatitis, where ALT:LDH >1.5).
 
 **Hemodynamic Context Matters:**
@@ -49,7 +47,7 @@ TBili is an independent predictor of cardiovascular death and HF hospitalization
 **Step 1: Fractionate — Direct vs. Indirect**
 
 **Indirect TBili elevation (unconjugated):**
-- Hemolysis: mechanical (LVAD, ECMO, prosthetic valves), DIC, MAHA
+- Hemolysis: mechanical (LVAD, ECMO, prosthetic valves), DIC, MAHA (microangiopathic hemolytic anemia)
 - Gilbert syndrome: benign, TBili rarely >6 mg/dL
 - Hematoma resorption
 - Drug effects (atazanavir)
