@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "hf_icu_hepatic_labs_full_algorithm.excalidraw"
+                "file": "Hepati & Biliary Lab Algorithm.excalidraw"
               },
               "icon": "excalidraw-icon",
-              "title": "hf_icu_hepatic_labs_full_algorithm"
+              "title": "Hepati & Biliary Lab Algorithm"
             }
           }
         ]
@@ -195,19 +195,26 @@
   "active": "1819405fa0ffa27a",
   "lastOpenFiles": [
     "hf_icu_hepatic_labs_full_algorithm.excalidraw",
+    "Hepati & Biliary Lab Algorithm.excalidraw",
     "contacts.json",
+    "01 - Vault/Nephrology/protocols-crrt-ihd.md",
+    "01 - Vault/Cardiology/protocols-afterload-intrathoracic-pressure.md",
+    "01 - Vault/Cardiology/protocols-antiarrhythmic-drugs.md",
+    "01 - Vault/Cardiology/protocols-aortic-valve-disease.md",
+    "01 - Vault/Cardiology/protocols-ekg-curriculum.md",
+    "01 - Vault/Cardiology/protocols-heart-failure-classifications.md",
+    "01 - Vault/Cardiology/protocols-icu-cardiac-calculations.md",
+    "01 - Vault/Cardiology/protocols-mitral-valve-disease.md",
+    "01 - Vault/Cardiology/protocols-myocarditis.md",
+    "01 - Vault/modalities-crrt-vs-ihd.md",
+    "APP_Critical_Care_Exam_Specifications.md",
     "link-status.json",
     "tbili_hf_icu_decision_tree.excalidraw",
     "tbili_lfts_decision_tree.excalidraw",
-    "01 - Vault/Nephrology/protocols-crrt-ihd.md",
     "01 - Vault/Endocrine/protocols-euglycemic-diabetic-ketoacidosis.md",
     "01 - Vault/Endocrine/protocols-glycemic-control-inpatient.md",
     "01 - Vault/Endocrine/euglycemic-diabetic-ketoacidosis.md",
-    "01 - Vault/Cardiology/protocols-mitral-valve-disease.md",
-    "01 - Vault/Cardiology/protocols-icu-cardiac-calculations.md",
-    "01 - Vault/Cardiology/protocols-heart-failure-classifications.md",
     "01 - Vault/Cardiology/protocols-gdmt-hfref.md",
-    "01 - Vault/Cardiology/protocols-ekg-curriculum.md",
     "01 - Vault/Pulmonary/protocols-copd.md",
     "01 - Vault/Pulmonary/NEEDS COMPLETION-ventilator-waveform-analysis.md",
     "01 - Vault/Pulmonary/waveform-figures/fig-1-1-vent-screen-VC.png",
@@ -221,16 +228,9 @@
     "01 - Vault/Pulmonary/protocols-vent-management.md.tmp.6583.1776749332351",
     "01 - Vault/Gastroenterology/protocols-gi-bleed.md",
     "01 - Vault/Cardiology/protocols-tricuspid-valve-disease.md",
-    "01 - Vault/Cardiology/protocols-valvular-heart-disease-overview.md",
-    "01 - Vault/Transplant/protocols-heart-transplant-immunosuppression.md",
     "99 - Meta/Anki/heart-transplant-immunosuppression-clean.txt",
     "99 - Meta/Anki/heart-transplant-immunosuppression.txt",
     "99 - Meta/Anki",
-    "01 - Vault/Transplant/protocols-halt.md",
-    "01 - Vault/Transplant/protocols-heart-transplant-icu.md",
-    "01 - Vault/Rheumatology/protocols-autoimmune-rheumatology.md",
-    "03 - Onboarding/Unit Operations/onboarding-whos-who.md",
-    "protocols.json",
     "99 - Meta/Assets/Images/Vent Waveforms/Online/15-PV-loops-summary.jpg",
     "99 - Meta/Assets/Images/Vent Waveforms/Online/16-PV-loops-disease-states.jpg",
     "99 - Meta/Assets/Images/Vent Waveforms/Online/17-FV-loops.jpg",

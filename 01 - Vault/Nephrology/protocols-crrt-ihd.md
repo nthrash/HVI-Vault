@@ -17,20 +17,23 @@ tags:
 
 ## Table of Contents
 
-- [[#Overview]]
-- [[#Indications for RRT]]
-- [[#Modalities: CRRT vs iHD]]
-- [[#Pathophysiology of AKI Requiring RRT]]
-- [[#CRRT Modes & Prescribing]]
-- [[#Anticoagulation]]
-- [[#Fluid Balance & Dosing]]
-- [[#ICU Troubleshooting]]
-- [[#Complications]]
-- [[#Drug Dosing on CRRT]]
-- [[#Clinical Pearls]]
-- [[#Evidence & Landmark Trials]]
-- [[#Key Guidelines]]
-- [[#References]]
+- [Overview](#overview)
+- [Indications for RRT](#indications-for-rrt)
+- [Modalities: CRRT vs iHD](#modalities-crrt-vs-ihd)
+- [Pathophysiology of AKI Requiring RRT](#pathophysiology-of-aki-requiring-rrt)
+- [CRRT Modes & Prescribing](#crrt-modes-&-prescribing)
+- [Anticoagulation](#anticoagulation)
+- [Fluid Balance & Dosing](#fluid-balance-&-dosing)
+- [ICU Troubleshooting](#icu-troubleshooting)
+- [Complications](#complications)
+- [Drug Dosing on CRRT](#drug-dosing-on-crrt)
+- [Clinical Pearls](#clinical-pearls)
+- [Evidence & Landmark Trials](#evidence-&-landmark-trials)
+- [Key Guidelines](#key-guidelines)
+- [References](#references)
+
+
+[Etiology & Risk Factors](#etiology--risk-factors)
 
 ---
 
