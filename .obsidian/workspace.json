@@ -11,12 +11,14 @@
             "id": "1819405fa0ffa27a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Hepati & Biliary Lab Algorithm.excalidraw"
+                "file": "01 - Vault/Gastroenterology/hf-icu-hepatic-labs-ruq-ultrasound.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Hepati & Biliary Lab Algorithm"
+              "icon": "lucide-file",
+              "title": "hf-icu-hepatic-labs-ruq-ultrasound"
             }
           }
         ]
@@ -194,8 +196,9 @@
   },
   "active": "1819405fa0ffa27a",
   "lastOpenFiles": [
+    "01 - Vault/Gastroenterology/Hepati & Biliary Lab Algorithm.excalidraw",
+    "01 - Vault/Gastroenterology/hf-icu-hepatic-labs-ruq-ultrasound.md",
     "hf_icu_hepatic_labs_full_algorithm.excalidraw",
-    "Hepati & Biliary Lab Algorithm.excalidraw",
     "contacts.json",
     "01 - Vault/Nephrology/protocols-crrt-ihd.md",
     "01 - Vault/Cardiology/protocols-afterload-intrathoracic-pressure.md",
@@ -227,10 +230,8 @@
     "01 - Vault/Pulmonary/protocols-vent-management-advanced.md",
     "01 - Vault/Pulmonary/protocols-vent-management.md.tmp.6583.1776749332351",
     "01 - Vault/Gastroenterology/protocols-gi-bleed.md",
-    "01 - Vault/Cardiology/protocols-tricuspid-valve-disease.md",
     "99 - Meta/Anki/heart-transplant-immunosuppression-clean.txt",
     "99 - Meta/Anki/heart-transplant-immunosuppression.txt",
-    "99 - Meta/Anki",
     "99 - Meta/Assets/Images/Vent Waveforms/Online/15-PV-loops-summary.jpg",
     "99 - Meta/Assets/Images/Vent Waveforms/Online/16-PV-loops-disease-states.jpg",
     "99 - Meta/Assets/Images/Vent Waveforms/Online/17-FV-loops.jpg",
