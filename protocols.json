@@ -93,6 +93,13 @@
       "contentFile": "01 - Vault/Gastroenterology/protocols-gi-bleed.md"
     },
     {
+      "id": "biliary-workup",
+      "title": "Hepatic Labs & RUQ Ultrasound in HF-ICU",
+      "subtitle": "Cardiohepatic Interactions & Biliary Mimics",
+      "category": "gastroenterology",
+      "contentFile": "01 - Vault/Gastroenterology/protocols-biliary-workup.md"
+    },
+    {
       "id": "lung-transplant-icu",
       "title": "Lung Transplant ICU Care",
       "subtitle": "Post-Transplant Protocol",

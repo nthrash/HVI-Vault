@@ -3,7 +3,7 @@ title: "Hepatic Labs & RUQ Ultrasound in Heart Failure ICU: Cardiohepatic Intera
 category: "Cardiology / Critical Care"
 audience: "APP/Physician"
 created: "2026-05-15"
-updated: "2026-05-15"
+updated: "2026-05-16"
 tags:
   - cardiology
   - heart-failure
@@ -16,9 +16,22 @@ tags:
 
 # Hepatic Labs & RUQ Ultrasound in Heart Failure ICU: Cardiohepatic Interactions and Biliary Mimics
 
+## Table of Contents
+
+1. [Overview](#overview)
+2. [Part 1: Hepatic Lab Abnormalities in HF-ICU](#part-1-hepatic-lab-abnormalities-in-hf-icu)
+3. [Part 2: RUQ Ultrasound Interpretation in HF-ICU](#part-2-ruq-ultrasound-interpretation-in-hf-icu)
+4. [Clinical Pearl: Integrating Lab Findings and Ultrasound](#clinical-pearl-integrating-lab-findings-and-ultrasound)
+5. [Clinical Pearls](#clinical-pearls)
+6. [Evidence & Landmark Trials](#evidence--landmark-trials)
+7. [Key Guidelines](#key-guidelines)
+8. [References](#references)
+
+---
+
 ## Overview
 
-Abnormal hepatic laboratory tests are present in 20–40% of patients hospitalized with acute decompensated heart failure (ADHF) and up to 50% of those requiring mechanical circulatory support (MCS). In the HF-ICU setting, these abnormalities arise not from primary liver disease, but from **cardiohepatic interactions** — the complex pathophysiology linking right ventricular failure, elevated systemic venous pressure, and impaired hepatic perfusion. Understanding this distinction is critical because it changes management: treating the heart (not the liver) is the primary intervention.
+Abnormal hepatic laboratory tests are present in approximately **46% of patients hospitalized with acute decompensated heart failure (ADHF)** treated with inotropes (SURVIVE trial), and up to 50% of those requiring mechanical circulatory support (MCS). In the HF-ICU setting, these abnormalities arise not from primary liver disease, but from **cardiohepatic interactions** — the complex pathophysiology linking right ventricular failure, elevated systemic venous pressure, and impaired hepatic perfusion. Understanding this distinction is critical because it changes management: treating the heart (not the liver) is the primary intervention.
 
 Equally important is the ability to distinguish between true hepatobiliary pathology (acute cholecystitis, choledocholithiasis, pancreatitis) and **congestive mimics** that present with similar sonographic findings but require different management. This topic integrates the seven critical hepatic lab parameters, landmark cardiohepatic trials, and RUQ ultrasound interpretation into a unified clinical framework for HF-ICU practice.
 
@@ -236,7 +249,7 @@ Hypoalbuminemia is present in ~32% of HF patients.
 Almost always dehydration or hemoconcentration. Reassess volume status.
 
 **Prognosis:**
-In-hospital mortality is 4× higher with hypoalbuminemia in HF (OR 3.77). Predictive accuracy is comparable to BNP (pooled AUC 0.73). Hypoalbuminemia is an independent predictor of worse outcomes post-LVAD.
+In-hospital mortality is markedly higher with hypoalbuminemia in acute HF (RR 4.90, 95% CI 2.96–8.10), with long-term mortality RR 1.75 (95% CI 1.35–2.27) — based on a meta-analysis of 9 studies (n=16,763; Peng et al., Biomarkers 2019). Hypoalbuminemia is an independent predictor of worse outcomes post-LVAD.
 
 ---
 
@@ -441,9 +454,10 @@ Abnormal in CHF: monophasic or completely reversed (indicating elevated RAP tran
 - Comprehensive review of cardiohepatic pathophysiology in modern HF therapy
 - Established prevalence of abnormal LFTs and their association with poor outcomes
 
-**Styczynski G et al. (JASE 2016):** Echocardiographic Correlates of LFTs in HF
+**Styczynski G et al. (2016):** Portal Vein Pulsatility and Hepatic Congestion in HF
 - Demonstrated PVPI >0.5: 81% sensitivity, 87% specificity for congestion-driven hyperbilirubinemia
-- Validated echo-based hemodynamic assessment as prognostic tool
+- Validated portal vein Doppler as a hemodynamic assessment tool reflecting right-sided congestion
+- *Note: This citation is not currently indexed in PubMed; primary source confirmation recommended*
 
 ### Hepatic Markers in ADHF
 **Nikolaou M et al. (Eur Heart J 2013, SURVIVE Trial):** LFT Abnormalities in ADHF
@@ -456,12 +470,12 @@ Abnormal in CHF: monophasic or completely reversed (indicating elevated RAP tran
 - Higher prognostic value than MELD or MELD-XI
 
 **Ono R et al. (JACC: HF 2026, GALACTIC-HF):** LDH and Outcomes in HFrEF
-- Higher LDH independently predicts worse outcomes (Q4 vs Q1: HR 1.84)
-- LDH improves PREDICT-HF risk model
+- Higher LDH independently predicts worse outcomes (Q4 vs Q1: HR 1.84, 95% CI 1.62–2.08)
+- LDH remains independently associated with outcomes after adjustment; improves PREDICT-HF risk model (Harrell's C statistic, IDI, NRI all improved)
 
-**El Iskandarani M et al. (Medicine 2021):** Albumin in HF — Systematic Review
-- In-hospital mortality 4× higher with hypoalbuminemia (OR 3.77)
-- Predictive accuracy comparable to BNP (AUC 0.73)
+**Peng W et al. (Biomarkers 2019):** Hypoalbuminemia and Mortality in HF — Meta-Analysis (9 studies, n=16,763)
+- Hypoalbuminemia associated with in-hospital mortality RR 4.90 (95% CI 2.96–8.10) in acute HF
+- Long-term all-cause mortality RR 1.75 (95% CI 1.35–2.27) in acute HF; 3.5-fold higher risk in chronic HF
 
 **Suzuki K et al. (Eur J HF 2020, PARADIGM-HF):** Sacubitril/Valsartan Effects on LFTs
 - Sacubitril/valsartan reduced TBili by 2.4% vs enalapril
@@ -514,11 +528,11 @@ Abnormal in CHF: monophasic or completely reversed (indicating elevated RAP tran
 ### Landmark Trials & Key Reviews
 1. Samsky MD, Patel CB, DeWald TA, et al. Cardiohepatic Interactions in Heart Failure: An Overview and Clinical Implications. *Journal of the American College of Cardiology*. 2013;61(24):2397-2405. doi:10.1016/j.jacc.2013.03.047.
 2. Xanthopoulos A, Starling RC, Kitai T, Triposkiadis F. Heart Failure and Liver Disease: Cardiohepatic Interactions. *JACC: Heart Failure*. 2019;7(2):87-97. doi:10.1016/j.jchf.2018.10.007.
-3. Styczynski G, Miglioranza MH, Badano LP, et al. Normal Reference Values for Left and Right Ventricular Strain Rate Imaging in Healthy Adults: Results from the EACVI Registry. *Journal of the American Society of Echocardiography*. 2016;29(2):126-132. doi:10.1016/j.echo.2015.11.003.
-4. Nikolaou M, Parissis J, Yilmaz MB, et al. Liver Function Abnormalities, Worsening Renal Function, and Outcomes in Acute Decompensated Heart Failure. *European Heart Journal*. 2013;34(10):742-749. doi:10.1093/eurheartj/ehs390.
-5. Okada A, Takada T, Yamamoto M, et al. Clinical Significance of Prothrombin Time in Acute Decompensated Heart Failure. *Circulation Journal*. 2016;80(4):913-920. doi:10.1253/circj.CJ-15-1160.
-6. Ono R, Yoshihisa A, Ishibashi S, et al. LDH and Adverse Outcomes in Heart Failure with Reduced Ejection Fraction. *JACC: Heart Failure*. 2026 (in press).
-7. El Iskandarani M, Shafiq MN, Farooq V, et al. Serum Albumin Levels and Outcomes in Heart Failure: A Systematic Review and Meta-Analysis. *Medicine (Baltimore)*. 2021;100(4):e24573. doi:10.1097/MD.0000000000024573.
+3. Styczynski G, et al. Portal Vein Pulsatility Index and Hepatic Congestion in Heart Failure (PVPI >0.5: 81% sensitivity, 87% specificity for congestion-driven hyperbilirubinemia). 2016. *[Citation not confirmed in PubMed — primary source verification recommended]*.
+4. Nikolaou M, Parissis J, Yilmaz MB, et al. Liver Function Abnormalities, Clinical Profile, and Outcome in Acute Decompensated Heart Failure. *European Heart Journal*. 2013;34(10):742-749. doi:10.1093/eurheartj/ehs332.
+5. Okada A, Sugano Y, Nagai T, et al. Prognostic Value of Prothrombin Time International Normalized Ratio in Acute Decompensated Heart Failure. *Circulation Journal*. 2016;80(4):913-923. doi:10.1253/circj.CJ-15-1326.
+6. Ono R, Chimura M, Docherty KF, et al. Lactate Dehydrogenase and Outcomes in Patients With HF and Reduced Ejection Fraction: Insights From GALACTIC-HF. *JACC: Heart Failure*. 2026;14(5):102900. doi:10.1016/j.jchf.2025.102900.
+7. Peng W, Zhang C, Wang Z, Yang W. Prediction of all-cause mortality with hypoalbuminemia in patients with heart failure: a meta-analysis. *Biomarkers*. 2019;24(7):631-637. doi:10.1080/1354750X.2019.1652686.
 8. Suzuki K, Horie T, Yamamoto M, et al. Effects of Sacubitril/Valsartan on Liver Function Tests in Patients with Heart Failure with Reduced Ejection Fraction. *European Journal of Heart Failure*. 2020;22(9):1662-1671. doi:10.1002/ejhf.1947.
 
 ### Acute Cholecystitis & RUQ Ultrasound
@@ -547,4 +561,4 @@ Abnormal in CHF: monophasic or completely reversed (indicating elevated RAP tran
 
 ---
 
-Created: 2026-05-15 · Last updated: 2026-05-15 · HVI ICU APP Team
+Created: 2026-05-15 · Last updated: 2026-05-16 · HVI ICU APP Team
