@@ -11,12 +11,14 @@
             "id": "1819405fa0ffa27a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "01 - Vault/Gastroenterology/Hepati & Biliary Lab Algorithmv2.excalidraw"
+                "file": "01 - Vault/Gastroenterology/protocols-biliary-workup.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Hepati & Biliary Lab Algorithmv2"
+              "icon": "lucide-file",
+              "title": "protocols-biliary-workup"
             }
           }
         ]
@@ -192,7 +194,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1819405fa0ffa27a",
+  "active": "37148d93af0bc366",
   "lastOpenFiles": [
     "01 - Vault/Gastroenterology/Hepati & Biliary Lab Algorithm.excalidraw",
     "01 - Vault/Gastroenterology/Hepati & Biliary Lab Algorithmv2.excalidraw",
