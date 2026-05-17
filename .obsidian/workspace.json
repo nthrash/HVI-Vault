@@ -11,14 +11,12 @@
             "id": "1819405fa0ffa27a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "01 - Vault/Gastroenterology/protocols-gi-bleed.md",
-                "mode": "source",
-                "source": false
+                "file": "01 - Vault/Gastroenterology/Hepati & Biliary Lab Algorithmv2.excalidraw"
               },
-              "icon": "lucide-file",
-              "title": "protocols-gi-bleed"
+              "icon": "excalidraw-icon",
+              "title": "Hepati & Biliary Lab Algorithmv2"
             }
           }
         ]
@@ -196,13 +194,15 @@
   },
   "active": "1819405fa0ffa27a",
   "lastOpenFiles": [
-    "01 - Vault/Gastroenterology/protocols-biliary-workup.md",
     "01 - Vault/Gastroenterology/Hepati & Biliary Lab Algorithm.excalidraw",
-    "HF-ICU-Hepatic-Labs-Algorithm.excalidraw",
+    "01 - Vault/Gastroenterology/Hepati & Biliary Lab Algorithmv2.excalidraw",
+    "01 - Vault/Gastroenterology/protocols-gi-bleed.md",
+    "01 - Vault/Gastroenterology/Visual Biliary Workup.md",
     "HF-ICU-GB-Wall-Algorithm.excalidraw",
+    "01 - Vault/Gastroenterology/protocols-biliary-workup.md",
+    "HF-ICU-Hepatic-Labs-Algorithm.excalidraw",
     "HF-ICU-Red-Flags.excalidraw",
     "01 - Vault/Gastroenterology/protocols-acute-cholangitis.md",
-    "01 - Vault/Gastroenterology/Visual Biliary Workup.md",
     "01 - Vault/Cardiology/protocols-gdmt-hfref.md",
     "01 - Vault/Nephrology/protocols-crrt-ihd.md",
     "01 - Vault/Cardiology/protocols-mitral-valve-disease.md",
@@ -226,12 +226,10 @@
     "01 - Vault/Pulmonary/protocols-copd.md",
     "01 - Vault/Pulmonary/NEEDS COMPLETION-ventilator-waveform-analysis.md",
     "01 - Vault/Pulmonary/waveform-figures/fig-1-1-vent-screen-VC.png",
-    "01 - Vault/Pulmonary/waveform-figures",
     "01 - Vault/Pulmonary/protocols-cxr-interpretation.md",
     "01 - Vault/Pulmonary/protocols-hfnc.md",
     "01 - Vault/Pulmonary/protocols-rsi.md",
     "01 - Vault/Pulmonary/protocols-vent-management.md",
-    "01 - Vault/Pulmonary/protocols-pulmonary-embolism.md",
     "99 - Meta/Assets/Images/Vent Waveforms/Online/15-PV-loops-summary.jpg",
     "99 - Meta/Assets/Images/Vent Waveforms/Online/16-PV-loops-disease-states.jpg",
     "99 - Meta/Assets/Images/Vent Waveforms/Online/17-FV-loops.jpg",
