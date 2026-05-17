@@ -177,6 +177,7 @@ ACLI shows rapid rise over 1–3 days and normalization within 7–10 days with 
 
 **Low AST/ALT:**
 Pyridoxine (B6) deficiency (ALT is pyridoxal-phosphate dependent) or advanced sarcopenia/cachexia.
+STRONG-HF trial finding that lower ALT in acute HF was paradoxically associated with **greater congestion** and a trend toward worse outcomes — likely reflecting sarcopenia and reduced hepatic functional reserve rather than hepatic health.
 
 ---
 
@@ -202,12 +203,12 @@ LDH is released from any tissue undergoing ischemia, hemolysis, or inflammation.
 
 **Critical Distinction: LDH vs. Serum Lactate**
 
-| Parameter | LDH | Serum Lactate |
-|-----------|-----|---|
-| What it is | Enzyme (tissue injury marker) | Metabolite (hypoperfusion marker) |
-| Clinical use | Identifies ischemic tissue | Assesses perfusion/shock state |
-| Prognostic value in HF | Higher LDH = worse outcomes | Trajectory predicts shock reversibility |
-| Interpretation | Single value acceptable | Serial measurements more useful |
+| Parameter              | LDH                                                             | Serum Lactate                           |
+| ---------------------- | --------------------------------------------------------------- | --------------------------------------- |
+| What it is             | Enzyme (tissue injury marker)                                   | Metabolite (hypoperfusion marker)       |
+| Clinical use           | Identifies ischemic tissue                                      | Assesses perfusion/shock state          |
+| Prognostic value in HF | Higher LDH = worse outcomes                                     | Trajectory predicts shock reversibility |
+| Interpretation         | Single value informative; <br>Trending for monitoring hemolysis | Serial measurements more useful         |
 
 In cardiogenic shock, serial lactate clearance predicts shock reversibility: early clearance indicates reversible shock; persistent elevation suggests refractory shock or impaired hepatic lactate metabolism.
 
@@ -358,6 +359,7 @@ AAC is the predominant form of cholecystitis in critically ill patients. The cha
 A prospective ICU study requiring 3 major criteria (wall thickness >4 mm, hydrops, sludge) yielded:
 - Specificity: 94%
 - Sensitivity: 50%
+- **A negative RUQ ultrasound does NOT rule out acalculous cholecystitis in the ICU.**
 
 The SCCM guidelines emphasize that many sonographic features of AAC are routinely present in ICU patients from volume overload, hypoalbuminemia, etc., making diagnosis particularly difficult.
 
@@ -372,7 +374,10 @@ The SCCM guidelines emphasize that many sonographic features of AAC are routinel
 ### Section 3: Biliary Obstruction / Choledocholithiasis
 
 **Primary Finding: CBD Dilation**
-- **CBD diameter >6 mm** (or >8 mm post-cholecystectomy; add 1 mm per decade after age 60) suggests obstruction
+- **CBD diameter >6 mm** (with intact gallbladder) suggests obstruction as a general threshold
+- **Post-cholecystectomy:** CBD dilates significantly; an upper limit of **8–10 mm** is more appropriate
+- **Age adjustment:** The commonly cited rule of "add 1 mm per decade after age 60" is an approximation. A population-based MRCP study (n=938 healthy subjects, Beyer et al., Gut 2023) found that age-dependent 95th percentile upper reference limits were **up to 8 mm in subjects 65 years** and **up to 11 mm in subjects ≥65 years** — substantially higher than conventional thresholds. Using conventional cutoffs, 10.9% of healthy volunteers would have been falsely classified as having biliary dilation. An EUS study (n=647, Benjaminov et al., Surg Endosc 2013) confirmed significant CBD dilation after age 70, but even in the most elderly patients with intact gallbladder, normal CBD did not exceed 7.6 mm
+- **Clinical implication:** Mild CBD dilation in elderly patients should be interpreted cautiously and correlated with clinical symptoms and LFTs before pursuing invasive workup. The AJR Expert Panel recommends that biliary duct dilation is unlikely to indicate obstruction in the absence of clinical symptoms or elevated LFTs (Ludwig et al., AJR 2024).
 - **Intrahepatic biliary dilation** — "parallel channel" sign (dilated ducts running alongside portal veins)
 - **CBD stone visualization** — echogenic focus within duct ± shadowing
 - **Gallbladder distension** — Courvoisier sign if distal obstruction and GB intact
@@ -463,6 +468,15 @@ Abnormal in CHF: monophasic or completely reversed (indicating elevated RAP tran
 - Elevated ALP: 180-day mortality 34.9% vs 23.5% (p=0.001)
 - Elevated transaminases: 31-day mortality 17.6% vs 8.4%; 180-day mortality 31.6% vs 22.4%
 - Established independent prognostic value of hepatic markers
+
+**Samsky MD et al. (Eur J Heart Fail 2016, ASCEND-HF):** LFTs and Outcomes in Acute HF
+- Post hoc analysis of 4,228 ADHF patients with complete admission LFT data
+- 42% had abnormal bilirubin, 22% abnormal ALT, 30% abnormal AST at admission
+- After multivariable adjustment, **only elevated bilirubin** was independently associated with worse outcomes:
+    - 30-day mortality or HF rehospitalization: HR 1.17 per 1 mg/dL increase (95% CI 1.04–1.32, p=0.012)
+    - Abnormal bilirubin vs. normal: HR 1.24 for 30-day composite (95% CI 1.00–1.54, p=0.048); HR 1.32 for 180-day mortality (95% CI 1.08–1.62, p=0.007)
+- **AST and ALT were NOT independently associated with outcomes** after adjustment — contrasting with SURVIVE (which enrolled sicker patients requiring inotropes)
+- Clinical implication: In less severe ADHF (without cardiogenic shock), bilirubin is the dominant prognostic hepatic marker, while transaminase elevation may reflect reversible hemodynamic perturbation
 
 **Okada A et al. (Circ J 2016):** Prognostic Value of INR in ADHF
 - INR: independent predictor of all-cause mortality (HR 1.89 per 0.1 increase)
