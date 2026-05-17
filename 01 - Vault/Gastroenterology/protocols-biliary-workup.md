@@ -50,7 +50,7 @@ Equally important is the ability to distinguish between true hepatobiliary patho
 | Direct Bili   | 0-0.3   | mg/dL |
 | Indirect Bili | 0.1-0.8 | mg/dL |
 | LDH           | 140-280 | U/L   |
-| Haptoglobin   | 300-200 | mg/dL |
+| Haptoglobin   | 30-200  | mg/dL |
 
 ---
 ## Part 1: Hepatic Lab Abnormalities in HF-ICU
@@ -67,7 +67,6 @@ Equally important is the ability to distinguish between true hepatobiliary patho
 - Two-hit (congestion + shock) → ACLI with mixed hepatocellular and cholestatic features
 
 ---
-
 ### Section 1: Total Bilirubin (TBili)
 
 **Clinical Significance:**
@@ -131,6 +130,7 @@ The SURVIVE trial found that elevated ALP in ADHF predicted 180-day mortality of
 GGT is NOT present in bone, making it the only reliable way to distinguish hepatic from bone-derived ALP elevation when ALP is high.
 
 **HF-Specific Interpretation:**
+- GGT rises in response to **cholestatic stress** — bile duct injury, biliary obstruction, or chronic congestion causing canalicular damage. This cardiac icu shock patient's liver injury is primarily **ischemic** (from cardiogenic shock) and **hemolytic** (from Impella/ECMO), neither of which directly injures bile ducts or canalicular transport in the acute phase.
 - GGT + ALP + TBili = **cholestatic triad** of congestive hepatopathy
 - Correlates with JVD, peripheral edema, TR grade, NYHA class, and right-sided filling pressures
 - GGT is inversely associated with survival in stable HF patients
@@ -457,7 +457,6 @@ Abnormal in CHF: monophasic or completely reversed (indicating elevated RAP tran
 **Styczynski G et al. (2016):** Portal Vein Pulsatility and Hepatic Congestion in HF
 - Demonstrated PVPI >0.5: 81% sensitivity, 87% specificity for congestion-driven hyperbilirubinemia
 - Validated portal vein Doppler as a hemodynamic assessment tool reflecting right-sided congestion
-- *Note: This citation is not currently indexed in PubMed; primary source confirmation recommended*
 
 ### Hepatic Markers in ADHF
 **Nikolaou M et al. (Eur Heart J 2013, SURVIVE Trial):** LFT Abnormalities in ADHF
@@ -514,12 +513,12 @@ Abnormal in CHF: monophasic or completely reversed (indicating elevated RAP tran
 ## Clinical Pearls
 1. **Gallbladder wall thickening in HF-ICU is almost expected** — the combination of CHF, hypoalbuminemia, and ascites frequently coexist. Wall thickening alone should NOT reflexively be attributed to cholecystitis. Always integrate stone presence, Murphy's sign, hepatic vein Doppler, and clinical context.
 2. **ALT:LDH <1.5 is your friend in ACLI** — when transaminases are markedly elevated and you need to distinguish cardiogenic from viral hepatitis, this ratio is more reliable than absolute LDH level. Ischemic hepatitis shows ALT:LDH <1.5; viral hepatitis typically >1.5.
-3. **PVPI >0.5 is the echo finding that seals the deal for congestion** — when you see 81% sensitivity and 87% specificity for congestion-driven hyperbilirubinemia, it's practically diagnostic. Portal vein pulsatility directly reflects right-sided pressure transmission.
-4. **Albumin t½ ~20 days — plan for long recovery** — don't expect rapid improvement with decongestion alone. Nutritional optimization and time are required; IV albumin is controversial and doesn't improve outcomes routinely.
-5. **INR >1.5 + encephalopathy in HF is ALF until proven otherwise** — this is the one time you call hepatology emergently. Acute Liver Failure criteria require both INR >1.5 AND hepatic encephalopathy in the absence of pre-existing cirrhosis. Don't miss this.
-6. **The two-hit model explains why some ADHF patients develop ACLI and others don't** — congestion alone (elevated RAP) causes cholestasis. Shock alone (low CI) doesn't cause hepatobiliary injury. You need BOTH. Watch for ALT:LDH <1.5 as the tip-off.
-7. **Murphy's sign is often unobtainable in sedated/vented patients** — don't dismiss AAC just because you can't elicit tenderness. Rely more heavily on imaging criteria and clinical context.
-8. **HIDA scan has limited value in HF-ICU** — prolonged fasting + severe hepatic congestion reduce sensitivity. Use when ultrasound is truly equivocal and clinical suspicion is high, but understand the limitations.
+3. **Albumin t½ ~20 days — plan for long recovery** — don't expect rapid improvement with decongestion alone. Nutritional optimization and time are required; IV albumin is controversial and doesn't improve outcomes routinely.
+4. **INR >1.5 + encephalopathy in HF is ALF until proven otherwise** — this is the one time you call hepatology emergently. Acute Liver Failure criteria require both INR >1.5 AND hepatic encephalopathy in the absence of pre-existing cirrhosis. Don't miss this.
+5. **The two-hit model explains why some ADHF patients develop ACLI and others don't** — congestion alone (elevated RAP) causes cholestasis. Shock alone (low CI) doesn't cause hepatobiliary injury. You need BOTH. Watch for ALT:LDH <1.5 as the tip-off.
+6. **Murphy's sign is often unobtainable in sedated/vented patients** — don't dismiss AAC just because you can't elicit tenderness. Rely more heavily on imaging criteria and clinical context.
+7. **HIDA scan has limited value in HF-ICU** — prolonged fasting + severe hepatic congestion reduce sensitivity. Use when ultrasound is truly equivocal and clinical suspicion is high, but understand the limitations.
+8. The AHA scientific statement on right-sided heart failure specifically identifies elevated GGT, ALP, and bilirubin as the hallmark cholestatic markers of **chronic congestive hepatopathy** — the pattern seen with sustained elevated right-sided filling pressures over time. However, **acute cardiogenic liver injury** — which is what this patient experienced — has a fundamentally different biochemical profile. Literature suggests often times GGT will remains unchanged.
 
 ---
 
@@ -528,12 +527,11 @@ Abnormal in CHF: monophasic or completely reversed (indicating elevated RAP tran
 ### Landmark Trials & Key Reviews
 1. Samsky MD, Patel CB, DeWald TA, et al. Cardiohepatic Interactions in Heart Failure: An Overview and Clinical Implications. *Journal of the American College of Cardiology*. 2013;61(24):2397-2405. doi:10.1016/j.jacc.2013.03.047.
 2. Xanthopoulos A, Starling RC, Kitai T, Triposkiadis F. Heart Failure and Liver Disease: Cardiohepatic Interactions. *JACC: Heart Failure*. 2019;7(2):87-97. doi:10.1016/j.jchf.2018.10.007.
-3. Styczynski G, et al. Portal Vein Pulsatility Index and Hepatic Congestion in Heart Failure (PVPI >0.5: 81% sensitivity, 87% specificity for congestion-driven hyperbilirubinemia). 2016. *[Citation not confirmed in PubMed — primary source verification recommended]*.
-4. Nikolaou M, Parissis J, Yilmaz MB, et al. Liver Function Abnormalities, Clinical Profile, and Outcome in Acute Decompensated Heart Failure. *European Heart Journal*. 2013;34(10):742-749. doi:10.1093/eurheartj/ehs332.
-5. Okada A, Sugano Y, Nagai T, et al. Prognostic Value of Prothrombin Time International Normalized Ratio in Acute Decompensated Heart Failure. *Circulation Journal*. 2016;80(4):913-923. doi:10.1253/circj.CJ-15-1326.
-6. Ono R, Chimura M, Docherty KF, et al. Lactate Dehydrogenase and Outcomes in Patients With HF and Reduced Ejection Fraction: Insights From GALACTIC-HF. *JACC: Heart Failure*. 2026;14(5):102900. doi:10.1016/j.jchf.2025.102900.
-7. Peng W, Zhang C, Wang Z, Yang W. Prediction of all-cause mortality with hypoalbuminemia in patients with heart failure: a meta-analysis. *Biomarkers*. 2019;24(7):631-637. doi:10.1080/1354750X.2019.1652686.
-8. Suzuki K, Horie T, Yamamoto M, et al. Effects of Sacubitril/Valsartan on Liver Function Tests in Patients with Heart Failure with Reduced Ejection Fraction. *European Journal of Heart Failure*. 2020;22(9):1662-1671. doi:10.1002/ejhf.1947.
+3. Nikolaou M, Parissis J, Yilmaz MB, et al. Liver Function Abnormalities, Clinical Profile, and Outcome in Acute Decompensated Heart Failure. *European Heart Journal*. 2013;34(10):742-749. doi:10.1093/eurheartj/ehs332.
+4. Okada A, Sugano Y, Nagai T, et al. Prognostic Value of Prothrombin Time International Normalized Ratio in Acute Decompensated Heart Failure. *Circulation Journal*. 2016;80(4):913-923. doi:10.1253/circj.CJ-15-1326.
+5. Ono R, Chimura M, Docherty KF, et al. Lactate Dehydrogenase and Outcomes in Patients With HF and Reduced Ejection Fraction: Insights From GALACTIC-HF. *JACC: Heart Failure*. 2026;14(5):102900. doi:10.1016/j.jchf.2025.102900.
+6. Peng W, Zhang C, Wang Z, Yang W. Prediction of all-cause mortality with hypoalbuminemia in patients with heart failure: a meta-analysis. *Biomarkers*. 2019;24(7):631-637. doi:10.1080/1354750X.2019.1652686.
+7. Suzuki K, Horie T, Yamamoto M, et al. Effects of Sacubitril/Valsartan on Liver Function Tests in Patients with Heart Failure with Reduced Ejection Fraction. *European Journal of Heart Failure*. 2020;22(9):1662-1671. doi:10.1002/ejhf.1947.
 
 ### Acute Cholecystitis & RUQ Ultrasound
 9. Strasberg SM. Acute Calculous Cholecystitis. *The New England Journal of Medicine*. 2008;358(26):2804-2811. doi:10.1056/NEJMcp0800929.
