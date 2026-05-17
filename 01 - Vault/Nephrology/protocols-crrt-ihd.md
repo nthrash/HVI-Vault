@@ -31,10 +31,6 @@ tags:
 - [Evidence & Landmark Trials](#evidence-&-landmark-trials)
 - [Key Guidelines](#key-guidelines)
 - [References](#references)
-
-
-[Etiology & Risk Factors](#etiology--risk-factors)
-
 ---
 
 ## Overview
