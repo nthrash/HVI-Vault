@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Vault/Nephrology/protocols-crrt-ihd.md",
+                "file": "01 - Vault/Gastroenterology/protocols-biliary-workup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "protocols-crrt-ihd"
+              "title": "protocols-biliary-workup"
             }
           }
         ]
@@ -196,12 +196,14 @@
   },
   "active": "1819405fa0ffa27a",
   "lastOpenFiles": [
-    "01 - Vault/Gastroenterology/protocols-biliary-workup.md",
+    "01 - Vault/Gastroenterology/protocols-acute-cholangitis.md",
+    "01 - Vault/Cardiology/protocols-gdmt-hfref.md",
     "01 - Vault/Gastroenterology/Hepati & Biliary Lab Algorithm.excalidraw",
+    "01 - Vault/Nephrology/protocols-crrt-ihd.md",
+    "01 - Vault/Gastroenterology/protocols-biliary-workup.md",
     "01 - Vault/Cardiology/protocols-mitral-valve-disease.md",
     "hf_icu_hepatic_labs_full_algorithm.excalidraw",
     "contacts.json",
-    "01 - Vault/Nephrology/protocols-crrt-ihd.md",
     "01 - Vault/Cardiology/protocols-afterload-intrathoracic-pressure.md",
     "01 - Vault/Cardiology/protocols-antiarrhythmic-drugs.md",
     "01 - Vault/Cardiology/protocols-aortic-valve-disease.md",
@@ -217,7 +219,6 @@
     "01 - Vault/Endocrine/protocols-euglycemic-diabetic-ketoacidosis.md",
     "01 - Vault/Endocrine/protocols-glycemic-control-inpatient.md",
     "01 - Vault/Endocrine/euglycemic-diabetic-ketoacidosis.md",
-    "01 - Vault/Cardiology/protocols-gdmt-hfref.md",
     "01 - Vault/Pulmonary/protocols-copd.md",
     "01 - Vault/Pulmonary/NEEDS COMPLETION-ventilator-waveform-analysis.md",
     "01 - Vault/Pulmonary/waveform-figures/fig-1-1-vent-screen-VC.png",

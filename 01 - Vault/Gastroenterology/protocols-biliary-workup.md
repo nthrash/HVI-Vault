@@ -31,24 +31,11 @@ tags:
 
 ## Overview
 
-Abnormal hepatic laboratory tests are present in approximately **46% of patients hospitalized with acute decompensated heart failure (ADHF)** treated with inotropes (SURVIVE trial), and up to 50% of those requiring mechanical circulatory support (MCS). In the HF-ICU setting, these abnormalities arise not from primary liver disease, but from **cardiohepatic interactions** — the complex pathophysiology linking right ventricular failure, elevated systemic venous pressure, and impaired hepatic perfusion. Understanding this distinction is critical because it changes management: treating the heart (not the liver) is the primary intervention.
+Abnormal hepatic laboratory tests are present in approximately **46% of patients hospitalized with acute decompensated heart failure (ADHF)** treated with inotropes (SURVIVE trial), and up to 50% of those requiring mechanical circulatory support (MCS). In the HF-ICU setting, these abnormalities arise not from primary liver disease, but from **cardiohepatic interactions** — the complex pathophysiology linking right ventricular failure, elevated systemic venous pressure, and impaired hepatic perfusion. Understanding this distinction is critical because it changes management: treating the heart (not the liver) is the primary intervention.  
 
-Equally important is the ability to distinguish between true hepatobiliary pathology (acute cholecystitis, choledocholithiasis, pancreatitis) and **congestive mimics** that present with similar sonographic findings but require different management. This topic integrates the seven critical hepatic lab parameters, landmark cardiohepatic trials, and RUQ ultrasound interpretation into a unified clinical framework for HF-ICU practice.
+Equally important is the ability to distinguish between true hepatobiliary pathology (acute cholecystitis, choledocholithiasis, pancreatitis) and **congestive mimics** that present with similar sonographic findings but require different management. This topic integrates the seven critical hepatic lab parameters, landmark cardiohepatic trials, and RUQ ultrasound interpretation into a unified clinical framework for HF-ICU practice. Encountering these findings is not an uncommon occurrence, thus we need to be able to distinguish these difference.
 
 ---
-
-## Part 1: Hepatic Lab Abnormalities in HF-ICU
-
-### Etiology & Pathophysiology of Cardiohepatic Interactions
-
-**Two-Hit Model of Acute Liver Injury in HF:**
-1. **Hit 1: Hepatic Congestion** — Elevated right atrial pressure (RAP) causes venous backup into the hepatic sinusoids. Histologically, this results in centrilobular congestion and hepatocyte compression. The **portal vein pulsatility index (PVPI) >0.5** has 81% sensitivity and 87% specificity for congestion-driven hyperbilirubinemia.
-2. **Hit 2: Hepatic Hypoperfusion** — Inadequate cardiac output (CI <2.2) reduces splanchnic perfusion, causing ischemic hepatitis. This is *not* hypotension alone — the two-hit mechanism requires both congestion AND hypoperfusion. Ischemic hepatitis (acute cardiogenic liver injury, or ACLI) is characterized by massive transaminase elevation (often >1000 U/L), rising over 1–3 days, with ALT:LDH ratio <1.5 (distinguishing it from viral hepatitis, where ALT:LDH >1.5).
-
-**Hemodynamic Context Matters:**
-- Pure congestion (elevated RAP, preserved CI) → cholestatic pattern (↑TBili, ↑ALP, ↑GGT)
-- Pure shock (low CI, preserved RAP) → unlikely to cause hepatobiliary injury alone
-- Two-hit (congestion + shock) → ACLI with mixed hepatocellular and cholestatic features
 
 **Normals**
 
@@ -65,6 +52,19 @@ Equally important is the ability to distinguish between true hepatobiliary patho
 | LDH           | 140-280 | U/L   |
 | Haptoglobin   | 300-200 | mg/dL |
 
+---
+## Part 1: Hepatic Lab Abnormalities in HF-ICU
+
+### Etiology & Pathophysiology of Cardiohepatic Interactions
+
+**Two-Hit Model of Acute Liver Injury in HF:**
+1. **Hit 1: Hepatic Congestion** — Elevated right atrial pressure (RAP) causes venous backup into the hepatic sinusoids. Histologically, this results in centrilobular congestion and hepatocyte compression. The **portal vein pulsatility index (PVPI) >0.5** has 81% sensitivity and 87% specificity for congestion-driven hyperbilirubinemia.
+2. **Hit 2: Hepatic Hypoperfusion** — Inadequate cardiac output (CI <2.2) reduces splanchnic perfusion, causing ischemic hepatitis. This is *not* hypotension alone — the two-hit mechanism requires both congestion AND hypoperfusion. Ischemic hepatitis (acute cardiogenic liver injury, or ACLI) is characterized by massive transaminase elevation (often >1000 U/L), rising over 1–3 days, with ALT:LDH ratio <1.5 (distinguishing it from viral hepatitis, where ALT:LDH >1.5).
+
+**Hemodynamic Context Matters:**
+- Pure congestion (elevated RAP, preserved CI) → cholestatic pattern (↑TBili, ↑ALP, ↑GGT)
+- Pure shock (low CI, preserved RAP) → unlikely to cause hepatobiliary injury alone
+- Two-hit (congestion + shock) → ACLI with mixed hepatocellular and cholestatic features
 
 ---
 
