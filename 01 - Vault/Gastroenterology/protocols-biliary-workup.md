@@ -103,6 +103,7 @@ Echo ± PA catheter:
 
 **Key Distinction: Is ALP Hepatic or Bone?**
 Check GGT — it is NOT present in bone, making this the critical discriminator.
+If ALP is elevated, check GGT to determine source (see Section 3). GGT elevated → hepatic. GGT normal → consider bone, pregnancy, intestinal.
 
 **GGT elevated** → Hepatic ALP:
 - Congestive hepatopathy (most common in HF-ICU): correlates with TR severity, RAP, right-sided pressures
@@ -126,7 +127,7 @@ The SURVIVE trial found that elevated ALP in ADHF predicted 180-day mortality of
 
 ### Section 3: Gamma-Glutamyl Transferase (GGT)
 
-**Primary Role: Confirms ALP is Hepatic**
+**Primary Role: Distinguishes cholestatic from non-cholestatic liver injury**
 GGT is NOT present in bone, making it the only reliable way to distinguish hepatic from bone-derived ALP elevation when ALP is high.
 
 **HF-Specific Interpretation:**
