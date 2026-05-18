@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-05-17T08:15:35.729Z",
+  "lastChecked": "2026-05-18T09:54:16.866Z",
   "results": {
     "pocus-atlas": {
       "status": "ok",
@@ -38,12 +38,13 @@
       "statusCode": 200
     },
     "ibcc": {
-      "status": "ok",
-      "statusCode": 200
+      "status": "error",
+      "statusCode": 0,
+      "error": "fetch failed"
     },
     "deranged-physiology": {
       "status": "ok",
-      "statusCode": 202
+      "statusCode": 403
     },
     "team-ip": {
       "status": "ok",
