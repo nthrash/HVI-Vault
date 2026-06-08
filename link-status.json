@@ -1,17 +1,17 @@
 {
-  "lastChecked": "2026-06-07T08:50:35.680Z",
+  "lastChecked": "2026-06-08T10:29:05.995Z",
   "results": {
     "pocus-atlas": {
       "status": "ok",
       "statusCode": 200
     },
     "echoref": {
-      "status": "error",
-      "statusCode": 429
+      "status": "ok",
+      "statusCode": 200
     },
     "open-evidence": {
-      "status": "error",
-      "statusCode": 429
+      "status": "ok",
+      "statusCode": 200
     },
     "pmcardio": {
       "status": "ok",
@@ -22,12 +22,12 @@
       "statusCode": 200
     },
     "qxmd": {
-      "status": "error",
-      "statusCode": 429
+      "status": "ok",
+      "statusCode": 200
     },
     "uptodate": {
-      "status": "error",
-      "statusCode": 429
+      "status": "ok",
+      "statusCode": 200
     },
     "acc-guidelines": {
       "status": "ok",
