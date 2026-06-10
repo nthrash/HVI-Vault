@@ -1,33 +1,33 @@
 {
-  "lastChecked": "2026-06-09T09:34:47.075Z",
+  "lastChecked": "2026-06-10T09:51:22.616Z",
   "results": {
     "pocus-atlas": {
       "status": "ok",
       "statusCode": 200
     },
     "echoref": {
-      "status": "error",
-      "statusCode": 429
+      "status": "ok",
+      "statusCode": 200
     },
     "open-evidence": {
-      "status": "error",
-      "statusCode": 429
+      "status": "ok",
+      "statusCode": 200
     },
     "pmcardio": {
-      "status": "error",
-      "statusCode": 429
+      "status": "ok",
+      "statusCode": 200
     },
     "mdcalc": {
-      "status": "error",
-      "statusCode": 429
+      "status": "ok",
+      "statusCode": 200
     },
     "qxmd": {
-      "status": "error",
-      "statusCode": 429
+      "status": "ok",
+      "statusCode": 200
     },
     "uptodate": {
-      "status": "error",
-      "statusCode": 429
+      "status": "ok",
+      "statusCode": 200
     },
     "acc-guidelines": {
       "status": "ok",
@@ -38,32 +38,32 @@
       "statusCode": 200
     },
     "ibcc": {
-      "status": "error",
-      "statusCode": 415
+      "status": "ok",
+      "statusCode": 200
     },
     "deranged-physiology": {
       "status": "ok",
       "statusCode": 403
     },
     "team-ip": {
-      "status": "error",
-      "statusCode": 429
+      "status": "ok",
+      "statusCode": 200
     },
     "amion": {
-      "status": "error",
-      "statusCode": 429
+      "status": "ok",
+      "statusCode": 200
     },
     "workday": {
-      "status": "error",
-      "statusCode": 429
+      "status": "ok",
+      "statusCode": 200
     },
     "powermic-mobile": {
-      "status": "error",
-      "statusCode": 429
+      "status": "ok",
+      "statusCode": 200
     },
     "epic-haiku": {
-      "status": "error",
-      "statusCode": 429
+      "status": "ok",
+      "statusCode": 200
     }
   }
 }
