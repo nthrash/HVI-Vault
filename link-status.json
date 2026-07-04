@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-07-03T08:56:21.679Z",
+  "lastChecked": "2026-07-04T08:30:58.939Z",
   "results": {
     "pocus-atlas": {
       "status": "ok",
@@ -43,7 +43,7 @@
     },
     "deranged-physiology": {
       "status": "ok",
-      "statusCode": 403
+      "statusCode": 202
     },
     "team-ip": {
       "status": "ok",
