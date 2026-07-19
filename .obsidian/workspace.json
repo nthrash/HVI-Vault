@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "515f83564c81be2b",
+        "id": "b63e4ba1f16ee52d",
         "type": "tabs",
         "children": [
           {
-            "id": "0be55b268591dec6",
+            "id": "5b6cc7554daa3c6e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Onboarding/Unit Operations/onboarding-whos-who.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "onboarding-whos-who"
+              "title": "New tab"
             }
           }
         ]
@@ -194,8 +190,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0be55b268591dec6",
+  "active": "37148d93af0bc366",
   "lastOpenFiles": [
+    "Contacts Comparison Report (June 2025 CSVs vs contacts.json).md",
+    "01 - Vault/Hematology/protocols-teg-rotem.md",
+    "01 - Vault/Hematology/protocols-clotting-cascade.pdf",
+    "contacts.json",
+    "03 - Onboarding/IT & Systems/onboarding-email-iphone-config.md",
+    "03 - Onboarding/Unit Operations/onboarding-whos-who.md",
     "02 - Studies/Merged_Landmark_Trials_HF_ICU_Reference.md",
     "APP_Critical_Care_Exam_Specifications.md",
     "01 - Vault/Gastroenterology/protocols-biliary-workup.md",
@@ -211,7 +213,6 @@
     "01 - Vault/Nephrology/protocols-crrt-ihd.md",
     "01 - Vault/Cardiology/protocols-mitral-valve-disease.md",
     "hf_icu_hepatic_labs_full_algorithm.excalidraw",
-    "contacts.json",
     "01 - Vault/Cardiology/protocols-afterload-intrathoracic-pressure.md",
     "01 - Vault/Cardiology/protocols-antiarrhythmic-drugs.md",
     "01 - Vault/Cardiology/protocols-aortic-valve-disease.md",
@@ -222,17 +223,12 @@
     "01 - Vault/modalities-crrt-vs-ihd.md",
     "link-status.json",
     "tbili_hf_icu_decision_tree.excalidraw",
-    "tbili_lfts_decision_tree.excalidraw",
     "01 - Vault/Endocrine/protocols-euglycemic-diabetic-ketoacidosis.md",
     "01 - Vault/Endocrine/protocols-glycemic-control-inpatient.md",
     "01 - Vault/Endocrine/euglycemic-diabetic-ketoacidosis.md",
     "01 - Vault/Pulmonary/protocols-copd.md",
     "01 - Vault/Pulmonary/NEEDS COMPLETION-ventilator-waveform-analysis.md",
     "01 - Vault/Pulmonary/waveform-figures/fig-1-1-vent-screen-VC.png",
-    "01 - Vault/Pulmonary/protocols-cxr-interpretation.md",
-    "01 - Vault/Pulmonary/protocols-hfnc.md",
-    "01 - Vault/Pulmonary/protocols-rsi.md",
-    "01 - Vault/Pulmonary/protocols-vent-management.md",
     "99 - Meta/Assets/Images/Vent Waveforms/Online/15-PV-loops-summary.jpg",
     "99 - Meta/Assets/Images/Vent Waveforms/Online/16-PV-loops-disease-states.jpg",
     "99 - Meta/Assets/Images/Vent Waveforms/Online/17-FV-loops.jpg",

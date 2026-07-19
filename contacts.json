@@ -652,6 +652,16 @@
           "note": "Alt: (570) 204-7778"
         },
         {
+          "id": "donabel",
+          "name": "Donabel - AHF NP",
+          "role": "AHF NP",
+          "phone": "(408) 515-8433",
+          "category": "hf",
+          "firstName": "Donabel",
+          "lastName": "",
+          "isPerson": true
+        },
+        {
           "id": "yessica",
           "name": "Yessica- AHF MA",
           "role": "AHF MA",
@@ -1036,7 +1046,7 @@
           "id": "you_jonathan",
           "name": "Jonathan You",
           "role": "Cardiology Fellow",
-          "phone": "",
+          "phone": "(857) 256-0996",
           "category": "other",
           "firstName": "Jonathan",
           "lastName": "You",
@@ -1507,12 +1517,12 @@
         },
         {
           "id": "hariharan",
-          "name": "Hariharan",
-          "role": "EP Attending",
+          "name": "Dr. Ramesh Hariharan - UT EPHeart Attending and Director",
+          "role": "UT EPHeart Attending and Director",
           "phone": "(832) 287-5206",
           "category": "other",
-          "firstName": "Hariharan",
-          "lastName": "",
+          "firstName": "Ramesh",
+          "lastName": "Hariharan",
           "isPerson": true
         },
         {
@@ -2167,11 +2177,11 @@
         },
         {
           "id": "patel_jay",
-          "name": "Jay Patel",
-          "role": "CV Surgeon",
+          "name": "Jayeshkumar Patel - AHF Cardiothoracic Surgery Attending",
+          "role": "AHF Cardiothoracic Surgery Attending",
           "phone": "(832) 803-7489",
           "category": "other",
-          "firstName": "Jay",
+          "firstName": "Jayeshkumar",
           "lastName": "Patel",
           "isPerson": true
         },
@@ -3586,6 +3596,16 @@
           "firstName": "Harris Health LBJ Transfer Center",
           "lastName": "",
           "isPerson": false
+        },
+        {
+          "id": "martin_monica",
+          "name": "Monica Martin - LBJ Noninvasive Front Desk",
+          "role": "LBJ Noninvasive Front Desk",
+          "phone": "(832) 360-7175",
+          "category": "lbj",
+          "firstName": "Monica",
+          "lastName": "Martin",
+          "isPerson": true
         },
         {
           "id": "joy_shijo",
