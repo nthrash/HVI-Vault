@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b63e4ba1f16ee52d",
+        "id": "071c0bea75da6f93",
         "type": "tabs",
         "children": [
           {
-            "id": "5b6cc7554daa3c6e",
+            "id": "2d0b3b75e605cea0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -190,12 +190,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "37148d93af0bc366",
+  "active": "2d0b3b75e605cea0",
   "lastOpenFiles": [
+    "contacts.json",
+    "01 - Vault/Hematology/protocols-clotting-cascade.pdf",
     "Contacts Comparison Report (June 2025 CSVs vs contacts.json).md",
     "01 - Vault/Hematology/protocols-teg-rotem.md",
-    "01 - Vault/Hematology/protocols-clotting-cascade.pdf",
-    "contacts.json",
     "03 - Onboarding/IT & Systems/onboarding-email-iphone-config.md",
     "03 - Onboarding/Unit Operations/onboarding-whos-who.md",
     "02 - Studies/Merged_Landmark_Trials_HF_ICU_Reference.md",
@@ -227,7 +227,6 @@
     "01 - Vault/Endocrine/protocols-glycemic-control-inpatient.md",
     "01 - Vault/Endocrine/euglycemic-diabetic-ketoacidosis.md",
     "01 - Vault/Pulmonary/protocols-copd.md",
-    "01 - Vault/Pulmonary/NEEDS COMPLETION-ventilator-waveform-analysis.md",
     "01 - Vault/Pulmonary/waveform-figures/fig-1-1-vent-screen-VC.png",
     "99 - Meta/Assets/Images/Vent Waveforms/Online/15-PV-loops-summary.jpg",
     "99 - Meta/Assets/Images/Vent Waveforms/Online/16-PV-loops-disease-states.jpg",

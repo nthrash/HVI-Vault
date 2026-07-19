@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastModified": "2026-03-28",
+  "lastModified": "2026-07-19",
   "categories": [
     {
       "id": "emergency",
@@ -1287,7 +1287,7 @@
           "id": "desai_shyam",
           "name": "Shyam Desai",
           "role": "Cardiology Fellow",
-          "phone": "(864) 525-0051",
+          "phone": "(864) 525-0059",
           "category": "cardiology",
           "firstName": "Shyam",
           "lastName": "Desai",
@@ -1362,6 +1362,116 @@
           "firstName": "Tarun",
           "lastName": "Kadeni",
           "isPerson": true
+        },
+        {
+          "id": "baqai_faiz",
+          "name": "Faiz Baqai",
+          "role": "Cardiology Fellow Class of 2029",
+          "phone": "(512) 586-6311",
+          "category": "cardiology",
+          "firstName": "Faiz",
+          "lastName": "Baqai",
+          "isPerson": true
+        },
+        {
+          "id": "bhagat_siya",
+          "name": "Siya Bhagat",
+          "role": "Cardiology Fellow Class of 2029",
+          "phone": "(301) 875-1901",
+          "category": "cardiology",
+          "firstName": "Siya",
+          "lastName": "Bhagat",
+          "isPerson": true
+        },
+        {
+          "id": "etheridge_thomas",
+          "name": "Thomas Etheridge",
+          "role": "Cardiology Fellow Class of 2029",
+          "phone": "(337) 356-3621",
+          "category": "cardiology",
+          "firstName": "Thomas",
+          "lastName": "Etheridge",
+          "isPerson": true
+        },
+        {
+          "id": "karanam_varsha",
+          "name": "Varsha Karanam",
+          "role": "Cardiology Fellow Class of 2029",
+          "phone": "(512) 497-6781",
+          "category": "cardiology",
+          "firstName": "Varsha",
+          "lastName": "Karanam",
+          "isPerson": true
+        },
+        {
+          "id": "kothare_aishwarya",
+          "name": "Aishwarya Kothare",
+          "role": "Cardiology Fellow Class of 2029",
+          "phone": "(713) 898-8740",
+          "category": "cardiology",
+          "firstName": "Aishwarya",
+          "lastName": "Kothare",
+          "isPerson": true
+        },
+        {
+          "id": "kuzel_timothy",
+          "name": "Timothy Kuzel",
+          "role": "Cardiology Fellow Class of 2029",
+          "phone": "(630) 408-1699",
+          "category": "cardiology",
+          "firstName": "Timothy",
+          "lastName": "Kuzel",
+          "isPerson": true
+        },
+        {
+          "id": "mcadams_robert",
+          "name": "Robert McAdams",
+          "role": "Cardiology Fellow Class of 2029",
+          "phone": "(817) 964-7187",
+          "category": "cardiology",
+          "firstName": "Robert",
+          "lastName": "McAdams",
+          "isPerson": true
+        },
+        {
+          "id": "moore_xena",
+          "name": "Xena Moore",
+          "role": "Cardiology Fellow Class of 2029",
+          "phone": "(913) 909-4213",
+          "category": "cardiology",
+          "firstName": "Xena",
+          "lastName": "Moore",
+          "isPerson": true
+        },
+        {
+          "id": "mutyala_neelesh",
+          "name": "Neelesh Mutyala",
+          "role": "Cardiology Fellow Class of 2029",
+          "phone": "(832) 586-6943",
+          "category": "cardiology",
+          "firstName": "Neelesh",
+          "lastName": "Mutyala",
+          "isPerson": true
+        },
+        {
+          "id": "patin_stephen",
+          "name": "Stephen Patin",
+          "role": "Cardiology Fellow Class of 2029",
+          "phone": "(985) 705-1362",
+          "category": "cardiology",
+          "firstName": "Stephen",
+          "lastName": "Patin",
+          "isPerson": true
+        },
+        {
+          "id": "ebubechukwu_ugochukwu",
+          "name": "Ugochukwu Ebubechukwu",
+          "role": "Cardiology Research Fellow",
+          "phone": "(862) 268-9996",
+          "category": "cardiology",
+          "firstName": "Ugochukwu",
+          "lastName": "Ebubechukwu",
+          "isPerson": true
         }
       ]
     },
@@ -1427,6 +1537,16 @@
           "category": "interventional",
           "firstName": "Sukhdeep",
           "lastName": "Basra",
+          "isPerson": true
+        },
+        {
+          "id": "baldawi_harith",
+          "name": "Harith Baldawi",
+          "role": "Interventional Cardiology Fellow",
+          "phone": "(713) 876-8206",
+          "category": "interventional",
+          "firstName": "Harith",
+          "lastName": "Baldawi",
           "isPerson": true
         }
       ]
