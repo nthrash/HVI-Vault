@@ -11,15 +11,14 @@ description: Quick-reference directory of HFICU team members by department — f
 ### Heart Failure
 #### Heart Failure Cardiologist
 
-| Name                        | Title                          |
-| --------------------------- | ------------------------------ |
-| Aamir Abbas, MD             | Assistant Professor            |
-| Anju Bhardwaj, MD           | Associate Professor            |
-| Harish Devineni, MD         | Assistant Professor            |
-| Carlos R. Manrique Neira, MD | Assistant Professor           |
-| Sriram Nathan, MD           | Professor                      |
-| Maria M. Patarroyo Aponte, MD | Associate Professor          |
-| Sana Shoukat, MD            | Assistant Professor            |
+| Name                          | Title               |
+| ----------------------------- | ------------------- |
+| Aamir Abbas, MD               | Assistant Professor |
+| Harish Devineni, MD           | Assistant Professor |
+| Carlos R. Manrique Neira, MD  | Assistant Professor |
+| Sriram Nathan, MD             | Professor           |
+| Maria M. Patarroyo Aponte, MD | Associate Professor |
+| Sana Shoukat, MD              | Assistant Professor |
 
 #### Interventionalist
 
