@@ -1,13 +1,13 @@
 {
-  "lastChecked": "2026-08-01T08:13:11.653Z",
+  "lastChecked": "2026-08-02T08:15:07.811Z",
   "results": {
     "pocus-atlas": {
       "status": "ok",
       "statusCode": 200
     },
     "echoref": {
-      "status": "ok",
-      "statusCode": 200
+      "status": "error",
+      "statusCode": 429
     },
     "open-evidence": {
       "status": "ok",
@@ -22,8 +22,8 @@
       "statusCode": 200
     },
     "qxmd": {
-      "status": "ok",
-      "statusCode": 200
+      "status": "error",
+      "statusCode": 429
     },
     "uptodate": {
       "status": "ok",
