@@ -1,13 +1,13 @@
 {
-  "lastChecked": "2026-08-02T08:15:07.811Z",
+  "lastChecked": "2026-08-03T09:35:03.332Z",
   "results": {
     "pocus-atlas": {
       "status": "ok",
       "statusCode": 200
     },
     "echoref": {
-      "status": "error",
-      "statusCode": 429
+      "status": "ok",
+      "statusCode": 200
     },
     "open-evidence": {
       "status": "ok",
@@ -22,8 +22,8 @@
       "statusCode": 200
     },
     "qxmd": {
-      "status": "error",
-      "statusCode": 429
+      "status": "ok",
+      "statusCode": 200
     },
     "uptodate": {
       "status": "ok",
@@ -43,7 +43,7 @@
     },
     "deranged-physiology": {
       "status": "ok",
-      "statusCode": 403
+      "statusCode": 202
     },
     "team-ip": {
       "status": "ok",
