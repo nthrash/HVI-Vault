@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Onboarding/Unit Operations/onboarding-icu-np-orientation.md",
+                "file": "01 - Vault/Devices/protocols-lvad-pulsatility-index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "onboarding-icu-np-orientation"
+              "title": "protocols-lvad-pulsatility-index"
             }
           }
         ]
@@ -198,6 +198,7 @@
   },
   "active": "2d0b3b75e605cea0",
   "lastOpenFiles": [
+    "03 - Onboarding/Unit Operations/onboarding-icu-np-orientation.md",
     "03 - Onboarding/Clinical Access/onboarding-clinical-resources-access.md",
     "contacts.json",
     "01 - Vault/Hematology/protocols-clotting-cascade.pdf",
@@ -233,7 +234,6 @@
     "01 - Vault/Endocrine/protocols-euglycemic-diabetic-ketoacidosis.md",
     "01 - Vault/Endocrine/protocols-glycemic-control-inpatient.md",
     "01 - Vault/Endocrine/euglycemic-diabetic-ketoacidosis.md",
-    "01 - Vault/Pulmonary/protocols-copd.md",
     "01 - Vault/Pulmonary/waveform-figures/fig-1-1-vent-screen-VC.png",
     "99 - Meta/Assets/Images/Vent Waveforms/Online/15-PV-loops-summary.jpg",
     "99 - Meta/Assets/Images/Vent Waveforms/Online/16-PV-loops-disease-states.jpg",
