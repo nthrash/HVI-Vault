@@ -1,306 +1,223 @@
-## Table of Contents
-
-1. [HQ Curves](#hq-curves)
-2. [Pulsatility Index in Hypovolemia](#pulsatility-index-in-hypovolemia)
-3. [Real World Example](#real-world-example)
-4. [Pulsatility Index in Hypertension](#pulsatility-index-in-hypertension)
-
+## Understanding LVAD Pump Parameters: Equations, Mechanics, and Case-Based Teaching  
 ---
-## Governing Relationship Equations
-The three relationships used in the worked examples correspond to three distinct physical layers: a **pressure term** the pump must overcome, a **hydraulic transfer function** (the H-Q curve) that converts that pressure into flow, and an **electromechanical readout** (motor power) from which the console back-calculates everything it displays.
+### Part 1 — The four console parameters
+Only one of these is directly set by the clinician. The others are consequences.  
+
+| Parameter              | Set or derived? | What it actually is                                                                         |
+| ---------------------- | --------------- | ------------------------------------------------------------------------------------------- |
+| Speed (rpm)            | **Set**         | The only true input. Fixed; does not vary with the cardiac cycle.                           |
+| Power (W)              | **Measured**    | Real, directly measured motor current × voltage. The most trustworthy number on the screen. |
+| Flow (L/min)           | **Estimated**   | Back-calculated from power and speed using a manufacturer algorithm. Not a measurement.     |
+| Pulsatility index (PI) | **Derived**     | Beat-to-beat variation in power, scaled to mean power.                                      |
+|                        |                 |                                                                                             |
   
-**1. Head pressure:** $\Delta P = AoP - LVP$ (e.g. )
-The pump is a conduit between two pressure chambers; the gradient it must work against is the instantaneous difference between the outflow anastomosis (ascending aorta) and the inflow cannula (LV apex). The AHA states this directly: CF-LVAD flow is directly proportional to pump speed and **inversely related to the pressure difference across the inlet and outlet orifices**.
+VAD parameters are the "vital signs" of the pump, but only power is directly measured. Flow is calculated, not measured, and is derived from speed and power consumption, so anything that changes power (for example, thrombus on the impeller, which requires more work to spin at the same speed) will change the displayed flow. **The flow on the controller may not represent the true output of blood to the patient.
   
-Key properties of this term:  
-- It is **instantaneous, not mean** — it changes continuously through the cardiac cycle. Native LV contraction raises LVP, which lowers ΔP, which is why flow is greater in systole than diastole.
-- **ΔP is minimized in systole and maximized in diastole.** In diastole, LVP falls to LVEDP (single digits to low teens) while AoP is still supported by pump output, so ΔP is at its widest and flow at its lowest.
-- ΔP is never zero in a well-supported patient; when it approaches zero the LV pressure crosses aortic pressure and the aortic valve opens.  
-- **Preload and afterload move it differently.** Hypovolemia lowers both LVP peaks and troughs, shifting the entire ΔP range upward. Hypertension raises AoP (diastolic disproportionately), also shifting ΔP upward but with a widened excursion.
+---    
+### Part 2 — The governing equation
+All continuous-flow LVADs obey one relationship:
+$$Q = f(\text{rpm}, \Delta P)$$
+$$\Delta P = \text{AoP} - \text{LVP}$$ 
+Flow is **directly proportional to pump speed** and **inversely related to the pressure difference** across the inlet (LV pressure) and outlet (aortic pressure). ΔP is the **head pressure** — the pressure hill the pump must climb.  
   
-**2. Transfer function: At a fixed rpm, the pump has a characteristic pressure–flow (H-Q) curve. The **local slope of that curve** — what was written as \(k\) in $Q = Q_0 - k\Delta P$ — determines how much flow excursion a given ΔP swing produces. This is a linearization for teaching; the real curve is nonlinear, particularly near low flow and backflow. $Q_{inst} \approx f(rpm, \Delta P_{inst})$
-- **Flat H-Q curve (large k)**: small pressure change → large flow change. More preload/afterload sensitive, more pulsatile waveform, larger flow excursions (roughly 0–10 L/min). Flat curves also confer a degree of protection against suction, since rising ΔP from underfilling produces a large compensatory flow drop
-- **Steep H-Q curve (small k)**: pressure changes produce relatively small flow changes; flow range narrower (~3–7 L/min for the axial HMII).
-- Terminology is not settled: the older framing maps axial → steep and centrifugal → flat, but bench characterization of four pumps found **flat characteristics for the HVAD and HeartMate II, and steeper curves for the HeartMate 3 and Incor** — the opposite of the class-based assumption for HMII and HM3. Device-specific curves should govern reasoning, not pump architecture.
-- The intercept $Q_0$ is set by **rpm**; raising speed shifts the whole curve upward without much changing its slope. Consequently, higher speeds increase mean flow and unloading but tend to **reduce** pulsatility, since the LV contributes proportionally less.
-- Modeling work confirms the clinical consequence: at the same mean pump flow, flatter-curve pumps generate higher flow pulsatility and greater arterial pulse pressure, but slightly inferior ventricular unloading and peripheral perfusion.
+_Analogy:_ a garden hose at a fixed spigot setting. Aim it uphill and less water comes out the end. The spigot has not changed; the hill has.  
   
-The following figure contrasts the two curve morphologies and marks shutoff pressure, low-flow alarm, and maximum flow.  
-![|431|478x665](https://storage.googleapis.com/wiley-multimedia/cms/9781119633846_c3/asset/a26996a7-a705-469d-916b-8cdea39f17c6/assets/images/large/c03f006.jpg)
-Figure 6 A) With a “steep” pressure–flow relationship, any given change in pressure is associated with a relatively small change in flow. B) In a “flat” pressure–flow relationship, a small change in pressure is associated with a relatively larger change in flow. Pumps with a “flat” pressure–flow relationship are more sensitive to changes in preload and afterload conditions and in general impart a greater degree of pulsatility to the systemic circulation. Source : With permission from Abbott Laboratories, Chicago, IL.  
+**Why flow pulsates even though the pump does not.** Speed is constant, but LVP is not. During native systole, LV contraction raises intracardiac pressure, which **lowers** ΔP, so pump flow **rises**. During diastole, LVP falls, ΔP **widens**, and flow **falls**. These phasic swings impart a diminished pulse to the circulation. If native contraction is absent — for example, ventricular fibrillation — LVP stops swinging and flow becomes **truly nonpulsatile**.
   
-**3. Readout:  This is where the physics becomes an estimate. There is no flow sensor and no pressure sensor. The controller holds rpm constant and measures how much **motor power** is required to do so; since power varies with the hydraulic work being done, flow is back-calculated from speed and power. $PI = (P_{max} - P_{min})/P_{avg}$
-
-Two consequences follow directly from that derivation:  
-- **Displayed flow is directly proportional to power consumption.** Anything that increases the work of spinning the impeller at a set speed — most importantly **thrombus on the rotor** — raises power and therefore raises displayed flow, which may not represent true output to the patient.
-- **PI is a power-derived surrogate for flow pulsatility**, reflecting how much the LV is filling and how much native contraction is contributing. It is most useful as a **trend** against the patient's own baseline rather than an absolute number.
+**The H-Q curve.** Plotting flow against head pressure at a fixed speed yields a downward-sloping line (H = head, Q = flow) — the pump's "spec sheet." The patient's operating point slides along this single curve twice per second: 
+- Systole → ΔP shrinks → slide right → more flow  
+- Diastole → ΔP widens → slide left → less flow  
   
-**Where the simplification breaks down**  
-The static H-Q curve assumes steady flow. Under real pulsatile conditions the ΔP–Q relationship traces a **counterclockwise loop** rather than a single line, because of inertance and the phase offset between pressure and flow — so the same ΔP corresponds to different flows depending on where in the cycle it occurs.Bench and hybrid-loop validation of the HM3 similarly found the current-to-flow relationship can be ambiguous, reinforcing that all three equations should be used to reason about **direction of change**, not to compute a patient's cardiac output.  
+Over a narrow range this is approximated by:  $$Q \approx Q_0 - k \cdot \Delta P$$  
+where **k is the slope** — liters per minute of flow gained or lost per mm Hg of ΔP.  
+- **Large k (flat curve, centrifugal pumps such as HM3/HVAD):** small pressure changes produce large flow changes. More preload/afterload sensitive, more pulsatile, wider flow range.  
+- **Small k (steep curve, axial pumps such as HMII):** flow stays in a narrow band regardless of pressure.  
 
+![508](99%20-%20Meta/Assets/Images/LVAD%20Pulsatility%20Index-1765872461334-optimized.png)
+  
+This is why centrifugal pumps are **more sensitive to systemic hypertension** than axial-flow pumps, with decreases in flow and cardiac output and less effective ventricular unloading at elevated afterload.
 
+Raising rpm does not change the slope much; it shifts the entire curve upward. This is the physiologic basis of a ramp study.  
+  
+_Caveat:_ the single-curve model assumes steady flow. In a beating heart, ΔP and flow are slightly out of phase because blood has inertia, so the operating point actually inscribes a small counterclockwise loop each beat rather than retracing one line. The steady-flow curve is the teaching tool; the loop is reality.  
+  
+---  
+  
+### Part 3 — How flow is actually calculated, and why hematocrit matters
 
-## HQ Curves
-#### **1. What an HQ curve is**
-For a **fixed pump speed**, the LVAD manufacturer gives you a curve:
-	- **Y‑axis**: head pressure (H) = pressure difference across the pump (≈ (AoP - LVP))
-	- **X‑axis**: flow $(Q)$ through the pump
-So for each speed (e.g., 4,800; 5,200; 5,600 RPM), you have one **HQ curve**: $Q = f(H)\quad \text{for that speed}$
-Key properties:
-- As **head pressure (H) increases**, flow (Q) **decreases**. They are inversely related.
-- The **slope** of the curve (steep vs flat) tells you:
-	- On a **steep** part: a given change in Head Pressure (H) → **small** change in Q
-	- On a **flat** part: a given change in Head Pressure (H) → **large** change in Q
-The HM3 is special in that:
-- At **lower flows (<~4 L/min)**, the HQ curve is **flatter** → more sensitive to changes in $(H)$.
-- At **higher flows**, it becomes **steeper** → less sensitive.
-![838](99%20-%20Meta/Assets/Images/LVAD%20Pulsatility%20Index-1765872461334-optimized.png)
+This section explains the single most misunderstood number on the console.  
 
-Essentially the pump is a conduit between two pressure chambers; the gradient it must work against is the instantaneous difference between the outflow anastomosis (ascending aorta) and the inflow cannula (LV apex). 
-LVAD flow (Q) is directly proportional to pump speed and inversely related to pressure difference across the inlet and outlet orifices (i.e. Head pressure (H))
-#### **2. How I apply HQ curves to a cardiac cycle**
-For a given speed, the **patient’s hemodynamics** pick out two main operating points on that curve:
-The $(\Delta P)$ is minimized in systole and maximized during diastole. 
-- **Diastole**:
-	- LVP low, AoP relatively higher → $(H_{dia} = AoP - LVP)$ is **large** → move **to the right** on the HQ curve. Higher head pressure i.e. $(\Delta P)$
-	- Read off $(Q_{dia})$ (lower flow).
-- **Systole**:
-	- LVP rises toward/above AoP → $(H_{sys} = AoP - LVP)$ becomes **smaller** → move **to the left** on the same HQ curve.
-	- Read off $(Q_{sys})$ (higher flow)
-So on the HQ diagram for a fixed speed:
-- You have two points:
-	- Right‑hand point: 
-		- $((H_{dia}, Q_{dia}))$
-	- Left‑hand point: 
-		- $((H_{sys}, Q_{sys}))$
-- As the heart beats, the **operating point moves back and forth** between these two points along the same curve.
-The **difference** $(Q_{sys} - Q_{dia})$ is the **flow pulsatility** the pump sees, and because power tracks flow, that’s what feeds into PI.
+**The algorithm.** Displayed pump flow is calculated to integrate the hydraulic power required to move blood across the pressure head, **accounting for estimated viscous losses based on the manually entered hematocrit**. Bench and hybrid-loop identification work on the HeartMate 3 confirmed that estimation is based on **speed, motor current, and viscosity**, with a very strong correlation between estimated flow and torque-generating current (r² > 0.99). The pulsatility index is likewise derived directly from current.
+  
+Conceptually:  
+  
+$$Q_{est} = f(\text{rpm},\ I_{motor},\ \text{viscosity [from entered Hct]})$$  
+  
+**Why hematocrit is in the equation.** Blood is viscous. At a given rpm, a thicker fluid requires more motor torque — and therefore more current — to move the same volume. The algorithm must decide whether a rise in current means _more flow_ or _thicker blood_. It resolves this using the hematocrit value a human typed into the controller. If that number is wrong, the flow display is wrong.  
+  
+**The two directional errors to teach:**  
+- **Entered Hct too high (blood actually thinner than the device believes):** the algorithm attributes some of the measured current to viscous drag that is not present, and **underestimates** true flow.  
+- **Entered Hct too low (blood actually thicker than the device believes):** the algorithm credits the extra current to flow, and **overestimates** true flow.  
+  
+**Practical ICU implications:**  
+1. **Hematocrit must be updated when it changes materially** — after transfusion, after a GI bleed, after aggressive diuresis or volume loading. A patient transfused from Hct 22% to 32% with no hemodynamic change at all will show a shift in displayed flow purely from the viscosity term.  
+2. **Anemia is common in this population** (GI bleeding from arteriovenous malformations and acquired von Willebrand syndrome), so this is not a theoretical concern.
+3. **Displayed flow is not cardiac output.** Only a moderate correlation exists between LVAD-estimated flow and PA-catheter cardiac output. The discordance is explained by aortic valve opening (blood leaving the LV _around_ the pump is invisible to the device), hematocrit differences, and aortic regurgitation with recirculation.
+4. **Accuracy is limited even under ideal conditions.** The HM3 flow estimator has an RMSE of **1.63 L/min** (r = 0.86). The current–flow relationship is **ambiguous — one current value can correspond to two different flow rates** — and the nonlinearity obscures the systolic portion of flow because current declines during peak systole at higher flow rates. Accuracy is worst precisely in the transition between full and partial support, which is where most patients live. The authors recommend interpreting HM3 values and trends with caution.
+5. **Pump design matters for estimator reliability.** With correction for viscosity, flow estimation is more reliable for the centrifugal HeartMate 3, whose current–flow relationship is nearly linear over the operating range, than for the axial HeartMate II. Bench comparisons similarly found that power-based flow estimation is accurate for the centrifugal HeartWare pump, where flow increases linearly with power uptake, but not for axial pumps, where low flows are overestimated unless pressure-head data are added.
+  
+**Bottom line for the bedside:** trust power, respect trends, and treat the absolute flow number as an estimate with roughly ±1.5 L/min of uncertainty. **Never titrate therapy to the displayed flow alone** — corroborate with MAP, perfusion, urine output, lactate, echo, or invasive hemodynamics.  
+  
+---  
+  
+### Part 4 — The aortic valve
+  
+The aortic valve is the switch that determines how the ventricle empties.  
+- **Valve opening intermittently:** the LV ejects both through the pump and across the valve. Larger LVP swings, wider ΔP swings, higher PI. Generally desirable — it washes the aortic root, reduces the risk of root thrombus and de novo aortic insufficiency, and preserves some native work. (Note that flow crossing the valve is _not_ counted by the console.)  
+- **Valve permanently closed (higher speeds, low preload, high afterload):** 100% of output goes through the pump. LVP swings are blunted, ΔP swings narrow, PI falls, and the arterial waveform becomes nearly flat with a narrow pulse pressure.  
+  
+Chronic valve closure matters: aortic regurgitation develops from commissural fusion of the leaflets, increased leaflet strain, and higher retrograde flow velocity. Intermittent valve opening and BP control help reduce this risk.
+  
+Speed titration is largely a negotiation about how often this valve opens.  
+  
+---  
+  
+### Part 5 — Pulsatility index 
+$$PI = \frac{P_{max} - P_{min}}{P_{avg}}$$
+measured as a running average over the preceding interval (some references express the identical concept using flow rather than power).  
 
+**Reading the fraction:**  
+- **Numerator $(P{max} − P{min})$** = how much the native ventricle contributes. It reflects the size of the LVP swing, which reflects preload and contractility.  
+- **Denominator $P{avg}$** = the total workload of the pump.  
+  
+So PI answers: _how much of the total circulatory work is the patient's own heart still doing and how much preload is there for the LV?_ Trends in PI assist providers in assessing the impact of therapies or conditions that expand or contract intravascular volume.
+  
+**Critical caveat on units.** PI scaling is not uniform. Consoles and some protocols report PI multiplied by 10 (typical HeartMate values roughly 3–7; a normal Doppler-derived pulsatility index is <10, with higher values suggesting inflow obstruction). The unmultiplied ratio yields values an order of magnitude smaller (0.1–0.7). 
+**Never compare a PI across scaling conventions.** What matters clinically is the trend against that patient's own baseline on their own console.  
+  
+**The PI event.** The controller logs a discrete PI event when there is a **±45% change from the previous 15-second running average**. On the HeartMate II this triggers an automatic drop to the low-speed limit. A PI excursion in _either_ direction flags instability in LV filling.  
+  
+---  
+  
+### Part 6 — Worked examples
+Single HM3 patient at fixed 5,400 rpm. Linearized H-Q slope used throughout: **k ≈ 0.047 L/min per mm Hg**, i.e. Q ≈ 7.1 − 0.047·ΔP. Numbers are illustrative and use the unmultiplied PI convention; recall the ±1.63 L/min estimator error in real life.
+  
+**Case 1 — Baseline euvolemia, AoP 110/85**  
+- Systole: ΔP = 110 − 95 (peak LVP) = 15 mm Hg → Q ≈ 6.4 L/min  
+- Diastole: ΔP = 85 − 10 (LVEDP) = 75 mm Hg → Q ≈ 3.6 L/min  
+- ΔP swing = 60 mm Hg; flow swing = 2.8 L/min; mean Q ≈ 5.0 L/min  
+- Power: max 5.4 W, min 4.6 W, avg 5.0 W  
+$$PI = (5.4 - 4.6)/5.0 = 0.16$$  
+  
+_Interpretation:_ normal. Ventricle contributing meaningful pulsatile work.  
+  
+**Case 2 — Early hypovolemia (over-diuresis), AoP 100/85**  
+Reduced preload lowers both peak LVP and LVEDP, so ΔP shifts upward across the whole cycle and the LV contributes less pulsatile work.  
+- Systole: ΔP = 100 − 70 (blunted peak LVP) = 30 mm Hg → Q ≈ 5.7 L/min  
+- Diastole: ΔP = 85 − 4 (LVEDP) = 81 mm Hg → Q ≈ 3.3 L/min  
+- ΔP swing = 51 mm Hg; flow swing = 2.4 L/min; mean Q ≈ 4.4 L/min  
+- Power: max 4.7 W, min 4.1 W, avg 4.4 W  
+$$PI = (4.7 - 4.1)/4.4 = 0.14$$   
+_Interpretation:_ **flow down, PI down** — the classic underfilling pattern. Aortic valve now permanently closed. Nothing yet obstructing the inlet.  
+  
+**Case 3 — Progression to intermittent suction, AoP 95/85**  
+The LV cavity collapses far enough that the lateral wall or septum intermittently apposes the inflow cannula. This is a **mechanical inlet obstruction superimposed on low preload**, so the H-Q relationship no longer applies during the occluded portion of the cycle.  
+- Diastole (cannula occluded by endocardium): inflow effectively obstructed → Q ≈ 0.5 L/min, power collapses to 3.2 W  
+- Systole (contraction pulls the wall off the inlet, LVP transiently 80 mm Hg): ΔP = 95 − 80 = 15 mm Hg → Q ≈ 6.4 L/min, power 5.3 W  
+- Mean Q ≈ 2.4 L/min → **low-flow alarm**  
+- Power: max 5.3 W, min 3.2 W, avg 3.9 W  
+$$PI = (5.3 - 3.2)/3.9 = 0.54$$  
+  
+_Interpretation:_ **flow down, PI up sharply.** The numerator widened (near-zero diastolic power against preserved systolic ejection) while the denominator fell. The excursion from a 0.14 baseline far exceeds the ±45% threshold that defines a logged PI event.  
+  
+**Case 4 — Uncontrolled hypertension, same 5,400 rpm, euvolemic, AoP 150/125 (MAP ≈ 133)**  
+Nothing about the patient's volume status or the pump has changed. Afterload alone has risen, so **every point on the cardiac cycle now sits at a higher ΔP** and the operating point slides left along the same H-Q curve. Because the LV can no longer eject across the valve, LVP builds and LVEDP rises.  
+- Systole: ΔP = 150 − 100 (peak LVP, now higher because the LV is poorly unloaded) = 50 mm Hg → Q ≈ 4.8 L/min  
+- Diastole: ΔP = 125 − 15 (elevated LVEDP) = 110 mm Hg → Q ≈ 1.9 L/min  
+- ΔP swing = 60 mm Hg; flow swing = 2.9 L/min; mean Q ≈ 3.3 L/min → **low-flow alarm despite a full ventricle**  
+- Power: max 4.0 W, min 3.0 W, avg 3.4 W  
+$$PI = (4.0 - 3.0)/3.4 = 0.29$$  
+  
+_Interpretation:_ **flow down, PI up, LV dilating.** This is the mirror image of hypovolemia. The numerator is preserved or increased (a loaded LV still generates a large pressure swing) while mean power falls, so PI rises. The critical teaching point is that **increasing pump speed will not fix this** — patients with uncontrolled BP are at risk for low flow "for which increasing LVAD speed will not help," along with pump thrombosis, aortic insufficiency, RV failure, and stroke. The correct intervention is **afterload reduction**.  
+  
+_Why this matters beyond the alarm:_ high systemic vascular resistance leads to decreased LVAD flow, increased stasis, and increased risk of pump thrombosis; hypertension also worsens HF symptoms by decreasing LV unloading, creating subendocardial ischemia, and fueling ventricular arrhythmias. An MAP >90 mm Hg at discharge is associated with stroke and thrombosis. Elevated MAP can also produce **false-positive results for flow obstruction on ramp testing** — check and treat the BP before concluding a pump is thrombosed.
+  
+_Treatment:_ beta-blockers are the most frequently used antihypertensives, followed by ACE inhibitors and aldosterone antagonists; diuretics for volume and hydralazine/nitrates for further afterload reduction. **Avoid** rate-limiting (nondihydropyridine) calcium antagonists such as verapamil and diltiazem, and avoid routine ACE+ARB dual therapy unless part of a myocardial recovery protocol. Renal function should be considered before using aldosterone antagonists. 
 
+**Side-by-side**  
 
-## Pulsatility Index in Hypovolemia
-#### **1. How PI is computed on the HM3 (why timing matters)**
-On the HM3:
-- PI is based on **power variation** over about a **15‑second window**: $PI = \frac{Power_{max} - Power_{min}}{Power_{avg}}$
-- A **PI event** is triggered if a single second’s PI differs by >45% from the running average, and then the pump briefly drops speed.
-So PI is not a beat‑by‑beat number—it is a **short‑term average**, and it’s very sensitive to **abrupt changes** in flow/power, such as those that happen during a suction beat.
-#### **2. Progressive hypovolemia: why PI can drift down**
-As your patient becomes hypovolemic over time (e.g., diuresis, poor intake, GI loss):
-- LV filling pressure falls → LV is underfilled.
-- LVAD flow decreases (both systolic and diastolic) because the pump is working across a larger pressure gradient much of the cycle.
-- If the patient is on part of the HQ curve where both systolic and diastolic flow are being “pulled down together,” the **swing between max and min power** can actually get **smaller**.
-In practice, for _a while_ you may see:
-- **Average flow trending down**
-- **PI also trending down or staying relatively flat**
-This is still compatible with the paper; the “hypovolemia → higher PI in HM3” statement is a _comparative, steady‑state_ description, not a promise that PI monotonically rises from the first drop in preload.
-#### **3. Just before suction: why PI suddenly spikes**
-When the LV is very under filled and the pump speed is high relative to filling:
-- Toward the end of diastole or early systole, the **inflow cannula can abut or suck in the LV wall/septum**.
-- On that suction beat:
-	- Flow can **collapse abruptly** for part of the cycle.
-	- The controller sees a **very low instantaneous Power**<sub>min</sub> compared with the immediately preceding beats.
-	- Over that 15‑second averaging window, you now have:
-- A **much lower Power**<sub>min</sub>
-- **Power**<sub>max</sub> that hasn’t fallen proportionally as much yet
-- **Power**<sub>avg</sub> that’s lower but not as low as **Power**<sub>min</sub>
-That means the ratio can **jump up sharply** → **PI spike**.
-That abrupt relative change is exactly what triggers a **PI event** and the **automatic speed drop**, which is the device’s attempt to relieve suction.
+|Parameter|Case 1: Euvolemic|Case 2: Hypovolemic|Case 3: Suction|Case 4: Hypertensive|
+|---|---|---|---|---|
+|Systolic ΔP|15 mm Hg|30 mm Hg|15 mm Hg (only when wall releases)|50 mm Hg|
+|Diastolic ΔP|75 mm Hg|81 mm Hg|Inlet occluded|110 mm Hg|
+|Q systole / diastole|6.4 / 3.6|5.7 / 3.3|6.4 / 0.5|4.8 / 1.9|
+|Mean Q|5.0 L/min|4.4 L/min|2.4 L/min|3.3 L/min|
+|Power max/min/avg (W)|5.4 / 4.6 / 5.0|4.7 / 4.1 / 4.4|5.3 / 3.2 / 3.9|4.0 / 3.0 / 3.4|
+|PI|0.16|0.14|**0.54**|**0.29**|
+|LV size|Normal|Small|Collapsed|**Dilated**|
+|Signature|Normal|↓flow, ↓PI, small LV|↓flow, ↑PI, collapsed LV|↓flow, ↑PI, **large LV + high MAP**|
+|Fix|—|Volume|Volume ± temporary ↓speed|**Afterload reduction, not ↑speed**|
 
-So the pattern you see clinically is very logical:
-1. **Preload gradually falling**
-	- Flow drifts down
-	- PI gradually drifts down or flattens
-2. **Approaching suction**
-	- LV gets intermittently very underfilled
-	- A few beats show dramatic drop in flow/power during part of the cycle
-	- **PI spikes** in that short window
-	- A PI event is logged, speed drops
-If suction persists and the ventricle is essentially stuck to the cannula, you can then see **low flow with low pulsatility again** (both max and min power are low and similar).
+**The discriminator between Case 3 and Case 4** — both show low flow with high PI — is **LV size and blood pressure**. Suction has a collapsed LV with a low or normal MAP; hypertension has a dilated LV with a high MAP. A Doppler MAP and a quick echo separate them in minutes.  
+  
+---  
+  
+### Part 7 — The published real-world case
+A 72-year-old man with ischemic cardiomyopathy, four months post-HeartMate 3, was referred for recurrent low-flow alarms with ten days of fatigue and dizziness. Exam was unremarkable and inflammatory markers were normal. Device interrogation showed **persistent flow <2.5 L/min with a high PI**. Echocardiography was unchanged from prior except for a collapsible IVC; the inflow cannula could not be visualized because of metallic artifact. **4D cardiac CT** demonstrated suction of the midventricular lateral wall against the inflow cannula, most prominent in systole. Gradual volume repletion (weight 77 → 80 kg) resolved both symptoms and alarms, and a new dry weight with an adjusted diuretic regimen was established.
+  
+Two teaching points: echocardiography alone can miss dynamic suction because of metallic artifact, and device telemetry must be correlated with imaging to establish the mechanism.
+  
+---  
+  
+**Part 8 — Bedside pattern recognition**  
 
+|Pattern|Most likely mechanism|First moves|
+|---|---|---|
+|↓ Flow, ↓ PI, ↓ power|Hypovolemia, RV failure, tamponade, arrhythmia|Volume/CVP assessment, echo, rhythm check|
+|↓ Flow, ↑ PI, **small/collapsed LV**|Intermittent inflow limitation — suction or cannula malposition|Volume repletion; consider temporary speed reduction; escalate imaging if echo non-diagnostic|
+|↓ Flow, ↑ PI, **dilated LV, high MAP**|**Uncontrolled hypertension / excessive afterload**|Doppler MAP, afterload reduction — do **not** increase speed|
+|↑ Power with ↓ or discordant flow|Pump thrombosis|LDH, plasma free hemoglobin, urgent VAD team notification|
+|Flow number shifts with no clinical change|**Stale hematocrit entry, or post-transfusion viscosity change**|Update Hct in the controller; correlate with clinical perfusion|
+|Flat/absent pulsatility|Ventricular arrhythmia or absent native contraction|ECG, rhythm strip|
 
-## Real World Example
-**Step‑by‑step real‑world style example**
-Let’s imagine a HeartMate 3 patient at a fixed speed (say 5,200 RPM), and follow them through:
-1. Baseline (well filled)
-2. Progressive hypovolemia (hours)
-3. Right before suction (seconds)
-I’ll use **made‑up but internally consistent numbers** to show how PI can first drift down, then spike just before suction.
+Higher pulsatility index values specifically suggest the possibility of **inflow obstruction**, but confirm with imaging and BP before acting.  
+  
+---  
+  
+### Part 9 — Management of a suction event
+Any condition producing LV underfilling places a patient at risk: hypovolemia, RV failure, cardiac tamponade, or a pump speed set too high for prevailing hemodynamics. During suction the LVAD "sucks down" the LV to an abnormally small size, producing a right-to-left septal shift. Patients with a malpositioned inflow cannula are predisposed to intermittent obstruction and to ventricular arrhythmias from mechanical endocardial contact. Large increases in pump speed unload the LV and may predispose to suction events, which can precipitate ventricular arrhythmias.
+  
+The recommended treatment is **twofold: (1) decrease the pump speed, and (2) identify and treat the underlying cause.** Monitoring for suction is also an integral component of any ramp or speed-change protocol.
+  
+Practical sequence:  
+1. **Assess the patient, not just the console** — mentation, Doppler MAP, perfusion, rhythm.  
+2. **Confirm underfilling** — IVC collapsibility, small LVEDD, septal shift toward the inflow cannula.  
+3. **Differentiate the cause before touching the speed dial** — hypovolemia (low CVP and PAWP); RV failure (high CVP, low PAPi, RV dilation); tamponade (high CVP, effusion); hypertension (high MAP, dilated LV — opposite management).  
+4. **Treat the cause.** Simulator data indicate that speed reduction alone mitigates suction but does not improve hemodynamics, whereas volume infusion and systemic vasoconstriction both mitigate suction and improve cardiac power. Speed reduction buys time; it is not the definitive fix.  
+5. **Escalate imaging if echo is non-diagnostic**, given metallic artifact over the inflow.
+6. **Involve the VAD coordinator/team early** and review the controller log file — abrupt flow drops point to pre-pump/inflow problems, gradual drops to post-pump/outflow problems.  
+  
+---  
+### Part 10 — Seven things to take away
+1. Speed is the only thing set; flow and PI are consequences of the pressure the pump is fighting.  
+2. Flow rises in systole and falls in diastole because LV contraction narrows ΔP — not because the pump changes
+3. **Flow is calculated, not measured** — derived from speed, motor current, and a viscosity correction based on the hematocrit someone typed in. Keep the entered Hct current.
+4. Displayed flow correlates only moderately with true cardiac output and carries roughly ±1.5 L/min of error; aortic valve opening and aortic regurgitation make it worse
+5. PI is a measure of how much work the native ventricle is still contributing and LV preload.  
+6. **Low flow + low PI = underfilling. Low flow + high PI = either inflow obstruction or excessive afterload** — distinguish by LV size and MAP.  
+7. **CF-LVADs are preload dependent and afterload sensitive.** In a hypertensive patient with low flow, increasing speed will not help; lower the blood pressure.
+  
 
-#### **1. Baseline (well filled)**
-Assume the LV is adequately filled, normal-ish hemodynamics for an LVAD patient:
-- HM3 speed: 5,200 RPM
-- True LVAD flow: around **4.5 L/min**
-- There is a healthy beat‑to‑beat swing in flow/power.
-
-Let’s assign some approximate power values over a 15‑second window:
-- $(Power_{max} = 5.5\ \text{W})$ (during systole, when LV pressure is higher and pump has more work/flow)
-- $(Power_{min} = 4.5\ \text{W})$ (during diastole, when LV pressure is lower vs AoP)
-- $(Power_{avg} = 5.0\ \text{W})$ (Average of power)
-
-Then:
-$$PI = \frac{5.5 - 4.5}{5.0} = \frac{1.0}{5.0} = 0.20$$
-
-In real units the HM3 PI is typically reported around 2–6; think of this as an abstracted PI of **“around 4”** in real device units. We’ll just track _relative_ changes.
-
-So:
-• Flow: ~4.5 L/min
-• PI: **moderate** (your “personal baseline” for this patient)
-
-#### **2. Progressive hypovolemia (over time)**
-Now the patient gets progressively under filled (e.g., diuresis, poor oral intake):
-- LV preload falls → LV under filled
-- True LVAD flow falls: say from **4.5 → 3.2 L/min**
-- LV contractility may also worsen a bit because of lower preload.
-
-Over a 15‑second window, you might see:
-- $(Power_{max} = 4.7\ \text{W})$ (systole is weaker than before)
-- $(Power_{min} = 3.9\ \text{W})$ (diastolic flow is also down)
-- ($Power_{avg} = 4.3\ \text{W})$
-
-Now:
-$$PI = \frac{4.7 - 3.9}{4.3} = \frac{0.8}{4.3} \approx 0.186$$
-
-Relative to baseline (0.20):
-- **Average power/flow is down**
-- The swing $(Power_{max} - Power_{min})$ is **slightly smaller**
-- So **PI is a bit lower** than baseline
-On the controller you might notice:
-- Flow: trending from 4.5 → 3.2 L/min
-- PI: from 4.0 → 3.4 (for example)
-So you’re seeing a **downtrending PI** as the patient gets drier—this matches what you describe clinically.
-
-#### **3. Right before a suction event**
-Now the LV is very underfilled, and at 5,200 RPM the pump is _aggressively_ unloading a small LV. On certain beats:
-- The inflow cannula starts to tug on the ventricular wall or septum.
-- During part of the cycle, **inflow becomes severely restricted** → true flow (and thus power) drop sharply for that brief portion.
-This drastic change can happen **abruptly over just a few beats** within the 15‑second PI window.
-Let’s say, in this short window:
-	- Peak systolic power doesn’t fall much more:
-	- $(Power_{max} \approx 4.6\ \text{W})$ (similar to the previous hypovolemic state)
-- But **on a suction beat**, diastolic/inflow power **plummets**:
-	- $(Power_{min} \approx 3.0\ \text{W})$ (instead of ~3.9 W
-- The overall average power in that 15‑second slice might be:
-	- $(Power_{avg} \approx 3.8\ \text{W})$
-Now the PI for that window becomes:
-$$PI = \frac{4.6 - 3.0}{3.8} = \frac{1.6}{3.8} \approx 0.42$$
-
-Compare:
-- Baseline PI ≈ 0.20
-- Progressive hypovolemia PI ≈ 0.186
-- **Pre‑suction PI ≈ 0.42** → more than doubled
-
-That **sudden jump** in $((Power_{max} - Power_{min})/Power_{avg})$ over a few seconds is exactly what:
-- Creates the **“high PI” spike** you see,
-- Triggers a **PI event**, and
-- Makes the HM3 **auto‑drop speed** to its low‑speed limit to relieve suction.
-
-You might notice:
-- **Trend view**: PI slowly drifting from, say, 4–5 down to 3–3.5 as the patient gets drier.
-- **Just before suction**: a **brief, sharp PI spike** (6–7) with a PI event, often with corresponding suction alarms or abdominal discomfort, dizziness, etc.
-- After auto speed reduction and maybe volume resuscitation:
-	- Flow stabilizes somewhat
-	- PI goes back down toward a new, safer baseline.
-
-#### **4. Why this doesn’t contradict the most education papers on PI**
-Most article’s general heuristic for HM3 in **steady hypovolemia** is:
-- Compared with HMII, HM3 tends to show **relatively higher PI** because it “sees” very low diastolic flows more accurately. (HMIII can under estimate systolics while HMII can under estimate diastolics)
-Our **real-world observation** is about the **time course**:
-1. As the patient is progressively dried out:
-	- LV filling, power, and flow decrease
-	- PI can **drift downward** (the swing in power is modestly smaller)
-2. Right before or at suction:
-	- A **very low Power<sub>min</sub>** appears during suction beats
-	- $(Power_{max} - Power_{min}) **jumps**, (Power_{avg})$ is lower → **PI spikes**
-	- PI event + suction alarms + auto speed change
-Those are **different time scales** and **different parts of the hypovolemia spectrum**, and they fully fit together.
-
-## Pulsatility Index in Hypertension
-Hypertension is a **pure afterload problem**, so it mainly acts on the **aortic side** of the pump and changes the pressure gradient across it. That has two big effects:
-- **Decreases mean LVAD flow**
-- **Increases PI on the HeartMate 3**
-Let’s tie that into the scenarios we’ve been talking about.
-
-#### **1. What hypertension does to the pump gradient**
-Think of the pump “head pressure” as:
-$$\Delta P \approx AoP - LVP$$
-
-
-With **hypertension**:
-- Aortic pressure (**AoP**) rises.
-- LV pressure (**LVP**) may rise somewhat, but in a sick LV it **often can’t keep up** with AoP.
-- So (AoP - LVP) becomes **larger**, especially in **diastole**, where LVP is low and AoP is high.
-
-Numerically (illustrative):
-- Normotension:
-	- Diastole: LVP 10, AoP 80 → 
-		- $(\Delta P = 70)$ mmHg
-	- Systole:  LVP 35, AoP 85 → 
-		- $(\Delta P = 50)$ mmHg
-- Hypertension:
-	- Diastole: LVP 10, AoP 100 → $(\Delta P = 90)$ mmHg
-	- Systole:  LVP 35, AoP 105 → $(\Delta P = 70)$ mmHg
-So hypertension makes the gradient **bigger at every point**, but **diastole is hit hardest**.
-
-#### **2. Effect on flow and PI in HM3**
-For a fixed LVAD speed:
-$$Q \propto \frac{1}{AoP - LVP}$$
-So with hypertension:
-- **Mean flow falls** (higher afterload → pump moves less blood).
-- **Diastolic flow falls more than systolic flow** because:
-	- In diastole: AoP is high and LVP is very low → huge (\Delta P).
-	- In systole: LVP rises, so $(\Delta P)$ is still big, but **less extremely so**.
-That means:
-- $(Flow_{min})$ (diastolic) drops a lot.
-- $(Flow_{max})$ (systolic) drops, but **less**.
-- So the **swing** $(Flow_{max} - Flow_{min})$ actually **gets larger**, even though everything is shifted downward.
-Because power tracks flow, the **power swing** $(Power_{max} - Power_{min})$ also **increases relative to the lower average power**, so:
-$$PI_\text{raw} = \frac{Power_{max} - Power_{min}}{Power_{avg}}$$goes **up**, and the HM3 displays:
-- **Lower flow**
-- **Higher PI**
-That’s exactly what the education from Abbott materials emphasize: for HM3,
-- Hypertension → **low flow, high PI**.
-#### **3. How this interacts with a “nonpulsatile” / very weak LV**
-Even in your very sick, “nonpulsatile” patients:
-- There is usually **some** LV pressure swing (even if you can’t feel a pulse).
-- Hypertension **amplifies** how different diastole vs systole look **across the pump**:
-	- Diastole: AoP way up, LVP low → very high $(\Delta P)$ → very low diastolic flow.
-	- Systole: AoP up, LVP up some → $(\Delta P)$ still high, but not as extreme → relatively higher systolic flow.
-So compared to their normotensive baseline:
-- **Mean flow is down**.
-- **Min flow is disproportionately down**.
-- **Max–min difference is relatively bigger**.
-- → **PI rises**, often into the high range
-From your perspective at the bedside:
-• A “nonpulsatile” HM3 patient with **MAP 120** or a Doppler 110–120
-• LVAD flow might be 2.5–3.0 L/min
-• PI might jump into the **6–9 range** despite no palpable peripheral pulse.
-
-#### **4. Hypertension + hypovolemia → suction risk**
-Now combine **progressive hypovolemia** with **hypertension**:
-- Hypovolemia:
-	- Drops LVP (especially in diastole) → increases (AoP - LVP) → lowers mean flow.
-
-- Hypertension:
-	- Raises AoP → further increases (AoP - LVP) → lowers flow more, especially in diastole.
-Together they:
-- **Severely underfill the LV** (low preload).
-- **Greatly increase head pressure** the pump is working against.
-- Push the LVAD into:
-	- **Low flow**, and
-	- **Very high PI** (because diastolic Power_min plummets relative to systolic Power_max).
-This is a classic setup for:
-- **Frequent PI events**
-- **Suction events** (especially if speed is high relative to LV filling)
-So the pattern you might see:
-- Baseline: PI ~4, flow ~4 L/min, MAP ~80–85
-- Hypertension develops: PI climbs (6–9), flow falls (3 → 2.5 L/min), MAP ~110–120
-- If also hypovolemic/RV‑down: very low flow, **PI spikes around suction beats**, auto speed drops.
-
-**In short:**
-- Hypertension in HM3 **increases afterload**, especially in diastole → **lowers mean flow**.
-- It also **increases PI**, because minimum (diastolic) flow/power falls more than maximum (systolic), widening the power swing relative to the average.
-- In a weak, “nonpulsatile” LV, this can push a baseline PI in the 3–4 range into 6–10, even without a palpable arterial pulse—and, in the presence of low preload, can strongly predispose to suction.
-- Higher gradient -> lower flow. Lower gradient -> higher flow
+### References
+1. [HFSA/SAEM/ISHLT Clinical Expert Consensus Document on the Emergency Management of Patients With Ventricular Assist Devices](https://linkinghub.elsevier.com/retrieve/pii/S1053-2498\(19\)31499-8). Givertz MM, DeFilippis EM, Colvin M, et al. The Journal of Heart and Lung Transplantation : The Official Publication of the International Society for Heart Transplantation. 2019;38(7):677-698. doi:10.1016/j.healun.2019.05.004.
+2. [Device Therapy and Arrhythmia Management in Left Ventricular Assist Device Recipients: A Scientific Statement From the American Heart Association](https://www.ahajournals.org/doi/abs/10.1161/CIR.0000000000000673?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed). Gopinathannair R, Cornwell WK, Dukes JW, et al. Circulation. 2019;139(20):e967-e989. doi:10.1161/CIR.0000000000000673.
+3. [Management of Hypertension in Patients With Ventricular Assist Devices: A Scientific Statement From the American Heart Association](https://www.ahajournals.org/doi/abs/10.1161/HHF.0000000000000074?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed). Eisen HJ, Flack JM, Atluri P, et al. Circulation. Heart Failure. 2022;15(5):e000074. doi:10.1161/HHF.0000000000000074.
+4. [Value of Invasive Hemodynamic Assessments in Patients Supported By Continuous-Flow Left Ventricular Assist Devices](https://pubmed.ncbi.nlm.nih.gov/37804313). Rodenas-Alesina E, Brahmbhatt DH, Mak S, et al. JACC. Heart Failure. 2024;12(1):16-27. doi:10.1016/j.jchf.2023.08.019.
+5. [Accuracy of the HeartMate 3 Left Ventricular Assist Device Flow Estimation](https://pubmed.ncbi.nlm.nih.gov/40447681). Abart T, Grujic M, Aigner P, et al. Scientific Reports. 2025;15(1):18971. doi:10.1038/s41598-025-03743-9.
+6. [Continuous‐Flow Left Ventricular Assist Devices: Perspective on Engineering and Pump Technology](https://onlinelibrary.wiley.com/doi/10.1002/9781119633884.ch3). Paul C. Tang,, and Francis D. Pagani,. Chapter 3.
+7. [Pump Flow Estimation From Pressure Head and Power Uptake for the HeartAssist5, HeartMate II, and HeartWare VADs](https://pubmed.ncbi.nlm.nih.gov/23820282). Pennings KA, Martina JR, Rodermans BF, et al. ASAIO Journal (American Society for Artificial Internal Organs : 1992). 2013 Jul-Aug;59(4):420-6. doi:10.1097/MAT.0b013e3182937a3a.
+8. [Multimodality Imaging Vignettes of Left Ventricular Assist Device Complications](https://pubmed.ncbi.nlm.nih.gov/41263712). Ciocca N, Reineke D, Hunziker L, et al. JACC. Cardiovascular Imaging. 2026;19(3):412-425. doi:10.1016/j.jcmg.2025.10.017.
+9. [Echocardiography in the Management of Patients With Left Ventricular Assist Devices: Recommendations From the American Society of Echocardiography](https://linkinghub.elsevier.com/retrieve/pii/S0894-7317\(15\)00380-6). Stainback RF, Estep JD, Agler DA, et al. Journal of the American Society of Echocardiography : Official Publication of the American Society of Echocardiography. 2015;28(8):853-909. doi:10.1016/j.echo.2015.05.008.
 ---
 
-_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_
+_Created: 2026-03-01 · Last updated: 2026-08-05 · HVI ICU APP Team_
