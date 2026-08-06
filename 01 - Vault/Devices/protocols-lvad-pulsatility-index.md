@@ -87,7 +87,7 @@ $$PI = \frac{P_{max} - P_{min}}{P_{avg}}$$
 measured as a running average over the preceding interval (some references express the identical concept using flow rather than power).  
 
 **Reading the fraction:**  
-- **Numerator $(P{max} − P{min})$** = how much the native ventricle contributes. It reflects the size of the LVP swing, which reflects preload and contractility.  
+- **Numerator $(P{max} − P{min})$** = how much the native ventricle contributes and LV preload. It reflects the size of the LVP swing, which reflects preload and contractility.  
 - **Denominator $P{avg}$** = the total workload of the pump.  
   
 So PI answers: _how much of the total circulatory work is the patient's own heart still doing and how much preload is there for the LV?_ Trends in PI assist providers in assessing the impact of therapies or conditions that expand or contract intravascular volume.
