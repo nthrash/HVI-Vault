@@ -196,9 +196,45 @@ Practical sequence:
 4. **Treat the cause.** Simulator data indicate that speed reduction alone mitigates suction but does not improve hemodynamics, whereas volume infusion and systemic vasoconstriction both mitigate suction and improve cardiac power. Speed reduction buys time; it is not the definitive fix.  
 5. **Escalate imaging if echo is non-diagnostic**, given metallic artifact over the inflow.
 6. **Involve the VAD coordinator/team early** and review the controller log file — abrupt flow drops point to pre-pump/inflow problems, gradual drops to post-pump/outflow problems.  
+---
+### Part 10 - The HeartMate 3 Artificial Pulse
+
   
+**The Artificial Pulse — What It Is and Why the RPM Display Fluctuates**  
+  
+The HeartMate 3 does not run at a truly constant speed. Every 2 seconds it executes a fixed speed modulation: the rotor **decelerates 2,000 rpm for 0.15 second, then accelerates 4,000 rpm above set speed for 0.20 second, then returns to the set speed**.[[1]](https://www.ahajournals.org/doi/abs/10.1161/CIR.0000000000000673?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed) At a set speed of 5,300 rpm, the true instantaneous excursion is approximately 3,300 → 9,300 → 5,300 rpm, all within about a third of a second.  
+  
+Three properties matter at the bedside:  
+  
+- **Fixed and unmodifiable.** The duration and amplitude of the deflections are predetermined and cannot be adjusted
+- **Asynchronous with the cardiac cycle.** It runs on its own 2-second clock, so it lands randomly across systole and diastole. Whether it happens to promote aortic valve opening depends on heart rate and on where the deceleration phase falls in the cycle.
+  
+- **Its purpose is washout, not hemodynamic support.** The speed swing disrupts zones of recirculation and stasis inside the pump and in the ascending aorta, reducing thrombus risk. Computational work shows the artificial pulse raises peak flow transiently (to ~9.8 L/min in one model) while leaving mean cardiac output essentially unchanged, and improves ascending aortic blood clearance from 48% to 60% over six cycles.
+  
+**Why the bedside display shows only small wobbles**  
+  
+The controller renders a sampled, time-averaged speed refreshed at intervals far longer than the 0.35-second pulse. Glancing at the screen mid-refresh during a deceleration or acceleration phase yields a value slightly off the set point — 5,200 or 5,350 at a 5,300 setting — rather than the raw excursion. The displayed number is a smoothed representation of a much larger underlying oscillation. **Brief ±50–100 rpm flicker at an otherwise stable set speed, with stable power and flow and no alarm, is the artificial pulse and requires no action.**  
+  
+**The echo correlate**  
+  
+On spectral Doppler of the inflow or outflow cannula, the artificial pulse produces a repeating pattern of intermittently decreased then increased velocities superimposed on the baseline flow tracing, recurring every 2 seconds and unrelated to the ECG.[[4]](https://pubmed.ncbi.nlm.nih.gov/37804313) In patients with high systemic vascular resistance or elevated systolic pressures, this may include brief episodes of retrograde flow lasting <150 ms. **This is not device malfunction**, and the thrombotic risk over such short intervals is considered minimal.[[5]](https://linkinghub.elsevier.com/retrieve/pii/S0894-7317\(15\)00380-6) Baseline flow characteristics should be assessed in the intervals between speed modulations.[[4]](https://pubmed.ncbi.nlm.nih.gov/37804313)  
+  
+**Two practical implications for interpreting PI**  
+  
+1. The HM3 power and flow tracings carry a rhythmic 2-second artifact from the artificial pulse superimposed on the beat-to-beat variation that PI is meant to capture. These are separate signals.  
+  
+2. Despite the name, the artificial pulse does not meaningfully increase arterial pulsatility. Doppler-measured PI in the carotid, middle cerebral, and central retinal arteries during artificial-pulse beats is similar to that of HeartMate II patients. Do not expect a palpable pulse or a wider cuff pulse pressure because of this feature.[[6]](https://pubmed.ncbi.nlm.nih.gov/37560156)  
+  
+**What is NOT the artificial pulse**  
+  
+- **Sustained drift away from the set speed**, failure to return to baseline, or a low-speed-limit alarm.  
+  
+- **A speed change accompanied by a persistent step change in power or flow** — consider outflow graft obstruction or twist, thrombus, or a controller/driveline problem.  
+  
+- **Any apparent speed change interpreted as a feedback response to suction.** HM3 patients are supported at a fixed speed setting; automatic rotor adjustment to mitigate hemodynamic events remains a proposed future capability, not current function. An HM3 suction event produces alarms and parameter changes — it does not self-correct. The corrective action is human: assess volume status, LV size, septal position, and MAP, then reduce speed manually and treat the underlying cause of underfilling.[[2]](https://pubmed.ncbi.nlm.nih.gov/37380306)  
+
 ---  
-### Part 10 — Seven things to take away
+### Part 11 — Seven things to take away
 1. Speed is the only thing set; flow and PI are consequences of the pressure the pump is fighting.  
 2. Flow rises in systole and falls in diastole because LV contraction narrows ΔP — not because the pump changes
 3. **Flow is calculated, not measured** — derived from speed, motor current, and a viscosity correction based on the hematocrit someone typed in. Keep the entered Hct current.
