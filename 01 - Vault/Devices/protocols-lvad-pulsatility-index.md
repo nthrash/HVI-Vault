@@ -6,14 +6,46 @@
 4. [Pulsatility Index in Hypertension](#pulsatility-index-in-hypertension)
 
 ---
+## Governing Relationship Equations
+The three relationships used in the worked examples correspond to three distinct physical layers: a **pressure term** the pump must overcome, a **hydraulic transfer function** (the H-Q curve) that converts that pressure into flow, and an **electromechanical readout** (motor power) from which the console back-calculates everything it displays.
+  
+**1. Head pressure:** $\Delta P = AoP - LVP$ (e.g. )
+The pump is a conduit between two pressure chambers; the gradient it must work against is the instantaneous difference between the outflow anastomosis (ascending aorta) and the inflow cannula (LV apex). The AHA states this directly: CF-LVAD flow is directly proportional to pump speed and **inversely related to the pressure difference across the inlet and outlet orifices**.
+  
+Key properties of this term:  
+- It is **instantaneous, not mean** — it changes continuously through the cardiac cycle. Native LV contraction raises LVP, which lowers ΔP, which is why flow is greater in systole than diastole.
+- **ΔP is minimized in systole and maximized in diastole.** In diastole, LVP falls to LVEDP (single digits to low teens) while AoP is still supported by pump output, so ΔP is at its widest and flow at its lowest.
+- ΔP is never zero in a well-supported patient; when it approaches zero the LV pressure crosses aortic pressure and the aortic valve opens.  
+- **Preload and afterload move it differently.** Hypovolemia lowers both LVP peaks and troughs, shifting the entire ΔP range upward. Hypertension raises AoP (diastolic disproportionately), also shifting ΔP upward but with a widened excursion.
+  
+**2. Transfer function: At a fixed rpm, the pump has a characteristic pressure–flow (H-Q) curve. The **local slope of that curve** — what was written as \(k\) in $Q = Q_0 - k\Delta P$ — determines how much flow excursion a given ΔP swing produces. This is a linearization for teaching; the real curve is nonlinear, particularly near low flow and backflow. $Q_{inst} \approx f(rpm, \Delta P_{inst})$
+- **Flat H-Q curve (large k)**: small pressure change → large flow change. More preload/afterload sensitive, more pulsatile waveform, larger flow excursions (roughly 0–10 L/min). Flat curves also confer a degree of protection against suction, since rising ΔP from underfilling produces a large compensatory flow drop
+- **Steep H-Q curve (small k)**: pressure changes produce relatively small flow changes; flow range narrower (~3–7 L/min for the axial HMII).
+- Terminology is not settled: the older framing maps axial → steep and centrifugal → flat, but bench characterization of four pumps found **flat characteristics for the HVAD and HeartMate II, and steeper curves for the HeartMate 3 and Incor** — the opposite of the class-based assumption for HMII and HM3. Device-specific curves should govern reasoning, not pump architecture.
+- The intercept $Q_0$ is set by **rpm**; raising speed shifts the whole curve upward without much changing its slope. Consequently, higher speeds increase mean flow and unloading but tend to **reduce** pulsatility, since the LV contributes proportionally less.
+- Modeling work confirms the clinical consequence: at the same mean pump flow, flatter-curve pumps generate higher flow pulsatility and greater arterial pulse pressure, but slightly inferior ventricular unloading and peripheral perfusion.
+  
+The following figure contrasts the two curve morphologies and marks shutoff pressure, low-flow alarm, and maximum flow.  
+![|431|478x665](https://storage.googleapis.com/wiley-multimedia/cms/9781119633846_c3/asset/a26996a7-a705-469d-916b-8cdea39f17c6/assets/images/large/c03f006.jpg)
+Figure 6 A) With a “steep” pressure–flow relationship, any given change in pressure is associated with a relatively small change in flow. B) In a “flat” pressure–flow relationship, a small change in pressure is associated with a relatively larger change in flow. Pumps with a “flat” pressure–flow relationship are more sensitive to changes in preload and afterload conditions and in general impart a greater degree of pulsatility to the systemic circulation. Source : With permission from Abbott Laboratories, Chicago, IL.  
+  
+**3. Readout:  This is where the physics becomes an estimate. There is no flow sensor and no pressure sensor. The controller holds rpm constant and measures how much **motor power** is required to do so; since power varies with the hydraulic work being done, flow is back-calculated from speed and power. $PI = (P_{max} - P_{min})/P_{avg}$
+
+Two consequences follow directly from that derivation:  
+- **Displayed flow is directly proportional to power consumption.** Anything that increases the work of spinning the impeller at a set speed — most importantly **thrombus on the rotor** — raises power and therefore raises displayed flow, which may not represent true output to the patient.
+- **PI is a power-derived surrogate for flow pulsatility**, reflecting how much the LV is filling and how much native contraction is contributing. It is most useful as a **trend** against the patient's own baseline rather than an absolute number.
+  
+**Where the simplification breaks down**  
+The static H-Q curve assumes steady flow. Under real pulsatile conditions the ΔP–Q relationship traces a **counterclockwise loop** rather than a single line, because of inertance and the phase offset between pressure and flow — so the same ΔP corresponds to different flows depending on where in the cycle it occurs.Bench and hybrid-loop validation of the HM3 similarly found the current-to-flow relationship can be ambiguous, reinforcing that all three equations should be used to reason about **direction of change**, not to compute a patient's cardiac output.  
+
+
 
 ## HQ Curves
 #### **1. What an HQ curve is**
 For a **fixed pump speed**, the LVAD manufacturer gives you a curve:
 	- **Y‑axis**: head pressure (H) = pressure difference across the pump (≈ (AoP - LVP))
 	- **X‑axis**: flow $(Q)$ through the pump
-So for each speed (e.g., 4,800; 5,200; 5,600 RPM), you have one **HQ curve**:
-$$Q = f(H)\quad \text{for that speed}$$
+So for each speed (e.g., 4,800; 5,200; 5,600 RPM), you have one **HQ curve**: $Q = f(H)\quad \text{for that speed}$
 Key properties:
 - As **head pressure (H) increases**, flow (Q) **decreases**. They are inversely related.
 - The **slope** of the curve (steep vs flat) tells you:
@@ -24,11 +56,13 @@ The HM3 is special in that:
 - At **higher flows**, it becomes **steeper** → less sensitive.
 ![838](99%20-%20Meta/Assets/Images/LVAD%20Pulsatility%20Index-1765872461334-optimized.png)
 
-Essentially the 
+Essentially the pump is a conduit between two pressure chambers; the gradient it must work against is the instantaneous difference between the outflow anastomosis (ascending aorta) and the inflow cannula (LV apex). 
+LVAD flow (Q) is directly proportional to pump speed and inversely related to pressure difference across the inlet and outlet orifices (i.e. Head pressure (H))
 #### **2. How I apply HQ curves to a cardiac cycle**
 For a given speed, the **patient’s hemodynamics** pick out two main operating points on that curve:
+The $(\Delta P)$ is minimized in systole and maximized during diastole. 
 - **Diastole**:
-	- LVP low, AoP relatively higher → $(H_{dia} = AoP - LVP)$ is **large** → move **to the right** on the HQ curve.
+	- LVP low, AoP relatively higher → $(H_{dia} = AoP - LVP)$ is **large** → move **to the right** on the HQ curve. Higher head pressure i.e. $(\Delta P)$
 	- Read off $(Q_{dia})$ (lower flow).
 - **Systole**:
 	- LVP rises toward/above AoP → $(H_{sys} = AoP - LVP)$ becomes **smaller** → move **to the left** on the same HQ curve.
@@ -42,11 +76,12 @@ So on the HQ diagram for a fixed speed:
 - As the heart beats, the **operating point moves back and forth** between these two points along the same curve.
 The **difference** $(Q_{sys} - Q_{dia})$ is the **flow pulsatility** the pump sees, and because power tracks flow, that’s what feeds into PI.
 
+
+
 ## Pulsatility Index in Hypovolemia
 #### **1. How PI is computed on the HM3 (why timing matters)**
 On the HM3:
-- PI is based on **power variation** over about a **15‑second window**:
-$$PI = \frac{Power_{max} - Power_{min}}{Power_{avg}}$$
+- PI is based on **power variation** over about a **15‑second window**: $PI = \frac{Power_{max} - Power_{min}}{Power_{avg}}$
 - A **PI event** is triggered if a single second’s PI differs by >45% from the running average, and then the pump briefly drops speed.
 So PI is not a beat‑by‑beat number—it is a **short‑term average**, and it’s very sensitive to **abrupt changes** in flow/power, such as those that happen during a suction beat.
 #### **2. Progressive hypovolemia: why PI can drift down**
@@ -69,7 +104,6 @@ When the LV is very under filled and the pump speed is high relative to filling:
 - **Power**<sub>max</sub> that hasn’t fallen proportionally as much yet
 - **Power**<sub>avg</sub> that’s lower but not as low as **Power**<sub>min</sub>
 That means the ratio can **jump up sharply** → **PI spike**.
-$$\frac{Power_{max} - Power_{min}}{Power_{avg}}$$
 That abrupt relative change is exactly what triggers a **PI event** and the **automatic speed drop**, which is the device’s attempt to relieve suction.
 
 So the pattern you see clinically is very logical:
