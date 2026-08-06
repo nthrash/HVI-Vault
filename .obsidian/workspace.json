@@ -11,10 +11,14 @@
             "id": "2d0b3b75e605cea0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "03 - Onboarding/Unit Operations/onboarding-icu-np-orientation.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "onboarding-icu-np-orientation"
             }
           }
         ]
@@ -37,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -192,6 +198,7 @@
   },
   "active": "2d0b3b75e605cea0",
   "lastOpenFiles": [
+    "03 - Onboarding/Clinical Access/onboarding-clinical-resources-access.md",
     "contacts.json",
     "01 - Vault/Hematology/protocols-clotting-cascade.pdf",
     "Contacts Comparison Report (June 2025 CSVs vs contacts.json).md",
