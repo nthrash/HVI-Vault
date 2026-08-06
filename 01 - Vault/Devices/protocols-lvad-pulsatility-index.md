@@ -15,14 +15,16 @@ For a **fixed pump speed**, the LVAD manufacturer gives you a curve:
 So for each speed (e.g., 4,800; 5,200; 5,600 RPM), you have one **HQ curve**:
 $$Q = f(H)\quad \text{for that speed}$$
 Key properties:
-- As **head pressure (H) increases**, flow (Q) **decreases**.
+- As **head pressure (H) increases**, flow (Q) **decreases**. They are inversely related.
 - The **slope** of the curve (steep vs flat) tells you:
-	- On a **steep** part: a given change in H → **small** change in Q
-	- On a **flat** part: a given change in H → **large** change in Q
+	- On a **steep** part: a given change in Head Pressure (H) → **small** change in Q
+	- On a **flat** part: a given change in Head Pressure (H) → **large** change in Q
 The HM3 is special in that:
 - At **lower flows (<~4 L/min)**, the HQ curve is **flatter** → more sensitive to changes in $(H)$.
 - At **higher flows**, it becomes **steeper** → less sensitive.
 ![838](99%20-%20Meta/Assets/Images/LVAD%20Pulsatility%20Index-1765872461334-optimized.png)
+
+Essentially the 
 #### **2. How I apply HQ curves to a cardiac cycle**
 For a given speed, the **patient’s hemodynamics** pick out two main operating points on that curve:
 - **Diastole**:
@@ -99,7 +101,7 @@ Assume the LV is adequately filled, normal-ish hemodynamics for an LVAD patient:
 Let’s assign some approximate power values over a 15‑second window:
 - $(Power_{max} = 5.5\ \text{W})$ (during systole, when LV pressure is higher and pump has more work/flow)
 - $(Power_{min} = 4.5\ \text{W})$ (during diastole, when LV pressure is lower vs AoP)
-- $(Power_{avg} = 5.0\ \text{W})$
+- $(Power_{avg} = 5.0\ \text{W})$ (Average of power)
 
 Then:
 $$PI = \frac{5.5 - 4.5}{5.0} = \frac{1.0}{5.0} = 0.20$$
