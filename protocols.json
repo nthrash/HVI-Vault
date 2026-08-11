@@ -382,6 +382,13 @@
       "subtitle": "CRRT & iHD — Modes, Dosing & Management",
       "category": "nephrology",
       "contentFile": "01 - Vault/Nephrology/protocols-crrt-ihd.md"
+    },
+    {
+      "id": "status-epilepticus",
+      "title": "Seizures & Status Epilepticus",
+      "subtitle": "Neurology / Critical Care",
+      "category": "neurology",
+      "contentFile": "01 - Vault/Neurology/protocols-status-epilepticus.md"
     }
   ]
 }
