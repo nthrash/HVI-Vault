@@ -17,13 +17,28 @@ tags:
 > [!tip] Bottom Line
 > Status epilepticus (SE) is a time-dependent neurologic emergency — the longer a seizure runs, the harder it becomes to stop and the more neuronal injury accrues. Treatment is a race against three clocks: give a benzodiazepine within minutes, a second-line IV anticonvulsant by 20–40 minutes if seizures persist, and escalate to continuous anesthetic infusion for refractory disease. Under-dosing benzodiazepines is the single most common and most correctable error in SE management.
 
-## 1. Overview
+## Table of Contents
+
+1. [Overview](#overview)
+2. [Etiology & Risk Factors](#etiology-risk-factors)
+3. [Pathophysiology](#pathophysiology)
+4. [Clinical Presentation](#clinical-presentation)
+5. [Diagnostic Workup](#diagnostic-workup)
+6. [Management](#management)
+7. [Clinical Pearls](#clinical-pearls)
+8. [Evidence & Landmark Trials](#evidence-landmark-trials)
+9. [Key Guidelines](#key-guidelines)
+10. [References](#references)
+
+---
+
+## Overview
 
 A seizure is a transient episode of abnormal, excessive, or synchronous neuronal activity in the brain producing a clinical event — motor, sensory, autonomic, or cognitive. Status epilepticus is not simply "a long seizure"; it is a distinct pathophysiologic state in which the brain's normal seizure-termination mechanisms fail, allowing abnormal electrical activity to become self-sustaining. The International League Against Epilepsy (ILAE) operational definition uses two time points: **T1** (the time point beyond which a seizure should be regarded as "continuous seizure activity," ~5 minutes for generalized convulsive SE) marks when treatment should begin, and **T2** (the time point at which ongoing seizure activity carries risk of long-term consequences, ~30 minutes for convulsive SE) marks the point by which seizures should be terminated to avoid neuronal injury, network reorganization, and death.
 
 SE affects an estimated 10–41 per 100,000 people annually in the U.S., with a bimodal distribution (young children and older adults) and mortality ranging from 10–20% for convulsive SE and considerably higher for refractory and super-refractory disease. It matters clinically because outcome is strongly time-dependent: every study of SE treatment shows that earlier, adequately dosed therapy improves seizure cessation rates and reduces morbidity, while delayed or under-dosed treatment predicts progression to refractory SE, ICU admission, and death.
 
-## 2. Etiology & Risk Factors
+## Etiology & Risk Factors
 
 **Provoked (acute symptomatic) causes** — the most common category in adults presenting with new-onset SE:
 - Cerebrovascular: acute ischemic or hemorrhagic stroke, cerebral venous sinus thrombosis
@@ -40,7 +55,7 @@ SE affects an estimated 10–41 per 100,000 people annually in the U.S., with a 
 
 **Risk factors for SE specifically (vs. isolated seizure):** history of epilepsy with poor medication adherence, prior episode of SE, acute structural brain injury, young age (<1 year) or advanced age, and low ASM levels on presentation.
 
-## 3. Pathophysiology
+## Pathophysiology
 
 A normal seizure self-terminates through intrinsic inhibitory mechanisms — principally enhanced GABAergic inhibition and activation of endogenous "brake" systems (adenosine release, potassium channel activation). Status epilepticus develops when these termination mechanisms fail, and the mechanistic story is largely one of **receptor trafficking**:
 
@@ -52,7 +67,7 @@ A normal seizure self-terminates through intrinsic inhibitory mechanisms — pri
 
 **Non-convulsive SE (NCSE)** occurs when the same self-sustaining electrographic process no longer produces overt convulsive movements — either de novo (subtle motor seizures evolving to none) or after convulsive SE is "controlled" on the surface while electrographic seizures persist ("subtle SE"). This is why post-ictal patients who fail to wake up appropriately require EEG, not just clinical reassurance.
 
-## 4. Clinical Presentation
+## Clinical Presentation
 
 **Signs and symptoms**
 
@@ -85,7 +100,7 @@ A normal seizure self-terminates through intrinsic inhibitory mechanisms — pri
 - Pregnancy with hypertension/proteinuria (eclampsia) — management diverges (magnesium sulfate as first-line).
 - Fever plus altered mental status — treat empirically for infectious encephalitis (acyclovir, empiric antibiotics) while pursuing the seizure workup in parallel.
 
-## 5. Diagnostic Workup
+## Diagnostic Workup
 
 Diagnosis and treatment proceed **in parallel**, not sequentially — do not delay benzodiazepine administration to obtain labs or imaging.
 
@@ -112,16 +127,16 @@ Diagnosis and treatment proceed **in parallel**, not sequentially — do not del
 - Autoimmune/paraneoplastic antibody panel (serum and CSF) if autoimmune encephalitis is suspected, particularly in young patients with new-onset refractory SE (NORSE) without a clear cause.
 
 **Diagnostic/operational criteria**
-- **ILAE operational definition:** convulsive SE = continuous convulsions ≥5 minutes, or ≥2 discrete seizures without full recovery of consciousness between them; T1 = 5 min (treat), T2 = 30 min (established injury risk).
-- **Refractory SE (RSE):** seizures that continue despite adequate doses of a benzodiazepine and one second-line ASM.
+- **ILAE operational definition (Trinka et al., 2015):** time points vary by seizure type — convulsive (tonic-clonic) SE: T1 = 5 min (treat), T2 = 30 min (established injury risk); focal SE with impaired awareness: T1 = 10 min, T2 >60 min; absence SE: T1 = 10–15 min, T2 unknown. Convulsive SE operationally = continuous convulsions ≥5 minutes, or ≥2 discrete seizures without full recovery of consciousness between them.
+- **Refractory SE (RSE):** seizures that continue despite adequate doses of a benzodiazepine and one second-line ASM — defined by treatment failure, not a fixed clock (see Stage 3 timing note below).
 - **Super-refractory SE (SRSE):** SE that continues (or recurs) ≥24 hours after onset of anesthetic therapy, including recurrence on weaning.
 - **NORSE / FIRES:** new-onset refractory SE without a clear structural, toxic, or metabolic cause, or with prior fever (Febrile Infection-Related Epilepsy Syndrome in children/young adults) — should trigger early autoimmune/infectious workup and consideration of immunotherapy.
 
-## 6. Management
+## Management
 
 ### Acute management — staged by time and response
 
-**Stabilization (throughout):** airway positioning (lateral decubitus if possible), supplemental oxygen, suction, IV access ×2, continuous cardiac/BP/pulse-ox monitoring, fingerstick glucose. Avoid restraining convulsive movements. Have airway equipment at bedside — intubation may become necessary either from the seizure itself (airway compromise, hypoxia) or as a consequence of treatment (respiratory depression from stacked benzodiazepine/anesthetic doses); do not let anticipated intubation delay adequate benzodiazepine dosing.
+**Stabilization (throughout):** airway positioning (lateral decubitus if possible), supplemental oxygen, suction, IV access ×2, continuous cardiac/BP/pulse-ox monitoring, fingerstick glucose. If glucose is low or unknown and the patient has any risk factor for thiamine deficiency (alcohol use, malnutrition, hyperemesis, bariatric surgery), give **parenteral thiamine (up to 500 mg IV) before or concurrent with dextrose** — dextrose alone in a thiamine-deficient patient can precipitate Wernicke encephalopathy. Avoid restraining convulsive movements. Have airway equipment at bedside — intubation may become necessary either from the seizure itself (airway compromise, hypoxia) or as a consequence of treatment (respiratory depression from stacked benzodiazepine/anesthetic doses); do not let anticipated intubation delay adequate benzodiazepine dosing.
 
 **Stage 1 — First-line therapy (0–5 min from recognition): Benzodiazepines**
 
@@ -137,7 +152,7 @@ If seizures persist 5 minutes after the first dose, give the repeat/second dose 
 
 **Stage 2 — Second-line therapy (5–20 min, "established SE"): Non-benzodiazepine IV ASM**
 
-The **ESETT trial** (NEJM 2019) established that levetiracetam, fosphenytoin, and valproate are of **equivalent efficacy** (~50% seizure cessation each) and similar safety for benzodiazepine-refractory convulsive SE — selection is now driven by patient-specific factors rather than presumed superiority of one agent.
+The **ESETT trial** (NEJM 2019) established that levetiracetam, fosphenytoin, and valproate are of **equivalent efficacy** (47% levetiracetam, 45% fosphenytoin, 46% valproate — commonly rounded to "~50% each") and similar safety for benzodiazepine-refractory convulsive SE — selection is now driven by patient-specific factors rather than presumed superiority of one agent.
 
 | Agent | Loading dose | Preferred when | Avoid / caution |
 |---|---|---|---|
@@ -147,13 +162,13 @@ The **ESETT trial** (NEJM 2019) established that levetiracetam, fosphenytoin, an
 
 Phenobarbital (15–20 mg/kg IV) remains an option, particularly in neonates or when the above are unavailable/contraindicated, but causes more respiratory depression and sedation.
 
-**Stage 3 — Refractory SE (>20–40 min despite Stage 1 + Stage 2): Continuous anesthetic infusion**
+**Stage 3 — Refractory SE (typically >20–40 min despite Stage 1 + Stage 2, but defined by treatment failure rather than a fixed clock): Continuous anesthetic infusion**
 
 Requires ICU admission, intubation, continuous EEG, and hemodynamic support (often vasopressors, given the vasodilatory/negative inotropic effects of anesthetic agents).
 
 - **Midazolam infusion:** load 0.2 mg/kg, then 0.05–2 mg/kg/hr — often first choice given more favorable hemodynamics.
 - **Propofol infusion:** load 1–2 mg/kg, then 20–200 mcg/kg/min — rapid onset/offset facilitates neurologic assessment, but carries risk of **propofol infusion syndrome** with high-dose/prolonged use (>48–72 hr or >65–83 mcg/kg/min): metabolic acidosis, rhabdomyolysis, cardiac failure, hyperkalemia — monitor CK, triglycerides, lactate, and acid-base status.
-- **Ketamine:** increasingly used, including earlier in the refractory algorithm, given its NMDA-receptor antagonism — mechanistically complementary to GABAergic agents, since NMDA receptors are precisely the excitatory receptors upregulated as SE progresses (see Pathophysiology). Typical load 1–2 mg/kg, infusion 0.5–5 mg/kg/hr. Favorable hemodynamic profile (sympathomimetic rather than depressant) makes it attractive in hemodynamically fragile patients; growing observational evidence (2024 series) supports efficacy in refractory and super-refractory SE, and a large multicenter RCT (NCT07177235) is underway to define its optimal role and timing.
+- **Ketamine:** increasingly used, including earlier in the refractory algorithm, given its NMDA-receptor antagonism — mechanistically complementary to GABAergic agents, since NMDA receptors are precisely the excitatory receptors upregulated as SE progresses (see Pathophysiology). Typical load 1–2 mg/kg, infusion 0.5–5 mg/kg/hr. Favorable hemodynamic profile (sympathomimetic rather than depressant) makes it attractive in hemodynamically fragile patients; reported response rates vary widely (roughly 27% to >90%) across the observational literature, driven mainly by how early ketamine is started and how refractory SE has already become by the time it's given — earlier initiation predicts better response. A large multicenter RCT (NCT07177235) is underway to define its optimal role and timing.
 - Titrate anesthetic infusions to **seizure suppression on cEEG** (goal: burst-suppression or electrographic seizure freedom, per unit protocol), not merely to clinical stillness, since patients are pharmacologically paralyzed to a variable clinical exam at this stage.
 
 **Super-refractory SE:** consider ketamine (if not already used), inhaled anesthetics (isoflurane), high-dose phenobarbital, immunotherapy (IVIG, steroids, plasma exchange) if autoimmune/NORSE workup is positive or strongly suspected, therapeutic hypothermia, ketogenic diet, electroconvulsive therapy, or neurosurgical/neuromodulatory options (resective surgery, vagus nerve stimulation) in highly selected cases — these are typically managed with neurocritical care/epilepsy specialist involvement.
@@ -170,7 +185,7 @@ Requires ICU admission, intubation, continuous EEG, and hemodynamic support (oft
 ### Chronic / long-term management
 Once acute SE is terminated, transition to maintenance oral ASM guided by the etiology (structural epilepsy, idiopathic generalized epilepsy, etc.), continue or initiate outpatient neurology/epilepsy follow-up, address the precipitant (medication adherence counseling, alcohol use treatment, correction of the underlying metabolic/structural cause), and consider driving restrictions and safety counseling per state law before discharge.
 
-## 7. Clinical Pearls
+## Clinical Pearls
 
 > [!tip] Clinical Pearls
 > - **Dose adequately, the first time.** Under-dosing benzodiazepines (a "half-dose out of caution") is the most common reversible driver of progression to refractory SE — give the full weight-based dose.
@@ -182,48 +197,59 @@ Once acute SE is terminated, transition to maintenance oral ASM guided by the et
 > - **Todd's paralysis mimics stroke.** A focal deficit immediately post-seizure in a patient with a clear seizure history does not automatically need emergent thrombolysis evaluation — but if there's any diagnostic uncertainty, treat it as a stroke code until proven otherwise.
 > - **Ketamine's mechanism is not redundant with benzodiazepines — it's complementary.** As SE progresses, GABA-A receptors are internalized while NMDA receptors are upregulated; an NMDA antagonist targets exactly the receptor system that benzodiazepines are losing purchase on.
 
-## 8. Evidence & Landmark Trials
+## Evidence & Landmark Trials
 
 **Landmark Trials**
 
 - **RAMPART (NEJM, 2012).** Population: >4,000 adults and children in prehospital convulsive SE, treated by paramedics. Intervention: IM midazolam (10 mg) vs. IV lorazepam (4 mg). Primary outcome: seizure-free without rescue therapy on ED arrival — IM midazolam was non-inferior (and statistically superior in this trial, largely reflecting faster administration without needing IV access). Clinical impact: established IM midazolam as the preferred prehospital/no-IV-access first-line agent and shaped EMS SE protocols nationally.
 
-- **ESETT (NEJM, 2019).** Population: 478 adults and children (225 pediatric) with benzodiazepine-refractory convulsive SE in the ED. Intervention: levetiracetam vs. fosphenytoin vs. valproate, IV. Primary outcome: seizure cessation and improved responsiveness by 60 minutes — approximately 50% efficacy across all three arms, with similar adverse event rates; the trial was stopped early for futility of finding a difference. Clinical impact: eliminated the presumption that any one second-line agent is superior, shifting selection to patient-specific factors (comorbidity, pregnancy, epilepsy syndrome) rather than a default drug.
+- **ESETT (NEJM, 2019).** Population: 384 adults and children with benzodiazepine-refractory convulsive SE in the ED (145 levetiracetam, 118 fosphenytoin, 121 valproate). Intervention: levetiracetam vs. fosphenytoin vs. valproate, IV. Primary outcome: seizure cessation and improved responsiveness by 60 minutes — 47%, 45%, and 46% respectively, with overlapping posterior probability curves and similar adverse event rates; the trial was stopped early for futility of finding a difference. Clinical impact: eliminated the presumption that any one second-line agent is superior, shifting selection to patient-specific factors (comorbidity, pregnancy, epilepsy syndrome) rather than a default drug.
 
-- **NCT01960075 protocol foundation / prior second-line comparisons** (e.g., earlier phenytoin vs. valproate vs. levetiracetam single-center trials) established the pre-ESETT equipoise that made the definitive multicenter trial necessary — largely superseded by ESETT's findings above.
+- **ESETT age-group extension (Chamberlain et al., Lancet, 2020).** A pre-specified analysis expanding the ESETT cohort to 478 patients (225 pediatric, 253 adult) using the same double-blind, response-adaptive design, reported efficacy by age group. Confirmed the equivalence of the three agents held consistently across pediatric and adult subgroups. Note: the frequently cited "478 patients, 225 pediatric" figure comes from this age-stratified Lancet paper, not the original NEJM 2019 report (384 patients) — the two are companion publications from the same trial and are cited separately here for accuracy.
 
-**Current Evidence (recent literature, searched via web/PubMed August 2026)**
+**Current Evidence (recent literature, reviewed August 2026)**
 
-- **Vignatelli L, et al. Clinical practice guidelines on the management of status epilepticus in adults: a systematic review. *Epilepsia*. 2024.** Systematic review of 12 clinical practice guidelines worldwide; found near-universal agreement that a benzodiazepine (most commonly midazolam, followed by diazepam and lorazepam) is first-line, but substantial heterogeneity in second- and third-line recommendations — highlighting the ESETT-driven equipoise among second-line agents and the need for locally standardized protocols.
+- **Gettings JV, et al. Diagnosis and Management of Status Epilepticus: Improving the Status Quo.** *Lancet Neurology*. 2025;24(1):65-76. A comprehensive, current state-of-the-art review; source for the seizure-type-specific ILAE T1/T2 time points used in Section 5 and for framing refractory SE as defined by treatment failure rather than a fixed time cutoff.
 
-- **Emergent Management of Status Epilepticus (review), 2024**, PMID 38830068. Summarizes a patient-specific-approach framework organized around four axes — semiology, etiology, EEG correlate, and age — reinforcing that SE management should be individualized beyond a single fixed algorithm, particularly for refractory disease.
+- **Vignatelli L, et al. Clinical practice guidelines on the management of status epilepticus in adults: a systematic review.** *Epilepsia*. 2024. Systematic review of 12 clinical practice guidelines worldwide; found near-universal agreement that a benzodiazepine (most commonly midazolam, followed by diazepam and lorazepam) is first-line, but substantial heterogeneity in second- and third-line recommendations — highlighting the ESETT-driven equipoise among second-line agents and the need for locally standardized protocols.
 
-- **Ketamine in the treatment of refractory and super-refractory status epilepticus: experience from two centres.** *Seizure*. 2024. Retrospective series reporting good response in roughly 57% of ketamine-treated refractory/super-refractory SE patients, with response less likely when ketamine initiation was delayed or when SE had already reached the super-refractory stage — supporting earlier consideration of ketamine rather than reserving it as a last resort.
+- **Guterman EL, et al. Prehospital Midazolam Use and Outcomes Among Patients With Out-of-Hospital Status Epilepticus.** *Neurology*. 2020;95(24):e3203-e3212. Real-world cohort supporting adequately dosed prehospital benzodiazepine administration and reinforcing that under-dosing is associated with worse outcomes — consistent with the RAMPART efficacy findings above.
 
-- **Ketamine reduces seizure and interictal continuum activity in refractory status epilepticus: a multicenter in-person and teleneurocritical care study.** *Neurological Sciences*. 2024. Multicenter observational study (58 adults) reporting ~57% response rate to IV ketamine with a low adverse-event rate (~8.6%), reinforcing a favorable safety profile in hemodynamically fragile refractory SE patients.
+- **Yan M, Sun T, Liu J, Chang Q. The Efficacy and Safety of Ketamine in the Treatment of Super-Refractory Status Epilepticus: A Systematic Review.** *Journal of Neurology*. 2024;271(7):3942-3952. Pooled analysis across the observational ketamine literature showing a wide reported response range (roughly 27% to >90%), reinforcing that point estimates from any single series (e.g., "~57%") should be read as illustrative rather than definitive, with earlier/less-refractory initiation associated with better response.
+
+- **Pavan S, et al. Ketamine in super-refractory status epilepticus: Combined value of inflammatory biomarkers and EEG features.** *Epilepsia*. 2026;67(7):3457-3470. Identifies a hyperinflammatory state at SE onset as a predictor of ketamine non-response — an emerging concept suggesting future ketamine candidacy may be refined by biomarker/EEG phenotype rather than timing alone.
+
+- **Alkhachroum A, et al. Ketamine to Treat Super-Refractory Status Epilepticus.** *Neurology*. 2020;95(16):e2286-e2294. Cohort study supporting ketamine's favorable hemodynamic and safety profile in super-refractory SE, foundational to its growing use earlier in the refractory algorithm.
 
 - **NCT07177235 — "Early Ketamine Plus Midazolam vs. Midazolam Alone for Refractory Status Epilepticus"** (planned start late 2025, multicenter, ~60 sites, includes pediatric patients). The first adequately powered RCT to prospectively test earlier/combination ketamine use — will directly inform whether ketamine should move earlier in the treatment algorithm rather than remaining a refractory/super-refractory rescue agent.
 
 *If further literature review is needed, suggested PubMed search terms: "status epilepticus"[MeSH] AND ("randomized controlled trial"[pt] OR "systematic review"[pt]) AND 2023:2026[dp]; also "super-refractory status epilepticus" AND ketamine; "new-onset refractory status epilepticus" AND immunotherapy.*
 
-## 9. Key Guidelines
+## Key Guidelines
 
 - **American Epilepsy Society (AES) 2016 Guideline: Evidence-Based Treatment of Status Epilepticus.** The most widely used U.S. treatment algorithm; establishes the three-stage framework (benzodiazepine → second-line IV ASM → anesthetic infusion) used throughout this document. Recommends adequately dosed benzodiazepines as first-line with no clear preference among the three second-line agents at the time (later confirmed by ESETT).
 - **Neurocritical Care Society (NCS) Guidelines for the Evaluation and Management of Status Epilepticus.** Emphasizes ICU-level care for refractory SE, continuous EEG monitoring standards and duration, and staged escalation of anesthetic therapy titrated to electrographic endpoints (seizure suppression vs. burst-suppression).
 - **2024 systematic review of international CPGs (Vignatelli et al., *Epilepsia*)** highlights that while first-line therapy is well-harmonized globally (benzodiazepine), second- and third-line recommendations vary significantly between guidelines — a reminder to know your institution's specific protocol.
+- **Gettings et al., *Lancet Neurology*, 2025** — "Diagnosis and Management of Status Epilepticus: Improving the Status Quo," the most current comprehensive practice-oriented review; source for the seizure-type-specific ILAE time points and for treating RSE as a treatment-failure definition rather than a fixed clock.
 - **ILAE Operational Classification/Definition of Status Epilepticus (Trinka et al., 2015)** — underlies the T1/T2 time-based definitions used in diagnosis and treatment timing throughout this topic; remains the current international reference definition.
 
 Areas of evolving consensus: optimal timing/positioning of ketamine in the treatment algorithm (early combination vs. refractory rescue), the role of early immunotherapy in NORSE/FIRES, and standardization of cEEG duration/targets in anesthetic-treated refractory SE.
 
-## 10. References
+## References
 
 1. Chamberlain JM, et al. Rapid Anticonvulsant Medication Prior to Arrival Trial (RAMPART): Intramuscular versus Intravenous Therapy for Prehospital Status Epilepticus. *N Engl J Med*. 2012;366(7):591-600.
-2. Kapur J, et al. Randomized Trial of Three Anticonvulsant Medications for Status Epilepticus (ESETT). *N Engl J Med*. 2019;381(22):2103-2113.
-3. Glauser T, et al. Evidence-Based Guideline: Treatment of Convulsive Status Epilepticus in Children and Adults: Report of the Guideline Committee of the American Epilepsy Society. *Epilepsy Curr*. 2016;16(1):48-61.
-4. Brophy GM, et al. Guidelines for the Evaluation and Management of Status Epilepticus. *Neurocrit Care*. 2012;17(1):3-23.
-5. Trinka E, et al. A definition and classification of status epilepticus – Report of the ILAE Task Force on Classification of Status Epilepticus. *Epilepsia*. 2015;56(10):1515-1523.
-6. Vignatelli L, et al. Clinical practice guidelines on the management of status epilepticus in adults: A systematic review. *Epilepsia*. 2024.
-7. Emergent Management of Status Epilepticus [review]. 2024. PMID: 38830068.
-8. Ketamine in the treatment of refractory and super-refractory status epilepticus: Experience from two centres. *Seizure*. 2024.
-9. Ketamine reduces seizure and interictal continuum activity in refractory status epilepticus: a multicenter in-person and teleneurocritical care study. *Neurol Sci*. 2024.
-10. Early Ketamine Plus Midazolam versus Midazolam Alone for the Treatment of Refractory Status Epilepticus. ClinicalTrials.gov NCT07177235.
+2. Kapur J, Elm J, Chamberlain JM, et al. Randomized Trial of Three Anticonvulsant Medications for Status Epilepticus (ESETT). *N Engl J Med*. 2019;381(22):2103-2113.
+3. Chamberlain JM, Kapur J, Shinnar S, et al. Efficacy of Levetiracetam, Fosphenytoin, and Valproate for Established Status Epilepticus by Age Group (ESETT): A Double-Blind, Responsive-Adaptive, Randomised Controlled Trial. *Lancet*. 2020;395(10231):1217-1224.
+4. Glauser T, et al. Evidence-Based Guideline: Treatment of Convulsive Status Epilepticus in Children and Adults: Report of the Guideline Committee of the American Epilepsy Society. *Epilepsy Curr*. 2016;16(1):48-61.
+5. Brophy GM, et al. Guidelines for the Evaluation and Management of Status Epilepticus. *Neurocrit Care*. 2012;17(1):3-23.
+6. Trinka E, Cock H, Hesdorffer D, et al. A Definition and Classification of Status Epilepticus – Report of the ILAE Task Force on Classification of Status Epilepticus. *Epilepsia*. 2015;56(10):1515-1523.
+7. Vignatelli L, et al. Clinical practice guidelines on the management of status epilepticus in adults: A systematic review. *Epilepsia*. 2024.
+8. Gettings JV, Mohammad Alizadeh Chafjiri F, Patel AA, et al. Diagnosis and Management of Status Epilepticus: Improving the Status Quo. *Lancet Neurol*. 2025;24(1):65-76.
+9. Betjemann JP, Lowenstein DH. Status Epilepticus in Adults. *Lancet Neurol*. 2015;14(6):615-624.
+10. Guterman EL, Sanford JK, Betjemann JP, et al. Prehospital Midazolam Use and Outcomes Among Patients With Out-of-Hospital Status Epilepticus. *Neurology*. 2020;95(24):e3203-e3212.
+11. Ketamine in the treatment of refractory and super-refractory status epilepticus: Experience from two centres. *Seizure*. 2024.
+12. Ketamine reduces seizure and interictal continuum activity in refractory status epilepticus: a multicenter in-person and teleneurocritical care study. *Neurol Sci*. 2024.
+13. Yan M, Sun T, Liu J, Chang Q. The Efficacy and Safety of Ketamine in the Treatment of Super-Refractory Status Epilepticus: A Systematic Review. *J Neurol*. 2024;271(7):3942-3952.
+14. Alkhachroum A, Der-Nigoghossian CA, Mathews E, et al. Ketamine to Treat Super-Refractory Status Epilepticus. *Neurology*. 2020;95(16):e2286-e2294.
+15. Pavan S, Mazzon G, Furlanis G, et al. Ketamine in Super-Refractory Status Epilepticus: Combined Value of Inflammatory Biomarkers and EEG Features. *Epilepsia*. 2026;67(7):3457-3470.
+16. Early Ketamine Plus Midazolam versus Midazolam Alone for the Treatment of Refractory Status Epilepticus. ClinicalTrials.gov NCT07177235.
