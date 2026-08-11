@@ -1,4 +1,20 @@
 ## Understanding LVAD Pump Parameters: Equations, Mechanics, and Case-Based Teaching  
+
+## Table of Contents
+
+1. [Part 1 — The Four Console Parameters](#part-1-the-four-console-parameters)
+2. [Part 2 — The Governing Equation](#part-2-the-governing-equation)
+3. [Part 3 — How Flow Is Actually Calculated, and Why Hematocrit Matters](#part-3-how-flow-is-actually-calculated-and-why-hematocrit-matters)
+4. [Part 4 — The Aortic Valve](#part-4-the-aortic-valve)
+5. [Part 5 — Pulsatility Index](#part-5-pulsatility-index)
+6. [Part 6 — Worked Examples](#part-6-worked-examples)
+7. [Part 7 — The Published Real-World Case](#part-7-the-published-real-world-case)
+8. [Part 8 — Bedside Pattern Recognition](#part-8-bedside-pattern-recognition)
+9. [Part 9 — Management of a Suction Event](#part-9-management-of-a-suction-event)
+10. [Part 10 — The HeartMate 3 Artificial Pulse](#part-10-the-heartmate-3-artificial-pulse)
+11. [Part 11 — Seven Things to Take Away](#part-11-seven-things-to-take-away)
+12. [References](#references)
+
 ---
 ### Part 1 — The four console parameters
 Only one of these is directly set by the clinician. The others are consequences.  
@@ -169,7 +185,7 @@ Two teaching points: echocardiography alone can miss dynamic suction because of 
   
 ---  
   
-**Part 8 — Bedside pattern recognition**  
+### Part 8 — Bedside pattern recognition
 
 |Pattern|Most likely mechanism|First moves|
 |---|---|---|
@@ -197,7 +213,7 @@ Practical sequence:
 5. **Escalate imaging if echo is non-diagnostic**, given metallic artifact over the inflow.
 6. **Involve the VAD coordinator/team early** and review the controller log file — abrupt flow drops point to pre-pump/inflow problems, gradual drops to post-pump/outflow problems.  
 ---
-### Part 10 - The HeartMate 3 Artificial Pulse
+### Part 10 — The HeartMate 3 Artificial Pulse
 
 **The Artificial Pulse — What It Is and Why the RPM Display Fluctuates**  
 The HeartMate 3 does not run at a truly constant speed. Every 2 seconds it executes a fixed speed modulation: the rotor **decelerates 2,000 rpm for 0.15 second, then accelerates 4,000 rpm above set speed for 0.20 second, then returns to the set speed**. At a set speed of 5,300 rpm, the true instantaneous excursion is approximately 3,300 → 9,300 → 5,300 rpm, all within about a third of a second.
