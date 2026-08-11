@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "51415addc65f08d3",
+        "id": "0b620aba8106c61f",
         "type": "tabs",
         "children": [
           {
-            "id": "cddddb3b7bedb4aa",
+            "id": "c44b0ff6b7fdc98c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "APP_Critical_Care_Exam_Specifications.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "APP_Critical_Care_Exam_Specifications"
             }
           }
         ]
@@ -184,6 +188,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "cddddb3b7bedb4aa",
-  "lastOpenFiles": []
+  "active": "c44b0ff6b7fdc98c",
+  "lastOpenFiles": [
+    "01 - Vault/Neurology/protocols-status-epilepticus.md",
+    "Clinical Learning Topics/Seizures and Status Epilepticus.md",
+    "Clinical Learning Topics",
+    "01 - Vault/Critical Care/protocols-pain-management-sedation.md",
+    "APP_Critical_Care_Exam_Specifications.md",
+    "01 - Vault/Neurology/protocols-ischemic-stroke.md",
+    "01 - Vault/Cardiology/protocols-vasopressors-inotropes.md",
+    "01 - Vault/Cardiology/protocols-afterload-intrathoracic-pressure.md",
+    "01 - Vault/Gastroenterology/protocols-acute-cholangitis.md",
+    "01 - Vault/Gastroenterology/protocols-gi-bleed.md",
+    "01 - Vault/Gastroenterology/protocols-biliary-workup.md",
+    "01 - Vault/Gastroenterology/Hepati & Biliary Lab Algorithm.excalidraw",
+    "01 - Vault/Gastroenterology/Hepati & Biliary Lab Algorithmv2.excalidraw"
+  ]
 }

@@ -5,8 +5,8 @@
 ## Domain I: Neurologic System (8%)
 
 1. Determine diagnosis and management of cerebrovascular disease
-   - A. Ischemic stroke
-   - B. Intracerebral hemorrhage
+   - A. ~~Ischemic stroke~~
+   - B. ~~Intracerebral hemorrhage~~
    - C. Subarachnoid hemorrhage and aneurysm
    - D. Subdural hemorrhage
    - E. Epidural hemorrhage
@@ -15,11 +15,11 @@
    - A. Anoxic/hypoxic brain injury
    - B. Metabolic encephalopathy
    - C. Toxin-induced encephalopathy
-   - D. Delirium
+   - D. ~~Delirium~~
 
-3. Management of seizures and status epilepticus
+1. ~~Management of seizures and status epilepticus~~
 
-4. Recognize the diagnosis and management of other neurologic diseases and disorders (e.g., increased intracranial pressure (ICP), neuromuscular disease)
+2. Recognize the diagnosis and management of other neurologic diseases and disorders (e.g., increased intracranial pressure (ICP), neuromuscular disease)
 
 ---
 
