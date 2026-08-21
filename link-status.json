@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-20T06:37:44.816Z",
+  "lastChecked": "2026-08-21T06:37:48.939Z",
   "results": {
     "pocus-atlas": {
       "status": "ok",
@@ -46,24 +46,24 @@
       "statusCode": 202
     },
     "team-ip": {
-      "status": "ok",
-      "statusCode": 200
+      "status": "error",
+      "statusCode": 429
     },
     "amion": {
-      "status": "ok",
-      "statusCode": 200
+      "status": "error",
+      "statusCode": 429
     },
     "workday": {
-      "status": "ok",
-      "statusCode": 200
+      "status": "error",
+      "statusCode": 429
     },
     "powermic-mobile": {
-      "status": "ok",
-      "statusCode": 200
+      "status": "error",
+      "statusCode": 429
     },
     "epic-haiku": {
-      "status": "ok",
-      "statusCode": 200
+      "status": "error",
+      "statusCode": 429
     }
   }
 }
