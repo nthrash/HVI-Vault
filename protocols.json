@@ -389,7 +389,13 @@
       "subtitle": "Neurology / Critical Care",
       "category": "neurology",
       "contentFile": "01 - Vault/Neurology/protocols-status-epilepticus.md"
+    },
+    {
+      "id": "left-heart-catheterization-pci",
+      "title": "Left Heart Catheterization With Percutaneous Coronary Intervention",
+      "subtitle": "CCAPP Learning Topic",
+      "category": "cardiology",
+      "contentFile": "01 - Vault/Cardiology/protocols-left-heart-catheterization-pci.md"
     }
   ]
 }
-
