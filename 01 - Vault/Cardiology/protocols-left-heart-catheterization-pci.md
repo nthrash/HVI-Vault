@@ -19,20 +19,20 @@ tags:
 
 ## Table of Contents
 
-1. [Clinical overview](#1-clinical-overview)
-2. [What happens in the cath lab](#2-what-happens-in-the-cath-lab)
-3. [Indications, limits, and preparation](#3-indications-limits-and-preparation)
-4. [Diagnostic interpretation and PCI decisions](#4-diagnostic-interpretation-and-pci-decisions)
-5. [Periprocedural medications](#5-periprocedural-medications)
-6. [Immediate post-procedure care](#6-immediate-post-procedure-care)
-7. [Complications: recognition and first actions](#7-complications-recognition-and-first-actions)
-8. [CCAPP clinical pearls](#8-ccapp-clinical-pearls)
-9. [Evidence and guidelines](#9-evidence-and-guidelines)
-10. [References](#10-references)
+- [Clinical overview](#clinical-overview)
+- [What happens in the cath lab](#what-happens-in-the-cath-lab)
+- [Indications, limits, and preparation](#indications-limits-and-preparation)
+- [Diagnostic interpretation and PCI decisions](#diagnostic-interpretation-and-pci-decisions)
+- [Periprocedural medications](#periprocedural-medications)
+- [Immediate post-procedure care](#immediate-post-procedure-care)
+- [Complications: recognition and first actions](#complications-recognition-and-first-actions)
+- [CCAPP clinical pearls](#ccapp-clinical-pearls)
+- [Evidence and guidelines](#evidence-and-guidelines)
+- [References](#references)
 
 ---
 
-## 1. Clinical overview
+## Clinical overview
 
 **Left heart catheterization (LHC)** is an invasive arterial procedure used to define coronary anatomy and, when needed, directly measure LV/aortic pressures. **Coronary angiography** defines coronary lesions; **percutaneous coronary intervention (PCI)** treats an appropriate culprit or ischemia-producing lesion with balloon angioplasty, stenting, and adjunctive techniques.
 
@@ -41,7 +41,7 @@ In the HVI ICU, the key APP responsibilities are to recognize time-sensitive isc
 > [!warning] **Do not delay reperfusion for a routine checklist**
 > In suspected STEMI or another emergent culprit-artery syndrome, stabilize airway/hemodynamics and activate the local reperfusion pathway. Obtain only the tests that do not delay definitive treatment.
 
-## 2. What happens in the cath lab
+## What happens in the cath lab
 
 | Component | Purpose | APP-relevant interpretation |
 | --- | --- | --- |
@@ -49,10 +49,10 @@ In the HVI ICU, the key APP responsibilities are to recognize time-sensitive isc
 | Coronary angiography | Contrast is injected into the left and right coronary arteries under fluoroscopy. | The report should identify culprit lesion, treated vessel, stent type/number, residual disease, and complications. |
 | LV/aortic pressure assessment | Assesses LV end-diastolic pressure (LVEDP) and may assess aortic valve gradient. | LVEDP is a filling-pressure datum, not a stand-alone measure of volume status or a mandate for diuresis. |
 | Physiologic assessment | Fractional flow reserve (FFR) or nonhyperemic pressure ratios help determine whether an intermediate lesion is ischemia-producing. | A visually "moderate" stenosis may not require PCI; correlate anatomy, physiology, symptoms, and clinical syndrome. |
-| Intravascular imaging | IVUS or OCT can define vessel size, plaque, calcium, stent expansion, and edge complications. | Intravascular imaging is recommended to guide PCI in ACS in the 2025 ACS guideline. |
+| Intravascular imaging | IVUS or OCT can define vessel size, plaque, calcium, stent expansion, and edge complications. | For ACS PCI involving left-main stenting or another complex coronary lesion, IVUS or OCT is recommended for procedural guidance. |
 | PCI | Balloon, stent, atherectomy/lithotripsy, aspiration or other operator-selected tools restore flow and optimize result. | Ask whether final TIMI flow, side branches, residual stenosis, and any complication were documented. |
 
-## 3. Indications, limits, and preparation
+## Indications, limits, and preparation
 
 ### Typical indications
 
@@ -81,7 +81,7 @@ In the HVI ICU, the key APP responsibilities are to recognize time-sensitive isc
 > [!tip] **Access is a clinical datum**
 > At handoff, obtain: radial versus femoral access, laterality, sheath removal time, closure device or radial-band plan, anticoagulant used, and the time antiplatelet therapy was given. "Post PCI, stable" is not a sufficient handoff.
 
-## 4. Diagnostic interpretation and PCI decisions
+## Diagnostic interpretation and PCI decisions
 
 ### Coronary findings in context
 
@@ -95,11 +95,13 @@ In the HVI ICU, the key APP responsibilities are to recognize time-sensitive isc
 ### Revascularization principles
 
 - In ACS PCI, radial access is preferred when feasible because it reduces bleeding, vascular complications, and death compared with femoral access.
-- Intravascular imaging improves PCI guidance and is a Class 1 recommendation in the 2025 ACC/AHA ACS guideline.
-- The 2025 ACS guideline supports complete revascularization in STEMI or NSTE-ACS when appropriate; timing and PCI versus CABG depend on lesion complexity and patient-level risk.
+- For ACS PCI involving left-main stenting or another complex coronary lesion, intracoronary imaging with IVUS or OCT is a Class 1, Level A recommendation for procedural guidance.
+- In hemodynamically stable NSTE-ACS with multivessel disease, no left-main stenosis, and no plan for CABG, PCI of significant nonculprit lesions during the index or a staged procedure is recommended. In STEMI with multivessel disease, complete revascularization is generally pursued after successful primary PCI when clinically appropriate.
+- In ACS complicated by cardiogenic shock, emergently revascularize the culprit vessel; do **not** routinely perform nonculprit PCI during the index procedure.
+- Timing and PCI-versus-CABG decisions depend on lesion complexity, comorbidities, surgical candidacy, and patient goals; use a Heart Team discussion for complex disease.
 - Avoid treating an angiographic image in isolation. Ischemic syndrome, physiology/imaging, viable myocardium, comorbidities, and goals of care determine whether PCI improves the outcome that matters to the patient.
 
-## 5. Periprocedural medications
+## Periprocedural medications
 
 The interventional cardiologist directs intraprocedural anticoagulation and adjunctive therapy. Verify the actual agents, doses, and last administration times in the cath report and medication record; do not infer them from a procedure label.
 
@@ -125,7 +127,7 @@ The 2025 ACS guideline uses aspirin plus an oral P2Y12 inhibitor for **at least 
 > [!warning] **Early DAPT interruption can be catastrophic**
 > Stent thrombosis can present as sudden chest pain, recurrent STEMI, shock, or ventricular arrhythmia. Never stop aspirin or the P2Y12 inhibitor after PCI because of a planned procedure, bleeding concern, or NPO status without immediate interdisciplinary planning.
 
-## 6. Immediate post-procedure care
+## Immediate post-procedure care
 
 ### First hours: focused surveillance
 
@@ -147,37 +149,38 @@ The 2025 ACS guideline uses aspirin plus an oral P2Y12 inhibitor for **at least 
 - [ ] Creatinine/eGFR, hemoglobin, platelets, and bleeding-risk follow-up ordered when indicated.
 - [ ] Secondary-prevention plan: high-intensity statin, smoking cessation, cardiac rehabilitation, and cardiology follow-up addressed.
 
-## 7. Complications: recognition and first actions
+## Complications: recognition and first actions
 
-| Complication | Bedside clues | Immediate actions |
-| --- | --- | --- |
-| Access bleeding/hematoma | Oozing, enlarging/tender swelling, hemoglobin fall, hypotension. | Direct pressure per local protocol; call cath/interventional team; assess hemodynamics and CBC/type-and-screen as indicated. |
-| Retroperitoneal hemorrhage (femoral) | Hypotension, tachycardia, falling Hb, flank/back/abdominal pain; groin may appear benign. | Resuscitate, notify operator urgently, stop/adjust antithrombotics only with procedural guidance, obtain urgent imaging when stable enough. |
-| Radial artery occlusion/hand ischemia | Pain, pallor/coolness, paresthesia, weak/absent pulse. | Remove excessive compression if ordered protocol allows; urgent cath/vascular assessment for ischemic findings. |
-| Acute stent thrombosis/re-occlusion | Recurrent severe chest pain, ST changes, malignant arrhythmia, shock. | Obtain ECG, activate urgent interventional-cardiology evaluation/re-cath pathway, support ABCs/hemodynamics. |
-| Coronary dissection, perforation, tamponade | Abrupt hypotension, chest pain, electrical alternans, rising filling pressures, PEA. | Call operator immediately; urgent bedside echo; prepare for pericardiocentesis and shock support. |
-| No-reflow/periprocedural MI | Persistent ischemia despite open epicardial artery, ST changes, shock. | Immediate operator-directed management; obtain 12-lead ECG and support BP/oxygenation. |
-| Contrast reaction | Urticaria, bronchospasm, hypotension, angioedema. | Stop exposure; follow anaphylaxis protocol with airway support and epinephrine when indicated. |
-| AKI | Rising creatinine or oliguria over the ensuing days, often multifactorial. | Assess perfusion/congestion, avoid nephrotoxins and repeat contrast when possible, tailor volume strategy, involve nephrology when indicated. |
-| Cholesterol embolization | Delayed livedo, blue toes, AKI, eosinophilia after arterial manipulation. | Notify cardiology; supportive, organ-directed evaluation and avoidance of further unnecessary arterial manipulation. |
+| Complication                                | Bedside clues                                                                             | Immediate actions                                                                                                                             |
+| ------------------------------------------- | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Access bleeding/hematoma                    | Oozing, enlarging/tender swelling, hemoglobin fall, hypotension.                          | Direct pressure per local protocol; call cath/interventional team; assess hemodynamics and CBC/type-and-screen as indicated.                  |
+| Retroperitoneal hemorrhage (femoral)        | Hypotension, tachycardia, falling Hb, flank/back/abdominal pain; groin may appear benign. | Resuscitate, notify operator urgently, stop/adjust antithrombotics only with procedural guidance, obtain urgent imaging when stable enough.   |
+| Radial artery occlusion/hand ischemia       | Pain, pallor/coolness, paresthesia, weak/absent pulse.                                    | Remove excessive compression if ordered protocol allows; urgent cath/vascular assessment for ischemic findings.                               |
+| Acute stent thrombosis/re-occlusion         | Recurrent severe chest pain, ST changes, malignant arrhythmia, shock.                     | Obtain ECG, activate urgent interventional-cardiology evaluation/re-cath pathway, support ABCs/hemodynamics.                                  |
+| Coronary dissection, perforation, tamponade | Abrupt hypotension, chest pain, electrical alternans, rising filling pressures, PEA.      | Call operator immediately; urgent bedside echo; prepare for pericardiocentesis and shock support.                                             |
+| No-reflow/periprocedural MI                 | Persistent ischemia despite open epicardial artery, ST changes, shock.                    | Immediate operator-directed management; obtain 12-lead ECG and support BP/oxygenation.                                                        |
+| Contrast reaction                           | Urticaria, bronchospasm, hypotension, angioedema.                                         | Stop exposure; follow anaphylaxis protocol with airway support and epinephrine when indicated.                                                |
+| AKI                                         | Rising creatinine or oliguria over the ensuing days, often multifactorial.                | Assess perfusion/congestion, avoid nephrotoxins and repeat contrast when possible, tailor volume strategy, involve nephrology when indicated. |
+| Cholesterol embolization                    | Delayed livedo, blue toes, AKI, eosinophilia after arterial manipulation.                 | Notify cardiology; supportive, organ-directed evaluation and avoidance of further unnecessary arterial manipulation.                          |
 
-## 8. CCAPP clinical pearls
+## CCAPP clinical pearls
+> [!tip] Clinical Pearls
+> 1. **A “successful PCI” still needs a detailed handoff.** Recurrent ischemia is often first recognized by bedside symptoms and ECG, not by the procedure note.
+> 2. **Treat femoral back or flank pain after cath as hemorrhage until proven otherwise.** A normal-looking groin does not exclude retroperitoneal bleeding.
+> 3. **Access-site checks are neurovascular checks.** Compare both limbs and trend change over time; palpable radial pulse alone does not rule out evolving hand ischemia.
+> 4. **Do not reflexively give fluid for contrast exposure.** In HFrEF, shock, and elevated LVEDP, kidney protection must be balanced against pulmonary edema and perfusion.
+> 5. **DAPT is not optional after a new coronary stent unless a coordinated risk decision is made.** If the patient cannot take oral medication, contact interventional cardiology immediately.
+> 6. **A new murmur, flash pulmonary edema, or refractory shock after MI/PCI may be a mechanical MI complication, not merely “volume overload.”** Obtain urgent echocardiography and escalate.
 
-1. **A “successful PCI” still needs a detailed handoff.** Recurrent ischemia is often first recognized by bedside symptoms and ECG, not by the procedure note.
-2. **Treat femoral back or flank pain after cath as hemorrhage until proven otherwise.** A normal-looking groin does not exclude retroperitoneal bleeding.
-3. **Access-site checks are neurovascular checks.** Compare both limbs and trend change over time; palpable radial pulse alone does not rule out evolving hand ischemia.
-4. **Do not reflexively give fluid for contrast exposure.** In HFrEF, shock, and elevated LVEDP, kidney protection must be balanced against pulmonary edema and perfusion.
-5. **DAPT is not optional after a new coronary stent unless a coordinated risk decision is made.** If the patient cannot take oral medication, contact interventional cardiology immediately rather than simply charting NPO.
-6. **A new murmur, flash pulmonary edema, or refractory shock after MI/PCI may be a mechanical MI complication, not merely “volume overload.”** Obtain urgent echocardiography and escalate.
 
-## 9. Evidence and guidelines
+## Evidence and guidelines
 
-- **2025 ACC/AHA/ACEP/NAEMSP/SCAI ACS guideline:** radial access is preferred for ACS PCI; intravascular imaging is recommended for PCI guidance; DAPT for at least 12 months is the default for ACS without high bleeding risk; complete revascularization is recommended in appropriate STEMI/NSTE-ACS presentations.
+- **2025 ACC/AHA/ACEP/NAEMSP/SCAI ACS guideline:** radial access is preferred for ACS PCI; IVUS or OCT is recommended to guide left-main or complex-lesion PCI; DAPT for at least 12 months is the default for ACS without high bleeding risk. In ACS with cardiogenic shock, avoid routine nonculprit PCI at the index procedure.
 - **2021 ACC/AHA/SCAI revascularization guideline:** frames patient-centered PCI/CABG selection, heart-team decisions for complex disease, and revascularization strategy across ACS and stable ischemic disease.
 - **SCAI cath-lab best-practices statement:** emphasizes pre-PCI time-out, radial-first/ultrasound-supported vascular access practice, standardized handoff, safety culture, and selected same-day discharge after uncomplicated PCI.
 - **SCAI 2024 STEMI consensus:** reinforces cath-lab readiness, diagnostic angiography and access planning, and management of procedural STEMI scenarios.
 
-## 10. References
+## References
 
 1. Rao SV, O'Donoghue ML, Ruel M, et al. 2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes. *J Am Coll Cardiol*. 2025;85(22):2135-2237. doi:10.1016/j.jacc.2024.11.009. PMID: 40013746. [Guideline](https://www.jacc.org/doi/10.1016/j.jacc.2024.11.009)
 2. Lawton JS, Tamis-Holland JE, Bangalore S, et al. 2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization. *Circulation*. 2022;145(3):e18-e114. doi:10.1161/CIR.0000000000001038. PMID: 34882435. [Guideline](https://pubmed.ncbi.nlm.nih.gov/34882435/)
