@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0b620aba8106c61f",
+        "id": "2e4f26d89e5bf3a8",
         "type": "tabs",
         "children": [
           {
-            "id": "c44b0ff6b7fdc98c",
+            "id": "8bd557596500f0a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APP_Critical_Care_Exam_Specifications.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "APP_Critical_Care_Exam_Specifications"
+              "title": "New tab"
             }
           }
         ]
@@ -188,11 +184,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c44b0ff6b7fdc98c",
+  "active": "8bd557596500f0a7",
   "lastOpenFiles": [
-    "01 - Vault/Cardiology/protocols-tachyarrhythmias.md",
-    "01 - Vault/Cardiology/protocols-left-heart-catheterization-pci.md",
     "01 - Vault/Cardiology/protocols-aortic-valve-disease.md",
+    "01 - Vault/Cardiology/protocols-tachyarrhythmias.md",
+    "APP_Critical_Care_Exam_Specifications.md",
+    "01 - Vault/Cardiology/protocols-left-heart-catheterization-pci.md",
     "01 - Vault/Cardiology/protocols-pulmonic-valve-disease.md",
     "01 - Vault/Cardiology/protocols-right-heart-catheterization.md",
     "01 - Vault/Cardiology/protocols-mitral-valve-disease.md",
@@ -201,7 +198,6 @@
     "01 - Vault/Neurology/protocols-status-epilepticus.md",
     "01 - Vault/Neurology/protocols-status-epilepticus.docx",
     "protocols.json",
-    "APP_Critical_Care_Exam_Specifications.md",
     "Clinical Learning Topics/Seizures and Status Epilepticus.md",
     "Clinical Learning Topics",
     "01 - Vault/Critical Care/protocols-pain-management-sedation.md",

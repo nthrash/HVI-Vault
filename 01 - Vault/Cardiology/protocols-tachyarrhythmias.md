@@ -24,12 +24,15 @@ tags:
 
 - [Clinical overview](#clinical-overview)
 - [First decision: is the patient unstable?](#first-decision-is-the-patient-unstable)
+- [Peri-cardioversion readiness and sedation](#peri-cardioversion-readiness-and-sedation)
 - [Rapid rhythm classification](#rapid-rhythm-classification)
 - [Diagnostic workup and reversible drivers](#diagnostic-workup-and-reversible-drivers)
 - [Regular narrow-complex tachycardia](#regular-narrow-complex-tachycardia)
 - [AF and atrial flutter with rapid ventricular response](#af-and-atrial-flutter-with-rapid-ventricular-response)
+- [Hemodynamic rescue during acute drug therapy](#hemodynamic-rescue-during-acute-drug-therapy)
 - [Wide-complex tachycardia and ventricular arrhythmias](#wide-complex-tachycardia-and-ventricular-arrhythmias)
 - [Electrical storm](#electrical-storm)
+- [Disposition and consultation](#disposition-and-consultation)
 - [Medication quick reference](#medication-quick-reference)
 - [CCAPP clinical pearls](#ccapp-clinical-pearls)
 - [Evidence and guidelines](#evidence-and-guidelines)
@@ -62,6 +65,15 @@ The 2025 AHA adult tachyarrhythmia-with-a-pulse algorithm defines concerning ins
 
 > [!tip] **Synchronize only when the rhythm allows it**
 > Polymorphic VT and an irregular wide-complex tachycardia may not synchronize reliably. Do not delay defibrillation for a synchronization attempt when polymorphic VT is sustained or the patient deteriorates.
+
+## Peri-cardioversion readiness and sedation
+
+For an unstable tachyarrhythmia, **do not delay the shock** for a perfect procedural setup. When time and patient condition permit, use this brief safety check:
+
+- Apply defibrillation pads, continuous ECG/BP/oximetry monitoring, and have oxygen, suction, bag-mask ventilation, airway equipment, and a qualified response team immediately available.
+- Sedate the awake patient whenever feasible. Choose a short-acting agent appropriate to the blood pressure, airway risk, and local procedural-sedation policy (common options include etomidate, propofol, or ketamine); maintain a dedicated clinician or team role for sedation/airway management when staffing permits.
+- Confirm that synchronization markers align with the **R wave** before each synchronized discharge. Check and re-arm synchronization after every shock according to the defibrillator workflow, because device defaults vary.
+- Save the pre- and post-treatment ECG/rhythm strip whenever this does not delay stabilization.
 
 ## Rapid rhythm classification
 
@@ -111,6 +123,8 @@ For a stable, regular narrow-complex tachycardia, use a rhythm strip/12-lead to 
 
 > [!warning] **Adenosine has a narrow lane**
 > Use it for a **regular** narrow tachycardia or a **regular, monomorphic** wide tachycardia when the AHA algorithm criteria are met. Do not use it for an irregular wide-complex rhythm or suspected preexcited AF.
+>
+> Adenosine can cause severe bronchospasm and is **contraindicated in asthma**. Warn the patient about transient flushing, chest pressure, dyspnea, or fear; maintain continuous rhythm recording to capture diagnostic effect. Its effect may be unusually profound with central venous administration or after heart transplant—**1 mg may be adequate** in these settings—so use the local protocol rather than reflexively using the standard dose.
 
 ## AF and atrial flutter with rapid ventricular response
 
@@ -136,8 +150,15 @@ For elective cardioversion of AF lasting **48 hours or longer**, guideline-direc
 | Metoprolol tartrate | **2.5–5 mg IV over 2 min; up to 3 doses** | Consider in stable AF/flutter if BP/perfusion and acute HF phenotype permit. |
 | Diltiazem | **0.25 mg/kg IV over 2 min** | Use only when EF is >40%; avoid in moderate/severe LV systolic dysfunction, decompensated HFrEF, or suspected preexcitation. |
 | Esmolol | **500 mcg/kg IV over 1 min, then 50–300 mcg/kg/min** | Short half-life supports rapid titration; use cautiously in shock/decompensated HF. |
+| Landiolol (RAPIBLYK) | Follow the current FDA label and local protocol. | An ultra-short-acting, beta1-selective IV option for short-term ventricular-rate reduction in adult SVT, including AF/flutter, where available. Monitor closely for hypotension, bradycardia, and heart block; it does not replace cardioversion for instability. |
 | Digoxin | Dose and interval are patient-specific. | Consider when beta blocker/CCB is ineffective or contraindicated; account for renal function and slower onset. |
 | Amiodarone | Follow local infusion protocol. | Consider for acute rate control only in critical illness/decompensated HF when beta blocker/CCB is ineffective or contraindicated; can facilitate cardioversion. |
+
+### Hemodynamic rescue during acute drug therapy
+
+Before giving a negative-inotropic, vasodilatory, or sedating medication, reassess perfusion and make sure monitoring and resuscitation capability are in place. If blood pressure or perfusion worsens, stop or pause the infusion, reassess the rhythm and underlying hemodynamic problem, and escalate shock support and synchronized cardioversion when the arrhythmia is the cause.
+
+For selected **stable** AF/flutter patients receiving diltiazem, IV calcium pretreatment may reduce diltiazem-associated hypotension under a local protocol. This is not a routine guideline requirement and does **not** make diltiazem appropriate in shock, preexcitation, moderate/severe LV systolic dysfunction, or decompensated HFrEF.
 
 ## Wide-complex tachycardia and ventricular arrhythmias
 
@@ -147,8 +168,10 @@ Treat as VT unless a qualified reviewer establishes another diagnosis. The AHA a
 
 | Medication | AHA adult algorithm dose | Key limitation |
 | --- | --- | --- |
-| Procainamide | **20–50 mg/min IV** until suppression, hypotension, QRS increases >50%, or maximum **17 mg/kg**; then **1–4 mg/min** maintenance. | Avoid with prolonged QT or congestive HF. |
+| Procainamide | **20–50 mg/min IV** until suppression, hypotension, QRS increases >50%, or maximum **17 mg/kg**; then **1–4 mg/min** maintenance. | Continuous BP and ECG/QRS monitoring required. Avoid with prolonged QT or congestive HF. Seek cardiology input or use an alternative with severe LV dysfunction/hypotension, severe conduction disease, Brugada syndrome, or severe kidney disease, where active metabolite accumulation is a concern. |
 | Amiodarone | **150 mg IV over 10 min**; repeat if VT recurs, then **1 mg/min for the first 6 h**. | Hypotension, bradycardia, QT prolongation, and drug interactions; follow local protocol and cardiology guidance. |
+
+The AHA regimen above is the dosing standard for this reference. Institutional protocols differ; do not combine or substitute alternative dosing schemes without using the local order set. In the PROCAMIO trial, a different weight-based procainamide regimen (**10 mg/kg over 20 min**) produced more tachycardia termination and fewer major cardiac adverse events than amiodarone in hemodynamically tolerated monomorphic wide-complex tachycardia. Contemporary expert guidance favors amiodarone rather than procainamide when severe HF, acute MI, or end-stage kidney disease is present.
 
 ### Polymorphic VT and torsades de pointes
 
@@ -164,12 +187,21 @@ Treat ischemia, decompensated heart failure, electrolyte disturbance, and proarr
 
 **Electrical storm** is recurrent sustained ventricular arrhythmia, recurrent appropriate ICD therapy, or repeated VT/VF episodes requiring urgent intervention. It is a critical-care emergency.
 
-1. Call cardiology/EP and obtain immediate device interrogation; correct ischemia, electrolytes, HF/shock, infection, drug toxicity, and catecholamine excess.
-2. For structural heart disease with electrical storm, use beta blockade (preferably nonselective when appropriate) plus IV amiodarone unless contraindicated; provide analgesia/sedation to blunt adrenergic drive.
-3. Escalate refractory cases to catheter ablation, autonomic modulation, and mechanical circulatory support in coordination with EP, interventional cardiology, and the shock team.
+| Treatment domain | Bedside priorities |
+| --- | --- |
+| Immediate stabilization and trigger reversal | Call cardiology/EP, apply external defibrillation pads, obtain device interrogation, and correct ischemia, electrolytes, HF/shock, infection, drug toxicity, and catecholamine excess. |
+| Antiarrhythmic and adrenergic blockade | In structural heart disease, IV amiodarone plus beta blockade (preferably nonselective when appropriate) is a common first strategy unless contraindicated. A short-acting beta blocker such as esmolol or landiolol may help when rapid titration is important, with close hemodynamic monitoring. |
+| Sedation and anxiolysis | Treat pain and anxiety early to reduce sympathetic drive. Benzodiazepines with analgesia are typical first choices; dexmedetomidine or deep sedation/intubation may be considered for refractory sympathetic storm with an experienced critical-care/anesthesia team. |
+| Hemodynamic support and definitive therapy | Treat shock with clinician-selected vasoactive or mechanical support as needed. Escalate refractory cases to catheter ablation and, in selected cases, autonomic modulation such as stellate-ganglion block with an experienced anesthesia/pain/EP team. |
 
 > [!warning] **ICD shocks are not definitive treatment**
-> Repeated shocks worsen adrenergic activation and may perpetuate VT. Interrogate/reprogram the device early while treating the arrhythmia and its precipitant.
+> Repeated shocks worsen adrenergic activation and may perpetuate VT. Interrogate/reprogram the device early while treating the arrhythmia and its precipitant. With continuous monitoring and external defibrillation immediately available, temporary magnet application can suspend repetitive or inappropriate ICD therapies while preserving pacing; it is **not** a stand-alone response to untreated VT/VF.
+
+## Disposition and consultation
+
+Use a monitored setting and early cardiology/EP consultation for new sustained VT, recurrent appropriate ICD therapy, electrical storm, preexcited AF, arrhythmia-associated syncope, new significant ventricular dysfunction, or any need for ongoing IV antiarrhythmic therapy or repeated cardioversion.
+
+Before discharge after AF/flutter, document the rhythm/rate plan, precipitant evaluation, stroke-risk assessment (including CHA2DS2-VASc–based anticoagulation decision and rationale), medication changes, and follow-up. Arrange earlier review when symptoms recur, rate control remains tenuous, cardioversion was required, or an ablation/device strategy is being considered.
 
 ## Medication quick reference
 
@@ -180,27 +212,34 @@ Treat ischemia, decompensated heart failure, electrolyte disturbance, and proarr
 | Use procainamide or ibutilide for stable preexcited AF; cardiovert if unstable. | Giving AV-nodal blockers—including amiodarone—to preexcited AF. |
 | Replete electrolytes and discontinue reversible QT-prolonging agents when possible. | Treating a QT-prolonged polymorphic rhythm as routine monomorphic VT. |
 
-## CCAPP clinical pearls
+## Clinical pearls
 
-1. **Rate is not the diagnosis.** A narrow, regular rhythm at ~150/min may be flutter with 2:1 conduction; slow the AV node only after assessing the clinical context.
-2. **The unstable patient needs electricity, not a prolonged medication sequence.** Synchronize when appropriate; defibrillate sustained polymorphic VT.
-3. **Wide and regular is VT until proven otherwise.** A mistaken AV-nodal or calcium-channel blocker can convert diagnostic uncertainty into collapse.
-4. **AF in the ICU is often a symptom.** Correct hypoxemia, volume/hemodynamic abnormalities, sepsis, pain, catecholamine exposure, and electrolyte derangements—not just the heart rate.
-5. **Preexcited AF is a different emergency.** An irregular, very rapid wide-complex rhythm should trigger immediate avoidance of AV-nodal blockers and early expert involvement.
-6. **Amiodarone is not a harmless “rate-control drip.”** It can hypotend, interact with warfarin/digoxin, prolong QT, and facilitate cardioversion; define the anticoagulation and rhythm strategy.
-7. **Document the before-and-after rhythm.** Save a 12-lead ECG/telemetry strip before treatment whenever safe; it improves EP diagnosis and long-term planning.
+> [!tip] Clinical Pearls
+> 1. **Rate is not the diagnosis.** A narrow, regular rhythm at ~150/min may be flutter with 2:1 conduction; slow the AV node only after assessing the clinical context.
+> 2. **The unstable patient needs electricity, not a prolonged medication sequence.** Synchronize when appropriate; defibrillate sustained polymorphic VT.
+> 3. **Wide and regular is VT until proven otherwise.** A mistaken AV-nodal or calcium-channel blocker can convert diagnostic uncertainty into collapse.
+> 4. **AF in the ICU is often a symptom.** Correct hypoxemia, volume/hemodynamic abnormalities, sepsis, pain, catecholamine exposure, and electrolyte derangements—not just the heart rate.
+> 5. **Preexcited AF is a different emergency.** An irregular, very rapid wide-complex rhythm should trigger immediate avoidance of AV-nodal blockers and early expert involvement.
+> 6. **Amiodarone is not a harmless “rate-control drip.”** It can hypotend, interact with warfarin/digoxin, prolong QT, and facilitate cardioversion; define the anticoagulation and rhythm strategy.
+> 7. **Document the before-and-after rhythm.** Save a 12-lead ECG/telemetry strip before treatment whenever safe; it improves EP diagnosis and long-term planning.
 
 ## Evidence and guidelines
 
 - The **2025 AHA Advanced Life Support guideline** is the primary source for adult tachyarrhythmia stabilization, cardioversion/defibrillation pathways, adenosine use, and stable wide-complex antiarrhythmic infusions.
 - The **2023 ACC/AHA/ACCP/HRS AF guideline** guides acute AF rate control, cardioversion anticoagulation, and the specific danger of AV-nodal blockade in preexcited AF.
 - The **2022 ESC ventricular-arrhythmia guideline** supports a multimodal electrical-storm approach, including antiarrhythmic therapy, beta blockade, sedation, device management, ablation, and circulatory support when needed.
+- The **JACC electrical-storm review** adds an ICU-oriented stepped-care framework: antiarrhythmic therapy, adrenergic blockade, sedation/anxiolysis, and hemodynamic support.
 
 ## References
 
 1. Wigginton JG, Agarwal S, Bartos JA, et al. Part 9: Adult Advanced Life Support: 2025 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care. *Circulation*. 2025;152(suppl 2):S538-S577. doi:10.1161/CIR.0000000000001376. [Guideline](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-advanced-life-support)
 2. Joglar JA, Chung MK, Armbruster AL, et al. 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation. doi:10.1016/j.jacc.2023.08.017. [Guideline](https://www.jacc.org/doi/10.1016/j.jacc.2023.08.017)
 3. Zeppenfeld K, Tfelt-Hansen J, de Riva M, et al. 2022 ESC Guidelines for the management of patients with ventricular arrhythmias and the prevention of sudden cardiac death. *Eur Heart J*. 2022;43(40):3997-4126. doi:10.1093/eurheartj/ehac262. PMID: 36017572. [Guideline](https://pubmed.ncbi.nlm.nih.gov/36017572/)
+4. Ortiz M, Martín A, Arribas F, et al. Randomized comparison of intravenous procainamide vs. intravenous amiodarone for the acute treatment of tolerated wide QRS tachycardia: the PROCAMIO study. *Eur Heart J*. 2017;38(17):1329-1335. doi:10.1093/eurheartj/ehw230. PMID: 27354046. [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC5410924/)
+5. Merino JL, Tamargo J, Blomström-Lundqvist C, et al. Practical compendium of antiarrhythmic drugs: a clinical consensus statement of the European Heart Rhythm Association of the European Society of Cardiology. *Europace*. 2025;27(8):euaf076. doi:10.1093/europace/euaf076. PMID: 40159403. [Consensus statement](https://pubmed.ncbi.nlm.nih.gov/40159403/)
+6. Jentzer JC, et al. Contemporary multidisciplinary critical care management of electrical storm. *J Am Coll Cardiol*. 2023;81(22):2189-2206. doi:10.1016/j.jacc.2023.03.424. [Review](https://www.jacc.org/doi/10.1016/j.jacc.2023.03.424)
+7. RAPIBLYK (landiolol) injection. DailyMed, National Library of Medicine. [Prescribing information](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=411b0949-3a5e-2a4b-e063-6394a90abcbf)
+8. Az A, Sogut O, Dogan Y, et al. Reducing diltiazem-related hypotension in atrial fibrillation: Role of pretreatment intravenous calcium. *Am J Emerg Med*. 2025;88:23-28. doi:10.1016/j.ajem.2024.11.033. PMID: 39577214. [Abstract](https://pubmed.ncbi.nlm.nih.gov/39577214/)
 **PubMed search terms used:** `2025 AHA adult tachyarrhythmia with a pulse algorithm`; `2023 ACC AHA HRS atrial fibrillation acute rate control`; `preexcited atrial fibrillation procainamide ibutilide`; `2022 ESC ventricular arrhythmia electrical storm`.
 
 ---
