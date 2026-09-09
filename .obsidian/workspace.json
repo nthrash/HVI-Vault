@@ -11,10 +11,12 @@
             "id": "8bd557596500f0a7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "json",
+              "state": {
+                "file": "onboarding.json"
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "onboarding"
             }
           }
         ]
