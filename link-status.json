@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-17T10:52:59.804Z",
+  "lastChecked": "2026-09-18T10:27:42.984Z",
   "results": {
     "pocus-atlas": {
       "status": "ok",
@@ -10,16 +10,16 @@
       "statusCode": 200
     },
     "open-evidence": {
-      "status": "ok",
-      "statusCode": 200
+      "status": "error",
+      "statusCode": 429
     },
     "pmcardio": {
-      "status": "ok",
-      "statusCode": 200
+      "status": "error",
+      "statusCode": 429
     },
     "mdcalc": {
-      "status": "ok",
-      "statusCode": 200
+      "status": "error",
+      "statusCode": 429
     },
     "qxmd": {
       "status": "ok",
@@ -42,9 +42,8 @@
       "statusCode": 200
     },
     "deranged-physiology": {
-      "status": "error",
-      "statusCode": 0,
-      "error": "fetch failed"
+      "status": "ok",
+      "statusCode": 202
     },
     "team-ip": {
       "status": "ok",
