@@ -1,33 +1,33 @@
 {
-  "lastChecked": "2026-09-26T10:43:46.903Z",
+  "lastChecked": "2026-09-27T11:16:59.395Z",
   "results": {
     "pocus-atlas": {
       "status": "ok",
       "statusCode": 200
     },
     "echoref": {
-      "status": "ok",
-      "statusCode": 200
+      "status": "error",
+      "statusCode": 429
     },
     "open-evidence": {
-      "status": "ok",
-      "statusCode": 200
+      "status": "error",
+      "statusCode": 429
     },
     "pmcardio": {
-      "status": "ok",
-      "statusCode": 200
+      "status": "error",
+      "statusCode": 429
     },
     "mdcalc": {
-      "status": "ok",
-      "statusCode": 200
+      "status": "error",
+      "statusCode": 429
     },
     "qxmd": {
-      "status": "ok",
-      "statusCode": 200
+      "status": "error",
+      "statusCode": 429
     },
     "uptodate": {
-      "status": "ok",
-      "statusCode": 200
+      "status": "error",
+      "statusCode": 429
     },
     "acc-guidelines": {
       "status": "ok",
@@ -43,7 +43,7 @@
     },
     "deranged-physiology": {
       "status": "ok",
-      "statusCode": 403
+      "statusCode": 202
     },
     "team-ip": {
       "status": "ok",
