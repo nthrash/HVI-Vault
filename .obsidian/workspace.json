@@ -11,12 +11,14 @@
             "id": "8bd557596500f0a7",
             "type": "leaf",
             "state": {
-              "type": "json",
+              "type": "markdown",
               "state": {
-                "file": "onboarding.json"
+                "file": "01 - Vault/Gastroenterology/protocols-acute-cholangitis.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "onboarding"
+              "title": "protocols-acute-cholangitis"
             }
           }
         ]
@@ -188,6 +190,7 @@
   },
   "active": "8bd557596500f0a7",
   "lastOpenFiles": [
+    "onboarding.json",
     "01 - Vault/Cardiology/protocols-aortic-valve-disease.md",
     "01 - Vault/Cardiology/protocols-tachyarrhythmias.md",
     "APP_Critical_Care_Exam_Specifications.md",

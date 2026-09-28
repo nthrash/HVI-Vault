@@ -99,4 +99,4 @@
 - No major trials
 ---
 
-_Created: 2026-03-01 · Last updated: 2026-03-01 · HVI ICU APP Team_
+_Created: 2026-03-01 · Last updated: 2026-10-28 · HVI ICU APP Team_
