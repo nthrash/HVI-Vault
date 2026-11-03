@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Vault/Gastroenterology/protocols-acute-cholangitis.md",
+                "file": "01 - Vault/Cardiology/protocols-myocarditis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "protocols-acute-cholangitis"
+              "title": "protocols-myocarditis"
             }
           }
         ]
@@ -190,6 +190,8 @@
   },
   "active": "8bd557596500f0a7",
   "lastOpenFiles": [
+    "01 - Vault/Cardiology/protocols-afterload-intrathoracic-pressure.md",
+    "01 - Vault/Gastroenterology/protocols-acute-cholangitis.md",
     "onboarding.json",
     "01 - Vault/Cardiology/protocols-aortic-valve-disease.md",
     "01 - Vault/Cardiology/protocols-tachyarrhythmias.md",
@@ -207,8 +209,6 @@
     "Clinical Learning Topics",
     "01 - Vault/Critical Care/protocols-pain-management-sedation.md",
     "01 - Vault/Neurology/protocols-ischemic-stroke.md",
-    "01 - Vault/Cardiology/protocols-afterload-intrathoracic-pressure.md",
-    "01 - Vault/Gastroenterology/protocols-acute-cholangitis.md",
     "01 - Vault/Gastroenterology/protocols-gi-bleed.md",
     "01 - Vault/Gastroenterology/protocols-biliary-workup.md",
     "01 - Vault/Gastroenterology/Hepati & Biliary Lab Algorithm.excalidraw",
